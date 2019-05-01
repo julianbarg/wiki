@@ -7,6 +7,6 @@
 
 * [[Reputation and Status]]
 
-### See also:
+### Relevant Courses
 
-[[Content by course]]
+[[Business Strategy I 2018]]
