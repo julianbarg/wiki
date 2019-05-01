@@ -1,6 +1,6 @@
 [[_TOC_]]
 
-## Business Strategy I
+## Business Strategy I (2018)
 
 ### Session 01: Intro
 1. [[Ghemawat & Pankaj 2002]] - Competition and Business Strategy in Historical Perspective.
