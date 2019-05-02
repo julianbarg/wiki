@@ -1,6 +1,7 @@
 * Blind Guardian (1995) - Imaginations from the Other Side
 * Dimmu Borgir (1997) - Enthrone Darkness Triumphant
 * Dimmu Borgir (2001) - Puritanical Euphoric Misanthropia
+* Dimmu Borgir (2003) - Death Cult Armageddon
 * Ensiferum (2001) - Ensiferum
 * Ensiferum (2004) - Iron
 * Ensiferum (2009) - From Afar
