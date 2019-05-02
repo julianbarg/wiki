@@ -3,9 +3,12 @@
 [[_TOC_]]
 
 ## Citation
-DiMaggio, P., & Powell, W. W. (1983). The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality in Organizational Fields. American Sociological Review.
+DiMaggio, P. J., & Powell, W. W. (1983). The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality in Organizational Fields. American Sociological Review, 48(2), 147. [[https://doi.org/10.2307/2095101]]
 
-## 1-page summary
+## One-paragraph summary
+Bureaucracy is infused with meanings. When companies adopt bureaucratic practices, it is often not (or not only) because it is more efficient, but because the rational actors in the company know that conforming to social norms brings benefits. They conform to isomorphic pressure. This process, according to DiMaggio and Powell, leads to homogeneity.
+
+## One-page summary
 DiMaggio and Powell (1983) build on three popular readings to build their new institutional theory (institutional isomorphism). Hannan and Freeman (1977) is the obvious reference point in the business literature. Hannan and Freeman’s population ecology postulates that in unstable environments (which are assumed to exist in the business world) companies become relatively heterogeneous, in order to populate different “niches” that generalists cannot populate well. Weber (1968) on the other hand, in a dystopian vision, predicted that because of bureaucratization, the world would destined to become more and more homogeneous. Finally, in 1979 Anthony Giddens published one of his main works, Central Problems in Social Theory, which addresses one of the central contradictions of sociology at that time, agency vs. structure. In brief, Giddens rejects the dichotomy of structure and agency and explains that individuals have practical knowledge of society and conventions. Individuals act on this knowledge, and it is this agentic action that gives social structure its influence on our world (Seidman 2019: 140ff). 
 
 According to DiMaggio and Powell (1983), economic actors intend to behave rationally. Thus, they bureaucratized to improve their efficiency, as laid out by Weber (1968). However, when bureaucratization progressed, bureaucratization itself became laden with meanings or value. Eventually, the rational actor conforms to isomorphic pressure in the field (institutional isomorphism), and the original aim of bureaucratization is lost. By describing the isomorphic pressure, DiMaggio and Powell (1983) attempt to identify the environment which the individual agent in the economy acts upon. Thereby, they apply to the economy Gidden’s theory of the interconnection between structure and agency. 
