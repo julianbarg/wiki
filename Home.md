@@ -9,4 +9,4 @@
 
 ## Material
 
-* [[Comps Practice Questions]]
+* [[Comps Preparation]]
