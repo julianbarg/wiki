@@ -1,4 +1,4 @@
-DiMaggio & Powell 1983 - The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality in Organizational Fields
+### DiMaggio & Powell 1983 - The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality in Organizational Fields
 
 [[_TOC_]]
 
