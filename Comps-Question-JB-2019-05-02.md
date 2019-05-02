@@ -1,0 +1,15 @@
+On October 29, 2018, a Lion Air Boeing 737 MAX 8 crashed into the Java Sea, killing all 189 passengers. In a very similar event on March 10, 2019 an Ethiopian Airlines 737 Max 8 crashed over Ethiopia, killing 157 passengers. Following this second crash, around the globe governments grounded 737 Max planes.
+
+The 737 Max 8 was announced by Boeing after Airbus introduced the A320neo (_new engine option_), with improved, more efficient engines over its predecessor. In a [very unusual product launch](https://www.reuters.com/article/uk-amr/amr-to-buy-260-planes-from-airbus-200-from-boeing-idUKTRE76J23620110720), American Airlines announced the modified Boeing product in a press release on a large order in 2011, forcing Boeing's hands on the issue. Boeing had originally hoped to completely redesign the plane. [Development of the Airbus A320 had started in 2006](https://www.flightglobal.com/news/articles/pictures-airbus-aims-to-thwart-boeings-narrowbody-plans-with-upgraded-a320-207273/) (as A320 Enhanced or A320E), about 5 years before Boeing began its redesign.
+
+To catch up on Airbus in the narrow-body aircraft segment that the A320 and the 737 occupy, Boeing made three strategic decisions. First, to stay with the original frame and cockpit design, in order to expedite the approval process. Second, to achieve the efficiency improvements necessary to compete with the A320neo largely by installing larger, more efficient engines. And third, to resolve aerodynamics problems stemming form installing larger engines on the unaltered frame by installing a system that automatically adjusts the angle of attack in certain situations on behalf of the pilot. This system, that was not specifically introduced to pilots, most likely caused the two crashes.
+
+[Summary](https://youtu.be/BfNEOfEGe3I)
+
+The market for airplanes is very peculiar. On the one hand, the airplane market today constitutes an oligopoly, with there being only few smaller players besides Airbus and Boeing. This of course gives both Boeing and Airbus a lot of market power. On the other hand, the rivalry between Airbus and Boeing is famous for being one of the fiercest in any industry.
+
+**Your Assignment**
+
+Using any one (1) theory/perspective of your choice, explain why a company with a good safety record would suddenly make a major mistake. Develop a logical argument with testable predictions to explain such behavior. Then consider the implications of your predictions for the future development of this two-player market, and the other segments for which Airbus and Boeing compete.
+
+Finally, consider how you may develop an empirical research design that would allow you to test these predictions. This should explicitly address how you will be able to best identify the relationships in question. This will include recognizing the challenges that this design presents and options for how they may be overcome.
