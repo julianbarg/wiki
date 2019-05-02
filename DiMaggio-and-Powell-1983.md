@@ -5,6 +5,20 @@
 ## Citation
 DiMaggio, P. J., & Powell, W. W. (1983). The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality in Organizational Fields. American Sociological Review, 48(2), 147. [[https://doi.org/10.2307/2095101]]
 
+## Related to
+* [[Institutional Theory]]
+
+## Builds on
+* [[Hannan and Freeman 1977]]
+* [[Weber 1968]]
+* [[Giddens 1979]]
+
+## Concepts
+* **Isomorphic pressure**: The pressure to conform to social norms.
+* **Coercive isomorphism**: The need to conform to (formal) rules.
+* **Mimetic isomorphism**: Looking at industry peers for appropriate/rational responses to challenges/problems.
+* **Normative pressures**: The pressure that rests on individuals to behave in certain standardized ways, for instance based their professional training.
+
 ## One-paragraph summary
 Bureaucracy is infused with meanings. When companies adopt bureaucratic practices, it is often not (or not only) because it is more efficient, but because the rational actors in the company know that conforming to social norms can provide certain benefits. They conform to isomorphic pressure. This process, according to DiMaggio and Powell, leads to homogeneity.
 
