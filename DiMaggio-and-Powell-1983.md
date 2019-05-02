@@ -6,9 +6,14 @@
 DiMaggio, P. J., & Powell, W. W. (1983). The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality in Organizational Fields. American Sociological Review, 48(2), 147. [[https://doi.org/10.2307/2095101]]
 
 ## Related to
+
+### Theories
 * [[Institutional Theory]]
 
-## Builds on
+### Courses etc.
+* [[Business Strategy II 2017]]
+
+### Previous literature
 * [[Hannan and Freeman 1977]]
 * [[Weber 1968]]
 * [[Giddens 1979]]
