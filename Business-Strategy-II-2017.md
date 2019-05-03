@@ -1,3 +1,5 @@
+[[_TOC_]]
+
 ## Sessions
 
 ### Session 01: Mapping the Strategy Field
