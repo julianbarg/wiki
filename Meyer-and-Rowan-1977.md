@@ -11,7 +11,7 @@ Meyer, J. W., & Rowan, B. (1977). Institutionalized Organizations: Formal Struct
 * [[Institutional Theory]]
 
 ### Courses etc.
-[[Organizational Theory 2017]]
+* [[Organizational Theory 2017]]
 
 ## One-page summary
 In this paper, the authors challenge the assumption underlying the theories of formal organizational structure prevailing at the time, which is the assumption that the ‘coordination and control of activity are the critical dimensions on which formal organizations have succeeded in the modern world’ (pg.342). The authors realize that the above assumption is based on the view that activities within an organization occur according to their structure and follow the ‘prescriptions’ set out by the formal structure of the organization. However, inconsistent with the prevailing theories and the underlying assumption, empirical evidence finds that there exists a gap between formal and the inform organization, and structures and activities are only loosely linked. Recognizing this anomaly, the authors develop a theory of institutionalized structure and ceremonial rules that are independent of technical needs and efficiency demands that organizations face. Furthermore, the authors argue that since these institutionalized, ceremonial structures are often inconsistent with efficiency, they often avoid coordination and control, and result in decoupling of formal structure and informal activities within organizations. 
