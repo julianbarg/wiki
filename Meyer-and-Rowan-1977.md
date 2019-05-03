@@ -24,7 +24,11 @@ Finally, the authors outline two possible sources of structural inconsistencies 
 
 ## Resources
 [[resources/Meyer-Rowan-1977-Fig-1.png|alt=Fig 1]]
+
 ---
+
 [[resources/Meyer-Rowan-1977-Fig-2.png|alt=Fig 2]]
+
 ---
+
 [[resources/Meyer-Rowan-1977-Fig-3.png|alt=Fig 3]]
