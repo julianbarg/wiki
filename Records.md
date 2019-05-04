@@ -9,4 +9,5 @@
 * Ensiferum (2012) - Unsung Heroes
 * Ensiferum (2015) - One Man Army
 * Gorgoroth (1996) - Antichrist
-* Gorgoroth (2006) - Quantos Possunt ad Satanitatem Trahunt 
+* Gorgoroth (2006) - Quantos Possunt ad Satanitatem Trahunt
+* Immortal (1999) - At The Heart Of Winter
