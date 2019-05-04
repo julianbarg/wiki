@@ -5,6 +5,21 @@
 ## Citation
 Ocasio, W. (1997). Towards an Attention-Based View of the Firm. Strategic Management Journal, 18(S1), 187–206. 
 
+## Related to
+
+### Theories
+* [[Attention-Based View]]
+* [[Behavioral Theory]]
+
+### Courses etc.
+* [[Organizational Theory]]
+
+### Previous literature
+* [[Simon 1947]]
+
+## One-paragraph summary
+Ocasio 1997 attempts a major revision or clarification of the [[Behavioral Theory]] of the firm by building on [[Simon 1947]]. He takes serious the "limited attentional capabilities of humans" (Ocasio 1997: 188), and develops a formal model of all elements of attention - determined by the decision-maker's focus, situatedness, and the structural distribution of attention in the organization.
+
 ## One-page summary
 The author realizes that the focus on attention in Simon’s (1947) work on administrative behavior was lost and that it deserves more attention. He then proposes the Attention-based view of the firm by arguing that that firm behavior is the result of how firms channel and distribute the attention of their decision makers. The main argument can be divided into three principles: 
 
