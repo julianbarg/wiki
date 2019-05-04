@@ -3,7 +3,7 @@
 [[_TOC_]]
 
 ## Citation
-Ocasio, W. (1997). Towards an Attention-Based View of the Firm. Strategic Management Journal, 18(S1), 187–206. [[https://doi.org/10.1002/(SICI)1097-0266(199707)18:1+<187::AID-SMJ936>3.3.CO;2-B]]
+Ocasio, W. (1997). Towards an Attention-Based View of the Firm. Strategic Management Journal, 18(S1), 187–206. 
 
 ## One-page summary
 
