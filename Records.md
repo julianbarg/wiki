@@ -2,6 +2,7 @@
 * Dimmu Borgir (1997) - Enthrone Darkness Triumphant
 * Dimmu Borgir (2001) - Puritanical Euphoric Misanthropia
 * Dimmu Borgir (2003) - Death Cult Armageddon
+* Dimmu Borgir (2010) - Abrahadabra
 * Ensiferum (2001) - Ensiferum
 * Ensiferum (2004) - Iron
 * Ensiferum (2009) - From Afar
