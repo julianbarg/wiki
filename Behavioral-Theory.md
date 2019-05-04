@@ -1,5 +1,7 @@
 # Behavioral Theory of the firm (BTOF)
 
+[[_TOC_]]
+
 ## One-paragraph summary
 A theory spearheaded by [[Cyert and March 1963]] and Simon's previous work. Based on open system theories that describe how the environment impacts organizations - as opposed to the closed system perspective by 
 
