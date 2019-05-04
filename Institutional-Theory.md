@@ -15,6 +15,6 @@
 * [[McPherson and Sauder]] - Logics in Action: Managing Institutional Complexity in a Drug Court
 * [[Selznick 1957]] - Leadership in Administration
 
-### Related courses etc.
+### Courses etc.
 * [[Business Strategy II 2017]]
 * [[Organizational Theory 2017]]
