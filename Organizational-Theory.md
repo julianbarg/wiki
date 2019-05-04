@@ -1,3 +1,5 @@
+[[_TOC_]]
+
 ### Big T theories:
 
 * [[Behavioral Theory]]
