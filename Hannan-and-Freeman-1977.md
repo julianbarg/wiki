@@ -16,6 +16,9 @@ Hannan, M. T., & Freeman, J. (1977). The Population Ecology of Organizations. Am
 ### Previous literature
 [[Hawley 1944]]
 
+## One-paragraph summary
+Previous literature mostly discusses firms' abilities to adapt. But firms' abilities to adapt are limited because of structural inertia. When we take this inertia serious, it is more valuable to think about niches that companies occupy, and how changes (or the absence of change) in the environment affects firms' survival. Specialists take a very specific niche, and owing to their excellent fit, they can derive many resources from that niche. Generalists on the other hand can feast from many different niches. When the environment is stable, specialists are at advantage. But when the environment shifts, generalists can offset losses in one niche by relying on other, new or old, niches. Therefore, Hannan and Freeman 1977 predict that we can find specialists in stable environment, and generalists in unstable environments.
+
 ## Resources
 [[resources/Hannan-Freeman-1977-Fig-1.png|alt=Table 1]]
 
