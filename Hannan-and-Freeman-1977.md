@@ -17,7 +17,7 @@ Hannan, M. T., & Freeman, J. (1977). The Population Ecology of Organizations. Am
 [[Hawley 1944]]
 
 ## Resources
-[[[[resources/Hannan-Freeman-1977-Fig-1.png|alt=Table 1]]
+[[resources/Hannan-Freeman-1977-Fig-1.png|alt=Table 1]]
 
 ## One-page summary
 “Why are there so many different kinds of organizations?” Previously most research attempted to answer this question through an adaptation perspective, which posits that subunits of the organization scan the relevant environment for opportunities and threats by agents (managers or dominant coalitions), formulate strategies and adjust organizational structure accordingly. Hannan and Freeman (1977) argue that this theoretical angel has two issues: 1) by limiting the unit of analysis on organizations, the literature incurs a survival bias, 2) the internal and external inertia imposed on organizations made it unlikely for organizations to adjust. 
