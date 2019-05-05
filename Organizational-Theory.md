@@ -4,7 +4,9 @@
 
 * [[Behavioral Theory]]
 * [[Cognition]]
+* [[Evolutionary Theory]]
 * [[Institutional Theory]]
+* [[Organizational Ecology]]
 
 ### Theories/Phenomena:
 
