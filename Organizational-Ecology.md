@@ -1,7 +1,7 @@
 [[_TOC_]]
 
 ## One-paragraph summary
-Placeholder
+Important issue that emerged: resources, and resource partitioning. What organizations can survive based on the resources that are available.
 
 ## Related to
 
