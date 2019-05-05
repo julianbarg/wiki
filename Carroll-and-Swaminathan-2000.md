@@ -13,6 +13,9 @@ Carroll, G. R., & Swaminathan, A. (2000). Why the Microbrewery Movement? Organiz
 ### Courses etc.
 * [[Organizational Theory 2017]]
 
+## One-sentence summary
+Shows empirically an interaction between specialists and generalists, that lead to temporal patterns of expansion and consolidation within the brewing industry.
+
 ## One-page summary
 
 ### Contribution 
