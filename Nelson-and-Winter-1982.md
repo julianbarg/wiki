@@ -13,6 +13,9 @@ Nelson, R. R., & Winter, S. G. (1982). An Evolutionary Theory of Economic Change
 ### Courses etc.
 * [[Business Strategy I 2018]]
 
+## One-paragraph summary
+If you did not learn anything from this book, at least you should remember that Nelson and Winter theorize about path dependence and change, anchored in operating characteristics (routines), "genes", and routine-changing processes. Whereas neoclassical economic theory assumes that firms blindly optimize profits, Nelson and Winter assume that firms have deeply ingrained individual interests that they pursue, and have limited capabilities to adjust their trajectory (routine-changing processes).
+
 ## One-page summary
 In Chapter 1 and 2, the authors provide a summary and a critique of orthodox theory (neoclassical economic theory) to demonstrate why an evolutionary theory is needed. Orthodox theory considers the firm to be a production function, based on two assumptions: firms’ profit maximizing behavior and the existence of equilibria. The combination of the two assumptions suggest that firms behave rationally to maximize profits (or revenue), and such rational behavior ultimately leads to a market equilibrium.
 
