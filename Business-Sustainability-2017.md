@@ -125,3 +125,59 @@
     <td>[[Markard, Raven and Truffer 2012]]</td>
   </tr>
 </table>
+
+### Session 06: Improving Dimensionality - Time, Space, Place & Scale
+* [[Bansal and DesJardine 2014]]
+* [[Flammer and Bansal 2017]]
+* [[Slawinski and Bansal 2015]]
+* [[Bansal ns Knox-Hayes 2013]]
+* [[Lawrence and Dover 2015]]
+* [[Bansal, Kim and Wood 2018]]
+
+### Session 07: Grand Challenges
+* [[George, Howard-Grenville and Tihanyi 2016]]
+* [[Eisenhardt, Graebner and Sonenshein 2016]]
+* [[Rodell et al. 2017]]
+* [[Koschmann, Kuhn and Pfarrer 2011]]
+* [[Olsen, Sofka and Grimpe 2016]]
+* [[Berrone et al. 2016]]
+
+### Session 08: Inequality
+* [[Martin, Cote and Woodruff 2016]]
+* [[Leana and Meuris 2015]]
+* [[Cobb and Stevens 2017]]
+* [[Zhao and Wry 2016]]
+* [[Crane 2013]]
+* [[Whiteman and Cooper 2016]]
+
+### Session 09: Poverty
+* [[Plowman et al. 2007]]
+* [[Mair, Marti and Ventresca 2012]]
+* [[Godfrey 2011]]
+* [[Tobias, Mair and Barbosa-Leiker 2013]]
+* [[Williams and Shepherd 2016]]
+* [[Shephard and Williams 2016]]
+
+### Session 10: Prosociality
+* [[Bolino and Grant 2016]]
+* [[Shepherd 2015]]
+* [[Pfeffer and Belmi 2015]]
+* [[Schabram and Maitlis 2017]]
+* [[Lawrence 2015]]
+* [[Williams et al. 2017]]
+
+### Session 11: Morality
+* [[Sonenshein, DeCelles and Dutton 2014]]
+* [[Shepherd, Patzelt and Baron 2013]]
+* [[Jones, Willness and Madey 2014]]
+* [[Moore and Gina 2015]]
+* [[Schaubroeck et al. 2012]]
+* [[Fehr, Yam and Dang 2015]]
+
+### Session 12: Governance
+* [[Greve, Palmer and Pozner 2010]]
+* [[Sullivan, Haunschild and Page 2007]]
+* [[Walls, Berronne and Phan 2012]]
+* [[Aguilera et al. 2015]]
+* [[Donaldson 2012]]
+* [[Dietz, Ostrom and Stern 2003]]
