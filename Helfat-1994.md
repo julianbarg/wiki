@@ -10,7 +10,7 @@
 ### Courses etc.
 * [[Business Strategy 2018]]
 
-###
+### Previous literature
 * [[Nelson and Winter 1994]]
 
 ## One-page summary
