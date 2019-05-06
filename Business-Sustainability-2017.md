@@ -71,7 +71,7 @@
   </tr>
 </table>
 
-### Session 04: 
+### Session 04: Paradoxes - Real and Constructed
 
 <table>
   <tr>
