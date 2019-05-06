@@ -98,6 +98,7 @@
 </table>
 
 ### Session 05: Systems Approaches
+
 <table>
   <tr>
     <td rowspan="2">Systems Theory</td>
