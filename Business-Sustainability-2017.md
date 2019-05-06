@@ -96,3 +96,31 @@
     <td>[[Whiteman, Walker and Perego 2013]]</td>
   </tr>
 </table>
+
+### Session 05: Systems Approaches
+<table>
+  <tr>
+    <td rowspan="2">Systems Theory</td>
+    <td>[[Sterman 2001]]</td>
+  </tr>
+  <tr>
+    <td>[[Amarak 2007]]</td>
+  </tr>
+  <tr> 
+    <td rowspan="4">Resiliency</td>
+    <td>[[Walker et al. 2004]]</td>
+  </tr>
+  <tr>
+    <td>[[Holling 2001]]</td>
+  </tr>
+  <tr>
+    <td>[[van der Vegt et al. 2015]]</td>
+  </tr>
+  <tr>
+    <td>[[Oritz-de-Mandojana and Bansal 2016]]</td>
+  </tr>
+  <tr>
+    <td>Sustainability Transition</td>
+    <td>[[Markard, Raven and Truffer 2012]]</td>
+  </tr>
+</table>
