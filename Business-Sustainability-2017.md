@@ -85,7 +85,7 @@
     <td>[[Ashforth and reingen 2014]]</td>
   </tr>
   <tr>
-    <td>[[Ferraro, Etzion and Gehman 2015]]
+    <td>[[Ferraro, Etzion and Gehman 2015]]</td>
   </tr>
   <tr>
     <td>Industrial Ecology</td>
