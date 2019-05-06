@@ -13,6 +13,9 @@
 ### Previous literature
 * [[Nelson and Winter 1994]]
 
+## One-paragraph summary
+Nelson and Winter show that petrolium firms do not suddenly change their direction; rather, what their R&D department works on today determines what the department works on tomorrow.
+
 ## One-page summary
 
 ### Contribution 
