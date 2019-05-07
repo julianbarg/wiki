@@ -1,4 +1,6 @@
-Back to [[Methods]]
+
+Return to [[Methods]]
+
 ---
 
 ## Related to
