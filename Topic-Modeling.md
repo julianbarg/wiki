@@ -1,3 +1,6 @@
+Back to [[Methods]]
+---
+
 ## Related to
 
 ### Other methods
