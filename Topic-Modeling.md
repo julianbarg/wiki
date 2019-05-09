@@ -12,6 +12,9 @@ Return to [[Methods]]
 * [[Blei, Ng and Jordan 2003]]
 * [[Hannigan et al. 2019]]
 
+### Links/tools
+* [[http://mallet.cs.umass.edu/import.php]]
+
 ### Parameters/options
 * [[Lemmatizing]]
 * [[N-grams]]
