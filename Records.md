@@ -11,3 +11,4 @@
 * Gorgoroth (1996) - Antichrist
 * Gorgoroth (2006) - Quantos Possunt ad Satanitatem Trahunt
 * Immortal (1999) - At The Heart Of Winter
+* Satyricon (2006) - Now, Diabolical
