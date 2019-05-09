@@ -9,6 +9,7 @@ Return to [[Methods]]
 * [[Natural Language Processing]] (NLP)
 
 ### Seminal papers
+* [[Blei, Ng and Jordan 2003]]
 * [[Hannigan et al. 2019]]
 
 ### Parameters/options
