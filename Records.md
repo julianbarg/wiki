@@ -12,3 +12,4 @@
 * Immortal (1999) - At The Heart Of Winter
 * Satyricon (2006) - Now, Diabolical
 * Wintersun (2004) - Wintersun
+* Wintersun (2012) - Time I
