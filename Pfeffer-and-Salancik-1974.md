@@ -8,7 +8,7 @@ Pfeffer, J., & Salancik, G. R. (1974). Organizational Decision Making as a Polit
 
 ## Related to
 
-### Theory
+### Theories
 * [[Resource Dependence Theory]]
 
 ### Courses etc.
