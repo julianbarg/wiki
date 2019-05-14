@@ -34,6 +34,7 @@ Both RBV and Dynamic Capabilities probably qualify as independent theories. To m
 * [[Eisenhard 2000]]
 * [[Rivkin 2000]]
 * [[Newbert 2007]]
+* [[Schilke, Hu and Helfat 2018]]
 
 ### Courses etc.
 * [[Business Strategy I 2018]]
