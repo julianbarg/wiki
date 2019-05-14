@@ -1,5 +1,7 @@
 [[_TOC_]]
 
+Related to: [[Organizational Theory]] 
+
 ## Sessions
 
 ### Session 01: Introduction to Organization Theory
@@ -59,13 +61,13 @@
 * [[Anteby, Chan and DiBenigno]] - Three Lenses on Occupations and Professions in Organizations: Becoming, Doing, and Relating
 * [[Fmening and Spicer 2014]] - Power in Management and Organization Science
 
-### [[Garbage Cans|Garbage Can Theory]], Power, Rationality and their Discontents
+### Session 11: [[Garbage Cans|Garbage Can Theory]], Power, Rationality and their Discontents
 * [[Cohen, March and Olsen 1972]] - A Garbage Can Model of Organizational Choise
 * [[Bendor, Moe and Shotts 2001]] - Recycling the Garbage Can
 * [[Cohen, March and Olsen 2012]] - 'A Garbage Can Model' at Forty
 * [[Zbaracki 2013]] - Book Review: 'A Garbage Can Model' at Forty
 
-### Work, Markets, and new Forms of Organizing
+### Session 12: Work, Markets, and new Forms of Organizing
 * [[Marglin 1973]] - What do Bosses do? The Origins and Functions of Hierarchy in Capitalist Production
 * [[Goldber 1980]] - Bridges of Contested Terrain: Exploring the Radical Accounr of the Employment Relation
 * [[Evans, Kunda and Barley 2004]] - Beach Time, Bridge Time, and Billable Hours: The Temporal Structure of Technical Contracting
