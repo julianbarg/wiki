@@ -18,7 +18,8 @@ Casciaro, T., & Piskorski, M. J. (2005). Power Imbalance, Mutual Dependence, and
 * [[Emerson 1962]]
 
 ## One-page summary
-The premise that resource dependence theory has remained a metaphor and not a prominent theory, is because of the ambiguities. The theory’s central proposition is that organizational survival hinges on the ability to procure critical resources from the external environment. Key tactic explained by Pfeffer and Salancik (1978) is constraint absorption. However, constraint absorption by a dependent organization, will mean compromise of power by the constraining organization, which is not the same. This is a limitation of resource dependence. 
+Cascario and Piskorski explain that "resource dependence theory has acquired the status of a powerful general metaphor [but that thorough empirical testing has not taken place, mostly because of the] ambiguities in the resource dependence model that undermine the plausibility of some of the theory’s most distinctive predictions"(Cascario and Piskorski 2005: 167) The theory’s central proposition is that organizational survival hinges on the ability to procure critical resources from the external environment. A key strategy for dealing with this challenge is constraint absorption (Pfeffer and Salancik 1978). 
+However, constraint absorption by a dependent organization, will mean compromise of power by the constraining organization, which is not the same. This is a limitation of resource dependence. 
 
 ### Sources of ambiguity in extant operationalization of resource dependence theory
 
