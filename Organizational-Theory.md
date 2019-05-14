@@ -7,7 +7,7 @@
 * [[Evolutionary Theory]]
 * [[Institutional Theory]]
 * [[Organizational Ecology]]
-* [[Resource-based View]]
+* [[Resource-based View]] (RBV)
 * [[Resource Dependence Theory]] (RDT)
 
 ### Theories/Phenomena:
