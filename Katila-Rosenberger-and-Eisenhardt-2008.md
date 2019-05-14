@@ -11,7 +11,7 @@ Katila, R., Rosenberger, J. D., & Eisenhardt, K. M. (2008). Swimming with Sharks
 * [[Resource Dependence Theory]] (RDT)
 
 ### Courses etc.
-* [[Organizational Theory 
+* [[Organizational Theory 2017]]
 
 ## One-page summary
 Katila et al (2008) seek to understand power relationships from the perspective of the party that is assumed to be vulnerable: the entrepreneur. The authors pose the question: when do entrepreneurs choose partners with high potential for misappropriation over less risky partners? The tension that they focus on from the perspective of the entrepreneur concerns cooperation versus competition when selecting partners. Cooperation in the sense that entrepreneurs need valuable resources from partners, particularly in the start-up phase. These same entrepreneurs must balance this need against the potential of competition from their potential partners, a form of resource misappropriation. Partners may exploit their financial power over smaller entrepreneurs by leveraging an entrepreneurs’ technology for the benefit of the partner. The primary contributions made by the authors are in the context of bilateral extensions to resource dependence theory and the demonstration that entrepreneurs mobilize power in their own respect to counter misappropriation potential. 
