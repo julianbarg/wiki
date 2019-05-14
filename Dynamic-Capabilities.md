@@ -1,6 +1,6 @@
 [[_TOC_]]
 
-Part of: Organizational Theory
+Part of: [[Organizational Theory]]
 
 Both RBV and Dynamic Capabilities probably qualify as independent theories. To make an explicit connection between them is still important: Dynamic Capabilities set out to solve a problem that RBV first explored, and as a result developed some overlapping, and some distinct assumptions and perspectives.
 
