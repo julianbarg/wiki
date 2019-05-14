@@ -1,5 +1,7 @@
 [[_TOC_]]
 
+Part of: [[Organizational Theory]]
+
 ## Related to
 
 ### Seminal papers
