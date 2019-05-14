@@ -18,12 +18,11 @@ Casciaro, T., & Piskorski, M. J. (2005). Power Imbalance, Mutual Dependence, and
 * [[Emerson 1962]]
 
 ## One-page summary
-Cascario and Piskorski explain that "resource dependence theory has acquired the status of a powerful general metaphor [but that thorough empirical testing has not taken place, mostly because of the] ambiguities in the resource dependence model that undermine the plausibility of some of the theory’s most distinctive predictions"(Cascario and Piskorski 2005: 167) The theory’s central proposition is that organizational survival hinges on the ability to procure critical resources from the external environment. A key strategy for dealing with this challenge is constraint absorption (Pfeffer and Salancik 1978). 
-However, constraint absorption by a dependent organization, will mean compromise of power by the constraining organization, which is not the same. This is a limitation of resource dependence. 
+Cascario and Piskorski explain that "resource dependence theory has acquired the status of a powerful general metaphor [but that thorough empirical testing has not taken place, mostly because of the] ambiguities in the resource dependence model that undermine the plausibility of some of the theory’s most distinctive predictions"(Cascario and Piskorski 2005: 167) The theory’s central proposition is that organizational survival hinges on the ability to procure critical resources from the external environment. A key strategy for dealing with this challenge is constraint absorption (Pfeffer and Salancik 1978). One challenge of this recommendation (and major limitation of RDT) is that it is ultimately contradictory: why would the constraining organization agree to constraint absorption by the dependent organization, if the constraining organization supposedly holds the power in the mutual relationship?
 
 ### Sources of ambiguity in extant operationalization of resource dependence theory
 
-1. Constraint absorption does not discriminate between two dyadic power constructs from Emerson (1962) exchange theory, i.e. power imbalance and mutual dependence. Rather these were combined into concept of interdependence. 
+1. Constraint absorption does not discriminate between the two dyadic power constructs introduced in exchange theory ([[Emerson 1962]]), specifically, power imbalance and mutual dependence. Rather, in RDT the two were combined into the concept of interdependence. 
 
 2. Because of lack of distinction, the theory does not account for the different outcomes of the two dimensions. Mutual dependence will make both firms likely to cooperate, and will facilitate constraint absorption. While power imbalance, will be a hinderance to this, as the less powerful firm will oppose the move.  
 3. Boundary conditions. Constraint absorption, interorganizational operations to restructure dependencies, and exercise of power are not the same tactics, and will render different results. 
