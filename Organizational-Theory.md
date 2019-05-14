@@ -8,6 +8,7 @@
 * [[Evolutionary Theory]]
 * [[Institutional Theory]]
 * [[Organizational Ecology]]
+* [[Resource Dependence Theory]]
 
 ### Theories/Phenomena:
 * [[Attention-Based View]]
