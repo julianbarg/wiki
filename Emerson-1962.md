@@ -13,6 +13,9 @@ Emerson, R. M. (1962). Power-Dependence Relations. American Sociological Review,
 ### Courses etc.
 * [[Organizational Theory 2017]]
 
+### Cited by
+* [[Casciaro and Piskoriski 2005]]
+
 ## One-page summary
 In this paper, the author develops a theory of power relations that can be used to examine different issue such as status, M&A, coalition formation, group norms, role prescriptions and many others. The author recognizes that there is a problem in the way people view power as people treat power as though it were an attribute associated with a person or a group. The author argues that *power is a result of social relationships formed between actors*, and depending on the relationships, one actor can have more or less power. Using exchange relationship as an example, the author argues that "power to control or influence the other resides in control over the things that the others value", thereby arguing that power of an entity (A) over another entity (B) depends on how much more B depends on A (than A depends on B). This dependence is said to be a function of 1) motivational investment and 2) alternatives. Furthermore, the author also provides definitions of *power advantage* (difference between the amount of power A has over B and the power B has over A), *cohesion* (the average of dependence of A on B, and dependence of B on A), and *balancing operations* (changes in the structure of power-dependence relations that reduces power imbalance).  
 
