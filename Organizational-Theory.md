@@ -10,10 +10,10 @@
 * [[Resource Dependence Theory]] (RDT)
 
 ### Theories/Phenomena:
-
 * [[Attention-Based View]]
 * [[Reputation and Status]]
 
 ### Relevant Courses
-
-[[Business Strategy I 2018]]
+* [[Business Strategy I 2018]]
+* [[Business Strategy II 2017]]
+* [[Organizational Theory 2017]]
