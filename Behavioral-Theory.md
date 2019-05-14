@@ -2,6 +2,8 @@
 
 [[_TOC_]]
 
+Part of: [[Organizational Theory]]
+
 ## One-paragraph summary
 Sometimes also called the Carnegie School. A theory spearheaded by [[Cyert and March 1963]] and Simon's previous work. Based on open system theories that describe how the environment impacts organizations - as opposed to the closed system perspective promoted by [[Taylor 1911]], which held that factories operate like "machines", the internal workings of which need to be optimized. BTOF describes a fim as a system, with each department following certain behavioral patterns. For instance, one department in a department store might pursue a sales goal and a mark-up goal. In pursuit of the sales goal, the department would then follow the behavior laid out in Figure 6.1 (see under "Resources").
 
