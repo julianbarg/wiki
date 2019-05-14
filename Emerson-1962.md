@@ -1,4 +1,4 @@
-*Emerson 1962 - Power-Dependence Relations*
+**Emerson 1962 - Power-Dependence Relations**
 
 [[_TOC_]]
 
