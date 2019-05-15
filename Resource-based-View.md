@@ -2,7 +2,7 @@
 
 Part of: [[Organizational Theory]]
 
-### RBV and [[Dynamic Capabilities]]
+## RBV and [[Dynamic Capabilities]]
 
 Both RBV and [[Dynamic Capabilities]] are independent theories. To make an explicit connection between them is still important: Dynamic Capabilities set out to solve a problem that RBV first explored, and as a result developed some overlapping, and some distinct assumptions and perspectives.
 
