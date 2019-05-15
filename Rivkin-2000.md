@@ -1,0 +1,21 @@
+**Rivkin 2000 - Imitation of Complex Strategies**
+
+[[_TOC_]]
+
+## Citation
+Rivkin, J. W. (2000). Imitation of Complex Strategies. Management Science, 46(6), 824–844. [[https://doi.org/10.1287/mnsc.46.6.824.11940]]
+
+### Theories
+* [[Dynamic Capabilities]]
+
+### Courses etc.
+* [[Business Strategy I 2018]]
+
+## One-page summary
+Rivkin (2000) aims to reproduce the complexity of organizations strategic decisions with a mathematical model. The paper asserts that a strategy is the outcome of multiple interrelated decisions, and that the interaction of these decisions constitutes the difficulty (or ease) of imitating certain strategies. For instance, it should be easy to imitate the product strategy of a newcomer in the office supply industry, but it is almost impossible to recreate the strategy that Coca Cola pursued with the introduction of cherry coke, due to the complexity of its branding and marketing.  
+
+The paper uses the number of decisions (N) – each of which can have one of two different states (0 and 1) representing the decision made – and their interconnectedness (K) which describes how many of the decisions interact with each other (up to N-1). A competitor wanting to imitate the strategy of this company would have to try to change the state of each possible decision until arriving at the same composition of decisions. A high interconnectedness K of the decisions acts to make imitating of the strategy exponentially more difficult, as the competitor cannot arrive at the solution of the original company by independently changing the state of each decision N, but has to find the right arrangement of decisions. A simulation of random decision making, changing the state of one decision at a time then produces a seemingly random change of firm value (which is the outcome variable), with the ruggedness of the graph increasing with higher K (Figure 1 in Rivkin 2000). The paper reproduces the argument of an NP problem (from mathematics), where an increase in dimensions leads to an exponential increase in computation time, as the problem cannot be decomposed, or in other words the interaction between the problem’s components cannot be dissected. 
+
+Rivkin (2000) makes an important point about competition and the imitability of a strategy: in order to imitate a “winning” strategy, it is often not sufficient to identify a core element and imitate that element. Instead, the success of a strategy depends on a range of interconnected elements, each of which would have to be imitated to attain the same success as the original strategy. 
+
+The author may however be assuming that a company acquired a competency because of its decisions, when the reality might be that it acquired this competency despite its decisions. For instance, a company might have developed an innovative product or service, but might have done so poorly, yielding a barely satisfactory first model. It would be the case that it is easier for a second company to come in and produce a viable imitation if we assume that there are multiple decisions that lead to viable outcomes and imagine that a firstcomer will frequently make bad choices. A similar train of thought can be found in the innovation literature, which found that second-movers in many cases have an advantage (product the better/more successful products). In that sense, the comparison with an NP problem falls short, as we cannot prove that only one solution or a limited set of very specific solutions allows a company to imitate another company’s strategy sufficiently to create a viable product to successfully compete in the same market. The paper thus makes good decision making more occult than it might be in reality (does an individual decision by one individual manager in the project really make or break a project?). Still, the authors basic point stands that the variables K and N (the number of decisions faced by a company and the interaction of the decisions with other decisions) makes products harder to imitate, at least to some degree, and that incremental improvements cannot always lead us to the position of the competitor. After setting up their model, the authors acknowledge this shortcoming of the model vis-à-vis reality when they subsequently discuss the potential of satisficing strategies in the implications section. 
