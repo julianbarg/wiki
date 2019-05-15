@@ -7,7 +7,7 @@ Both the [[Resource-based View]] and Dynamic Capabilities are independent theori
 ## Related to
 
 ### Seminal papers
-* [[Teece, Pisano and Shuen 1997]]
+* [[Teece, Pisano and Shuen 1997|Teece Pisano and Shuen 1997]]
 
 ### Other papers
 * [[Henderson and Cockburn 1994]]
