@@ -19,9 +19,9 @@ Wernerfelt, B. (1984). A Resource-based View of the Firm. Strategic Management J
 ## One-page summary
 Wernerfelt focuses on the resource endowments to answer questions related to the diversification of firms. Some of the questions include, “on which of the firm’s current resources should diversification be based?” and “which resources should be developed through diversification?”  Using a simple mathematical model based on the resource-product matrix (Figure 1.), Wernerfelt illustrates an example of diversification in the case of sequential entry. 
 
-In the paper, resource is defined as assets which are tied semipermanently to the firm, such as brand names, knowledge of technology, killed personnel, trade contacts, etc. Resources lead to high returns over a longer period of time when:  
+In the paper, resource is defined as assets which are tied semipermanently to the firm, such as brand names, knowledge of technology, skilled personnel, trade contacts, etc. Resources lead to high returns over a longer period of time when:  
 
-1. Resources are not subject to unequal bargaining positions between suppliers and buyers or not subject to substitute resources; a monopolistic supplier or a monopsonistic market both reduce the returns of resources. 
+1. Resources are not subject to unequal bargaining positions between suppliers and buyers or not subject to substitute resources; a monopolistic supplier or a monopolistic market both reduce the returns of resources. 
 
 2. There are strong entry and resource position barriers; entry barrier refers to preventing potential competitors entering the same market, while resource position barrier refers to preventing competitors from using the same resources. Both barriers are needed to exploit opportunities from the resources. 
 
