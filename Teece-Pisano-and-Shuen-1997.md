@@ -19,7 +19,7 @@ Teece, D. J., Pisano, G., & Shuen, A. (1997). Dynamic capabilities and strategic
 * **Resources**: inimitable, or difficult to imitate assets that are firm-specific (see [[RBV|Resource-based View]]).
 * **Organizational routines/competences**: (intangible?) assets that a firm manages to yield across different segments (e.g., quality, minaturization, systems integration).
 * **Core competences**: product or service offerings at the core of a company, for instance as features that prominently appear in many of its products and services.
-* **Dynamic capabilities: "the firm's ability to integrate, build, and reconfigure internal and external competences to address rapidly changing environments" (Teece, Pisano and Shuen 1997: 516)
+* **Dynamic capabilities**: "the firm's ability to integrate, build, and reconfigure internal and external competences to address rapidly changing environments" (Teece, Pisano and Shuen 1997: 516)
 * **Products**: Final goods and services. Performance thereof depends on its competences, which in turn depend on dynamic capabilities.
 
 ## One-page summary
