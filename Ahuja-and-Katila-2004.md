@@ -9,6 +9,7 @@ Ahuja, G., & Katila, R. (2004). Where do resources come from? The role of idiosy
 
 ### Theories
 * [[Resource-based View]]
+* [[Evolutionary Theory]]
 
 ### Courses etc.
 * [[Business Strategy I 2018]]
