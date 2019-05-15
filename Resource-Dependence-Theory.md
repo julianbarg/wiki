@@ -11,7 +11,7 @@ Part of: [[Organizational Theory]]
 ### Other papers
 * [[Emerson 1962]]
 * [[Casciaro and Piskoriski 2005]]
-* [[Katila Rosenberger and Eisenhardt 2008]]
+* [[Katila, Rosenberger and Eisenhardt 2008|Katila Rosenberger and Eisenhardt 2008]]
 
 ### Courses etc.
 * [[Organizational Theory 2017]]
