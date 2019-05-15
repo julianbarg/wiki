@@ -3,3 +3,5 @@
 [[_TOC_]]
 
 [[resources/Shaver-1998-(1).png|alt=Formula 1]]
+
+[[resources/Shaver-1998-(2).png|alt=Formula 2]]
