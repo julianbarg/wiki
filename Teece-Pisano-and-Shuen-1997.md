@@ -16,7 +16,11 @@ Teece, D. J., Pisano, G., & Shuen, A. (1997). Dynamic capabilities and strategic
 
 ## Concepts
 * **Factors of production**: "undifferentiated" inputs that can be acquired on the market.
-* **Resources**: inimitable, or difficult to imitate assets that are firm-specific see [RBV|Resource-based View]].
+* **Resources**: inimitable, or difficult to imitate assets that are firm-specific (see [[RBV|Resource-based View]]).
+* **Organizational routines/competences**: (intangible?) assets that a firm manages to yield across different segments (e.g., quality, minaturization, systems integration).
+* **Core competences**: product or service offerings at the core of a company, for instance as features that prominently appear in many of its products and services.
+* **Dynamic capabilities: "the firm's ability to integrate, build, and reconfigure internal and external competences to address rapidly changing environments" (Teece, Pisano and Shuen 1997: 516)
+* **Products**: Final goods and services. Performance thereof depends on its competences, which in turn depend on dynamic capabilities.
 
 ## One-page summary
 Dynamic Capabilities is a theory of business strategy that builds on three existing theories of competing. The first, Competitive Forces, was developed by porter in the 1980s, and provides the five-forces framework, which firms can use to analyze their environment (industry) to gain an advantage. It is based on the idea that the existence of impediments to competition (entry barriers) provides economic rents in selected industries, which firms should take advantage of. The second approach, Strategic Conflict, focuses on the competition between rival firms and introduces game theory into the equation to model moves and countermoves of the competitors. Next, the Resource-based Perspective turned the focus to the internal workings of a firm. It emphasizes the ability of companies to capture rents on the resources of a firm, such as tangible or intangible assets that are not traded on the market (or at least not for market value). 
