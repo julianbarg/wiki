@@ -4,10 +4,11 @@
 
 * [[Behavioral Theory]]
 * [[Cognition]]
-* [[Dynamic Capabilities]]/Resource-based View (RBV)
+* [[Dynamic Capabilities]]
 * [[Evolutionary Theory]]
 * [[Institutional Theory]]
 * [[Organizational Ecology]]
+* [[Resource-based View]] (RBV)
 * [[Resource Dependence Theory]]
 
 ### Theories/Phenomena:
