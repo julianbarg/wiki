@@ -29,7 +29,7 @@ Related to: [[Organizational Theory]]
 * [[Scott and Davis 2007]] - Organizations and Organizing, Chapter 9
 * [[Pfeffer and Salancik 1974]] - Organizational Decision Making as a Political Process
 * [[Casciaro and Piskorski 2005]] - Power Imbalance, Mutual Dependence and Constraint Absorption
-* [[Katila and Eisenhardt 2008]] - Swimming with Sharks: Technology Ventures, Defense Mechanisms and Corporate Relationships
+* [[Katila, Rosenberger and Eisenhardt 2008|Katila Rosenberger and Eisenhardt 2008]] - Swimming with Sharks: Technology Ventures, Defense Mechanisms and Corporate Relationships
 
 ### Session 06: [[Organizational Ecology]]
 * [[Scott and Davis 2007]] - Organizations and Organizing, Chapter 10
