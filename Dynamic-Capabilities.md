@@ -15,7 +15,7 @@ Both the [[Resource-based View]] and Dynamic Capabilities are independent theori
 * [[Eisenhard 2000]]
 * [[Rivkin 2000]]
 * [[Newbert 2007]]
-* [[Schilke, Hu and Helfat 2018]]
+* [[Schilke, Hu and Helfat 2018|Schilke Hu and Helfat 2018]]
 
 ### Courses etc.
 * [[Business Strategy I 2018]]
