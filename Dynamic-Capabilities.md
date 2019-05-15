@@ -16,7 +16,7 @@ Both RBV and Dynamic Capabilities probably qualify as independent theories. To m
 
 ### Other papers
 * [[Wernerfelt 1984]]
-* [[Barney, Priem and Butler 1991]]
+* [[Priem and Butler 1991]]
 * [[Ahuja and Katila 2004]]
 
 ### Courses etc.
