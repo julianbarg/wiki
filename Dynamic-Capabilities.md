@@ -2,7 +2,7 @@
 
 Part of: [[Organizational Theory]]
 
-Both the [[Resource-based View]] and Dynamic Capabilities are independent theories. To make an explicit connection between them is still important: Dynamic Capabilities set out to solve a problem that RBV first explored, and as a result developed some overlapping, and some distinct assumptions and perspectives.
+Both the [[Resource-based View]] and Dynamic Capabilities are independent theories. To make an explicit connection between them is still important: Dynamic Capabilities set out to solve a problem that RBV first explored, and as a result developed some overlapping, and some distinct assumptions and 
 
 ## Related to
 
@@ -20,3 +20,6 @@ Both the [[Resource-based View]] and Dynamic Capabilities are independent theori
 ### Courses etc.
 * [[Business Strategy I 2018]]
 * [[https://en.wikipedia.org/wiki/Dynamic_capabilities]]
+
+## One-paragraph summary (stub)
+While RBV takes a static approach to its subject, resources, Dynamic Capabilities looks at the "derivative" of resources - the underlying characteristics that allow for the creation of new resources in the future as necessary.
