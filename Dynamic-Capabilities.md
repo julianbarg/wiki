@@ -1,34 +1,13 @@
-# RBV/Dynamic Capabilities
-
 [[_TOC_]]
 
 Part of: [[Organizational Theory]]
 
-Both RBV and Dynamic Capabilities probably qualify as independent theories. To make an explicit connection between them is still important: Dynamic Capabilities set out to solve a problem that RBV first explored, and as a result developed some overlapping, and some distinct assumptions and perspectives.
-
-# Part I: Resource-based View
+Both the [[Resource-based View]] and Dynamic Capabilities are independent theories. To make an explicit connection between them is still important: Dynamic Capabilities set out to solve a problem that RBV first explored, and as a result developed some overlapping, and some distinct assumptions and perspectives.
 
 ## Related to
 
 ### Seminal papers
-* [[Penrose 1959]]
-* [[Barney 1991]]
-
-### Other papers
-* [[Wernerfelt 1984]]
-* [[Priem and Butler 1991]]
-* [[Ahuja and Katila 2004]]
-
-### Courses etc.
-* [[Business Strategy I 2018]]
-* [[https://en.wikipedia.org/wiki/Resource-based_view]]
-
-# Part II: Dynamic Capabilities
-
-## Related to
-
-### Seminal papers
-* [[Teece, Pisano and Shuen 197]]
+* [[Teece, Pisano and Shuen 1997]]
 
 ### Other papers
 * [[Henderson and Cockburn 1994]]
