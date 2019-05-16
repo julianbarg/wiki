@@ -16,6 +16,12 @@ Wernerfelt, B. (1984). A Resource-based View of the Firm. Strategic Management J
 ### Previous literature
 * [[Penrose 1959]]
 
+## Concepts
+* **Resource**: "anything which could thought of as a strength or weakness of a given firm" (Wernerfelt 1984: 172).
+
+## One-paragraph summary
+"A Resource-based View of the Firm" marks Wernerfelt's effort to draw more attention away from product-markets to resources. He argues that resources, not products, are the most important determinants of success in expansion, and developing resources is an important part of strategizing (e.g., through stepping-stone expansion). Thus, related diversification is not a sufficient criteria for an expansion plan. Rather, Wernerfelt calls for an analysis of markets that takes into consideration resources of the firm. And the potential benefit of these resources in new markets depends on other market participants also.
+
 ## One-page summary
 Wernerfelt focuses on the resource endowments to answer questions related to the diversification of firms. Some of the questions include, “on which of the firm’s current resources should diversification be based?” and “which resources should be developed through diversification?”  Using a simple mathematical model based on the resource-product matrix (Figure 1.), Wernerfelt illustrates an example of diversification in the case of sequential entry. 
 
