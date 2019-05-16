@@ -8,7 +8,7 @@ Wernerfelt, B. (1984). A Resource-based View of the Firm. Strategic Management J
 ## Related to
 
 ### Theories
-* [[Resource-based View|Dynamic Capabilities]]
+* [[Resource-based View]] (RBV)
 
 ### Courses etc.
 * [[Business Strategy I 2018]]
