@@ -19,8 +19,8 @@ Ahuja, G., & Katila, R. (2004). Where do resources come from? The role of idiosy
 * [[Barney 1991]]
 * [[Teece, Pisano and Shuen 1997]]
 
-## One-paragraph summary (stub)
-Combines RBV and [[Evolutionary Theory]].
+## One-paragraph summary
+Ahuja and Katila (2004) combine RBV with [[Evolutionary Theory]] to explain the origins of resource heterogeneity. They explain that idiosyncratic situations lead to divergent responses, which in turn cause resource heterogeneity. Thus, they add to RBV a notion of path-dependence (or inertia and momentum). Further, while it is difficult for companies to effectively implement change, the authors point out that idiosyncratic problems and opportunities provide a possible cause of differentiation.
 
 ## One-page summary
 Ahuja & Katila (2004) provides empirical evidence on the origin of resources. The authors' interest lies in resource heterogeneity: why are some companies able to develop technological innovations that others are not able to develop? They point to idiosyncratic situations faced by companies as the sources of innovations that represent resources. Hypothesis 1 states that it is technological exhaustion that leads to "greater […] intensity of subsequent search" (Ahuja & Katila 2004: 890), and thus will increase unique search outcomes up to a threshold (Hypothesis 3). Further, expansion and search in other geographic areas with a different context „will trigger changes in its international research presence“ (Ahuja & Katila 2004: 890; Hypethesis 2) and thus will increase unique search outcomes up to a threshold (Hypothesis 4). The paper predicts  an inverted U-shaped curve for both intensity of science search and breadth of geography search (Hypothesis 3 & Hypothesis 4). 
