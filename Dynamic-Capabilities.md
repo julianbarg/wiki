@@ -1,3 +1,5 @@
+See also: [[Resource-based View]]
+
 [[_TOC_]]
 
 Part of: [[Organizational Theory]]
