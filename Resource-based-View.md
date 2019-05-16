@@ -1,3 +1,5 @@
+See also: [[Dynamic Capabilities]]
+
 [[_TOC_]]
 
 Part of: [[Organizational Theory]]
