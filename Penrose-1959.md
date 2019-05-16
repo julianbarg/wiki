@@ -13,6 +13,10 @@ Penrose, E. (1959). The Theory of the Growth of the Firm (4th ed.). Oxford: Oxfo
 ### Courses etc.
 * [[Business Strategy I 2018]]
 
+## One-paragraph summary
+
+How do firms grow? The previous assumption was that a firm "converges" to some kind of "ideal size" that maximizes efficiency. The bottleneck was assumed to be e.g., the limitations of managerial capacity. With the rise of the "administrative organization", Penrose argues, the firm is able to coordinate different activities separately within the same organization. Based on this development, Penrose introduces a more dynamic model. This model assumes that the reason for growth are underutilized resource bases. For example, the possibilities to sell unused machine capacity on the market for its market value are limited, therefore, it is more efficient to internally organize additional complimentary activities. If we assume that there are always underutilized resources within companies, then there is is always a motivation for firms to grow.
+
 ## One-page summary
 The book chapters explain the fundamental arguments presented in form of a theory of the growth of the firm. The first chapter provides a brief introduction of the basic theory, the second chapter clarifies the definition of the firm, and the third chapter (chapter 5) explains the relationship between inherited resources and the direction of expansion. The underlying thread in the book is that we need a theory of growth of the firm, the firm which is beyond its economic definition, and is not constrained to produce just one product; it would always have underutilized product services, and the motive to make good use of it will keep the firm growing. 
 
