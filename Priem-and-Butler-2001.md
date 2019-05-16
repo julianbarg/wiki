@@ -17,6 +17,10 @@ Priem, R. L., & Butler, J. E. (2001). Is the Resource-Based “View” a Useful 
 * [[Wernerfelt 1984]]
 * [[Barney 1991]]
 
+## One-paragraph summary
+Priem and Butler test the future prospects for RBV as a fully fledged, systematic theory (as opposed to being a "view"). They point out that RBV does not make sufficiently clear, testable predictions. One prediction RBV does make is that "if a firm attribute is rare and valuable [it] can give the firm competitive advantage [and if it] is hard to imitate and is not substitutable, [it] can provide [...] competitive advantage" (Priem and Butler 2001). However, when one substitutes in the definition of valuable resources as resources that "enable a firm to [...] improve its efficiency and effectiveness" (Barney 1991: 106), it becomes clear that the foundational statement of RBV is tautological (resources that provide an advantage to a firm provide an advantage to a firm).
+
+
 ## One-page summary
 Priem and Butler (2001) introduce and answer two questions: 1) Is the RBV a theory? 2) Is the RBV useful for building an understanding in strategic management? To answer the first question, the authors use three hurdles that a "view" must pass to become a "theory": general theories 1) are generalized conditionals 2) have empirical content and 3) exhibit nomic necessity.  
 
