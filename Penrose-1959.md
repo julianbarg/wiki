@@ -8,7 +8,7 @@ Penrose, E. (1959). The Theory of the Growth of the Firm (4th ed.). Oxford: Oxfo
 ## Related to
 
 ### Theories
-* [[Resource Based View|Dynamic Capabilities]] (RBV)
+* [[Resource Based View]] (RBV)
 
 ### Courses etc.
 * [[Business Strategy I 2018]]
