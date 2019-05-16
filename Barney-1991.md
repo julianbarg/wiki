@@ -5,7 +5,7 @@
 ## Related to
 
 ### Theories
-* [[Resource Based View|Dynamic Capabilities]] (RBV)
+* [[Resource Based View]] (RBV)
 
 ### Courses etc.
 * [[Business Strategy I 2018]]
