@@ -13,6 +13,7 @@
 
 ### Theories/Phenomena:
 * [[Attention-Based View]]
+* [[Path dependence]]
 * [[Reputation and Status]]
 
 ### Relevant Courses
