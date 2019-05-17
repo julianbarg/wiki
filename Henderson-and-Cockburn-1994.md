@@ -15,7 +15,7 @@
 * **Architectural competence**: The ability to "rearrange" component competences, in order to make new, creative use of it.
 
 ## One-paragraph summary
-This paper sets out to study capabilities on a firm level, to provide empirical evidence for the RBV/Dynamic Capabilities research stream. 
+This paper studies capabilities on a firm level, to provide empirical evidence for the RBV/Dynamic Capabilities research stream. Henderson and Cockburn identify architectural capabilities through qualitative research (interviews) on the firm level (coded on a 5-point Likert scale). Henderson and Cockburn identify some architectural capabilities that work across firm boundaries, and others that work within them. Architectural capabilities that work across the boundaries include a positive attitude toward employees publishing in scientific journals, geographic proximity to universities, and joint research projects with universities. Architectural capabilities that work to within the firm (to cross boundaries between units) include cross-unit information exchange, an egalitarian decision making scheme, and an integrated management across geographic subunits.
 
 ## One-page summary
 
