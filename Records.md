@@ -10,6 +10,8 @@
 * Gorgoroth (1996) - Antichrist
 * Gorgoroth (2006) - Quantos Possunt ad Satanitatem Trahunt
 * Immortal (1999) - At The Heart Of Winter
+* Immortal (2002) - Sons of Northern Darkness
+* Immortal (2009) - All Shall Fall
 * Satyricon (2006) - Now, Diabolical
 * Wintersun (2004) - Wintersun
 * Wintersun (2012) - Time I
