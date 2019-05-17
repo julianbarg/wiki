@@ -10,6 +10,13 @@
 ### Courses etc.
 * [[Business Strategy I 2018]]
 
+## Concepts
+* **Component competence**: a local competence (e.g., in a specific business unit).
+* **Architectural competence**: The ability to "rearrange" component competences, in order to make new, creative use of it.
+
+## One-paragraph summary
+This paper sets out to study capabilities on a firm level, to provide empirical evidence for the RBV/Dynamic Capabilities research stream. 
+
 ## One-page summary
 
 In the literature of resource-based view (RBV), important concepts include resource, competitive advantage, sustained competitive advantage, and competence. This paper delves into the concept of competence. The authors identify two types of competence: component competence and architectural competence. Component competence refers to the local abilities or knowledge, similar to the concept of resource in RBV literature. Architectural competence refers to the ability to integrate component competences. This is similar to the concept of dynamic capability, which is defined as managerial ability to organize in order to renew competences and adapt to changing environments, put forward by [[Teece, Pisano and Shuen 1997|Teece Pisano and Shuen 1997]]. In this paper, the authors investigate the impact of component and architectural competences on productivity of drug discovery in pharmaceutical research. 
