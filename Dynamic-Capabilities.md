@@ -24,4 +24,4 @@ Both the [[Resource-based View]] and Dynamic Capabilities are independent theori
 * [[https://en.wikipedia.org/wiki/Dynamic_capabilities]]
 
 ## One-paragraph summary (stub)
-While RBV takes a static approach to its subject, resources, Dynamic Capabilities looks at the "derivative" of resources - the underlying characteristics that allow for the creation of new resources in the future as necessary.
+While RBV takes a static approach to its subject, resources, Dynamic Capabilities looks at the "derivative" of resources - the underlying characteristics that allow for the creation of new resources in the future as necessary. Although Newbert rather seems to think that the capabilities are things that allow us to leverage resources.
