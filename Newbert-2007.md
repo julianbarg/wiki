@@ -14,6 +14,9 @@ Newbert, S. L. (2007). Empirical Research on the Resource-Based View of the Firm
 ### Courses etc.
 * [[Business Strategy I 2018]]
 
+## One-paragraph summary
+Newbert (2007) represents an extensive review of the quantitative RBV (and Dynamic Capabilities) literature. Newbert finds very little support for RBV in empirical tests, and finds support in barely more than half (53%) of the empirical tests of Dynamic Capabilities. To measure the effect of dynamic capabilities, most papers test an interaction effect between a resource, and a capability that should be suitable for leveraging that resource. A bottleneck is the lack of resources that are found to be significant in statistical tests. An important criticism of the existing literature in the paper is that competitive advantage is conceptualized as being distinct from performance, yet most papers use performance to measure competitive advantage.
+
 ## One-page summary
 Newbert (2007) explains that the RBV may not be accepted as ‘true’ theory because it has not been empirically validated yet. This paper points out that Barney and Arikan (2001) have failed to find support for the RBV though they review 166 empirical papers with RBV logic for two reasons. First, they do not count non-findings as the counterevidence of the theory, only regarding the opposite significant findings as that of the theory (It surely is not a conservative way of testing). Secondly, their 166 empirical papers seem to have a sampling bias since the authors tend to omit papers from other academic disciplines than business.  
 
