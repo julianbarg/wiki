@@ -9,6 +9,8 @@ Part of: [[Organizational Theory]]
 * [[Flammer and Bansal 2017]]
 * [[Slwainski and Bansal 2015]]
 
+### Lit review
+
 ### Other papers
 * [[Bansal and Knox-Hayes 2013]]
 
