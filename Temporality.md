@@ -7,7 +7,7 @@ Part of: [[Organizational Theory]]
 ### Seminal papers
 * [[Bansal and DesJardine 2014]]
 * [[Flammer and Bansal 2017]]
-* [[Slwainski and Bansal 2015]]
+* [[Slawinski and Bansal 2015]]
 
 ### Lit review
 * [[Bansal et al 2019]]
