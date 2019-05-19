@@ -10,6 +10,7 @@ Part of: [[Organizational Theory]]
 * [[Slwainski and Bansal 2015]]
 
 ### Lit review
+* [[Bansal et al 2019]]
 
 ### Other papers
 * [[Bansal and Knox-Hayes 2013]]
