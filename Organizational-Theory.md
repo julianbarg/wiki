@@ -10,6 +10,7 @@
 * [[Organizational Ecology]]
 * [[Resource-based View]] (RBV)
 * [[Resource Dependence Theory]]
+* [[Temporality]]
 
 ### Levels of analysis
 * [[Individual-level]]
