@@ -11,4 +11,8 @@ Part of: [[Organizational Theory]]
 
 ### Other papers
 * [[Bansal and Knox-Hayes 2013]]
+
+### Speed
+* [[Eisenhardt 1989]]
 * [[Morales-Raya and Bansal 2015]]
+* [[Perlow Okhuysen and Repenning 2002]]
