@@ -11,6 +11,11 @@
 * [[Resource-based View]] (RBV)
 * [[Resource Dependence Theory]]
 
+### Levels of analysis
+* [[Individual-level]]
+* [[Industry-level]]
+* [[Firm-level]]
+
 ### Theories/Phenomena:
 * [[Attention-Based View]]
 * [[Path dependence]]
