@@ -19,3 +19,8 @@ Part of: [[Organizational Theory]]
 * [[Eisenhardt 1989]]
 * [[Morales-Raya and Bansal 2015]]
 * [[Perlow Okhuysen and Repenning 2002]]
+
+## Notes
+
+### Teaching idea
+Why not distribute a case that uses NPV and provides different discount rates in different cases, and then let students discuss it, and discover their discount rates are different.
