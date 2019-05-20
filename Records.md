@@ -1,4 +1,5 @@
 * Blind Guardian (1995) - Imaginations from the Other Side
+* Behemoth (2004) - Demigod
 * Dimmu Borgir (1997) - Enthrone Darkness Triumphant
 * Dimmu Borgir (2001) - Puritanical Euphoric Misanthropia
 * Dimmu Borgir (2003) - Death Cult Armageddon
