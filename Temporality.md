@@ -14,11 +14,17 @@ Part of: [[Organizational Theory]]
 
 ### Other papers
 * [[Bansal and Knox-Hayes 2013]]
+* [[Gersick 1994]]
 
 ### Speed
 * [[Eisenhardt 1989]]
 * [[Morales-Raya and Bansal 2015]]
 * [[Perlow Okhuysen and Repenning 2002]]
+
+### One-paragraph summary
+Temporality is a very rich and diverse field. The origins of the field (in the strategy literature) are in characteristics of temporality, for instance speed or event-time vs. clock-time. 
+
+More recently, temporality and sustainability has been on the rise.
 
 ## Notes
 
