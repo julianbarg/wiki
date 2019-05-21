@@ -22,7 +22,7 @@ Part of: [[Organizational Theory]]
 * [[Perlow Okhuysen and Repenning 2002]]
 
 ### One-paragraph summary
-Temporality is a very rich and diverse field. The origins of the field (in the strategy literature) are in characteristics of temporality, for instance speed or event-time vs. clock-time. 
+Temporality is a very rich and diverse field. The origins of the field (in the strategy literature) are in characteristics of temporality, for instance speed, and event-time vs. clock-time. Event-time describes the perception of time based on events. It was first introduced by [[Gersick (1994)|Gersick 1994]] based on the observation that some decision makers wait for key events, or make decisions to attain key events. Clock-time was also described by [[Gersick (1994)|Gersick 1994]] (as temporal pacing), and describes the flow of time as measured in time units such as year, month, etc. Around the same time, [[Eisenhardt (1989)|Eisenhardt 1989]] laid the foundation for a literature on speed. She ran some of the first studies on the speed of decision making in organizations, and her data suggests that microcomputer firms which engage in fast decision making, e.g., through the use of real-time information, manage to include more, not less, information in their decision making process.
 
 More recently, temporality and sustainability has been on the rise.
 
