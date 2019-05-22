@@ -15,6 +15,7 @@
 * Immortal (1999) - At The Heart Of Winter
 * Immortal (2002) - Sons of Northern Darkness
 * Immortal (2009) - All Shall Fall
+* Kadaver (2017) - Rough Times
 * Satyricon (2006) - Now, Diabolical
 * Wintersun (2004) - Wintersun
 * Wintersun (2012) - Time I
