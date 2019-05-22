@@ -11,3 +11,6 @@
 
 ## Material
 * [[Comps Preparation]]
+
+## Other
+* [[Ideas/Notes|Ideas]]
