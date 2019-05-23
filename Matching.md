@@ -5,6 +5,12 @@ Return to [[Methods]]
 ### Seminal papers
 * [[Rosenbaum and Rubin 1983]]
 
+### Coarsened exact matching (cem)
+* [[Blackwell et al 2009]]
+
+#### Example
+* [[Younge Tong and Fleming 2015]]
+
 ### Courses etc.
 * [[Special Topics in Statistics 2018]]: Sessions 3 & 4
 
