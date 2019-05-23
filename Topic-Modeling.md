@@ -1,6 +1,6 @@
 Return to [[Methods]]
 
----
+[[_TOC_]]
 
 ## Related to
 
