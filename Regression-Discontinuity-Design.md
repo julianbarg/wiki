@@ -5,6 +5,7 @@ Return to [[Methods]]
 ## Related to
 
 ### Seminal papers
+* [[Thistlethwaite and Campbell 1960]]
 * [[Imbens and Lemieux 2008]]
 * [[Gelman and Imbens 2017]]
 
