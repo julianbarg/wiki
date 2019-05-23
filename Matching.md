@@ -11,6 +11,10 @@ Return to [[Methods]]
 #### Example
 * [[Younge Tong and Fleming 2015]]
 
+### Propensity score matching (PSM)
+* [[Imbens 2000]]
+* [[Rosenbaum and Rubin 1083]]
+
 ### Courses etc.
 * [[Special Topics in Statistics 2018]]: Sessions 3 & 4
 
