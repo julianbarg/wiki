@@ -1,5 +1,7 @@
 Return to [[Methods]]
 
+[[_TOC_]
+
 ## Related to
 
 ### Coarsened exact matching (cem)
