@@ -11,7 +11,7 @@
 * [[Business Strategy II 2017]]
 
 ## Resources
-[[resources/Vergne-Depeyre-2016-Table-3|alt=Table 1]]
+[[resources/Vergne-Depeyre-2016-Table-3.png|alt=Table 1]]
 
 ## One-page summary
 This paper contributes to identify how both managerial attention and asset reconfigurations (dynamic capabilities) jointly and interactively cause firms’ adaptation. In the prior literature of firm adaptation, attention and dynamic capabilities have been discussed by scholars separately. However, this paper argues that both factors need to be related to each other to explain how firms adapt to their changing environment. While scholars in both camps have recognized the importance of “the other” factor (capabilities for attention scholars and attention for capabilities scholars: See Kaplan 2008, for the detailed review), there were few empirical studies that look at the relationship between attention, reconfigurations, and adaptation.  
