@@ -2,8 +2,18 @@ Return to [[Methods]]
 
 ## Related to
 
-### Seminal papers
+### Coarsened exact matching (cem)
+* [[Blackwell et al 2009]]
+
+#### Example
+* [[Younge Tong and Fleming 2015]]
+
+### Propensity score matching (PSM)
+* [[Imbens 2000]]
 * [[Rosenbaum and Rubin 1983]]
+
+#### Example
+* [[Love Lim and Bednar 2017]]
 
 ### Courses etc.
 * [[Special Topics in Statistics 2018]]: Sessions 3 & 4
