@@ -6,6 +6,7 @@ Part of: [[Organizational Theory]]
 
 ### Theories
 * [[Institutional Theory]]
+* [[Status and Reputation]]
 
 ### Seminal papers
 * [[Suddaby Bitektine and Haack 2017]]
