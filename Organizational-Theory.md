@@ -17,8 +17,10 @@
 * [[Industry-level]]
 * [[Firm-level]]
 
-### Theories/Phenomena:
+### Small T theories and Phenomena:
 * [[Attention-Based View]]
+* [[Legitimacy]]
+* [[Status and Reputation]] 
 * [[Path dependence]]
 * [[Reputation and Status]]
 
