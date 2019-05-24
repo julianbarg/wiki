@@ -12,4 +12,4 @@ Part of: [[Organizational Theory]]
 * [[Delmestri and Greenwood 2016]]
 
 ### Other papers
-* [[Bitektine 2011]
+* [[Bitektine 2011]]
