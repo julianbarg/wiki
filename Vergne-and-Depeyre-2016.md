@@ -13,6 +13,9 @@
 ## Resources
 [[resources/Vergne-Depeyre-2016-Table-3.png|alt=Table 1]]
 
+## One-paragraph summary
+How do firms adapt? Vergne and Depeyre (2016) argue that a firm might either rely on attention (anticipative adaption), or asset reconfiguration to adapt to a changing environment. Attention refers to the cognition literature, which assumes that managers' observation of the firm's environment determines subsequent action, whereas asset recofiguration borrows from the [[dynamic capabilities]] literature.
+
 ## One-page summary
 This paper explains how both managerial attention and asset reconfiguration (dynamic capabilities) advance firms’ adaptation. In the prior literature of firm adaptation, attention and dynamic capabilities have been discussed by scholars separately. However, this paper argues that we need to understand both factors to understand how firms adapt to their changing environment. While scholars in both camps have recognized the importance of “the other” factor (i.e., capabilities for attention scholars and attention for capabilities scholars; see Kaplan 2008 for a detailed review), there were few empirical studies that look at the relationship between attention, reconfiguration, and adaptation.  
 
