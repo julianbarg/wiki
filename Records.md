@@ -11,6 +11,7 @@
 * Ghost (2015) - Meliora
 * Ghost (2010) - Opus Eponymous
 * Gorgoroth (1996) - Antichrist
+* Gorgoroth (2003) - Twilight of the Idols
 * Gorgoroth (2006) - Quantos Possunt ad Satanitatem Trahunt
 * Immortal (1999) - At The Heart Of Winter
 * Immortal (2002) - Sons of Northern Darkness
