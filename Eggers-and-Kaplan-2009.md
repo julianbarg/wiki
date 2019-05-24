@@ -13,6 +13,9 @@ Eggers, J. P., & Kaplan, S. (2009). Cognition and Renewal: Comparing CEO and Org
 ### Courses etc.
 * [[Business Strategy II 2017]]
 
+## One-paragraph summary
+Are managers only facilitators of what is best for the company, in terms of environmental conditions and organizational capabilities? Or do they matter separately from those two factors? Eggers and Kaplan (2009) capture the effect of CEO attention on organizational outcomes as well as the interaction between organizational factors and CEO attention. Using a hazard rate model, they determine that companies in the communications technology industry enter the fiber-optics market sooner if the CEO pays attention to that sector, even after controlling for the organizational efforts in this area (H1; controlling for R&D). This effect of CEO attention is amplified by an attention of the organization toward the relevant industry (H5). The model does not control for the year effect though, so there might be a problem with autocorrelation (attention to the new sector, and likelihood of entry both increasing over time in parallel).
+
 ## One-page summary
 
 ### Goal of the paper
