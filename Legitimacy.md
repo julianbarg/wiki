@@ -8,7 +8,7 @@ Part of: [[Organizational Theory]]
 * [[Institutional Theory]]
 * [[Status and Reputation]]
 
-### Seminal papers]
+### Seminal papers
 * [[Rhetorical Strategies of Legitimacy 2005]]
 * [[Suddaby Bitektine and Haack 2017]]
 
