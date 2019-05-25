@@ -15,11 +15,17 @@ Benjamin, B. A., & Podolny, J. M. (1999). Status, Quality, and Social Order in t
 ### Courses etc.
 * [[Business Strategy II 2017]]
 
+### Previous literature
+* [[Granovetter 1985]]
+
+## One-paragraph summary
+How does status affect price/performance? Benjamin and Podolny (1999) suggest that there is an interaction between status and quality. Status emerges from affiliation with other high status actors in the network. Because of the interaction between status and quality, an investment into quality improvement offers less pay-off for low status actors. Quality pays off less for them, and they are less likely to invest in it. Quality is measured by an external audience (rating). Status is measure by affiliation with AVAs that are popular as destinations for outside wineries to take on for their bottles by buying grapes from there.
+
 ## One-page summary
 
 ### Goal of the Paper
 * Examines how a producer’s status in the market influences choices about product quality and outcomes that result 
-* Clarify mechanism behind the stability of status overtime (Phillips and Zuckerman, 2001): demonstrates how current affiliations affect and constrain returns to subsequent affiliation 
+* Clarify mechanism behind the stability of status over time (Phillips and Zuckerman, 2001): demonstrates how current affiliations affect and constrain returns to subsequent affiliation 
 * Looks at how status influences returns to past quality – Matthew Effect (accumulated advantage) 
 
 ### The process of status begetting status
