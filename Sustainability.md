@@ -6,3 +6,8 @@
 
 ### Citation
 WCED. (1987). Report of the World Commission on Environment and Development: Our Common Future (The Brundtland Report) (Vol. 4). Oxford: Oxford University Press for World Commission on Environment and Development. Retrieved from [[http://www.un-documents.net/wced-ocf.htm]]
+
+## Related to
+
+### Courses
+* [[Business Sustainability (2017)|Business Sustainability 2017]]
