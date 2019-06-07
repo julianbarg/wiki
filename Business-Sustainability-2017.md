@@ -71,11 +71,11 @@
   </tr>
 </table>
 
-### Session 04: Paradoxes - Real and Constructed
+### Session 04: [[Paradoxes|Paradox]] - Real and Constructed
 
 <table>
   <tr>
-    <td rowspan="4">Paradox</td>
+    <td rowspan="4">[[Paradox]]</td>
     <td>[[Lewis and Smith 2014]]</td>
   </tr>
   <tr>
