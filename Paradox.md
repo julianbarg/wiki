@@ -5,6 +5,7 @@ Part of: [[Organizational Theory]]
 ## Related to
 
 ### Seminal papers
+* [[Lewis 2000]]
 * [[Lewis and Smith 2014]]
 
 ### Other papers
