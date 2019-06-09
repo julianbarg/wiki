@@ -3,7 +3,7 @@
 [[_TOC_]]
 
 ## Citation
-Lewis, M. W. (2000). Exploring Paradox: Toward a More Comprehensive Guide. The Academy of Management Review, 25(4), 760. [[https://doi.org/10.2307/259204]]
+Lewis, M. W. (2000). Exploring Paradox: Toward a More Comprehensive Guide. The Academy of Management Review, 25(4), 760-776. [[https://doi.org/10.2307/259204]]
 
 ## Related to
 
