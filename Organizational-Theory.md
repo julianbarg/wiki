@@ -9,6 +9,7 @@
 * [[Evolutionary Theory]]
 * [[Institutional Theory]]
 * [[Organizational Ecology]]
+* [[Paradox]]
 * [[Resource-based View]] (RBV)
 * [[Resource Dependence Theory]]
 * [[Temporality]]
