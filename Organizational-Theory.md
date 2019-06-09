@@ -24,7 +24,6 @@
 * [[Legitimacy]]
 * [[Status and Reputation]] 
 * [[Path dependence]]
-* [[Reputation and Status]]
 
 ### Relevant Courses
 * [[Business Strategy I 2018]]
