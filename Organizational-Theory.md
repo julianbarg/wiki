@@ -4,6 +4,7 @@
 
 * [[Behavioral Theory]]
 * [[Cognition]]
+* [[Contingency Theory]]
 * [[Dynamic Capabilities]]
 * [[Evolutionary Theory]]
 * [[Institutional Theory]]
