@@ -24,6 +24,7 @@
 * [[Legitimacy]]
 * [[Status and Reputation]] 
 * [[Path dependence]]
+* [[Hybrid organizations]]
 
 ### Relevant Courses
 * [[Business Strategy I 2018]]
