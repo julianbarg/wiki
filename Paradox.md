@@ -14,7 +14,7 @@ Part of: [[Organizational Theory]]
 
 ### Literature reviews
 * [[Schad et al. 2016]]
-* [[Fairhurst 2016]]
+* [[Fairhurst et al. 2016]]
 
 ### Courses etc.
 * [[Business Sustainability (2017)|Business Sustainability 2017]]
