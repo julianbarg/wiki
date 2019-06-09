@@ -29,7 +29,7 @@ Lewis, M. W. (2000). Exploring Paradox: Toward a More Comprehensive Guide. The A
 * Paradoxes of Belonging
 
 ## Resources
-[[resources/Lewis-2000-Fig01.png|alt=Figure 1]]
+[[resources/Lewis-2000-Fig-1.png|alt=Figure 1]]
 
 ## One-paragraph summary
 One part is the actual review that lists the literature in its groupings as examples.
