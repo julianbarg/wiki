@@ -5,6 +5,7 @@ Part of: [[Organizational Theory]]
 ## Related to
 
 ### Seminal papers
+* [[Quinn and Cameron 1988]] (book)
 * [[Lewis 2000]]
 * [[Lewis and Smith 2014]]
 
