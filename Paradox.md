@@ -11,7 +11,7 @@ Part of: [[Organizational Theory]]
 
 ### Other papers
 * [[Ashforth and Reingen 2014]]
-* [[Smith and Besharov 2017]]
+* [[Smith and Besharov 2019]]
 
 ### Literature reviews
 * [[Schad et al. 2016]]
