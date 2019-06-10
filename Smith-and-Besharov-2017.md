@@ -1,4 +1,4 @@
-**Smith and Besharov 2017 - Bowing before Dual Gods: How Structured Flexibility Sustains Organizational Hybridity**
+**Smith and Besharov 2019 - Bowing before Dual Gods: How Structured Flexibility Sustains Organizational Hybridity**
 
 [[_TOC_]]
 
