@@ -22,10 +22,11 @@
 
 ### Small T theories and Phenomena:
 * [[Attention-Based View]]
-* [[Legitimacy]]
-* [[Status and Reputation]] 
-* [[Path dependence]]
+* [[Grand challenges]]
 * [[Hybrid organizations]]
+* [[Legitimacy]]
+* [[Path dependence]]
+* [[Status and Reputation]] 
 
 ### Relevant Courses
 * [[Business Strategy I 2018]]
