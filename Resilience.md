@@ -8,6 +8,7 @@ Part of: [[Business Sustainability]], [[Organizational Theory]]
 * [[van der Vegt et al. 2015]]
 
 ### Other papers
+* [[Holling 2001]]
 
 ### Courses etc.
 * [[Business Sustainability 2017]]
