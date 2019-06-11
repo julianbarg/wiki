@@ -5,8 +5,8 @@ Part of: [[Business Sustainability]], [[Organizational Theory]]
 ## Related to
 
 ### Seminal papers
-* [[van der Vegt et al. 2015]]
-* [[Walker et al. 2004]]
+* [[van der Vegt et al 2015]]
+* [[Walker et al 2004]]
 
 ### Other papers
 * [[Holling 2001]]
