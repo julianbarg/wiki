@@ -5,9 +5,10 @@ Part of: [[Business Sustainability]], [[Organizational Theory]]
 ## Related to
 
 ### Seminal papers
+* [[Folke 2006]]
+* [[Ortiz-de-Mandojana and Bansal 2016]]
 * [[van der Vegt et al 2015]]
 * [[Walker et al 2004]]
-* [[Ortiz-de-Mandojana and Bansal 2016]]
 
 ### Other papers
 * [[Holling 2001]]
