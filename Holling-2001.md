@@ -24,5 +24,7 @@ is maintained, the interactions within the levels themselves can be transformed,
 
 [[resources/Holling-2001-Fig-5.png|alt=Table 1]]
 
-Converge to 
-
+## One-paragraph summary
+Holling (2001) introduces the nature of system change and persistence, based on [[Gunderson and Holling 2001]]. 
+Systems have three main attributes that determine their development: potential, connectedness, and resilience. *Potential* describes the available resources or "wealth" of the system. *Connectedness* describes in how far the system is internally connected and hence internally controllable. When the system has high potential, but also a high degree of connectedness, it may become overly rigid, and hence very accident-prone (*conservation* period). In this high potential environment, an event such as a forest fire, or a plague can derail the system, and lead to a *release* event. Eventually, a *reorganization* (such as Schumpeter's creative destruction) may occur that spawns valuable innovations and possibly enables a new growth (*exploitation*) phase. In this process, resilience describes the .
+Systems at different levels interact with each other. 
