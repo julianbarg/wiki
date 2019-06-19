@@ -12,5 +12,8 @@
 ## Material
 * [[Comps Preparation]]
 
+## Projects
+* [[Pace 2019]]
+
 ## Other
 * [[Ideas/Notes|Ideas]]
