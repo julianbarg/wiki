@@ -15,6 +15,15 @@ Argote, L. (2013). Organizational Learning. Creating, Retaining and Transferring
 ## Concepts
 * Organizational forgetting
 
+## Chapter-by-chapter summary
+
+### 1. Organizational Learning Curves: An Overview
+
+[[resources/Argote-2013-Fig-1-1|alt=Fig 1.1]]
+
+Introducing the learning curve. 
+
 ## One-paragraph summary
 
 ## One-page summary
+
