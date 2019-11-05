@@ -4,3 +4,17 @@
 
 ## Citation
 Argote, L. (2013). Organizational Learning. Creating, Retaining and Transferring Knowledge (2nd ed.). Boston, MA: Springer US. [[https://doi.org/10.1007/978-1-4614-5251-5]]
+
+## Related to
+
+### Theories
+* [[Behavioral Theory of the Firm|Behavioral Theory]] (?)
+
+### Previous literature
+
+## Concepts
+* Organizational forgetting
+
+## One-paragraph summary
+
+## One-page summary
