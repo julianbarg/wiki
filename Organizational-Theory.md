@@ -2,19 +2,19 @@
 
 ### Big T theories:
 
-* [[Behavioral Theory]]
-* [[Cognition]]
+* [[Behavioral Theory]]*
+* [[Cognition]]*
 * [[Contingency Theory]]
-* [[Dynamic Capabilities]]
-* [[Evolutionary Theory]]
-* [[Institutional Theory]]
+* [[Dynamic Capabilities]]*
+* [[Evolutionary Theory]]*
+* [[Institutional Theory]]*
 * [[Learning]]
-* [[Organizational Ecology]]
-* [[Paradox]]
-* [[Resilience]]
-* [[Resource-based View]] (RBV)
-* [[Resource Dependence Theory]]
-* [[Temporality]]
+* [[Organizational Ecology]]*
+* [[Paradox]]*
+* [[Resilience]]*
+* [[Resource-based View]]* (RBV)
+* [[Resource Dependence Theory]]*
+* [[Temporality]]*
 
 ### Levels of analysis
 * [[Individual-level]]
@@ -22,12 +22,12 @@
 * [[Firm-level]]
 
 ### Small T theories and Phenomena:
-* [[Attention-Based View]]
+* [[Attention-Based View]]*
 * [[Grand challenges]]
 * [[Hybrid organizations]]
-* [[Legitimacy]]
+* [[Legitimacy]]*
 * [[Path dependence]]
-* [[Status and Reputation]] 
+* [[Status and Reputation]]*
 
 ### Relevant Courses
 * [[Business Strategy I 2018]]
