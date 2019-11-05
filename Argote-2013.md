@@ -19,7 +19,7 @@ Argote, L. (2013). Organizational Learning. Creating, Retaining and Transferring
 
 ### 1. Organizational Learning Curves: An Overview
 
-[[resources/Argote-2013-Fig-1-1.png|alt=Fig 1.1]]
+[[resources/Argote-2013-Fig-1-1.png|alt=Fig 1.1, 50%]]
 
 Introducing the learning curve. 
 
