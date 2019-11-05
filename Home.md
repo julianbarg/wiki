@@ -17,3 +17,4 @@
 
 ## Other
 * [[Ideas/Notes|Ideas]]
+* [[Templates]]
