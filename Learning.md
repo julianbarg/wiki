@@ -13,3 +13,6 @@ Part of: [[Organizational Theory]]
 ### Literature reviews
 * [[Argote 2013]]
 * [[Lapre and Nembhard 2010]]
+
+## One-page summary
+
