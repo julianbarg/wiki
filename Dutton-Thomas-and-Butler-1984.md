@@ -1,6 +1,6 @@
 **Dutton, Thomas and Butler 1984 - The History of Progress Functions as a Managerial Technology**
 
-[[ _TOC_]]
+[[_TOC_]]
 
 ## Related to
 
