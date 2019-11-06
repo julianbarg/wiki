@@ -8,6 +8,7 @@ Argote, L. (2013). Organizational Learning. Creating, Retaining and Transferring
 ## Related to
 
 ### Theories
+* [[Learning]] 
 * [[Behavioral Theory of the Firm|Behavioral Theory]] (?)
 
 ### Previous literature
