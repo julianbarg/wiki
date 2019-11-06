@@ -8,4 +8,8 @@ Part of: [[Organizational Theory]]
 * [[Learning]]
 
 ### Seminal works
-* [[Argote 2013]] - Organizational learning (book)
+* [[Argote 2013]] - Organizational Learning (book)
+
+### Literature reviews
+* [[Argote 2013]]
+* [[Lapre and Nembhard 2010]]
