@@ -2,17 +2,12 @@
 
 \[\[ \_TOC_]]
 
-\## Citation
-
+\## One-paragraph summary
 
 \## Related to
 
 \### Theories
 
-\### Previous literature
-
-\## Concepts
-
-\## One-paragraph summary
+\### Seminal works
 
 \## One-page summary
