@@ -19,4 +19,6 @@ Studies both articles that seek to isolate causal factors ("T" studies), and pre
 
 Also offers evidence of learning curve literature moving from production to other areas, such as safety (ibid. 216 f.).
 
+Offers some criticism of learning curves: many authors have treated the learning curve as very reliably, despite "the extreme and often unexplained variation in [... learning] patterns" (ibid. 217).
+
 ## One-page summary
