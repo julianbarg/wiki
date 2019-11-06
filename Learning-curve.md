@@ -13,10 +13,10 @@
 * [[Argote 2013]]
 * [[Lapre and Nembhard 2010]]
 
-## Lit reviews
+### Lit reviews
 * [[Argote 2013]]
 
-### Examples
+## Examples
 1. Aircraft
     * [[Achian 1963]]*
 2. Ships
