@@ -27,6 +27,7 @@
 * [[Attention-Based View]]*
 * [[Grand challenges]]
 * [[Hybrid organizations]]
+* [[Learning curve]]
 * [[Legitimacy]]*
 * [[Path dependence]]
 * [[Status and Reputation]]*
