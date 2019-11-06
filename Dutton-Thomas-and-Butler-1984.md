@@ -11,7 +11,8 @@
 ### Previous literature
 
 ## Resources
-**Variance of the learning rate across different studies.**
+
+### Variance of the learning rate across different studies.
 
 [[resources/Dutton-Thomas-and-Butler-1984-Fig-3.png|alt=Fig 3|width=500px]]
 
