@@ -4,7 +4,7 @@
 
 ## One-paragraph summary
 
-The learning curve started out only incorporating "direct-labor learning", before also incorporating factors such as "cognitive learning by managerial and technical personnel as well as improvements due to technology change"([[Dutton Thomas And Butler 1984]]: 205.
+The learning curve started out only incorporating "direct-labor learning", before also incorporating factors such as "cognitive learning by managerial and technical personnel as well as improvements due to technology change" ([[Dutton Thomas And Butler 1984]]: 205) .
 
 ## Related to
 
