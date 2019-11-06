@@ -16,8 +16,8 @@
 1. Aircraft
     * [[Achian 1963]]*
 2. Ships
-    *[[Asher 1956]]*
-    *[[Wright 1936]]*
+    * [[Asher 1956]]*
+    * [[Wright 1936]]*
 3. Semiconductors
     * [[Rapping 1965]]*
 4. Trucks
