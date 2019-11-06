@@ -13,5 +13,6 @@
 ## Resources
 
 ## One-paragraph summary
+A lot of the research on progress functions (to this point) has been undertaken by engineers.
 
 ## One-page summary
