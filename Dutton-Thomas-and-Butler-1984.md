@@ -11,6 +11,9 @@
 ### Previous literature
 
 ## Resources
+**Variance of the learning rate across different studies.**
+
+[[resources/Dutton-Thomas-and-Butler-1984-Fig-3.png|alt=Fig 3|width=500px]]
 
 ## One-paragraph summary
 Studies both articles that seek to isolate causal factors ("T" studies), and prescriptive studies ("A" studies). Also explores the possibility that learning curve is self-fulfilling strategy.
@@ -21,7 +24,7 @@ Also offers evidence of learning curve literature moving from production to othe
 
 Offers some criticism of learning curves: many authors have treated the learning curve as very reliably, despite "the extreme and often unexplained variation in [... learning] patterns" (ibid. 217).
 
-Early learning curve research was fixated on
+Early learning curve research was fixated on "direct-labor learning" before observing other trends, "factors such as improved plant and equipment, other adaptive efforts, and cognitive learning by direct and indirect labor as well as technical personnel."(ibid. 218). The paper then goes on to explain how the literature moved from reserch on direct-labor learning to research on other areas of the learning curve. Similarly, the research moved from finding the learning curve "systematic and stable" to "patterns [... that vary] widely for similar processes and products and even for subsequent runs of the same product in the same plant" (ibid. 220).
 
 ## One-page summary
 
