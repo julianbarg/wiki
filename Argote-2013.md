@@ -12,6 +12,7 @@ Argote, L. (2013). Organizational Learning. Creating, Retaining and Transferring
 * [[Behavioral Theory of the Firm|Behavioral Theory]] (?)
 
 ### Previous literature
+* [[Lapre and Nembhard 2010]] (learning cuve literature review)
 
 ## Concepts
 * Organizational forgetting
