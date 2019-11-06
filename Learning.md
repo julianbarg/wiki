@@ -5,7 +5,7 @@ Part of: [[Organizational Theory]]
 ## Related to
 
 ### Theories
-* [[Learning]
+* [[Learning]]
 
 ### Seminal works
 * [[Argote 2013]] - Organizational learning (book)
