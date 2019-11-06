@@ -21,8 +21,21 @@
 3. Semiconductors
     * [[Rapping 1965]]*
 4. Trucks
-    * [[Epple Argote and Murhpy 1996]]
-    * [[Gruber 1994]]
- 
+    * [[Epple Argote and Murhpy 1996]]*
+    * [[Gruber 1994]]*
+5. Refined petroleum
+    * [[Hirschmann 1964]]*
+6. Chemicals
+    * [[Lieberman 1984]]*
+7. Success rates of surgical procedures
+    * [[Kelsey et al 1984]]*
+8. Completion times of surgical procedures
+    * [[Reagans Argote and Brooks 2005]]*
+9. Nuclear plant operating reliability
+    * [[Joskow Rozanski 1979]]*
+10. Productivity in Kibbutz farming
+    * [[Barkai and Levhari 1973]]*
+11. Pizza production
+    * [[Darr Argote and Epple]]*
 
 ## One-page summary
