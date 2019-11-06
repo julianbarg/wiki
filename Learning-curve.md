@@ -11,9 +11,13 @@ The learning curve started out only incorporating "direct-labor learning", befor
 ### Theories
 * [[Learning]]
 
+### Seminal papers
+* [[Dutton Thomas and Butler 1984]]
+
 ### Literature reviews
 * [[Argote 2013]]
 * [[Lapre and Nembhard 2010]]
+* [[Dutton Thomas and Butler 1984]]
 
 ### Lit reviews
 * [[Argote 2013]]
