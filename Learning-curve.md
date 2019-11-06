@@ -9,6 +9,10 @@
 ### Theories
 * [[Learning]]
 
+### Literature reviews
+* [[Argote 2013]]
+* [[Lapre and Nembhard 2010]]
+
 ## Lit reviews
 * [[Argote 2013]]
 
