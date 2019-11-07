@@ -14,3 +14,4 @@ Alchian, A. (1963). Reliability of Progress Curves in Airframe Production. Econo
 * [[Wright 1936]]
 
 ## One-paragraph summary
+Summarizes the data on airplane production during the second world war. Finds a high variance among the error rates for predictions on the learning curve.
