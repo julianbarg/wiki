@@ -8,13 +8,7 @@ Baloff, N. (1966). The Learning Curve--Some Controversial Issues. *The Journal o
 ## Related to
 
 ### Theories
-
-### Courses etc.
-
-### Previous literature
-
-## Resources
+* Learning curve
 
 ## One-paragraph summary
-
-## One-page summary
+Clarifying the learning curve model: what are the theoretical underpinnings, and how should the learning curve function be stated
