@@ -8,7 +8,7 @@ Wright, T. P. (1936). Factors Affecting the Cost of Airplanes. Journal of the Ae
 ## Related to
 
 ### Theories
-* Learning curve
+* [[Learning curve]]
 
 ### Previous literature
 
