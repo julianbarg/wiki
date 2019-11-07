@@ -9,6 +9,7 @@
 * [[Learning]]
 
 ### Previous literature
+* [[Wright 1936]]
 
 ## Resources
 
