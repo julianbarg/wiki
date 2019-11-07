@@ -8,7 +8,7 @@ Arrow, K. J. (1962). The Economic Implications of Learning by Doing. The Review 
 ## Related to
 
 ### Theories
-* [[Learning curve
+* [[Learning curve]]
 
 ### Previous literature
 * [[Dutton Thomas and Butler 1984]]
