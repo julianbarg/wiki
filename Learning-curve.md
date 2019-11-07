@@ -4,7 +4,7 @@
 
 ## One-paragraph summary
 
-The learning curve started out only incorporating "direct-labor learning", before also incorporating factors such as "cognitive learning by managerial and technical personnel as well as improvements due to technology change" ([[Dutton Thomas And Butler 1984]]: 205) .
+The learning curve is an important predecessor of the learning literature. Wright (1936) observed that costs where lowered with continuous production of the same model of airplane (although there was some conflation of economies of scale and learning in this observations). The learning that takes place involves not only individual workers learning their tasks at hand, but also learning on the side of management and engineers (Baloff 1966). In other words, the learning curve started out only incorporating "direct-labor learning", before also incorporating factors such as "cognitive learning by managerial and technical personnel as well as improvements due to technology change" ([[Dutton Thomas And Butler 1984]]: 205). Later, we learned that the learning curve is also applicable to areas outside of productivity, such as safety, and that learning rates vary widely between industries and organizations. From this starting point, the [[learning]] literature took off. This learning literature researches the theoretical foundations of a more general organizational learning, the existence of which the learning curves literature over time seems to point toward.
 
 ## Related to
 
