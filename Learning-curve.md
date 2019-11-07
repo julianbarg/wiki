@@ -14,6 +14,9 @@ The learning curve started out only incorporating "direct-labor learning", befor
 ### Seminal papers
 * [[Wright 1936]]
 * [[Arrow 1962]]
+
+### Other papers
+* [[Baloff 1966]]
 * [[Dutton Thomas and Butler 1984]]
 
 ### Literature reviews
