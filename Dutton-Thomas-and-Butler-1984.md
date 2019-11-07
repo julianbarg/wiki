@@ -15,6 +15,7 @@ Dutton, J. M., Thomas, A., & Butler, J. E. (1984). The History of Progress Funct
 
 ### Classic papers
 * [[Wright 1936]]
+* [[Alchian 1963]]
 
 ## Resources
 
