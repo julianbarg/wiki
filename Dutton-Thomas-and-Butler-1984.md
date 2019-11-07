@@ -9,6 +9,8 @@
 * [[Learning]]
 
 ### Previous literature
+
+### Classic papers
 * [[Wright 1936]]
 
 ## Resources
