@@ -12,7 +12,7 @@ Wright, T. P. (1936). Factors Affecting the Cost of Airplanes. Journal of the Ae
 * Economics of scale
 
 ## Resources
-[[resources/Wright-1936-Fig-1.png|alt=Fig 1|width=600px]]
+[[resources/Wright-1936-Fig-1.png|alt=Fig 1|width=500px]]
 
 ## One-paragraph summary
 Hard to divide discussion into learning curve and economies of scale.
