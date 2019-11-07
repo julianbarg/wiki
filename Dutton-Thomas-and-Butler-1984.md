@@ -2,6 +2,9 @@
 
 [[_TOC_]]
 
+## Citation
+Dutton, J. M., Thomas, A., & Butler, J. E. (1984). The History of Progress Functions as a Managerial Technology. Business History Review, 58(2), 204–233. [[https://doi.org/10.2307/3115048]]
+
 ## Related to
 
 ### Theories
