@@ -8,7 +8,7 @@ Alchian, A. (1963). Reliability of Progress Curves in Airframe Production. Econo
 ## Related to
 
 ### Theories
-* Learning curve
+* [[Learning curve]]
 
 ### Previous literature
 * [[Wright 1936]]
