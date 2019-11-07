@@ -1,6 +1,9 @@
 **Wright 1936 - Factors Affecting the Cost of Airplanes**
 
-[[ _TOC_]]
+[[_TOC_]]
+
+## Citation
+Wright, T. P. (1936). Factors Affecting the Cost of Airplanes. Journal of the Aeronautical Sciences, 3(4), 122–128. [[https://doi.org/10.2514/8.155]]
 
 ## Related to
 
