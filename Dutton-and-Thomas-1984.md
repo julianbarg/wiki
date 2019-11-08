@@ -11,6 +11,9 @@ Dutton, J. M., & Thomas, A. (1984). Treating Progress Functions as a Managerial 
 * [[Learning]]
 * [[Learning curve]]
 
+### Previous literature
+* [[Wright 1936]]
+
 ## Resources
 
 ## One-paragraph summary
