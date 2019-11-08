@@ -15,6 +15,7 @@ Dutton, J. M., & Thomas, A. (1984). Treating Progress Functions as a Managerial 
 * [[Wright 1936]]
 
 ## Resources
+[[resources/Dutton-and-Thomas-1984-Table-1.png|width=800px]]
 
 ## One-paragraph summary
 Signifies the move of the literature from analysis on the level of the individual worker to the level of the organization. For this purpose, Dutton and Thomas (1984) differentiate between the learning curve (which they propose describes learning at the worker level) and the progress function.
