@@ -12,7 +12,7 @@ Part of: [[Organizational Theory]]
 
 ### Literature reviews
 * [[Argote 2013]]
-* [[Dutton 1984]]
+* [[Dutton and Thomas 1984]]
 * [[Lapre and Nembhard 2010]]
 
 ## One-page summary
