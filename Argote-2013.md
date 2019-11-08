@@ -17,15 +17,17 @@ Argote, L. (2013). Organizational Learning. Creating, Retaining and Transferring
 ## Concepts
 * Organizational forgetting
 
+## Information
+* RQ: "[To explain] why some organizations are better at learning than others" (Argote 2013, 2).
+
 ## Chapter-by-chapter summary
 
 ### 1. Organizational Learning Curves: An Overview
 
 [[resources/Argote-2013-Fig-1-1.png|alt=Fig 1.1|width=500px]]
 
-Introducing the learning curve. 
+Introducing the learning curve as a starting point for the literature on organizational learning. The learning curve signifies the simple observation that with growing cumulative production, the unit cost tends to decrease. The learning curve is found to hold in many different contexts, but the learning rate varies significantly (p. 2). 
 
 ## One-paragraph summary
 
 ## One-page summary
-
