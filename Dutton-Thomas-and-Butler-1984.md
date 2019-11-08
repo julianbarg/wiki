@@ -32,4 +32,6 @@ Dutton, Thomas and Butler (1984) explore the development of the learning curve u
 Finally, the article compares studies both articles that seek to isolate causal factors ("T" studies), and prescriptive studies ("A" studies). The existence of these disparate literatures are used to substantiate the authors claims that it is a  disconnect between practitioners and academics that allowed the "myth" of a reliable learning curve to proliferate. The article makes an important contribution: it guided researchers toward factors apart from direct-labor learning that contribute to organizational learning.
 
 ## Questions/Criticism/Extension
-Would it be possible, for instance, that organizations, once they reach a certain level from which progress is difficult to achieve, lower their standards to achieve this progress on the learning curve?
+* Would it be possible, for instance, that organizations, once they reach a certain level from which progress is difficult to achieve, lower their standards to achieve this progress on the learning curve?
+
+* The authors propagate that we see continuous improvements in productivity, which (partially) explains our economic growth. Is there a limit to **this kind** of economic "growth"? We are increasingly improving meta-routines. For instance management software such as SAP, software that allows for quick iterating in product development such as CAD, or efficient supply chain, and last but not least robots for production. Thus, learning has reached a new quality. Is there a ceiling?
