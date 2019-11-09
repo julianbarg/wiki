@@ -14,6 +14,7 @@ Part of: [[Organizational Theory]]
 * [[Argote 2013]]
 * [[Dutton and Thomas 1984]]
 * [[Lapre and Nembhard 2010]]
+* [[Muth 1986]]
 
 ## One-page summary
 
