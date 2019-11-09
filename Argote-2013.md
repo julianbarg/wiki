@@ -30,7 +30,7 @@ Introducing the learning curve as a starting point for the literature on organiz
 
 Some important takeaways:
 * Classic form of the learning curve: $y_i = ax^b_i$, where y is labor hours per unit, a is the labor hours for the first unit, and i is a time subscript.
-* If one takes time as the DV to to measure experience, the result might be skewed, because of the external environment causing improvements. Cumulative production far better captures the experience that team members gather about their work, and about each other, when carrying out the work. 
+* If one takes time as the DV to to measure experience, the result might be skewed, because of the external environment causing improvements. Cumulative production far better captures the experience that team members gather about their work, and about each other, when carrying out the work. Cumulative output has been found in the empirical literature to be a superior predictor of unit cost (p. 12).
 
 ## Thoughts
 * **Knowledge transfer**: is it one of the keys to understand the effect of disruptions? Whether an organization can preserve knowledge throughout a disruption? From one "iteration" of an organization to the next.
