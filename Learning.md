@@ -19,10 +19,8 @@ Part of: [[Organizational Theory]]
 
 ## Definitions
 
-| __Term__                      | Definition  |
-|-------------------------------|-------------|
-| __Organizational learning__   | Definition 1|
-| __Organizational forgetting__ | Definition 2|
+* **Organizational learning**: "[C]hange in the organization's knowledge that occurs as a function of experience" ([[Argote 2013]], 31)
+* **Organizational forgetting**: "[T]he loss, voluntary or otherwise, of organizational knowledge" ([[de Holan and Phillips 2004]], 1606)
 
 ## One-page summary
 
