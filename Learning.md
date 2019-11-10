@@ -5,6 +5,7 @@ Part of: [[Organizational Theory]]
 ## Related to
 
 ### Theories
+* [[Behavioral Theory of the Firm|Behavioral Theory]]
 * [[Learning curve]]
 
 ### Seminal works
