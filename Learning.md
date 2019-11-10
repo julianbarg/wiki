@@ -17,6 +17,13 @@ Part of: [[Organizational Theory]]
 * [[Lapre and Nembhard 2010]]
 * [[Muth 1986]]
 
+## Definitions
+
+| __Term__                      | Definition  |
+|-------------------------------|-------------|
+| __Organizational learning__   | Definition 1|
+| __Organizational forgetting__ | Definition 2|
+
 ## One-page summary
 
 ## Thoughts
