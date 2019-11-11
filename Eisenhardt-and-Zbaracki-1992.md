@@ -10,6 +10,9 @@ Eisenhardt, K. M., & Zbaracki, M. J. (1992). Strategic Decision Making. *Strateg
 ### Theories
 * [[Behavioral Theory of the Firm|Behavioral Theory]]
 
+### Previous literature
+* [[March and Simon 1958]]
+
 ## Resources
 
 ## Key takeaways
