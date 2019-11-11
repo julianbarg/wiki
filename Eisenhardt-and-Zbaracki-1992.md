@@ -14,6 +14,7 @@ Eisenhardt, K. M., & Zbaracki, M. J. (1992). Strategic Decision Making. *Strateg
 
 ## Key takeaways
 * "It is clear that people are rational, but only boundedly so, that power wins battles of choice, and that chance affects the course of strategic decision making" (ibid. 18).
+* "[...] tired debates about single goals and perfect rationality [...]" (ibid. 18).
 
 ## One-paragraph summary
 
