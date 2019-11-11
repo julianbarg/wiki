@@ -1,4 +1,5 @@
 Two elements work toward an organization reducing its environmental footprint:
+
 * Technology
 * Learning
 
