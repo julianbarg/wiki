@@ -34,7 +34,7 @@ Introducing the learning curve as a starting point for the literature on organiz
 * If one takes time as the DV to to measure experience, the result might be skewed, because of the external environment causing improvements. Cumulative production far better captures the experience that team members gather about their work, and about each other, when carrying out the work. Cumulative output has been found in the empirical literature to be a superior predictor of unit cost (ibid. 12). In practice, both may be included in a model.
 * "There is often more variation across organizations producing the same product than within organizations producing different products. For example, there was more variation in productivity gains across World War II shipyards that produced the same ship than there was within the shipyards that produced different ships" (ibid., 17).
 * "[M]any factors have been hypothesized to contribute to the productivity gains associated with increasing experience. The factors can be grouped into three general categories: increased proficiency of individuals, including managers, engineers and direct production workers; improvements in the organization’s technology; and improvements in its structure, routines and methods of coordination.
-* According to Argote's description, the theoretical base to Learning is very thin.
+* According to Argote's description, the theoretical base to Learning is very thin (part 1.7)/
 
 ## Thoughts
 * **Knowledge transfer**: is it one of the keys to understand the effect of disruptions? Whether an organization can preserve knowledge throughout a disruption? From one "iteration" of an organization to the next.
