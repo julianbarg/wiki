@@ -4,6 +4,10 @@
 
 Part of: [[Organizational Theory]]
 
+# ToDo
+* [[March 1962]] (The Business Firm as a Political Coalition)
+* [[Eisenhardt and Zbaracki 1992]]
+
 ## Related to
 
 ### Theories
@@ -11,6 +15,9 @@ Part of: [[Organizational Theory]]
 
 ### Seminal papers
 * [[Cyert and March 1963]]
+
+### Other papers
+* [[Eisenhardt and Zbaracki 1992]]
 
 ### Courses etc.
 * [[Organizational Theory 2017]]
