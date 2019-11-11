@@ -13,6 +13,7 @@
 * [[Comps Preparation]]
 
 ## Projects
+* [[Thesis]]
 * [[Pace 2019]]
 
 ## Other
