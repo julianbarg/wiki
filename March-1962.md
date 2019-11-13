@@ -15,7 +15,8 @@ March, J. G. (1962). The Business Firm as a Political Coalition. *The Journal of
 
 ## Notes
 
-### Important sentences/messages
+### Important sentences/observations
 * "The individual is treated as the system in some cases (e.g., in learning) and as the elementary unit in other (e.g., studies of small groups). Similarly, small groups are treated both as systems and as elementary units (e.g., in studies of organizations). Since the first postulate of conflict is essentially that the basic units themselves not be conflict systems, it seems awkward to be able to view a single system as either an elementary unit or a conflict system depending on the level of aggregation involved" (ibid. 664).
+* "In many resepcts, March and Simon, Thompson, and Cyert and March view the business organization as a socio-political conflict system subject to economic constraints" (ibid. 666).
 
 ### One-paragraph summary
