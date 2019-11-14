@@ -17,8 +17,10 @@ Eisenhardt, K. M., & Zbaracki, M. J. (1992). Strategic Decision Making. *Strateg
 ## Resources
 
 ## Key takeaways
-* "It is clear that people are rational, but only boundedly so, that power wins battles of choice, and that chance affects the course of strategic decision making" (ibid. 18).
+* "It is clear that people are rational, but only boundedly so, that power wins battles of choice, and that chance affects the course of strategic decision making" (ibid., 18).
 * "[...] tired debates about single goals and perfect rationality [...]" (ibid. 18).
+* "The recent incarnation transformed the rational vs. boundedly rational dichotomy into a continuum, probing whether and when decision making is rational" (ibid., 18).
+* "Empirical research clearly supports (1) the existence of cognitive limits to the rational model. Decision makers satisfice instead of optimize, rarely engage in comprehensive search, and discover their goals in the process of searching" (ibid., 22).
 
 ## One-paragraph summary
 
