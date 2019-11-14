@@ -17,6 +17,7 @@ Part of: [[Organizational Theory]]
 
 ### Other papers
 * [[Eisenhardt and Zbaracki 1992]]
+* [[March 1962]]
 
 ### Courses etc.
 * [[Organizational Theory 2017]]
