@@ -23,5 +23,7 @@ Eisenhardt, K. M., & Zbaracki, M. J. (1992). Strategic Decision Making. *Strateg
 * "Empirical research clearly supports (1) the existence of cognitive limits to the rational model. Decision makers satisfice instead of optimize, rarely engage in comprehensive search, and discover their goals in the process of searching" (ibid., 22).
 
 ## One-paragraph summary
+Eisenhardt and Zbaracki (1992) 
+
 
 ## One-page summary
