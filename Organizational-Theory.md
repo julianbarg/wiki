@@ -1,6 +1,6 @@
 [[_TOC_]]
 
-**\* - Entries for comps prep/Classes**
+**\* - Entries for comps prep/classes**
 
 ### Big T theories:
 
