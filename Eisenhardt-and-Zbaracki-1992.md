@@ -12,6 +12,7 @@ Eisenhardt, K. M., & Zbaracki, M. J. (1992). Strategic Decision Making. *Strateg
 
 ### Previous literature
 * [[March and Simon 1958]]
+* [[March 1962]]
 
 ## Resources
 
