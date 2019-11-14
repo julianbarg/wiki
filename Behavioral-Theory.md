@@ -4,9 +4,6 @@
 
 Part of: [[Organizational Theory]]
 
-# ToDo
-* [[Eisenhardt and Zbaracki 1992]]
-
 ## Related to
 
 ### Theories
