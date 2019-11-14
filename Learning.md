@@ -17,6 +17,9 @@ Part of: [[Organizational Theory]]
 * [[Lapre and Nembhard 2010]]
 * [[Muth 1986]]
 
+### Other papers
+* [[Maslach et al 2018]]
+
 ## Definitions
 
 * **Organizational learning**: "[C]hange in the organization's knowledge that occurs as a function of experience" ([[Argote 2013]], 31)
