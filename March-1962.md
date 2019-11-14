@@ -15,7 +15,7 @@ March, J. G. (1962). The Business Firm as a Political Coalition. *The Journal of
 
 ## Notes
 
-### One-paragraph summary
+### One-page summary
 This article by March lays out his research agenda. The article does away with some of the commonplace assumptions in management science - specifically, the assumption of profit maximizing firms, and the "classic economic description of the firm as an entrepreneurs" (ibid. 675). Rather, March draws on concepts from the sphere of political science, such as power, coalitions, and (goal) conflicts. One purpose of the article is to encourage political scientists to study organizations, such as business, and develop consistent theories that describe their behavior. 
 
 The more interesting, and relevant takeaway from the article is however the message it sends to management scholars. March describes the phenomena and theoretical fragments related to what would later be known as the Behavioral Theory of the Firm. Firms do not merely maximize profits. Instead, the organization consists of multiple groups (which, as he acknowledges, might also consist of groups or individuals themselves - this entails further problems which March also discusses). The firm as a political coalition needs to negotiate the goal of the organization - it is not given.
