@@ -25,6 +25,7 @@
 
 ### Small T theories and Phenomena:
 * [[Attention-Based View]]*
+* [[Cognition]]*
 * [[Grand challenges]]
 * [[Hybrid organizations]]
 * [[Learning curve]]
