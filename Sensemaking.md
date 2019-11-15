@@ -1,8 +1,6 @@
+**Sensemaking**
 
-
-**Title**
-
-[[ _TOC_]]
+[[_TOC_]]
 Part of: [[Organizational Theory]]
 
 ## One-paragraph summary
@@ -10,7 +8,14 @@ Part of: [[Organizational Theory]]
 ## Related to
 
 ### Theories
+* [[Learning]]
 
 ### Seminal works
+* [[Ocasio 1997]]
 
-## One-page summary
+### Lit reviews
+* [[Maitlis and Christianson 2014]]
+
+### Other papers
+* [[Madsen and Desai 2010]]
+* [[March Sproull and Tamuz 1991]]
