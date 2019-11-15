@@ -4,7 +4,7 @@
 
 ### Big T theories:
 
-* [[Behavioral Theory]]*
+* [[Behavioral Theory|BTOF]]*
 * [[Cognition]]*
 * [[Contingency Theory]]
 * [[Dynamic Capabilities]]*
