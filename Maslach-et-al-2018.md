@@ -11,7 +11,7 @@ Maslach, D., Branzei, O., Rerup, C., & Zbaracki, M. J. (2018). Noise as Signal i
 * Learning
 
 ### Previous literature
-* [[March Sproull and Tumuz 1991]]
+* [[March Sproull and Tamuz 1991]]
 
 ## Resources
 
