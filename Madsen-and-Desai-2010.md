@@ -21,7 +21,7 @@ Madsen, P. M., & Desai, V. (2010). Failing to Learn? The Effects of Failure and 
 [[resources/Madsen-and-Desai-2010-Fig-1.png|Figure 1|width=650px]]
 
 ## One-page summary
-(By Madsen and Desai)
+(By Mayur Joshi)
 
 The paper theorizes and empirically estimates the effect of failure and success on organizational learning. The core argument is that the extant literature has posited impact of organizational past experience on learning, however does not distinguish between the experience with success and experience with failure. This paper adds to that literature by disentangling impact of success and failure on organizational learning. The authors argue that three key conditions must be met before prior organizational experience can be expected to influence observed organizational performance: prior experience must motivate organization members to alter organizational knowledge; organization members must be able to extract meaningful new knowledge from experience; and the changes made to organizational knowledge must alter the subsequent behavior of organization members. The authors present arguments for failure contributing more to learning than success:
 
