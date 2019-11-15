@@ -19,4 +19,4 @@ Maslach et al. (2018) touch on three learning related concepts: (1) learning fro
 
 The basis of 
 
-The working assumption of the papers are that (1) relative to success, failure is an underutilized source of learning
+The working assumption of the papers are that (1) relative to success, failure is an underutilized source of learning ("actors only imitate success"; ibid. 226).
