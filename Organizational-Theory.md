@@ -10,7 +10,6 @@
 * [[Dynamic Capabilities]]*
 * [[Evolutionary Theory]]*
 * [[Institutional Theory]]*
-* [[Learning]]
 * [[Organizational Ecology]]*
 * [[Paradox]]*
 * [[Resilience]]*
@@ -27,6 +26,7 @@
 * [[Attention-Based View]]*
 * [[Grand challenges]]
 * [[Hybrid organizations]]
+* [[Learning]]
 * [[Learning curve]]
 * [[Legitimacy]]*
 * [[Path dependence]]
