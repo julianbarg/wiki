@@ -12,6 +12,10 @@
 ## Material
 * [[Comps Preparation]]
 
+## Meetings
+* [[Meeting minutes]]
+* [[Meeting notes]]
+
 ## Projects
 * [[Thesis]]
 * [[Pace 2019]]
