@@ -11,6 +11,7 @@ Part of: [[Organizational Theory]]
 * [[Learning]]
 
 ### Seminal works
+* [[Weick 1995]]
 * [[Ocasio 1997]]
 
 ### Lit reviews
