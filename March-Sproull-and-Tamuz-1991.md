@@ -1,6 +1,6 @@
 **March, Sproull, and Tamuz 1991 - Learning from Samples of One or Fewer**
 
-[[ _TOC_]]
+[[_TOC_]]
 
 ## Citation
 March, J. G., Sproull, L. S., & Tamuz, M. (1991). Learning from Samples of One or Fewer. *Organization Science*, 2(1), 1–13. [[https://doi.org/10.1287/orsc.2.1.1]]
