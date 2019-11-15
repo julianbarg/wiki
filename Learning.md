@@ -7,6 +7,7 @@ Part of: [[Organizational Theory]]
 ### Theories
 * [[Behavioral Theory of the Firm|Behavioral Theory]]
 * [[Learning curve]]
+* [[Learning from rare events]]
 
 ### Seminal works
 * [[Argote 2013]] - Organizational Learning (book)
