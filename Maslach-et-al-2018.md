@@ -14,4 +14,4 @@ Maslach, D., Branzei, O., Rerup, C., & Zbaracki, M. J. (2018). Noise as Signal i
 * [[March Sproull and Tamuz 1991]]
 
 ## One-page summary
-Maslach et al. (2018) touch on three learning related concepts: (1) learning from failure, (2) vicarous learning, and (3) learning from rare events. 
+Maslach et al. (2018) touch on three learning related concepts: (1) learning from failure, (2) vicarous learning, and (3) learning from rare events. They use the MAUDE dataset for their study, which is a dataset of medical device reports (reports of failure of devices, or adverse events that may be related to medical devices). The working assumption of the papers are that (1) relative to success, failure is an underutilized source of learning
