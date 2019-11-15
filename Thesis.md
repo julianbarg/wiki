@@ -1,3 +1,5 @@
+**Problem statement**: We have much change nowadays, but little meaningful change.
+
 Two elements work toward an organization reducing its environmental footprint:
 
 * Technology
