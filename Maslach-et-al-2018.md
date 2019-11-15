@@ -8,7 +8,7 @@ Maslach, D., Branzei, O., Rerup, C., & Zbaracki, M. J. (2018). Noise as Signal i
 ## Related to
 
 ### Theories
-* Learning
+* [[Learning]]
 
 ### Previous literature
 * [[Kim and Miner 2007]] (vicarious learning)
