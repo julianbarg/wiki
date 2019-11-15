@@ -11,7 +11,7 @@ March, J. G., Sproull, L. S., & Tamuz, M. (1991). Learning from Samples of One o
 * [[Sensemaking]]
 
 ### Courses etc.
-* [[Organizational Theory]]
+* [[Organizational Theory 2017]]
 
 ## One-page summary
 
