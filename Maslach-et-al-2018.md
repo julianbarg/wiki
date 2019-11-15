@@ -13,8 +13,5 @@ Maslach, D., Branzei, O., Rerup, C., & Zbaracki, M. J. (2018). Noise as Signal i
 ### Previous literature
 * [[March Sproull and Tamuz 1991]]
 
-## Resources
-
-## One-paragraph summary
-
 ## One-page summary
+Maslach et al. (2018) touch on three learning related concepts: (1) learning from failure, (2) vicarous learning, and (3) learning from rare events. 
