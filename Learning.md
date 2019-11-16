@@ -15,6 +15,7 @@ Part of: [[Organizational Theory]]
 ### Literature reviews
 * [[Argote 2013]]
 * [[Dutton and Thomas 1984]]
+* [[Easterby-Smith Crossan and Nicolini 2000]]
 * [[Lapre and Nembhard 2010]]
 * [[Muth 1986]]
 
