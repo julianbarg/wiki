@@ -36,7 +36,7 @@ Introducing the learning curve as a starting point for the literature on organiz
 * According to Argote's description, the theoretical base to Learning is very thin (part 1.7).
 
 ### 2. Organizational Learning: A Theoretical Framework
-* 
+This chapter, based on [[Argote and Miron-Spektor (2011)|Argote and Miron-Spektor 2011]]
 
 ## Thoughts
 * **Knowledge transfer**: is it one of the keys to understand the effect of disruptions? Whether an organization can preserve knowledge throughout a disruption? From one "iteration" of an organization to the next.
