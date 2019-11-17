@@ -1,6 +1,6 @@
 **Title**
 
-[[ _TOC_]]
+[[_TOC_]]
 
 ## Citation
 
