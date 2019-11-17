@@ -11,6 +11,7 @@ Part of: [[Organizational Theory]]
 
 ### Seminal works
 * [[Argote 2013]] - Organizational Learning (book)
+* [[Levitt and March 1988]]
 * [[March 1991]]
 
 ### Literature reviews
