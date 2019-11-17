@@ -24,6 +24,6 @@ March (1991) picks up the tradition of weighting exploration against exploitatio
 
 -----
 
-*->* "Adaptive systems that engage in exploration to the exclusion of exploitation are likely to find that they suffer the costs of experimentation without gaining many of its benefits. They exhibit too many undeveloped new ideas and too little distinctive competence." (ibid. 71)
+**->** "Adaptive systems that engage in exploration to the exclusion of exploitation are likely to find that they suffer the costs of experimentation without gaining many of its benefits. They exhibit too many undeveloped new ideas and too little distinctive competence." (ibid. 71)
 
 ## One-page summary
