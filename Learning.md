@@ -24,7 +24,8 @@ Part of: [[Organizational Theory]]
 * [[Maslach et al 2018]]
 
 ## Special issues
-* Organization 
+* Organization Science Volume 2, Issue 1 (February 1991)
+* Organization Science Volume 13, Issue 3 (May-June 2002)
 
 * **Organizational learning**: "[C]hange in the organization's knowledge that occurs as a function of experience" ([[Argote 2013]], 31)
 * **Organizational forgetting**: "[T]he loss, voluntary or otherwise, of organizational knowledge" ([[de Holan and Phillips 2004]], 1606)
