@@ -12,6 +12,7 @@ Part of: [[Organizational Theory]]
 ### Seminal works
 * [[Argote 2013]] - Organizational Learning (book)
 * [[Huber 1991]]
+* [[Kogut and Zander 1992]]
 * [[Levitt and March 1988]]
 * [[March 1991]]
 
