@@ -19,6 +19,9 @@ Argote, L., & Miron-Spektor, E. (2011). Organizational Learning: From Experience
 ## Resources
 [[resources/Argote-and-Miron-Spektor-2011-Fig-1.png|Figure 1|width=450px]]
 
+### Definition
+* Learning: "[O]rganizational learning is a change in the organization that occurs as the organization acquires experience. [...] This knowledge can manifest itself in changes in cognition or behavior and include both explicit and tacit or difficult-to-articulate components" (ibid., 1124).
+
 ## One-paragraph summary
 
 Summarizing learning literature, highlighting future developments. 
@@ -31,4 +34,3 @@ Summarizing learning literature, highlighting future developments.
 * knowledge transfer
 
 ## One-page summary
-
