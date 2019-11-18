@@ -18,6 +18,7 @@ Part of: [[Organizational Theory]]
 * [[Nonaka 1994]]
 
 ### Literature reviews
+* [[Argote and Miron-Spektor 2011]]
 * [[Argote 2013]]
 * [[Dutton and Thomas 1984]]
 * [[Easterby-Smith Crossan and Nicolini 2000]]
@@ -25,7 +26,6 @@ Part of: [[Organizational Theory]]
 * [[Muth 1986]]
 
 ### Other papers
-* [[Argote and Miron-Spektor 2011]]
 * [[Maslach et al 2018]]
 
 ## Special issues
