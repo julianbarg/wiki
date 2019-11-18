@@ -34,3 +34,5 @@ Summarizing learning literature, highlighting future developments.
 * knowledge transfer
 
 ## One-page summary
+
+The learning literature is very diverse and difficult to navigate. Knowledge or learning for instance is hard to measure (ibid., 1124). There are even diverging definitions. Huber (1991) defines learning as "a change in the range of potential behaviors" (Huber 1991). Currently, performance-based measures of learning dominate.
