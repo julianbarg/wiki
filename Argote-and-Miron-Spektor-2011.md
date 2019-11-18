@@ -11,7 +11,10 @@ Argote, L., & Miron-Spektor, E. (2011). Organizational Learning: From Experience
 * [[Learning]]
 
 ### Previous literature
-
+* [[March 1991]]
+* [[Huber 1991]]
+* [[Kogut and Zander 1992]]
+* [[Nonaka 1994]]
 
 ## Resources
 [[resources/Argote-and-Miron-Spektor-2011-Fig-1.png|Figure 1|width=450px]]
