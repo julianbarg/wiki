@@ -41,7 +41,8 @@ Learning in the early 1990s experienced a bloom, and paved the way for work on s
 ## Thoughts
 
 ### Notes
-* Weak theoretical foundations
+* Weak theoretical foundations.
+* Sometimes, acts as if learning is "just there". Where is it coming from? What is the theoretical context? Is that because of its origins in the learning curve literature?
 
 ### Main points: Technology and (long-term) planning
 * (Long-term) planning have come up in the literature for a long time. [[Dutton and Thomas 1984]] for instance use planning to exemplify their proposed transition toward a learning (curve) literature that studies organizational behavior, and its effect on learning rates (or, as they still called it "progress rates").
