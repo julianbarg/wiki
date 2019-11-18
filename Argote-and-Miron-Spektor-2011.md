@@ -21,4 +21,13 @@ Argote, L., & Miron-Spektor, E. (2011). Organizational Learning: From Experience
 
 ## One-paragraph summary
 
+Summarizing learning literature, highlighting future developments. 
+* "characterizing experience at a fine-grained level"
+* "understanding the role of the context in which learning occurs"
+* "characterizing organizational learning processes"
+* knowledge creation
+* knowledge retention
+* knowledge transfer
+
 ## One-page summary
+
