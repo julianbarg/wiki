@@ -15,6 +15,7 @@ Part of: [[Organizational Theory]]
 * [[Kogut and Zander 1992]]
 * [[Levitt and March 1988]]
 * [[March 1991]]
+* [[Nonaka 1994]]
 
 ### Literature reviews
 * [[Argote 2013]]
