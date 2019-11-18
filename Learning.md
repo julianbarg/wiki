@@ -34,6 +34,7 @@ Part of: [[Organizational Theory]]
 * **Organizational forgetting**: "[T]he loss, voluntary or otherwise, of organizational knowledge" ([[de Holan and Phillips 2004]], 1606)
 
 ## One-page summary
+Learning in the early 1990s experienced a bloom, and paved the way for work on sensemaking and the attention-based view.
 
 ## Thoughts
 
