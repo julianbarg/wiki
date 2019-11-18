@@ -19,6 +19,7 @@
 ## Projects
 * [[Thesis]]
 * [[Pace 2019]]
+* [[Timeline]]
 
 ## Other
 * [[Ideas/Notes|Ideas]]
