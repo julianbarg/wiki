@@ -37,9 +37,9 @@ Summarizing learning literature, highlighting future developments.
 
 The learning literature is very diverse and difficult to navigate. Knowledge or learning for instance is hard to measure (ibid., 1124). There are even diverging definitions. Huber (1991) defines learning as "a change in the range of potential behaviors" (Huber 1991). Currently, performance-based measures of learning dominate. As to experience, "[e]xperience can be measured in terms of the cumulative number of task performances" (Argote and Miron-Spektor 2011, 1124). An important clarification of this work is the emphasis on the importance of the context, which includes both the organization and its environment. As to this context, "[t]he context interacts with experience to create knowledge" (ibid., 1125). For instance, the context includes members of organizational units, or tools. Argote and Miron-Spektor (2011) for instance provide these examples:
 
-* Moving members from one organizational unit to another is also a mechanism for transferring knowledge. 
+* "Moving members from one organizational unit to another is also a mechanism for transferring knowledge. 
 * Similarly, knowledge can be embedded in tools, and moving tools from one unit to another is a mechanism for transferring that knowledge.
 * Tools can aid learning, for example, by helping to identify patterns in data. 
-* Task sequences or routines can also be knowledge repositories and serve as knowledge transfer mechanisms (ibid. 1125). 
+* Task sequences or routines can also be knowledge repositories and serve as knowledge transfer mechanisms" (ibid. 1125; points and line breaks by this author). 
 
 In other words, Argote and Miron-Spektor advocate for an analysis of the active context that enable the processes of knowledge creation, transfer, etc.
