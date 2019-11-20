@@ -12,6 +12,7 @@
 
 ### Ivey Sustainability Conference
 
+## Awaiting response
 #### How business schools could be different. - This is actually reality!
 * Purg and Sutherland (2017)
 * Business schools that focus on social impact
@@ -21,6 +22,7 @@
 * Tokenism (Michael Gardiner) - because what is still the focus
 
 **-> Summary**: There are a lot of good ideas, but they are on the fringes of the world of business education. We need to bring them into the mainstream, and we need to avoid tokenism, such as having annual events on topics that we otherwise don't touch on.
+
 
 ## Play around
 * start_job app: add option -m for productivity method.
