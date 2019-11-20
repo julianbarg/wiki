@@ -13,6 +13,7 @@
 ### Ivey Sustainability Conference
 
 ## Awaiting response
+
 #### How business schools could be different. - This is actually reality!
 * Purg and Sutherland (2017)
 * Business schools that focus on social impact
