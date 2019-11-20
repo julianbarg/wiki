@@ -4,3 +4,4 @@ x Potential co-supervisor to help with quant methods?
 * Find 3-5 interesting firms to look at in detail?
 * How is learning (as relevant to oil spills) described in the literature?
 * Research ethics application.
+* start_job app: add option -m for productivity method.
