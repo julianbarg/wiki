@@ -47,4 +47,5 @@ In other words, Argote and Miron-Spektor advocate for an analysis of the active 
 * "[...]a context where members share a superordinate identity has been found to lead to greater knowledge transfer. 
 * Similarly, contexts where members trust each other or feel psychologically safe have been found to promote organizational learning [...]
 * Knowledge can also be embedded in aspects of the organization’s latent context such as its culture. 
-* Thus, knowledge acquired through learning is embedded in the context and affects future learning." (ibid., 1125).
+* Thus, knowledge acquired through learning is embedded in the context and affects future learning. 
+* [And] some of the organization's knowledge is embedded in its products and services, which flow out of the organization into the environment" (ibid., 1125).
