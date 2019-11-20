@@ -1,3 +1,5 @@
+[[_TOC_]]
+
 ## In progress
 
 ### What is the variance in the data? How do the firms in the sample differ?
@@ -14,6 +16,8 @@
 * Purg and Sutherland (2017)
 * Business schools that focus on social impact
 * Corporate Knight MBA ranking
+* Cut the BS in research
+* Alternative forms of accounting
 * Tokenism (Michael Gardiner) - because what is still the focus
 
 ## Play around
