@@ -6,6 +6,7 @@ Part of: [[Organizational Theory]]
 
 ### Theories
 * [[Behavioral Theory of the Firm|Behavioral Theory]]
+* [[High-hazard industries]]
 * [[Learning curve]]
 * [[Learning from rare events]]
 
