@@ -1,6 +1,13 @@
 ## Related papers
 * [[Joskow and Rozanski 1979]]
 
+## Relevant web resources
+
+* Relevant conference for Canada: [[https://www.csse.org/site/events/conference]]
+* Relevant organization for Canada: [[https://www.csse.org/]]
+* Relevant conference for US: [[https://safety.assp.org/]]
+* Relevant organization for US: [[https://www.assp.org/]]
+
 ## Learning mechanisms
 * "reduced labor requirements" ([[Joskow and Rozanski 1979]], 161) improves efficiency, but could also create slack
 * "learning by management leading to more efficient production and labor scheduling and improved production control" ([[Joskow and Rozanski 1979]], 161) improves efficiency and quality of work, could also create slack
