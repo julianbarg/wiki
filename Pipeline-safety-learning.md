@@ -11,7 +11,7 @@
 
 ## Learning mechanisms
 
-### Following [[Joskow and Rozanski 1979|Joskow and Rozanski (1979)]]
+### According to [[Joskow and Rozanski (1979)|Joskow and Rozanski|]]
 * "reduced labor requirements" ([[Joskow and Rozanski 1979]], 161) improves efficiency, but could also create slack
 * "learning by management leading to more efficient production and labor scheduling and improved production control" ([[Joskow and Rozanski 1979]], 161) improves efficiency and quality of work, could also create slack
 * "learning by the engineering department of a firm, which redesigns the capital equipment utilized by workers and makes changes in the operation of the plant to improve routing and handling of material" ([[Joskow and Rozanski 1979]], 161)
