@@ -40,7 +40,9 @@ Most of these mechanisms either improve quality of work or generate slack.
 
 ### According to source research
 
-Safety professionals supervise the construction of pipelines and (may) attempt to enforce regulations, but primarily try to avoid injuries and deaths (or cover their asses).
+Web resources and [[https://www.reddit.com/r/oilandgasworkers/comments/e0jltk/any_experience_with_working_on_pipeline_safety/]]
+
+Safety professionals supervise the construction of pipelines and (may) attempt to enforce regulations, but primarily try to avoid injuries and deaths (or cover their asses). Safety personnel is associated in this order (1) with classic *health and safety* of the personnel, (2) with certifying/skills/education, and finally (3) *reporting* (**!**) oil spills and incidents.
 
 ### According to learning from disaster literature
 
