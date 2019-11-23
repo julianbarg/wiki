@@ -23,6 +23,10 @@ Most of these mechanisms either improve quality of work or generate slack.
 
 * An important mechanism seems to be that staff cannot easily be fired when safety has reached a sufficient level (because it is difficult to identify this slack).
 
+---
+
+* All this implies that there could be undetected learning, when a department gets better at managing pipeline safety, performance may improve or be stable (because the pipelines are aging) and slack resources build up that are difficult to measure.
+
 ## Ideas
 * Frame it as a "game" or "race". 
 
