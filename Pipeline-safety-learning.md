@@ -11,7 +11,7 @@
 
 ## Learning mechanisms
 
-### According to [[Joskow and Rozanski (1979)|Joskow and Rozanski|]]
+### According to [[Joskow and Rozanski (1979)|Joskow and Rozanski 1979]]
 * "reduced labor requirements" ([[Joskow and Rozanski 1979]], 161) improves efficiency, but could also create slack
 * "learning by management leading to more efficient production and labor scheduling and improved production control" ([[Joskow and Rozanski 1979]], 161) improves efficiency and quality of work, could also create slack
 * "learning by the engineering department of a firm, which redesigns the capital equipment utilized by workers and makes changes in the operation of the plant to improve routing and handling of material" ([[Joskow and Rozanski 1979]], 161)
@@ -36,6 +36,10 @@ Most of these mechanisms either improve quality of work or generate slack.
 ---
 
 * All this implies that there could be undetected learning, when a department gets better at managing pipeline safety, performance may improve or be stable (because the pipelines are aging) and slack resources build up that are difficult to measure.
+
+### According to source research
+
+Safety professionals supervise the construction of pipelines and (may) attempt to enforce regulations, but primarily try to avoid injuries and deaths (or cover their asses).
 
 ## Ideas
 * Frame it as a "game" or "race". 
