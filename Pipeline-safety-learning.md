@@ -6,6 +6,7 @@
 * "learning by management leading to more efficient production and labor scheduling and improved production control" ([[Joskow and Rozanski 1979]], 161) improves efficiency and quality of work, could also create slack
 * "learning by the engineering department of a firm, which redesigns the capital equipment utilized by workers and makes changes in the operation of the plant to improve routing and handling of material" ([[Joskow and Rozanski 1979]], 161)
 * Learning of suppliers ([[Joskow and Rozanski 1979]], 161). However, this would be controlled for through technology.
+* "
 
 
 Most of these mechanisms either improve quality of work or generate slack.
@@ -21,4 +22,4 @@ Most of these mechanisms either improve quality of work or generate slack.
 ## Ideas
 * Frame it as a "game" or "race". 
 
-One side "the pipeline" gets constructed inevitably imperfect (although there are probably more and less well-constructed pipelines). The other side (pipeline safety) "races" to find problems before spills happen.
+One side, "the pipeline", gets constructed inevitably imperfect (although there are probably more and less well-constructed pipelines). The other side (pipeline safety) "races" to find defects before spills happen. Because time is an important factor for translating defects into oil spills.
