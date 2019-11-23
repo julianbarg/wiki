@@ -19,6 +19,7 @@
 ## Projects
 * [[Thesis]]
 * [[Pace 2019]]
+* [[Pipeline safety learning]]
 * [[Timeline]]
 
 ## Other
