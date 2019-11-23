@@ -17,3 +17,8 @@ Most of these mechanisms either improve quality of work or generate slack.
 * Slack matters. When organizations improve safety, this means "payments" ([[Cyert and March 1992]], 42]]) could be cut and performance would remain stable (implying an improvement in efficiency - performance over payments). However, the excess payments reveal themselves as "slack" ([[Cyert and March 1992]], 41 f.]]), which is only cut under some circumstances.
 
 * Why would the organization use slack to improve pipeline safety? Because the members have a strong motivation to improve safety (do they?). Safety is a (strongly institutionalized) goal of the pipeline safety department? Unlike the overall work of the overall organization, working on pipeline safety is not stigmatized?
+
+## Ideas
+* Frame it as a "game" or "race". 
+
+One side "the pipeline" gets constructed inevitably imperfect (although there are probably more and less well-constructed pipelines). The other side (pipeline safety) "races" to find problems before spills happen.
