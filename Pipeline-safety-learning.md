@@ -1,5 +1,6 @@
 ## Related papers
 * [[Joskow and Rozanski 1979]]
+* [[Madsen 2009]]
 
 ## Relevant web resources
 
@@ -40,6 +41,10 @@ Most of these mechanisms either improve quality of work or generate slack.
 ### According to source research
 
 Safety professionals supervise the construction of pipelines and (may) attempt to enforce regulations, but primarily try to avoid injuries and deaths (or cover their asses).
+
+### According to learning from disaster literature
+
+Organizations experience disasters and attempt to avoid future disasters.
 
 ## Ideas
 * Frame it as a "game" or "race". 
