@@ -6,7 +6,9 @@
 * "learning by management leading to more efficient production and labor scheduling and improved production control" ([[Joskow and Rozanski 1979]], 161) improves efficiency and quality of work, could also create slack
 * "learning by the engineering department of a firm, which redesigns the capital equipment utilized by workers and makes changes in the operation of the plant to improve routing and handling of material" ([[Joskow and Rozanski 1979]], 161)
 * Learning of suppliers ([[Joskow and Rozanski 1979]], 161). However, this would be controlled for through technology.
-* "
+* "identification and correction of particular technical 'bugs'" ([[Joskow and Rozanski 1979]], 161)
+* "increasing ability of workers to use and maintain the equipment more effectively" ([[Joskow and Rozanski 1979]], 161). Same time spend to inspect more pipeline miles?
+* Supplier producing equipment that "require shorter 'break-in'" ([[Joskow and Rozanski 1979]], 161)
 
 
 Most of these mechanisms either improve quality of work or generate slack.
@@ -18,6 +20,8 @@ Most of these mechanisms either improve quality of work or generate slack.
 * Slack matters. When organizations improve safety, this means "payments" ([[Cyert and March 1992]], 42]]) could be cut and performance would remain stable (implying an improvement in efficiency - performance over payments). However, the excess payments reveal themselves as "slack" ([[Cyert and March 1992]], 41 f.]]), which is only cut under some circumstances.
 
 * Why would the organization use slack to improve pipeline safety? Because the members have a strong motivation to improve safety (do they?). Safety is a (strongly institutionalized) goal of the pipeline safety department? Unlike the overall work of the overall organization, working on pipeline safety is not stigmatized?
+
+* An important mechanism seems to be that staff cannot easily be fired when safety has reached a sufficient level (because it is difficult to identify this slack).
 
 ## Ideas
 * Frame it as a "game" or "race". 
