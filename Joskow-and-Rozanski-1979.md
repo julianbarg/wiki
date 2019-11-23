@@ -14,7 +14,7 @@ Joskow, P. L., & Rozanski, G. A. (1979). The Effects of Learning by Doing on Nuc
 ### Previous literature
 * [[Arrow 1962]]
 
-## One-paragraph summary
+## One-page summary
 
 Joskow and Rozanski (1979) study the learning curve for operating nuclear plants. From the offset, improving reliability in the sector might seem like improving the provision of a service. Reliability in this case however describes the *capacity factor* of nuclear plants: its annual energy production divided by its theoretical maximum output if it ran constantly at full loud for the whole year. E.g., if a nuclear plant ran at full loud for half a year, and then was shut off for maintenance for the other six month, its capacity factor would be 0.5. Thus, the article resembles more closely a performance story than one might initially think.
 
