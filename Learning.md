@@ -27,6 +27,7 @@ Part of: [[Organizational Theory]]
 
 ### Other papers
 * [[Joskow and Rozanski 1979]]
+* [[Madsen 2009]]
 * [[Maslach et al 2018]]
 
 ## Special issues
