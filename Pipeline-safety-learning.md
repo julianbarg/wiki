@@ -46,7 +46,9 @@ Safety professionals supervise the construction of pipelines and (may) attempt t
 
 ### According to learning from disaster literature
 
-Organizations experience disasters and attempt to avoid future disasters.
+Organizations experience disasters and attempt to avoid future disasters. "[D]isasters call into question the social legitimacy and continues societal sanctioning of hazardous organizations, industries, and technologies" ([[Madsen|Madsen 2009]] 2009, 862). High-profile disasters are thus much more impactful than smaller ones, as described in the literature ([[Shrivastava 1987]]; [[Vaughan 1996]]; [[Snook 2002]]).
+
+What size makes an incident large enough for the public to respond?
 
 ## Ideas
 * Frame it as a "game" or "race". 
