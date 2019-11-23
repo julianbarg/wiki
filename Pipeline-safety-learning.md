@@ -7,6 +7,7 @@
 * Relevant organization for Canada: [[https://www.csse.org/]]
 * Relevant conference for US: [[https://safety.assp.org/]]
 * Relevant organization for US: [[https://www.assp.org/]]
+* Relevant professional education: [[https://www.bcsp.org/CSP]]
 
 ## Learning mechanisms
 * "reduced labor requirements" ([[Joskow and Rozanski 1979]], 161) improves efficiency, but could also create slack
