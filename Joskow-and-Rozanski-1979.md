@@ -26,8 +26,10 @@ They propose a great lot of mechanisms that could allow operators to improve the
 1. "redesigns [of] the capital equipment utilized by workers" (ibid., 161)
 2. "changes in the operation of the plant to improve routing and handling of the material" (ibid., 161)
 * "the effect of increased efficiency of suppliers" (could in my studies be controlled for through technology)
+* "correction of particular technical 'bugs'" (ibid., 161)
+* "increasing ability of workers to use and maintain" (ibid., 161)
+* suppliers "learn to produce plants that require shorter 'break-in'" (ibid., 161)
 
-
-With regard to learning (of the operating staff) they note:
+With regard to the importance of learning of the operating staff relative to the importance of the equipment, they note:
 
 "A survey made in 1972 indicated that plant equipment failures were responsible for 96% of all forced outages (during a forced outage, a plant is completely shut down). Only 4% were directly attributable to operator errors." (ibid., 162).
