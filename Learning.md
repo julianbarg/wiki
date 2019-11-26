@@ -30,6 +30,7 @@ Part of: [[Organizational Theory]]
 * [[Joskow and Rozanski 1979]]
 * [[Madsen 2009]]
 * [[Maslach et al 2018]]
+* [[Rerup and Zbaracki 2019]]
 
 ## Special issues
 * Organization Science Volume 2, Issue 1 (February 1991)
