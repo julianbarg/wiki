@@ -27,7 +27,7 @@ Rare events can be pathbreaking events. Organizations pay more careful attention
 ## Notes
 * Are there valid and invalid outcomes? Isn't learning still learning, even if it is build on a wrong/questionable/contested premise? Couldn't learning be just a change/evolution in understanding. If we learn something in school, and the scientific consensus later evolves (meaning that textbooks are change) -  does that mean that suddenly in school we have not learned? Do kids learn in school when creationism is taught? And does the question of whether kids learn when they study creationism vs evolution hinge on whether god exists?
 
-Learning is picking up what socially desirable, which is to some degree constrained by what is observable in the physical realm.
+Learning is picking up what socially desirable, which is to some degree constrained by what is observable in the physical realm. With the limitation that we create the language that describes the physical world - and we can change it! Some people in power can literally tell you that the opposite is true of what we observe - and some people will believe it! In the very least, they can "bend" reality; think introduction of the term "fake news".
 
 This view may not be very intuitive, but it may be beneficial for theorizing. Rather than requiring us to determine which knowledge is valid. Further, if a firm makes performance improvements based on a flawed understanding of the subject matter, wouldn't this still constitute valid learning?
 
