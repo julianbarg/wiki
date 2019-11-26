@@ -28,3 +28,5 @@ The article stretches the great opportunities for learning from rare events as w
 This view may not be very intuitive, but it may be beneficial for theorizing. Rather than requiring us to determine which knowledge is valid. Further, if a firm makes performance improvements based on a flawed understanding of the subject matter, wouldn't this still constitute valid learning?
 
 What if learning was just reaction to feedback loops? Learning as measured by performance improvements can still be achieved if the obtained knowledge is valid, as measured by the "next overlaying organizational layer", e.g., the regulator. For instance, pipeline operators might learn that they have to report oil spills, but that they don't have to fear repercussions. Learning pipeline operations would then mean learning to deal with the regulatory framework - not to reduce the number of or prevent completely spills.
+
+Also, rare events can sometimes break long-standing alliances, e.g., political leadership.
