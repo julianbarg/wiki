@@ -1,0 +1,28 @@
+**Rerup and Zbaracki 2019 (draft) - The Politics of Learning from Rare Events**
+
+[[_TOC_]]
+
+## Citation
+Rerup, C., & Zbaracki, M. (n.d.). The Politics of Learning from Rare Events.
+
+## Related to
+
+### Theories
+* [[Learning]]
+
+### Courses etc.
+* [[Notes]]
+
+### Previous literature
+* [[Kim and Miner 2009]]
+* [[March Sproull and Tamuz 1991]]
+* [[Starbuck 2009]]
+
+## One-page summary
+
+The article stretches the great opportunities for learning from rare events as well as the barriers to this learning outcome. On a higher level, (e.g., society) achieving a valid and reliable (public, stable and shared) understanding of the rare event in question poses a great challenge. (This could also be relevant if the organization is not viewed as too exceptional, if one views workings on different levels - group, organization, industry, society - as following similar mechanisms, only with different degrees of complexity.) Specific challenges are superstitious learning, conspiracy theories, and fantasy documents. Most importantly, there are political dynamics that determine the learning outcomes. Stakeholders promote views that benefit them, seemingly with disregard to the truth.
+
+## Notes
+* Are there valid and invalid outcomes? Isn't learning still learning, even if it is build on a wrong/questionable/contested premise? Couldn't learning be just a change/evolution in understanding. If we learn something in school, and the scientific consensus later evolves (meaning that textbooks are change) -  does that mean that suddenly in school we have not learned? Do kids learn in school when creationism is taught? And does the question of whether kids learn when they study creationism vs evolution hinge on whether god exists?
+
+This view may not be very intuitive, but it may be beneficial for theorizing. Rather than requiring us to determine which knowledge is valid. Further, if a firm makes performance improvements based on a flawed understanding of the subject matter, wouldn't this still constitute valid learning?
