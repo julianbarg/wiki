@@ -1,0 +1,3 @@
+## Lay language
+
+Pipeline safety represents a great example of organizational learning. There are concrete actions that organizations can take, but for them to do so requires an internal or external impetus. Quantitative data from the US Pipeline and Hazardous Materials Safety Administration (PHMSA) is available, and I want to complement quantitative insight from that data with qualitative descriptions from pipeline safety professionals.
