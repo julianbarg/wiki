@@ -63,7 +63,7 @@ Phenomenon constitutes complex system.
 
 One side, "the pipeline", gets constructed inevitably imperfect (although there are probably more and less well-constructed pipelines). The other side (pipeline safety) "races" to find defects before spills happen. Because time is an important factor for translating defects into oil spills.
 
-## Ethics approval
+## [[Ethics approval|EA_pipelines]]
 
 Topics to cover
 
