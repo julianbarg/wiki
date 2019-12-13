@@ -1,3 +1,7 @@
 ## Lay language
 
 Pipeline safety represents a great example of organizational learning. There are concrete actions that organizations can take, but for them to do so requires an internal or external impetus. Quantitative data from the US Pipeline and Hazardous Materials Safety Administration (PHMSA) is available, and I want to complement quantitative insight from that data with qualitative descriptions from pipeline safety professionals.
+
+## Approach
+
+My study builds mostly on quantitative data from the US Pipeline and Hazardous Materials Safety Administration (PHMSA; https://www.phmsa.dot.gov/data-and-statistics/pipeline/data-and-statistics-overview). Qualitative data will be used to complement quantitative insights (e.g., richer descriptions of mechanisms), and to identify relevant control variables for the quantitative study. This is how I proceed: (1) hypotheses are generated from the learning literature. (2) In the interviews, I obtain both a description of mechanisms and insight on exogenous factors that I need to control for in my quantitative study (control variables). (3) The quantitative study is adjusted. If necessary, I will take steps to rectify the quantitative study with qualitative insights and iterate over the steps to a low degree.
