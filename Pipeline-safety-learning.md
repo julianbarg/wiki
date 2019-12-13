@@ -1,4 +1,4 @@
-[[_LOC_]]
+[[_TOC_]]
 
 ## Related papers
 * [[Joskow and Rozanski 1979]]
