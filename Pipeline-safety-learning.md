@@ -1,3 +1,5 @@
+[[_LOC_]]
+
 ## Related papers
 * [[Joskow and Rozanski 1979]]
 * [[Madsen 2009]]
@@ -60,3 +62,12 @@ Phenomenon constitutes complex system.
 * Frame it as a "game" or "race". 
 
 One side, "the pipeline", gets constructed inevitably imperfect (although there are probably more and less well-constructed pipelines). The other side (pipeline safety) "races" to find defects before spills happen. Because time is an important factor for translating defects into oil spills.
+
+## Ethics approval
+
+Topics to cover
+* Goals/aspiration level
+* Mechanisms
+* Rarity of events
+* Power/decision makers
+* External events
