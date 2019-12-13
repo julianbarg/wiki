@@ -72,3 +72,4 @@ Topics to cover
 * Rarity of events
 * Power/decision makers
 * External events
+* Regimes
