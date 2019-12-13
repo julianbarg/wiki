@@ -66,6 +66,7 @@ One side, "the pipeline", gets constructed inevitably imperfect (although there 
 ## Ethics approval
 
 Topics to cover
+
 * Goals/aspiration level
 * Mechanisms
 * Rarity of events
