@@ -13,3 +13,7 @@ In parallel, a different concept applies along those two dimensions also. To inc
 * Changing what you do (technology)
 
 The relationship between technology is unclear - sometimes, technology is subsumed under learning. Further, the learning progress I want to focus on is not entirely on the organzational level - I need to show the audience that organzational goals and suborganizational goals matter. So there should be a section of the work on organizational behavior and learning.
+
+## Theoretical contributions
+
+* Learning is *merely a metaphor* when we decompose is, by taking technology and resources (inspection/supervision) out of the equation, surprisingly little is left over. This leaves learning as a process of scaling up. This scaling up sometimes is not carried out in a "leapfrog" fashion (going to major economies of scale) because the market conditions are not known. But the mechanisms of learning - providing more specialized tools, retaining more specialized staff, improving the setup of a production *system* - all bear the hallmarks of economies of scale. 
