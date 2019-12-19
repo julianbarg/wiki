@@ -54,6 +54,10 @@ What size makes an incident large enough for the public to respond?
 
 ## Ideas
 
+### The "regimes" model
+
+Organizations have learned that their current performance in most (all?) jurisdictions is acceptable. It is also safe to assume that there is a safety performance level that is not acceptable for business. There is also a language around spills that may worry the actors in charge - the regulations may not have much potency, but since they are myth and ceremony, they have a seemingly serious rhetoric to them that provides legitimacy to both sides (government agency and pipeline operator). Oil pipelines can claim that they are compliant with strict regulations that have bite, whereas the government can claim that they tackle spills. Learning would not take place through gradual improvement of performance but through entering new states/regimes. What would that look like?
+
 ### Complex system
 
 Phenomenon constitutes complex system.
