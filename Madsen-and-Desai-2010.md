@@ -32,7 +32,7 @@ The paper theorizes and empirically estimates the effect of failure and success 
 
 Hence experience with failure is more likely than experience with success to induce motivation to alter knowledge, and ability to extract meaningful knowledge from experience.
 
-H1. *Prior organizational failure ex perience reduces the likelihood of future organ izational failure more than does prior organi zational success experience.* (supported)
+H1. *Prior organizational failure experience reduces the likelihood of future organizational failure more than does prior organizational success experience.* (supported)
 
 Further, the article posits importance of vicarious learning, i.e., learning from experience of others. The key arguments are:
 
