@@ -8,6 +8,7 @@ Madsen, P. M., & Desai, V. (2010). Failing to Learn? The Effects of Failure and 
 ## Related to
 
 ### Theories
+* [[Learning]]
 * [[Sensemaking]]
 
 ### Courses etc.
