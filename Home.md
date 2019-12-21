@@ -26,3 +26,4 @@
 * [[Ideas/Notes|Ideas]]
 * [[Templates]]
 * [[todo]]
+* [[things I need to remember|things]]
