@@ -26,6 +26,7 @@ Madsen, P. M., & Desai, V. (2010). Failing to Learn? The Effects of Failure and 
 * A questioning of what constitutes organizational knowledge is taking place; e.g., individual members' knowledge is taking a higher priority in the new understanding, and a dynamic view is promoted (ibid., 452 f.).
 * *Definition*: organizational learning is "any modification of an organization's knowledge occurring as a result of its experience" (ibid., 453).
 * *Operational definition*: organizational learning is "a modification in organizational performance as a result of experience (ibid., 453).
+* Recent literature focuses more on failure.
 
 ## One-page summary
 (By Mayur Joshi)
