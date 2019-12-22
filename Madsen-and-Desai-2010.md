@@ -28,6 +28,13 @@ Madsen, P. M., & Desai, V. (2010). Failing to Learn? The Effects of Failure and 
 * *Operational definition*: organizational learning is "a modification in organizational performance as a result of experience (ibid., 453).
 * Recent literature focuses more on failure (ibid., 453).
 * Success inhibits nonlocal search - the current model of the world is seen as sufficient (ibid., 453).
+* Failure is better for learning.
+* Observing others' failures also helps.
+* Success is more likely to lead to uncodified knowledge. Why? Because the success only reinforces existing knowledge.
+* Major failure is better for learning than minor failure.
+* Success hinders learning from others: e.g., the company may (wrongly) assume that it can cost on areas that avoid failure.
+* In particular, organizations without many failures may lack differentiated knowledge to learn from others success experience.
+* Finally, projection bias for inexperienced organizations, but organizations with failure experience have the cognitive map (of their area) that allows them to obtain differentiated knowledge from others failure. Specifically, they can figure out when others failure does not apply to them.
 
 ## One-page summary
 (By Mayur Joshi)
