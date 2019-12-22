@@ -81,3 +81,4 @@ Topics to cover
 ## Connections I want to make
 
 * [[Madsen and Desai 2010]]: the current state of regulating the industry is one of *myth and ceremony*. The pretend of regulation is useful for both companies and regulators. See above: regimes paragraph.
+* To the greenwashing/decoupling literature: being regulated is convenient evidence of acceptable performance.
