@@ -18,5 +18,6 @@ Baum, J. A. C., & Dahlin, K. B. (2007). Aspiration Performance and Railroads’ 
 [[resources/baum-and-dahlin-2007-fig-1.png|Figure 1]]
 
 ## One-paragraph summary
+Organizations learn from their own experience when performance is near aspiration, and from others' experience, when performance falls short of aspiration. Argues that railroads bear some characteristics of HROs (p. 369). For aspiration, considers both historical performance and social performance relative to peers to the peer or reference group.
 
 ## One-page summary
