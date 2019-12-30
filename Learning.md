@@ -27,6 +27,7 @@ Part of: [[Organizational Theory]]
 * [[Muth 1986]]
 
 ### Other papers
+* [[Baum and Dahlin]]
 * [[Joskow and Rozanski 1979]]
 * [[Madsen 2009]]
 * [[Maslach et al 2018]]
