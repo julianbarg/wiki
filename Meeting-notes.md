@@ -5,6 +5,6 @@
 
 ### November
 * [[2020-01-01]] Email follow-up
-* [[2012-12-00]] Follow-up
+* [[2019-12-00]] Follow-up
 * [[2019-11-27]] Research progress meeting
 * [[2019-11-19]] Research progress meeting
