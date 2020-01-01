@@ -12,6 +12,8 @@
 
 \### Previous literature
 
+\### Cited by
+
 \## Resources
 
 \## One-paragraph summary
