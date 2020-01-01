@@ -24,6 +24,8 @@ Part of: [[Organizational Theory]]
 * [[Dutton and Thomas 1984]]
 * [[Easterby-Smith Crossan and Nicolini 2000]]
 * [[Lapre and Nembhard 2010]]
+* [[Madsen and Desai 2010]]
+* [[Madsen and Desai 2018]]
 * [[Muth 1986]]
 
 ### Other papers
