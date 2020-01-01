@@ -18,6 +18,9 @@ Madsen, P. M., & Desai, V. (2010). Failing to Learn? The Effects of Failure and 
 * [[Cyert and March 1963]]
 * [[Sitkin 1992]]
 
+### Cited by
+* [[Madsen and Desai 2018]]
+
 ## Resources
 [[resources/Madsen-and-Desai-2010-Fig-1.png|Figure 1|width=650px]]
 
