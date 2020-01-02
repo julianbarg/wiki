@@ -23,6 +23,9 @@ All independent variables are company
 
 $W_{a,c,t} = \sum\limits_{A} f_{A,c,t} | A =  \\{ airline \in airlines \neq a \\} $
 
+$W_{a,c,t} = \sum\limits_{\alpha \in \(A 
+\backslash {a}\)} f_{\alpha,c,t}$
+
 * *Others' failure experience (within country)*: $W_{a,c,t} = \sum_{1}{} f \(airline \in airlines \neq a\ \to A\)$
 
 
