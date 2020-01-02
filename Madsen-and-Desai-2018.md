@@ -21,7 +21,7 @@ Madsen, P. M., & Desai, V. (2018). No Firm Is an Island: The Role of Population-
 
 All independent variables are company
 
-$W_{a,c,t} = \sum_{1}{A} f{c,t} | A =  \{airline \in airlines \neq a\}$
+$W_{a,c,t} = \sum_{1}{A} f{c,t} | A =  \{ airline \in airlines \neq a \} $
 
 * *Others' failure experience (within country)*: $W_{a,c,t} = \sum_{1}{} f \(airline \in airlines \neq a\ \to A\)$
 
