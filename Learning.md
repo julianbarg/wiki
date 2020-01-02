@@ -15,6 +15,7 @@ Part of: [[Organizational Theory]]
 * [[Huber 1991]]
 * [[Kogut and Zander 1992]]
 * [[Levitt and March 1988]]
+* [[Levinthal and March 1993]]
 * [[March 1991]]
 * [[Nonaka 1994]]
 
