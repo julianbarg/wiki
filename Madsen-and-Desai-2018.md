@@ -21,7 +21,7 @@ Madsen, P. M., & Desai, V. (2018). No Firm Is an Island: The Role of Population-
 * *Others' failure experience (within country)*
 * *Others' failure experience (outside country)*
 * *Population-level actor strength*
-* *Pop. actor strength **X** others' failure experience (within country)*
+* *Pop. actor strength* X *others' failure experience (within country)*
 
 ## One-paragraph summary
 
