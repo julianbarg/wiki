@@ -24,7 +24,16 @@ BTOF builds on assumption of bounded rationality, individuals' attempts at ratio
 
 On routines, the authors draw a line from Nelson and Winter (1982) to Levitt and March (1988). They propose that routines hold the key to organizational performance; an organization achieves good performance when it responds "local, short term, regular feedback" (ibid., 8), and adjusts operating routines accordingly.
 
-Summary of learning: 
+Summary of learning:
+
 "The Behavioral Theory of the Firm saw learning as a relational concept that included reinforcement of attention rules and search paths that proved successful in generating solutions (Cyert & March, 1963, pp. 123–125). However, a later article opened this view to also include learning from the external sources such as the experience of other organizations (Levitt & March, 1988)" (ibid., 16 f.).
+
+Topics covered related to learning:
+
+* Myopic search
+* Networks
+* Attributes of knowledge - interdependence, tacitness
+
+They state that one understudied area is integration, relevant for me might be *multiple goals*. Also called "plurality of goals". Overall, Gavetti et al. (2012) calls for the creation of a behavioral theory of inter- and intra-organizational behavior.
 
 ## One-page summary
