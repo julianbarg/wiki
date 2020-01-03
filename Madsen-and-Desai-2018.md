@@ -19,14 +19,9 @@ Madsen, P. M., & Desai, V. (2018). No Firm Is an Island: The Role of Population-
 
 ### Independent variables
 
-All independent variables are company
+All independent variables are airline-country-year. A is the set of all airlines.
 
-$W_{a,c,t} = \sum\limits_{A} f_{A,c,t} | A =  \\{ airline \in airlines \neq a \\} $
-
-$W_{a,c,t} = \sum\limits_{\alpha \in \(A 
-\backslash {a}\)} f_{\alpha,c,t}$
-
-* *Others' failure experience (within country)*: $W_{a,c,t} = \sum_{1}{} f \(airline \in airlines \neq a\ \to A\)$
+* *Others' failure experience (within country)*: $W_{a,c,t} = \(\sum\limits_{\alpha \in \(A \backslash \\{a\\}\)} \(f_{\alpha,c,t-1}\) + 1/2\sum\limits_{\alpha \in \(A \backslash \\{a\\}\)} \(f_{\alpha,c,t-2}\) + 1/3 \sum\limits_{\alpha \in \(A \backslash \\{a\\}\)} \(f_{\alpha,c,t-3} \)\) * 6/11$
 
 
 A | airline != a$
