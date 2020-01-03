@@ -19,15 +19,11 @@ Madsen, P. M., & Desai, V. (2018). No Firm Is an Island: The Role of Population-
 
 ### Independent variables
 
-All independent variables are airline-country-year. A is the set of all airlines.
+All independent variables are airline-country-year. A is the set of all airlines. C is the set of all countries.
 
 * *Others' failure experience (within country)*: $W_{a,c,t} = \(\sum\limits_{\alpha \in \(A \backslash \\{a\\}\)} \(f_{\alpha,c,t-1}\) + 1/2\sum\limits_{\alpha \in \(A \backslash \\{a\\}\)} \(f_{\alpha,c,t-2}\) + 1/3 \sum\limits_{\alpha \in \(A \backslash \\{a\\}\)} \(f_{\alpha,c,t-3} \)\) * 6/11$
-
-
-A | airline != a$
-\sum{} N_t
-* *Others' failure experience (outside country)*
-* *Population-level actor strength*
+* *Others' failure experience (outside country)*: Same as above, but with second sum over the set of all countries, except vocal countries.
+* *Population-level actor strength*: From regulatory audit carried out by ICAO.
 * *Pop. actor strength* X *others' failure experience (within country)*
 
 ## One-paragraph summary
