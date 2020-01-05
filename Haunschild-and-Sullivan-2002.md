@@ -23,4 +23,6 @@ Haunschild, P. R., & Sullivan, B. N. (2002). Learning from Complexity: Effects o
 
 ## One-paragraph summary
 
+Organization might learn more from heterogeneity and complexity of accident causes, because it forces them to explore underlying reasons. They need to study (1) latent causes, (2) are less likely to sacrifice a scapegoat, and (3) "heterogeneity produces constructive conflicts in groups" (ibid., 613). On the other hand, when causes are homogenous, it is (1) salient, (2) easy to understand, and (3) easy to find systematic what caused the error. The authors use data from the airline industry, with the outcome variable being the accident rate per 100,000 departures.
+
 ## One-page summary
