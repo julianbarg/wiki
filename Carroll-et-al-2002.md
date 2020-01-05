@@ -1,6 +1,6 @@
 **Learning from Experience in High-Hazard Organizations**
 
-[[ _TOC_]]
+[[_TOC_]]
 
 ## Citation
 Carroll, J. S., Rudolph, J. W., & Hatakenaka, S. (2002). Learning from Experience in High-Hazard Organizations. *Research in Organizational Behavior*, 24, 87–137. [[https://doi.org/10.1016/S0191-3085(02)24004-6]]
