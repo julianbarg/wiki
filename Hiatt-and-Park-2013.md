@@ -21,4 +21,6 @@ Hiatt, S. R., & Park, S. (2013). Lords of the Harvest: Third-Party Influence and
 
 ## One-paragraph summary
 
+When legislating, regulators (USDA) seek out expert stakeholders opinion to ensure the legitimacy of their decisions.
+
 ## One-page summary
