@@ -11,6 +11,7 @@
 
 ## Material
 * [[Comps Preparation]]
+* [[Learning]]
 
 ## Meetings
 * [[Meeting minutes]]
