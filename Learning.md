@@ -85,3 +85,8 @@ I am looking for a theory that is not deterministic, but also not fatalistic. On
 
 #### Population level
 * [[Hoffman and Ocasio 2001]]
+
+### Other categories
+
+#### High reliablity organizations
+* [[Carroll 1998]]
