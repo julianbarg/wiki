@@ -24,6 +24,6 @@ Sullivan, B. N. (2010). Competition and Beyond: Problems and Attention Allocatio
 
 ## One-paragraph summary
 
-Opens by disputing that attention is a rare resource. Sullivan (2010) builds on the notion of "situated attention" to develop this idea further. Only under certain circumstances, attention is constrained. For instance, when the frequency of new problems increases, organizations could develop a sense of urgency, which would allow them to attend to the problems better, even if they stem from different domains (H2).
+Opens by disputing that attention is a rare resource. Sullivan (2010) builds on the notion of "situated attention" to develop this idea further. Only under certain circumstances, attention is constrained. For instance, when the frequency of new problems increases, organizations could develop a sense of urgency, which would allow them to attend to the problems better, even if they stem from different domains (H2). The empirical context is rulemaking in the aviation industry (FAA).
 
 ## One-page summary
