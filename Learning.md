@@ -66,3 +66,16 @@ I am looking for a theory that is not deterministic, but also not fatalistic. On
 
 ### Vicarious learning
 * [[Bresman 2013]]
+
+### By empirical context
+
+#### Chemical industry
+* [[Hoffman and Ocasio 2001]]
+
+#### Aviation
+* [[Sullivan 2010]]
+
+### By level of analysis
+
+#### Population level
+* [[Hoffman and Ocasio 2001]]
