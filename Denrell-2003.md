@@ -9,6 +9,7 @@ Denrell, J. (2003). Vicarious Learning, Undersampling of Failure, and the Myths 
 ## Related to
 
 ### Theories
+* [[Institutional Theory]]
 * [[Learning]]
 
 ### Courses etc.
