@@ -72,10 +72,16 @@ I am looking for a theory that is not deterministic, but also not fatalistic. On
 #### Chemical industry
 * [[Hoffman and Ocasio 2001]]
 
+#### Logging industry
+* [[Zietsma et al 2002]]
+
 #### Aviation
 * [[Sullivan 2010]]
 
 ### By level of analysis
+
+#### Organization level
+* [[Zietsma et al 2002]]
 
 #### Population level
 * [[Hoffman and Ocasio 2001]]
