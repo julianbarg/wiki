@@ -19,6 +19,7 @@ Denrell, J. (2003). Vicarious Learning, Undersampling of Failure, and the Myths 
 ### Cited by
 
 ## Resources
+[[resources/Denrell_2003_Fig_1.png|width=350px|alt:Figure 1]]
 
 ## One-paragraph summary
 
