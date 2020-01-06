@@ -10,7 +10,7 @@
 
 \### Courses etc.
 
-\### Previous literature
+\### Previous literature/influences
 
 \### Cited by
 
