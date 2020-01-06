@@ -20,6 +20,6 @@ Hoffman, A. J., & Ocasio, W. (2001). Not All Events Are Attended Equally: Toward
 
 ## One-paragraph summary
 
-Introducing the concept of *industry-level attention*. Whether an industry pays attention to an event depends on several factors, including salience of the event, accountability, and contestation.
+Introducing the concept of *industry-level attention*. Whether an industry pays attention to an event depends on several factors, including salience of the event, accountability, and contestation (via industrial identity).
 
 ## One-page summary
