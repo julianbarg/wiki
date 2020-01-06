@@ -23,6 +23,6 @@ Denrell, J. (2003). Vicarious Learning, Undersampling of Failure, and the Myths 
 
 ## One-paragraph summary
 
-Companies learn from other organizations; in particular, they try to emulate successful organizations. This article centers on the assumption that we undersample failure. The authors show that when only companies with a positive performance survive, it will seem like risk is associated with better performance, although risky variables are unrelated to average performance - because risk-takers that did not survive have been selected out. Examples of oversampled companies: focused strategies, strong organizational culture, tightly coordinated, etc.
+Companies learn from other organizations; in particular, they try to emulate successful organizations. This article centers on the assumption that we undersample failure. The authors show that when only companies with a positive performance survive, it will seem like risk is associated with better performance, although risky variables are unrelated to average performance - because risk-takers that did not survive have been selected out. Examples of oversampled companies: focused strategies, strong organizational culture, tightly coordinated, etc. This is the reason for (a) the undersampling of failure, and (b) an alternative explanation for institutional theory.
 
 ## One-page summary
