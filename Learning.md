@@ -61,11 +61,22 @@ I am looking for a theory that is not deterministic, but also not fatalistic. On
 
 ## By keyword
 
-### Group Learning
-* [[Bresman 2013]]
-
 ### Vicarious learning
 * [[Bresman 2013]]
+
+### High reliablity organizations
+* [[Carroll 1998]]
+
+### By level of analysis
+
+#### Group Learning
+* [[Bresman 2013]]
+
+#### Organization level
+* [[Zietsma et al 2002]]
+
+#### Population level
+* [[Hoffman and Ocasio 2001]]
 
 ### By empirical context
 
@@ -77,16 +88,3 @@ I am looking for a theory that is not deterministic, but also not fatalistic. On
 
 #### Aviation
 * [[Sullivan 2010]]
-
-### By level of analysis
-
-#### Organization level
-* [[Zietsma et al 2002]]
-
-#### Population level
-* [[Hoffman and Ocasio 2001]]
-
-### Other categories
-
-#### High reliablity organizations
-* [[Carroll 1998]]
