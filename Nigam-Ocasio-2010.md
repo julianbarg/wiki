@@ -1,6 +1,6 @@
 **Event Attention, Environmental Sensemaking, and Change in Institutional Logics: An Inductive Analysis of the Effects of Public Attention to Clinton's Health Care Reform Initiative**
 
-[[ _TOC_]]
+[[_TOC_]]
 
 ## Citation
 
