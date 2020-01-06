@@ -58,3 +58,11 @@ Learning in the early 1990s experienced a bloom, and paved the way for work on s
 
 ### What kind of theory is called for
 I am looking for a theory that is not deterministic, but also not fatalistic. On the one hand, we should not assume that any change (to technology or policy) is necessarily positive and will improve productivity (or the other way around). On the other hand, if a change occurred and is reversed later, we also may not assume that the outcome of this development is negative - the organization may have learned something along the way, and may be better off for it.
+
+## By keyword
+
+### Group Learning
+* [[Bresman 2013]]
+
+### Vicarious learning
+* [[Bresman 2013]]
