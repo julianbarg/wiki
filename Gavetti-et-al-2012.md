@@ -38,7 +38,7 @@ Learning, according to Gavetti et al. (2010)
 * Learning is a reoccurring topic in the article.
 * There are six research themes on [[BTOF]] right now: cognition, performance feedback, politics, attention, learning, and adaption.
 
-## One-page summary
+## One-paragraph summary
 
 BTOF builds on assumption of bounded rationality, individuals' attempts at rational decision making that are influenced by organizations. For instance, decision makers do not maximize; instead, their actions involve satisficing, search, and rules/schemes. In particular, understanding search is crucial: individuals choose from the options they are aware of; if there is no option available that may allow them to meet their aspiration level, they may engage in search; and "[s]earch processes stop when an alternative is expected to be satisfactory" (ibid., 5). The authors reemphasize the inability of organizations to fully resolve goal conflicts (ibid., 5f.).
 
@@ -57,3 +57,13 @@ Topics covered related to learning:
 They state that one understudied area is integration, relevant for me might be *multiple goals*. Also called "plurality of goals". Overall, Gavetti et al. (2012) calls for the creation of a behavioral theory of inter- and intra-organizational behavior.
 
 ## One-page summary
+
+The original premise of [[BTOF]] is that decision making is central to behavioral theory, and therefore BTOF should be based on the logic and psychology of human choice (ibid., 3). Concretely, (1) humans satisfice instead of maximize, (2) they engage in search only under certain circumstances, and (3) their behavior in organizations is often guided by "*[r]ules,standard operating procedures, and status quo*" (ibid., 5; emphasis in original). Among the four central "relational concepts" of Cyert and March (1963) is *learning* (the others are (1) quasi-resolution of conflict, (2) uncertainty avoidance, and (3) problematistic search). There are six reserach themes on BTOF right 
+
+* Evolutionary economics
+* Organizatoinal learning
+* Dynamic capabilities
+* Attention-Based-View
+* Cognition
+
+Learning, according to Gavetti et al. (2010) was originally conceptualized as a feedback driven mechanism, that saw organizations react to the feedback of the environment. Later, it came to also include organizations incorporating external knowledge. An important debate used to be exploration vs exploitation (myopic search). Now, there are studies on network, and mechanisms of vicarious learning.
