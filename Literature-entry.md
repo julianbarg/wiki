@@ -16,6 +16,8 @@
 
 \## Resources
 
+\## Important points
+
 \## One-paragraph summary
 
 \## One-page summary
