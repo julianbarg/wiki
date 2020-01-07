@@ -21,4 +21,6 @@ Daft, R. L., & Weick, K. E. (1984). Toward a Model of Organizations as Interpret
 
 ## One-paragraph summary
 
+Organizations attempt to sense the environment, provide what consumers want, before their resources run out. Daft and Weick (1984) describe some characteristics of an organization working like that.
+
 ## One-page summary
