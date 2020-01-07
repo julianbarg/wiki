@@ -25,4 +25,6 @@ Carroll, J. S. (1998). Organizational Learning Activities in High-hazard Industr
 
 ## One-paragraph summary
 
+Carroll presents a general model of organizational learning. The four steps in the model are (1) Observing, (2) Reflecting, (3) Creating, and (4) Acting. The article also discusses the role of logics in this learning process. Different groups apply different logics to problems, and only in the right environment can they come together and move beyond the identification of a single root cause, achieving learning.
+
 ## One-page summary
