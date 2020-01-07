@@ -22,6 +22,6 @@ Crossan, M. M., Lane, H. W., & White, R. E. (1999). An Organizational Learning F
 
 ## One-paragraph summary
 
-Crossan et al present a model of learning that stretches from individuals' cognitive action to the organization. I believe event the individual cognitive action can be emergent, part of the iterative processes of the organization, so I do not subscribe to this model.
+Crossan et al present a model of learning that stretches from individuals' cognitive action to the organization. I believe event the individual cognitive action can be emergent, part of the iterative processes of the organization, so I do not subscribe to this model. Thus, intuiting can be a group level process, even though that seems unintuitive.
 
 ## One-page summary
