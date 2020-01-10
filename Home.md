@@ -16,6 +16,7 @@
 ## Meetings
 * [[Meeting minutes]]
 * [[Meeting notes]]
+* [[Seminars]]
 
 ## Projects
 * [[Thesis]]
