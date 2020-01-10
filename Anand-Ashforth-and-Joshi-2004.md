@@ -20,6 +20,8 @@ Anand, V., Ashforth, B. E., & Joshi, M. (2004). Business as Usual: The Acceptanc
 * [[resources/Anand-Ashforth-and-Joshi-2004-Fig-1.png|alt=Figure 1|width=750px]]
 
 ## Important points
+* Fraud is now perceived to be commonplace (Enron, WorldCom, Tyco, HealthSouth, and Parmalat).
+* These acts are not committed by "corrupted" individuals, but have many co-conspirators - they are an organizational phenomenon.
 
 ## One-paragraph summary
 
