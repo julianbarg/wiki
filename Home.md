@@ -18,6 +18,9 @@
 * [[Meeting notes]]
 * [[Seminars]]
 
+## Conference Submissions
+* [[EGOS 2020]]
+
 ## Projects
 * [[Thesis]]
 * [[Pace 2019]]
