@@ -8,7 +8,7 @@
 
 \### Theories
 
-\### Courses etc.
+\### Conferences, Courses etc.
 
 \### Previous literature/influences
 
