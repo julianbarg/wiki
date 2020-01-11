@@ -30,7 +30,7 @@ Greve, H. R., Palmer, D., & Pozner, J. (2010). Organizations Gone Wild: The Caus
 * Examples of social-control agents: "world polity [...], the state [..], professional associations (ibid., 57).
 * Organizational causes: (1) rational choice, (2) strain, (3) culture, (4) networks, and (5) accidents.
 * Some criticism of learning? p. 74.
-* Also, more importantly, describing how behavior becomes unacceptable.
+* Also, more importantly, describing how behavior becomes unacceptable (p. 79).
 
 ## One-paragraph summary
 
