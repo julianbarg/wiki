@@ -22,6 +22,11 @@ Anand, V., Ashforth, B. E., & Joshi, M. (2004). Business as Usual: The Acceptanc
 ## Important points
 * Fraud is now perceived to be commonplace (Enron, WorldCom, Tyco, HealthSouth, and Parmalat).
 * These acts are not committed by "corrupted" individuals, but have many co-conspirators - they are an organizational phenomenon.
+* Key mechanisms: **rationalization** and **socialization practices**.
+* Rule-based behavior (in the BTOF sense) often lead to the actions.
+* Six rationalizatoin tactics: (1) Denial of responsiblity, (2) Denial of injury, (3) Denial of victim, (4) Social weighting, (5) Appeal to higher loyalties, (6) Metaphor of the ledger
+* Three socialization practices: **cooptation**, **incrementalism**, and **compromise**.
+* Facilitating factors: (1) Group Attractiveness/Social Cocoon, (2) Mutual Support of Rationalization and Socialization, (3) Euphemistic Language.
 
 ## One-paragraph summary
 
