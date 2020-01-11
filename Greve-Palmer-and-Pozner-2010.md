@@ -10,7 +10,7 @@ Greve, H. R., Palmer, D., & Pozner, J. (2010). Organizations Gone Wild: The Caus
 
 ### Theories
 
-* [[Organizational wrongdoing]]
+* [[Organizational misconduct]]
 
 ### Conferences, Courses etc.
 
@@ -26,6 +26,7 @@ Greve, H. R., Palmer, D., & Pozner, J. (2010). Organizations Gone Wild: The Caus
 
 * Areas: (1) **definitions**, (2) **causes**, (3) **proliferation, (4) **discovery**, and (5) **consequences**.
 * Research opportunities: "(1) a rigorous definition of misconduct, (2) a view of social-control agents as judges that socially construct misconduct, and (3) examination of the spread of conduct within and among organizations" (ibid. 55).
+* **Definition** of organizational misconduct
 
 ## One-paragraph summary
 
