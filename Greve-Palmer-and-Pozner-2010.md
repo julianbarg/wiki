@@ -22,6 +22,8 @@ Greve, H. R., Palmer, D., & Pozner, J. (2010). Organizations Gone Wild: The Caus
 
 ## Important points
 
+* Areas: (1) **definitions**, (2) **causes**, (3) **proliferation, (4) **discovery**, and (5) **consequences**.
+
 ## One-paragraph summary
 
 ## One-page summary
