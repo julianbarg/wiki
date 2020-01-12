@@ -29,6 +29,6 @@ Palazzo, G., Krings, F., & Hoffrage, U. (2012). Ethical Blindness. *Journal of B
 
 ## One-paragraph summary
 
-Ethical blindness functions similar to inattention blindness. Instead of our attention being captivated by something that pulls us away from the thing right in front of our face, the individual, in a sensemaking fashion, is applying a different frame. Only one frame is applied at a time in that case, and the frame is provided by the organization (the individual perceives a routine). 
+Ethical blindness functions similar to inattention blindness. Instead of our attention being captivated by something that pulls us away from the thing right in front of our face, the individual, in a sensemaking fashion, is applying a different frame. Only one frame is applied at a time in that case, and the frame is provided by the organization (the individual perceives a routine). Maybe people could be "frame-vigilant" to resolve this problem.
 
 ## One-page summary
