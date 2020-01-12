@@ -1,6 +1,6 @@
 **Corrupt Organizations or Organizations of Corrupt Individuals? Two Types of Organization-Level Corruption**
 
-[[ _TOC_]]
+[[_TOC_]]
 
 ## Citation
 
