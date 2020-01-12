@@ -17,7 +17,6 @@
 
 ### Other papers
 * [[Anand Ashforth and Joshi 2004]]
-* [[Greve Palmer and Pozner 2010]]
 * [[Jensen 2006]]
 * [[Mohliver 2019]]
 * [[Moore 2008]]
