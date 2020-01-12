@@ -28,6 +28,6 @@ Palmer, D. (2008). Extending the Process Model of Collective Corruption. *Resear
 
 ## One-paragraph summary
 
-Introducing three different models. (1) The Rational Cost/Benefit Analysis, (2) the Normative Appropriateness Assessment, and (3) the Process Model of Collective Corruption.
+Introducing three different models. (1) The Rational Cost/Benefit Analysis, (2) the Normative Appropriateness Assessment, and (3) the Process Model of Collective Corruption. Palmer extends the process model in five points (see Figure 2 above).
 
 ## One-page summary
