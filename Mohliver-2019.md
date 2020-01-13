@@ -20,7 +20,7 @@ Mohliver, A. (2019). How Misconduct Spreads: Auditors’ Role in the Diffusion o
 
 ## Resources
 
-[[resources/Mohliver-2019-Fig-2.png|alt=Figure 2|width=850px]]
+[[resources/Mohliver-2019-Fig-2.png|alt=Figure 2|width=750px]]
 
 ## Important points
 
