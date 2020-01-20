@@ -17,6 +17,7 @@ Part of: [[Organizational Theory]]
 * [[Levitt and March 1988]]
 * [[Levinthal and March 1993]]
 * [[March 1991]]
+* [[Miner and Anderson 1999]]
 * [[Nonaka 1994]]
 
 ### Literature reviews
