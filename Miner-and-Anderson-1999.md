@@ -2,6 +2,8 @@
 
 [[_TOC_]]
 
+See also [[Miner and Andersonb]]
+
 ## Citation
 Miner, A. S., & Anderson, P. (1999). Population-level Learning and Industry Change. *Advances in Strategic Management*, 16, 307.
 
