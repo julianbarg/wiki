@@ -78,6 +78,8 @@ I am looking for a theory that is not deterministic, but also not fatalistic. On
 
 #### Population level
 * [[Hoffman and Ocasio 2001]]
+* [[Miner and Anderson 1999]]
+* [[Miner and Anderson 1999b]]
 
 #### Across levels
 *[[Carroll 1998]]
