@@ -43,5 +43,6 @@ After defining the three questions (see above), Miner and Anderson (1999) discus
 
 There are three observed types of population-level learning:
 
-* Parallel independent organizational learning is
-* Recurrent organizational learning is
+* Parallel independent organizational learning.
+* Recurrent organizational learning. Organizations learn from each other, or cooperate on projects, observations are drawn from multiple, repeated observations.
+* Collective population learning. "[A]t least one learning step is collective" (ibid., 8), e.g., SEMATECH. Does that mean, a scientific breakthrough is collective population learning? "[T]he degree to which learning processes are collective represents a continuous rather than discrete variable" (ibid., 8).
