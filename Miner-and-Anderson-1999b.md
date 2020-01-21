@@ -38,3 +38,10 @@ After defining the three questions (see above), Miner and Anderson (1999) discus
 * Learning as a (qualitative) change in knowledge and/or behavior, rather than performance improvements.
 * Learning co-occurs on different levels, i.e., individual and collective.
 * Scope of learning at a collective level is not the aggregate of individual-level learning below.
+* Interaction of learning to study strategy.
+* Population-level learning goes beyond change in frequency of certain type of organizations, instead, it entails qualitative change in a larger group of organizations.
+
+There are three observed types of population-level learning:
+
+* Parallel independent organizational learning is
+* Recurrent organizational learning is
