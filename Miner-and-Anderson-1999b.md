@@ -21,6 +21,7 @@ Miner, A. S., & Anderson, P. (1999). Industry and Population-level Learning: Org
 ## Resources
 
 ## Important points
+* **Learning definition**: Like [[Levitt and March 1988]], not defined by improvements, but by change.
 
 ## One-paragraph summary
 
@@ -31,3 +32,9 @@ Literature started with the notion that strategy is emergent (from rules and rou
 * **(3)**: Industry robustness - where does that originate?
 
 ## One-page summary
+
+After defining the three questions (see above), Miner and Anderson (1999) discuss changes in two different areas. With regards to the mechanisms, they set up their assumptions:
+
+* Learning as a (qualitative) change in knowledge and/or behavior, rather than performance improvements.
+* Learning co-occurs on different levels, i.e., individual and collective.
+* Scope of learning at a collective level is not the aggregate of individual-level learning below.
