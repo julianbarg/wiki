@@ -15,6 +15,7 @@ Miner, A. S., & Anderson, P. (1999). Industry and Population-level Learning: Org
 ### Conferences, Courses etc.
 
 ### Previous literature/influences
+* [[Teece Pisano and Shuen 1997]]
 
 ### Cited by
 
