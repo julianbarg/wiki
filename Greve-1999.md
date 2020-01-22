@@ -21,7 +21,9 @@ Greve, H. R. (1999). Branch Systems and Nonlocal Learning in Populations. In A. 
 ## Resources
 
 ## Important points
-* Sometimes, learning may be detrimental. For instance, if knowledge obtained in a branch is transferred into other branches, where it is not applicable (e.g., because of differences in the market context).
+* Sometimes, learning may be detrimental. For instance, if knowledge obtained in a branch is transferred into other branches, where it is not applicable (e.g., because of differences in the market context) (ibid., 75).
+* There is a "structural bias toward nonlocal transfer rather than experimentation" (ibid., 75).
+* Greve (1999) thus develops a critical view on learning from "best practice".
 
 ## One-paragraph summary
 
