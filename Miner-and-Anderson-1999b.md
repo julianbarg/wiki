@@ -49,4 +49,4 @@ There are three observed types of population-level learning:
 
 In summary:
 
-**"The framework [...] opens the door for conceptions of industry development that do not take the firm itself as the most crucial unit of analysis."**
+**"The framework [...] opens the door for conceptions of industry development that do not take the firm itself as the most crucial unit of analysis"** (ibid., 25). Also, criticism of neoinstitutional theory: why aren't all firms exactly the same (ibid., 25f).
