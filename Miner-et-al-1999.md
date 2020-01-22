@@ -20,7 +20,10 @@ Miner, A. S., Kim, J.-Y. (Jay), Holzinger, I. W., & Haunschild, P. (1999). Fruit
 ## Resources
 
 ## Important points
+* Three levels of response: (1) direct consequences, (2) reactions to failure, and (3) consequences of reaction to failure
 
 ## One-paragraph summary
+
+Inductive method in a three step process. From coded failure events, obtain (1) effect of failure on industry, (2) processes involved, and (3) strategic implications.
 
 ## One-page summary
