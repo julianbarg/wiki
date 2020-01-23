@@ -23,6 +23,7 @@ Miner, A. S., Kim, J.-Y. (Jay), Holzinger, I. W., & Haunschild, P. (1999). Fruit
 * Experience of failure has to be disaggregated from total experience
 * This paper is the business literature representation of regulations
 * Three levels of response: (1) direct consequences, (2) reactions to failure, and (3) consequences of reaction to failure
+* Example of nuclear industry: collective industry action to save the industry.
 
 ## One-paragraph summary
 
