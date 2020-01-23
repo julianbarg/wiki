@@ -20,10 +20,12 @@ Miner, A. S., Kim, J.-Y. (Jay), Holzinger, I. W., & Haunschild, P. (1999). Fruit
 ## Resources
 
 ## Important points
+* Failure (and near failure) causes surprising learning outcomes in an industry.
 * Experience of failure has to be disaggregated from total experience.
 * This paper is the business literature representation of regulations.
 * **It is difficult to make good interference from failure (see also [[Sitkin 1992]]).**
 * Provides some examples of the possible negative consequences of learning for an industry.
+* "Population-level learning is a multilevel phenomenon" (ibid., 212).
 
 ## One-paragraph summary
 
