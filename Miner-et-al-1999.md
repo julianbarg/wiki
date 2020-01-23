@@ -20,7 +20,8 @@ Miner, A. S., Kim, J.-Y. (Jay), Holzinger, I. W., & Haunschild, P. (1999). Fruit
 ## Resources
 
 ## Important points
-* Experience of failure has to be disaggregated from total experience.
+* Experience of failure has to be disaggregated from total experience
+* This paper is the business literature representation of regulations
 * Three levels of response: (1) direct consequences, (2) reactions to failure, and (3) consequences of reaction to failure
 
 ## One-paragraph summary
