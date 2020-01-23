@@ -32,3 +32,4 @@
 * [[Templates]]
 * [[todo]]
 * [[things I need to remember|things]]
+* [[Reading list]]
