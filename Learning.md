@@ -77,6 +77,7 @@ I am looking for a theory that is not deterministic, but also not fatalistic. On
 * [[Zietsma et al 2002]]
 
 #### Population level
+* [[Anderson 1999]]
 * [[Hoffman and Ocasio 2001]]
 * [[Miner and Anderson 1999]]
 * [[Miner and Anderson 1999b]]
@@ -86,11 +87,14 @@ I am looking for a theory that is not deterministic, but also not fatalistic. On
 
 ### By empirical context
 
+#### Aviation
+* [[Sullivan 2010]]
+
 #### Chemical industry
 * [[Hoffman and Ocasio 2001]]
 
+#### Education
+* [[Rura-Polley 1999]]
+
 #### Logging industry
 * [[Zietsma et al 2002]]
-
-#### Aviation
-* [[Sullivan 2010]]
