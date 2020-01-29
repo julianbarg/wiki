@@ -14,6 +14,7 @@ Anderson, P. (1999). Collective Interpretation and Collective Action in Populati
 ### Conferences, Courses etc.
 
 ### Previous literature/influences
+* [[Miner and Haunschild 1995]]
 
 ### Cited by
 
