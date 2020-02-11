@@ -18,7 +18,7 @@
 
 2. Why don't they eliminate their environmental impacts?
 
-3. What are the motivations to do so?
+3. What would be their motivations to do so?
 
     a. This point probably deserves most explanation.
 
