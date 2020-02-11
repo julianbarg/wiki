@@ -21,6 +21,9 @@
 ## Conference Submissions
 * [[EGOS 2020]]
 
+## Conference Talks
+* [[Ivey PhD Research Series 2020]]
+
 ## Projects
 * [[Thesis]]
 * [[Pace 2019]]
