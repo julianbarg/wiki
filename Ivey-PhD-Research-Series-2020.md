@@ -24,21 +24,15 @@
 
 4. Environmental feedback?
 
-    a. Serious accidents
+    a. Serious accidents (fail events/literature applies)
 
-* Fail events/literature applies
-
-    b. Minor failure
-
-* Near-misses - high chance that learning opportunity is missed
+    b. Minor failure (near-misses - high chance that learning opportunity is missed)
 
 5. Vicarious learning?
 
 6. Population-level Learning?
 
-7. What has learning concentrated on?
-
-* Qualitative dimension of learning
+7. What has learning concentrated on? Qualitative dimension of learning
 
     a. Learning could concentrate on mitigation rather than avoidance
 
