@@ -45,3 +45,9 @@
     b. Historical aspiration levels. Organizations in a population are selected for traits that increase chance of survival, one such being aspirations for improvement (is there a reason why this would also for goals that are not essential for survival?). For instance, there are cases of organizations' safety aspirations slipping, and companies going out of business because of lawsuits.
 
 9. Is there any relevance from this for our original motivation in protecting the environment?
+
+10. Examples of improvement events.
+
+    a. Culturally, events are taken as unacceptable. E.g., self-image of operational excellence (BASF).
+
+    b. Populations see the opportunity to cut out incidents completely, e.g., current industry initiative. Did broader societal trends contribute to this? is there more penetration with understanding of how pollution affects communities?
