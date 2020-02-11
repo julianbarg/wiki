@@ -43,3 +43,5 @@
     a. Metrics still apply. While there may not be a motivation for companies to improve performance on the metric, there is also no environmental feedback that would lead them to believe that they could get away with doing worse.
 
     b. Historical aspiration levels. Organizations in a population are selected for traits that increase chance of survival, one such being aspirations for improvement (is there a reason why this would also for goals that are not essential for survival?). For instance, there are cases of organizations' safety aspirations slipping, and companies going out of business because of lawsuits.
+
+9. Is there any relevance from this for our original motivation in protecting the environment?
