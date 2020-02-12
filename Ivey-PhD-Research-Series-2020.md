@@ -54,9 +54,12 @@
 
 ---
 
-# Decisions I made
+## Decisions I made
 
 **Pipelines are not complex systems**
 
-Therefore, the theory of how in complex systems security may not work does not apply. Everything is pretty straightforward.
+* Therefore, the theory of how in complex systems security may not work does not apply. Everything is pretty straightforward.
 
+**Mitigation and prevention constitutes two different technologies**
+
+* There is a trade-off based on which one is persued.
