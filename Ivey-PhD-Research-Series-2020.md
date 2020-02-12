@@ -51,3 +51,11 @@
     a. Culturally, events are taken as unacceptable. E.g., self-image of operational excellence (BASF).
 
     b. Populations see the opportunity to cut out incidents completely, e.g., current industry initiative. Did broader societal trends contribute to this? is there more penetration with understanding of how pollution affects communities?
+
+---
+
+# Decisions I made
+
+### Pipelines are not complex systems
+
+Therefore, the theory of how in complex systems security may not work does not apply. Everything is pretty straightforward.
