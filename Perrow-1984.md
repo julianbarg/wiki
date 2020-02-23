@@ -3,6 +3,7 @@
 [[_TOC_]]
 
 ## Citation
+Perrow, C. (1984). *Normal Accidents: Living with High-Risk Technologies*. Basic Books.
 
 ## Related to
 
@@ -13,6 +14,8 @@
 ### Previous literature/influences
 
 ### Cited by
+* [[Baum and Dahlin 2007]]
+* [[Weick, Sutcliffe and Obstfeld 1999]]
 
 ## Resources
 
@@ -21,3 +24,7 @@
 ## One-paragraph summary
 
 ## One-page summary
+
+## Chapter-by-chapter
+
+### Chapter 9
