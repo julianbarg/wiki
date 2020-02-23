@@ -9,6 +9,9 @@
 * [[Business Sustainability (2017)|Business Sustainability 2017]]
 * [[Organizational Theory (2017)|Organizational Theory 2017]]
 
+## Phenomena
+* [[Oil spills]]
+
 ## Material
 * [[Comps Preparation]]
 * [[Learning]]
