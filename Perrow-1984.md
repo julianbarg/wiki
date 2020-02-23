@@ -28,3 +28,5 @@ Perrow, C. (1984). *Normal Accidents: Living with High-Risk Technologies*. Basic
 ## Chapter-by-chapter
 
 ### Chapter 9
+
+* (P. 313) "Active risk" vs. "passive risk" - Risk we actively engage in (e.g., driving) vs. risk we have to accept when engaging in and activity (e.g., airtravel). Perrow suggests that the profit for passive risk is often accrued to private businesses, while consumers may benefit from active risks (e.g., commuting in exchange for making an income).
