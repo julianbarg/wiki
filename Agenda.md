@@ -1,0 +1,2 @@
+* We might live in a world where selection pressure is actually quite low, and many industries constitute monopolies.
+* Or we might also live in a world where the conditions in every industry is different and my observations only hold for pipeline operators (and maybe a few others).
