@@ -34,6 +34,7 @@
 * [[Timeline]]
 
 ## Other
+* [[Agenda]]
 * [[Ideas/Notes|Ideas]]
 * [[Templates]]
 * [[todo]]
