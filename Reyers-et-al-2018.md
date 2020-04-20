@@ -31,6 +31,8 @@ Reyers, B., Folke, C., Moore, M.-L., Biggs, R., & Galaz, V. (2018). Social-Ecolo
 
 ### Insight 3: From Incremental Change to Systemic Tipping Points and Shifts
 
+* "the potential for systemic reorganizationmaybe thenormrather than the exception in complex SES" (p. 275).
+
 ## One-paragraph summary
 
 ## One-page summary
