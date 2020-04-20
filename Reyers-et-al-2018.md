@@ -33,6 +33,11 @@ Reyers, B., Folke, C., Moore, M.-L., Biggs, R., & Galaz, V. (2018). Social-Ecolo
 
 * "the potential for systemic reorganizationmaybe thenormrather than the exception in complex SES" (p. 275).
 
+### Insight 4: From Adapting to Change to Transforming for Change Sustainable
+
+* Incremental vs. transformational change.
+
+
 ## One-paragraph summary
 
 ## One-page summary
