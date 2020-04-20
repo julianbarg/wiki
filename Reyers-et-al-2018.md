@@ -29,6 +29,8 @@ Reyers, B., Folke, C., Moore, M.-L., Biggs, R., & Galaz, V. (2018). Social-Ecolo
 
 * Telecoupling: coupling between subsystems across a distance. 
 
+### Insight 3: From Incremental Change to Systemic Tipping Points and Shifts
+
 ## One-paragraph summary
 
 ## One-page summary
