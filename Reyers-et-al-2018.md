@@ -20,6 +20,15 @@ Reyers, B., Folke, C., Moore, M.-L., Biggs, R., & Galaz, V. (2018). Social-Ecolo
 
 ## Important points
 
+### Insight 1: From Independent Pillars to Inseparable Complex Social-Ecological Systems
+
+* Foundation: three-pillared notion, where the three pillars have to be understood as inseparable (p. 270). System cannot be reduced to its components for analysis, but has to be understood in its entity.
+* Suggested measures: policy interventions, targets, and adaptive managemente (p. 261).
+
+### Insight 2: From Local to Cross-Scale Dynamics
+
+* Telecoupling: coupling between subsystems across a distance. 
+
 ## One-paragraph summary
 
 ## One-page summary
