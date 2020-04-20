@@ -38,7 +38,10 @@ Reyers, B., Folke, C., Moore, M.-L., Biggs, R., & Galaz, V. (2018). Social-Ecolo
 * **Incremental** vs. **transformational** change.
 * "Rewiring" SES includes, amongst other functions, norms, values, beliefs (p. 276).
 * "breaking down the resilience of features of the current systems that constrain transformation" (p. 276).
-* "Lack of certainty also remains on how to collectively make decisions about new directions whent here is so much uncertainty, surprise, and turbulence" (p. 276).
+* "Lack of certainty also remains on how to collectively make decisions about new directions when here is so much uncertainty, surprise, and turbulence" (p. 276).
+* "[A]daptive capacities may even hinder transformative capacities" (p. 277).
+* "[...] moving beyond a focus on capacities alone [toward] factors such as willingness to transformation" (p. 277).
+* "[R]ecent research about social-ecological innovations for transformation has provided insights for practice of the importance of local, niche experiments occurring "under the radar" that later contribute to broader transformation processes" (p. 277f).
 
 ## One-paragraph summary
 
