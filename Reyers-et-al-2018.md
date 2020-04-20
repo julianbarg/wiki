@@ -35,8 +35,10 @@ Reyers, B., Folke, C., Moore, M.-L., Biggs, R., & Galaz, V. (2018). Social-Ecolo
 
 ### Insight 4: From Adapting to Change to Transforming for Change Sustainable
 
-* Incremental vs. transformational change.
-
+* **Incremental** vs. **transformational** change.
+* "Rewiring" SES includes, amongst other functions, norms, values, beliefs (p. 276).
+* "breaking down the resilience of features of the current systems that constrain transformation" (p. 276).
+* "Lack of certainty also remains on how to collectively make decisions about new directions whent here is so much uncertainty, surprise, and turbulence" (p. 276).
 
 ## One-paragraph summary
 
