@@ -16,7 +16,7 @@ Reyers, B., Folke, C., Moore, M.-L., Biggs, R., & Galaz, V. (2018). Social-Ecolo
 ### Cited by
 
 ## Resources
-[[resources/reyers_et_al_2018_fig_1.png]]
+[[resources/reyers_et_al_2018_fig_1.png|width=700px]]
 
 ## Important points
 
