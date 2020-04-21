@@ -24,11 +24,16 @@ Levitt, B., & March, J. G. (1988). Organizational Learning. *Annual Review of So
 * Lays out the behavioral approach to learning.
 
 ### Basis of organizational learning
+
 * Based on three basic tenets.
 1. Behavior in organizations is based on routines.
 2. Organizational actions are history-dependent.
 3. Organizations are oriented to targets.
+* In addition, success vs. failure in outcomes overshadows gradations of either.
+* Experience is then translated into routines.
 
 ## One-paragraph summary
+
+Levitt and March's approach to learning, which includes a concern for what is being learned why, paves the way for a behavioral approach to learning. They take serious the limitations to learning. For instance, organizations are more likely to learn by what affects the organization, which might diverge from macro-level trends. And it is for instance thinkable under the "right" circumstances that an organization learns and unlearns the same thing (possibly multiple times) - implying that learning is non-linear.
 
 ## One-page summary
