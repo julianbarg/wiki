@@ -36,6 +36,8 @@ Levitt, B., & March, J. G. (1988). Organizational Learning. *Annual Review of So
 
 1. Trial-and-error experimentation
 * Translated into routines if trial leads to success.
+2. Search
+* Search also dependent on organization's history - through richness of pool, intensity and direction of serach.
 
 ## One-paragraph summary
 
