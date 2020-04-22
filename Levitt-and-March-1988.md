@@ -62,7 +62,9 @@ Levitt, B., & March, J. G. (1988). Organizational Learning. *Annual Review of So
     * In general or a lot of or some unspecified amount of experience can be recorded, but:
         1. Recording history incurs a cost
         2. Some events are implicitly or explicitly deemed irrelevant
-        3. Organizations have different minimum levels 
+        3. Organizations have different base levels of formal routines, based on their needs/environment
+
+* Conservation of experience
 
 ## One-paragraph summary
 
