@@ -99,3 +99,6 @@ I am looking for a theory that is not deterministic, but also not fatalistic. On
 
 #### Logging industry
 * [[Zietsma et al 2002]]
+
+#### Ship building
+* [[Argote et al. 1990]]
