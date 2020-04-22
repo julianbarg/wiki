@@ -39,8 +39,24 @@ Levitt, B., & March, J. G. (1988). Organizational Learning. *Annual Review of So
 2. Search
 * Search also dependent on organization's history - through richness of pool, intensity and direction of serach.
 
+### Outcomes
+
+* Learning curve
+* Competency traps
+    * Multilevel learning: discriminating among routines, and refining those routines.
+
+### Interpretation
+
+* Stories, paradigms and frames
+    * Diverging interpretations may be peddled by opposing groups.
+* Ambiguity of success
+* Superstitious learning
+    * Occurs when connection between experience and learning is not faulty. E.g., a company that is always successful for environmental reasons will attribute this to its selected routines.
+
 ## One-paragraph summary
 
-Levitt and March's approach to learning, which includes a concern for what is being learned why, paves the way for a behavioral approach to learning. They take serious the limitations to learning. For instance, organizations are more likely to learn by what affects the organization, which might diverge from macro-level trends. And it is for instance thinkable under the "right" circumstances that an organization learns and unlearns the same thing (possibly multiple times) - implying that learning is non-linear.
+Levitt and March present us with a dissection of organizational learning, but the main part focuses on competency traps. They explain that organizational learning both functions for selecting routines, and simultaneously they refine those routines on lower organizational levels. That leads to the curious outcome that alternative routines might not be selected, even if they have to potential to be more efficient, because the current routine has become efficient through refinement (*maladaptive specialiation*).
+
+Levitt and March's approach to organizational learning, which includes a concern for what is being learned why, paves the way for a behavioral approach to learning. They take serious the limitations to learning. For instance, organizations are more likely to learn by what affects the organization, which might diverge from macro-level trends. And it is for instance thinkable under the "right" circumstances that an organization learns and unlearns the same thing (possibly multiple times) - implying that learning is non-linear.
 
 ## One-page summary
