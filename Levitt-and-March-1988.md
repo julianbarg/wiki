@@ -22,6 +22,8 @@ Levitt, B., & March, J. G. (1988). Organizational Learning. *Annual Review of So
 
 ## Important points
 * Lays out the behavioral approach to learning.
+* Mentions both knowledge and behavior/routines, but the primacy is clearly given to routines.
+    * Knowledge is the result of an experiment (or search) and routines are how the knowledge is retained (or not)
 
 ### Basis of organizational learning
 
@@ -52,6 +54,15 @@ Levitt, B., & March, J. G. (1988). Organizational Learning. *Annual Review of So
 * Ambiguity of success
 * Superstitious learning
     * Occurs when connection between experience and learning is not faulty. E.g., a company that is always successful for environmental reasons will attribute this to its selected routines.
+
+### Organizational memory
+
+* Recording of experience
+    * Methods of recording experience: "documents, accounts, files, standard operating procedures, and rule books; in the social and physical geography of organizational structures and relationships; in standards of good professional practice; in the culture of organizational stories; and in shared perceptions of 'the way things are done around here.'" (p. 327).
+    * In general or a lot of or some unspecified amount of experience can be recorded, but:
+        1. Recording history incurs a cost
+        2. Some events are implicitly or explicitly deemed irrelevant
+        3. Organizations have different minimum levels 
 
 ## One-paragraph summary
 
