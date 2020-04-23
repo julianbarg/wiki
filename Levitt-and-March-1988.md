@@ -22,8 +22,7 @@ Levitt, B., & March, J. G. (1988). Organizational Learning. *Annual Review of So
 
 ## Important points
 * Lays out the behavioral approach to learning.
-* Mentions both knowledge and behavior/routines, but the primacy is clearly given to routines.
-    * Knowledge is the result of an experiment (or search) and routines are how the knowledge is retained (or not)
+* Mentions both knowledge and behavior/routines, but the primacy is clearly given to routines. *Note*: Knowledge is the result of an experiment (or search) and routines are how the knowledge is retained (or not)
 
 ### Basis of organizational learning
 
