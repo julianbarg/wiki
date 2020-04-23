@@ -57,10 +57,8 @@ Levitt, B., & March, J. G. (1988). Organizational Learning. *Annual Review of So
         2. Some events are implicitly or explicitly deemed irrelevant
         3. Organizations have different base levels of formal routines, based on their needs/environment
 
-* Conservation of experience
-    * After experience is recorded, needs to be conserved (passed on): "Written rules, oral transitions, and systems of formal and informal apprenticeships" (p. 328).
-* Retrieval of experience
-    * Notion of deterioration of routines precedes Argote's (2013) notion of organizational forgetting.
+* **Conservation of experience**. *Note*: After experience is recorded, needs to be conserved (passed on): "Written rules, oral transitions, and systems of formal and informal apprenticeships" (p. 328).
+* **Retrieval of experience**. *Note*: Notion of deterioration of routines precedes Argote's (2013) notion of organizational forgetting.
 
 #### Vicarious learning
 
