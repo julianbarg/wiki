@@ -44,11 +44,9 @@ Levitt, B., & March, J. G. (1988). Organizational Learning. *Annual Review of So
 
 ### Interpretation
 
-* Stories, paradigms and frames
-    * Diverging interpretations may be peddled by opposing groups.
-* Ambiguity of success
-* Superstitious learning
-    * Occurs when connection between experience and learning is not faulty. E.g., a company that is always successful for environmental reasons will attribute this to its selected routines.
+* **Stories, paradigms and frames**. *Note*: Diverging interpretations may be peddled by opposing groups, may surface at different time.
+* **Ambiguity of success**
+* **Superstitious learning**. *Note*: Occurs when connection between experience and learning is not faulty. E.g., a company that is always successful for environmental reasons will attribute this to its selected routines.
 
 ### Organizational memory
 
