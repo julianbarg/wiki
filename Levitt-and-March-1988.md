@@ -27,21 +27,16 @@ Levitt, B., & March, J. G. (1988). Organizational Learning. *Annual Review of So
 
 ### Basis of organizational learning
 
-* Based on three basic tenets.
-1. Behavior in organizations is based on routines.
-2. Organizational actions are history-dependent.
-3. Organizations are oriented to targets.
+* Based on three basic tenets. (1) Behavior in organizations is based on routines. (2) Organizational actions are history-dependent. (3) Organizations are oriented to targets.
 * In addition, success vs. failure in outcomes overshadows gradations of either.
 * Experience is then translated into routines.
 
 ### Main processes
 
-1. Trial-and-error experimentation
-* Translated into routines if trial leads to success.
-2. Search
-* Search also dependent on organization's history - through richness of pool, intensity and direction of serach.
+1. Trial-and-error experimentation; translated into routines if trial leads to success.
+2. Search; search is also dependent on organization's history - through richness of pool, intensity and direction of search.
 
-### Outcomes
+### Direct experience
 
 * Learning curve
 * Competency traps
@@ -59,12 +54,23 @@ Levitt, B., & March, J. G. (1988). Organizational Learning. *Annual Review of So
 
 * Recording of experience
     * Methods of recording experience: "documents, accounts, files, standard operating procedures, and rule books; in the social and physical geography of organizational structures and relationships; in standards of good professional practice; in the culture of organizational stories; and in shared perceptions of 'the way things are done around here.'" (p. 327).
-    * In general or a lot of or some unspecified amount of experience can be recorded, but:
+    * Authors do not specify how much experience is and can be recorded, but:
         1. Recording history incurs a cost
         2. Some events are implicitly or explicitly deemed irrelevant
         3. Organizations have different base levels of formal routines, based on their needs/environment
 
 * Conservation of experience
+    * After experience is recorded, needs to be conserved (passed on): "Written rules, oral transitions, and systems of formal and informal apprenticeships" (p. 328).
+* Retrieval of experience
+    * Notion of deterioration of routines precedes Argote's (2013) notion of organizational forgetting.
+
+#### Vicarious learning
+
+* Vicarious learning occurs through "encoded experience in the form of technologies, codes, procedures, or similar routines" (p. 329).
+* Mechanisms for Diffusion
+    1. "[R]ules promulgated by governmental agencies, trade associations, professional associations, and unions" (p. 330).
+    2. Mediated learning, e.g., through consultants or personnel that moves between organizations.
+    3. The third is literally institutional theory?!
 
 ## One-paragraph summary
 
