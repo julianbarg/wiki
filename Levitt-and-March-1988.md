@@ -23,6 +23,7 @@ Levitt, B., & March, J. G. (1988). Organizational Learning. *Annual Review of So
 ## Important points
 * Lays out the behavioral approach to learning.
 * Mentions both knowledge and behavior/routines, but the primacy is clearly given to routines. *Note*: Knowledge is the result of an experiment (or search) and routines are how the knowledge is retained (or not)
+* Makes me think that the difference between March and Argote may just be the level of analysis - although March also mentions experience curves. Maybe it is just that Argote does not consider competency traps.
 
 ### Basis of organizational learning
 
@@ -51,21 +52,33 @@ Levitt, B., & March, J. G. (1988). Organizational Learning. *Annual Review of So
 
 * Recording of experience
     * Methods of recording experience: "documents, accounts, files, standard operating procedures, and rule books; in the social and physical geography of organizational structures and relationships; in standards of good professional practice; in the culture of organizational stories; and in shared perceptions of 'the way things are done around here.'" (p. 327).
-    * Authors do not specify how much experience is and can be recorded, but:
-        1. Recording history incurs a cost
-        2. Some events are implicitly or explicitly deemed irrelevant
-        3. Organizations have different base levels of formal routines, based on their needs/environment
+    * Authors do not specify how much experience is and can be recorded, but (1) recording history incurs a cost, (2) some events are implicitly or explicitly deemed irrelevant, and (3) organizations have different base levels of formal routines, based on their needs/environment.
 
 * **Conservation of experience**. *Note*: After experience is recorded, needs to be conserved (passed on): "Written rules, oral transitions, and systems of formal and informal apprenticeships" (p. 328).
 * **Retrieval of experience**. *Note*: Notion of deterioration of routines precedes Argote's (2013) notion of organizational forgetting.
 
-#### Vicarious learning
+### Vicarious learning
 
-* Vicarious learning occurs through "encoded experience in the form of technologies, codes, procedures, or similar routines" (p. 329).
+* Vicarious learning occurs through "encoded experience in the form of technologies, codes, procedures, or similar routines" (p. 329). Levitt and March liken it to institutionalization.
 * Mechanisms for Diffusion
-    1. "[R]ules promulgated by governmental agencies, trade associations, professional associations, and unions" (p. 330).
-    2. Mediated learning, e.g., through consultants or personnel that moves between organizations.
-    3. The third is literally institutional theory?!
+    1. "[R]ules promulgated by governmental agencies, trade associations, professional associations, and unions" (p. 330; coercive)
+    2. Mediated learning, e.g., through consultants or personnel that moves between organizations (mimetic)
+    3. By becoming a norm within a subgroup and them spreading (normative)
+* Dynamics of diffusion
+
+### Ecologies of Learning
+
+Linking cause and effect for the purpose of learning becomes even more complicated when other organizations around you are also experimenting at the same time.
+
+* Learning in a world of learners - basically just pointing out that competitors' choices matter as much as a focal organization's choices.
+* Learning to learn - some basic thoughts on dynamic capabilities/RBV.
+
+### Learning as a Form of Intelligence
+
+Organization try to deliberately foster learning, but there are multiple barriers. (a) When the environment changes, experience becomes irrelevant; (b) redundancy of experience problem - experience stabilizes routines, extinguishes experimentation; (c) complexity of experience problem - causality is hard or impossible to determine.
+
+* Improving the structure of experience - mentions e.g., ideas later explored in March and Tamuz (1991). Main point - what pace should experimentation take place? Supposedly so that cause & effect can be isolated - slow!?
+* The intelligence of learning - "[T]here is adequate evidence that the lessons of history as encoded in routines are an important basis for the intelligence of organizations" (p. 336). But are they one-trick ponies? Are they stuck in their way once they find one way that works? Why is James G. March so certain? 
 
 ## One-paragraph summary
 
