@@ -13,10 +13,12 @@ Levitt, B., & March, J. G. (1988). Organizational Learning. *Annual Review of So
 ### Conferences, Courses etc.
 
 ### Previous literature/influences
-* [[Cyert and march 1963]]
+* [[Cyert and March 1963]]
 * [[Nelson and Winter 1982]]
 
 ### Cited by
+* [[Levinthal and March 1993]]
+* [[March 1991]]
 
 ## Resources
 
@@ -82,8 +84,10 @@ Organization try to deliberately foster learning, but there are multiple barrier
 
 ## One-paragraph summary
 
+Levitt and March use the opportunity of writing a literature review to share their conception of organizational learning. The article does not attempt to develop a concise theory of organizational learning, but rather touches on a plethora of different topics. Important ideas include: (1) organizations learn from experience and search. (2) At some level, learning by doing exhibits itself in learning curves. But organizations may just "learn themselves into" competency traps. (3) A barrier to learning is that cause and effect are difficult to determine - individuals distort interpretations according to their interests, there is no universal method for measuring success, and even success is given, it is hard to map any one outcome to its specific cause. (3) Experience is stored in routines as the organizational memory. (4) Additional repositories for learning are the experiences of others. (5) But in a world where everybody learns, learning from others does not guarantee success. (6) If organizations are afforded the capability to learn by our theory, we may also believe in a form of organizational intelligence - if only at the population-level, not at the level of the individual organization.
+
+## One-page summary
+
 Levitt and March present us with a dissection of organizational learning, but the main part focuses on competency traps. They explain that organizational learning both functions for selecting routines, and simultaneously they refine those routines on lower organizational levels. That leads to the curious outcome that alternative routines might not be selected, even if they have to potential to be more efficient, because the current routine has become efficient through refinement (*maladaptive specialiation*).
 
 Levitt and March's approach to organizational learning, which includes a concern for what is being learned why, paves the way for a behavioral approach to learning. They take serious the limitations to learning. For instance, organizations are more likely to learn by what affects the organization, which might diverge from macro-level trends. And it is for instance thinkable under the "right" circumstances that an organization learns and unlearns the same thing (possibly multiple times) - implying that learning is non-linear.
-
-## One-page summary
