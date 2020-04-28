@@ -17,6 +17,8 @@ Levinthal, D. A., & March, J. G. (1993). The Myopia of Learning. *Strategic Mana
 
 ## Important points
 
+* Setup until "the discovery of learning": we have compromised from rationality to limited rationality, how should our conceptualization of learning follow suit?
+
 ## One-paragraph summary
 Three kinds of myopia: short run vs. long run, neighborhood vs. distant experiences, and success vs. failure.
 
