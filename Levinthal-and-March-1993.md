@@ -10,8 +10,12 @@ Levinthal, D. A., & March, J. G. (1993). The Myopia of Learning. *Strategic Mana
 ### Theories
 * [[Learning]]
 
+### Previous literature/influences
+
 ### Cited by
 * [[Madsen and Desai 2018]]
+
+## Important points
 
 ## One-paragraph summary
 Three kinds of myopia: short run vs. long run, neighborhood vs. distant experiences, and success vs. failure.
