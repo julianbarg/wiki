@@ -3,8 +3,44 @@
 == Data ==
 
 {|
-|Company name:|Calnev Pipeline|testtest|-
-|ta||tdsfa
+  !colspan='2'|General information
+  |-
+  |Incident ID:   ||{inc$incident_ID}
+  |-
+  |Operator name: ||{inc$name}
+  |-
+  |Date:          ||{inc$date}
+  |-
+  |State:         ||{inc$state}
+  |-
+  |Lat/Long       ||{inc$lat}/{inc$long}
+  !colspan='2'|Outcomes
+  |-
+  |Spill volume   ||{inc$volume}
+  |-
+  |Recovered      ||{inc$recovered}
+  |-
+  |Net loss       ||{inc$net_loss}
+  |}
+
+
+{|
+
+|Incident ID:  ||19890074
+|-
+|Operator name:||Calnev Pipeline
+|-
+|Operator ID:  ||26125
+|- 
+|Lat/Long:     ||NA
+|-
+|State:        ||California
+|-
+
+|-
+|colspan="2"|
+|-
+|test||test
 |}
 
 == Outcomes ==
