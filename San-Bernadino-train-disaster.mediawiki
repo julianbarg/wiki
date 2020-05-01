@@ -1,0 +1,14 @@
+'''San Bernadino train disaster'''
+
+== Data ==
+
+{|
+|Company name:|Calnev Pipeline|testtest|-
+|ta||tdsfa
+|}
+
+== Outcomes ==
+
+== Narrative ==
+
+== Aftermath ==
