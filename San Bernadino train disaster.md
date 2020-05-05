@@ -4,7 +4,7 @@ The San Bernadino train disaster was primarily that, a train disaster. The train
 
 ## The spill
 
-The train itself derailed on May 12. It crashed into multiple houses and destroyed seven of them. The spill occurred on May 25 and is described as 
+The train itself derailed on May 12. It crashed into multiple houses and destroyed seven of them. The spill occurred on May 25. A "geyser" of liquid shot up from the pipeline. Witnesses described white vapor and "white colored rain". A fire stood at four houses wide, extending 10 feet over the rooftops. One resident states that "the entire house [that she was in] was on fire" [@NTSB1990 p. 33].
 
 ## Cause analysis
 
@@ -76,3 +76,7 @@ A southern pacific rairoad train derailed on May 12, 1989 at the site of the sub
 |Need for soil remediation anticipated?         |NA
 |Need for vegetation remediation anticipated?   |NA
 |Need for wildlife remediation anticipated?     |NA
+
+## Resources
+
+[[resources/NTSB_1990_witnesses_observations.png|frame, width = 750px, alt=Witnesses' observations in NTSB 1990 p. 33]]
