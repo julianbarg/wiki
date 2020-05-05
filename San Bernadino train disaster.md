@@ -16,13 +16,20 @@ A southern pacific rairoad train derailed on May 12, 1989 at the site of the sub
 
 ## Notes
 
-* Company employees onsite on May 12 did not know how deep the pipeline was burried in the specific secion, or that it had a steel casing.
-* Personnel tried to close a check valve in the pipeline by inducing backflow. When the valve did not close, they concluded that their method to induce backflow was not sufficient and they would not be able to induce backflow. In realilty, the check valve was faulty.
+* Company employees onsite on May 12 did not know how deep the pipeline was burried in the specific secion, or that it had a steel casing [@NTSB1990 p. ].
+* Personnel tried to close a check valve in the pipeline by inducing backflow. When the valve did not close, they concluded that their method to induce backflow was not sufficient and they would not be able to induce backflow. In realilty, the check valve was faulty [@NTSB1990 p. 20].
 * During the cleanup operations a lot of attention was paid to the pipeline. The involved personnel tailored the plan so that damage to the pipeline would be unlikely [@NTSB1990 p. 22. The pipeline was marked with paint, however, because heavy equiptment operated in the area, the paint would often be erased [@NTSB1990 p. 24].
 * A Calnev representative was on site during cleanup operations.
 * "According to Calnev's maintenance superintendent, it appeared that the debris had not penetrated the natural ground cover" [@NTSB1990 p. 25]. On the other hand, many pieces of equipment operated over a large area at the same time, so it would be difficulty to tell.
 * Cranes crossed over the pipeline on May 15 and May 16. A calnev maintenance superintendent stated "I did not see any activity which I believed damaged the pipeline. Any time you are using large pieces of excavating type equipment nea a pipeline, you certainly have the potential for danger." [@NTSB1990 p. 25]. At the same time, no calculations of the stress were carried out.
-* 80 feet of pipeline were excavated and inspected with no damages found [@NTSB1990 p. 26].
+* 80 feet of pipeline under the locomotive were excavated and inspected with no damages found [@NTSB1990 p. 26].
+* When the spilled trona was removed, up to 12-16 inches of soil were also removed sometimes [@NTSB1990 p. 27].
+* Where rail cars were found to have penetrated the ground, Calnev's maintanance superintendent marked the location for later inspection [@NTSB1990 p. 28]
+
+## Reponses
+
+Report really leaves you unsure whether to be horrified or amazed. Horrified because of the severity of the situation - heavy pieces strewn about and heavy equipment operating directly above a shalloly burried pipeline. Or amazed because of the care that went into avoiding damage to the pipeline, despite the fact that the heavy locomotive and train cars etc. had to be removed.
+* Really makes you doubt whether every testimony is true, or whether a lot of if is just to avoid liability.
 
 ## Data
 
