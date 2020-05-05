@@ -62,6 +62,9 @@ A southern pacific rairoad train derailed on May 12, 1989 at the site of the sub
 * There are conflicting information. Either, events are missing from the report, or somebody is not telling the truth [e.g., @NTSB1990 p. 35 regarding soil cover depth].
 * Something about negative (cathodic) voltage on p. 55 that I don't understand. Should probably ask somebody to figure out whether it is significant. Could this have indicated to Calnev that damage to the coating had occured?
 
+## Various
+* "potential adverse effects of train derailments" [@NTSB1990 p. 57]. Amazing language.
+
 ## Data
 
 |**General information**
