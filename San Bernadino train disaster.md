@@ -18,7 +18,16 @@ The Office of Pipeline Safety (OPS) later found (after another excavation) that 
 
 Visible scratch marks "nearly parallel to" the pipe rupture suggests that the pipeline had indeed been damaged by an excavator. Similar damage was found in multiple spots around the rupture point [@NTSB1990 p. 42].
 
-## Aftermath
+### Faulty parts
+
+* Pipeline segment damaged during cleanup of the train derailment.
+* Check valve [@NTSB1990 p. 55].
+
+## Aftermath/learning
+
+* A remotely operated block valve was installed in the area, so that the pipeline section near the settlement could be blocked of in the care of an emergency [@NTSB1990 p. 56]. There previously existed a check valve to prevent backflow, but the check valve did not close properly [@NTSB1990 p.55].
+* The dispatch center terminal was modified so that if both low suction and low discharge occured at the same time, the system would automatically shut down the pump.  A corresponding section was added to the emergency response manual [@NTSB1990 p. 57].
+* The emergency response manual (according to my reading) already had a section that adequately lays out how to respond to a train derailment. The chance of a train derailment is mentioned specifically. "[H]eavy equipment should not be allowed to operate over the pipeline if it is considered hazardous to the pipeline" [@NTSB1990 p. 57]. See also [[resources|San Bernadino train disaster.md#resources]].
 
 ## PHMSA narrative
 
@@ -92,3 +101,5 @@ A southern pacific rairoad train derailed on May 12, 1989 at the site of the sub
 ## Resources
 
 [[resources/NTSB_1990_witnesses_observations.png|frame, width = 700px, alt=Witnesses' observations in NTSB 1990 p. 33]]
+
+[[resources/NTSB_1990_emergency_response_manual.png|frame, width = 700px, alt=Regarding train derailments from Calnev's emergency response manual in NTSB 1990 p. 33]]
