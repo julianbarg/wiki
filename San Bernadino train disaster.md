@@ -20,7 +20,7 @@ The Office of Pipeline Safety (OPS) later found (after another excavation) that 
 
 ## PHMSA narrative
 
-A southern pacific rairoad train derailed on May 12, 1989 at the site of the subsequent pipeline rupture.  The pipeline was shut down during the clean-up operations.  Clean-up was monitored by pipeline personnel and the pipeline excavated and inspected at several locations.  The line was restarted on may 16.  On May 25, 1989, during stable pipeline operations, the pipeline ruptured spilling gasoline and causing a fire.
+A southern pacific rairoad train derailed on May 12, 1989 at the site of the subsequent pipeline rupture.  The pipeline was shut down during the clean-up operations.  Clean-up was monitored by pipeline personnel and the pipeline excavated and inspected at several locations.  The line was restarted on May 16. On May 25, 1989, during stable pipeline operations, the pipeline ruptured spilling gasoline and causing a fire.
 
 ## Notes
 
