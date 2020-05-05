@@ -100,6 +100,10 @@ A southern pacific rairoad train derailed on May 12, 1989 at the site of the sub
 
 ## Resources
 
+### Wittnesses observations
+
 [[resources/NTSB_1990_witnesses_observations.png|frame, width = 700px, alt=Witnesses' observations in NTSB 1990 p. 33]]
+
+### Emergency response manual
 
 [[resources/NTSB_1990_emergency_response_manual.png|frame, width = 700px, alt=Regarding train derailments from Calnev's emergency response manual in NTSB 1990 p. 33]]
