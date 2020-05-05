@@ -8,6 +8,10 @@ The train itself derailed on May 12. It crashed into multiple houses and destroy
 
 ## Cause analysis
 
+In the section under and around the train incident, the pipeline was originally burried 8-8 feet deep. After the work had concluded (which included removing trona that had fallen of the train), the soil cover was 2-3 feet [@NTSB1990 p. 30] - which is after the soil covered had been smoothed out.
+
+When the incident first occured, the operator noticed the "low suction pressure" alarm, but concluded that liquid levels in the storage tank must have occured for this to alarm to come on. He restarted the pump multiple times within a five minute window.
+
 ## Aftermath
 
 ## PHMSA narrative
@@ -27,8 +31,9 @@ A southern pacific rairoad train derailed on May 12, 1989 at the site of the sub
 * The personnel was not always exactly sure of the location of the pipeline (to the foot) [@NTSB 1990 p. 27].
 * Where rail cars were found to have penetrated the ground, Calnev's maintanance superintendent marked the location for later inspection [@NTSB1990 p. 28].
 * As early as May 15, Calnev's manager of operations stated to the fire chief that the pipeline would be safe to operate [@NTSB1990 p. 28].
-* In some of the locations where the crash occured, the pipeline was burried at a peth of only 4 or 5 feet [@NTSB1990 p. 28]. Overall, the pipeline depth varied from 4-8 feet [@NTSB1990 p. 29].
-* Equipment to inspect the pipeline could not be used because of the elevation. The operator would have had to bring the line to full operating pressure for the test to run [@NTSB1990 p. 29].
+* In some of the locations where the crash occured, the pipeline was burried at a peth of only 4 or 5 feet [@NTSB1990 p. 28]. Overall, the pipeline depth varied from 4-8 feet [@NTSB1990 p. 29]. After the work was concluded, the soil cover may have been 2-3 foot [@NTSB1990 p. 30].
+* Equipment to inspect the pipeline could not be used because of the elevation. The operator would have had to bring the line to full operating pressure for the test to run. A hydrostatic test was not performed because Valnev's manager of operations had no "doubt as to the integrity of the pipeline" [@NTSB1990 p. 29].
+* A potential situation where excevator operators could have penetrated the soil surface occured on May 17-19  [@NTSB1990 p. 30].
 
 ## Reponses
 
