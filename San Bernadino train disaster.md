@@ -1,4 +1,5 @@
 [[_TOC_]]
+
 ## Summary
 
 The San Bernadino train disaster was primarily that, a train disaster. The train derailment itself killed two, and two were seriously injured. The pipeline explosion occurred 13 days after the train derailment, killed another two, and three were seriously injured. The pipeline was later found to have (most likely) been damaged during the cleanup operations. The pipeline operator was found to not have adequately tested the pipeline prior to resuming operations.
