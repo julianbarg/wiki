@@ -38,12 +38,16 @@ A southern pacific rairoad train derailed on May 12, 1989 at the site of the sub
 * In some of the locations where the crash occured, the pipeline was burried at a peth of only 4 or 5 feet [@NTSB1990 p. 28]. Overall, the pipeline depth varied from 4-8 feet [@NTSB1990 p. 29]. After the work was concluded, the soil cover may have been 2-3 foot [@NTSB1990 p. 30].
 * Equipment to inspect the pipeline could not be used because of the elevation. The operator would have had to bring the line to full operating pressure for the test to run. A hydrostatic test was not performed because Valnev's manager of operations had no "doubt as to the integrity of the pipeline" [@NTSB1990 p. 29].
 * A potential situation where excevator operators could have penetrated the soil surface occured on May 17-19  [@NTSB1990 p. 30].
+* "At least four pieces of railroad debris [...] were found near the rupture" [@NTSB1990 pp. 34f].
+* After the incident, the pipeline near rupture was from 2-2.5 feet, whereas after cleanup operations it would have been 4.5-6 feet [@NTSB1990 pp. 35]. Either something happened, or somebody is not telling the truth. Conflicting information.
+* After renewed excavation (after the pipeline spill), the PHMSA (previously OPS) determined that in its current state, the pipeline was "hazardous to life and property" [@NTSB1990 p.36].
 
 ## Reponses
 
 * Report really leaves you unsure whether to be horrified or amazed. Horrified because of the severity of the situation - heavy pieces strewn about and heavy equipment operating directly above a shalloly burried pipeline. Or amazed because of the care that went into avoiding damage to the pipeline, despite the fact that the heavy locomotive and train cars etc. had to be removed.
 * Really makes you doubt whether every testimony is true, or whether a lot of if is just to avoid liability. Which is really generalizable - if in a situation with physical equipment in one specific location we cannot reliably gather the facts, then how would we do that for any metric for a larger organization?
 * On the one hand, the situation seems quite clear-cut. If you do all kinds of bs above a pipeline, maybe really really make sure its not broken afterward. On the other hand, where is the line? Maybe if for some reason one piece of equipment passes over that would be alright? Should there be a rule to never pass over a pipeline? Certainly that would be too much.
+* There are conflicting information. Either, events are missing from the report, or somebody is not telling the truth [e.g., @NTSB1990 p. 35 regarding soil cover depth].
 
 ## Data
 
