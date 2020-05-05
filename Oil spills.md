@@ -7,4 +7,4 @@
 * [[San Bernadino train disaster]]
 
 ## To do
-* Add data on wall diameter and thickness?
+* Add data on wall diameter, thickness, and maximum yield strength?
