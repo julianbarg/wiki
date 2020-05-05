@@ -14,6 +14,8 @@ In the section under and around the train incident, the pipeline was originally 
 
 When the incident first occured, the operator noticed the "low suction pressure" alarm, but concluded that liquid levels in the storage tank must have occured for this to alarm to come on. He restarted the pump multiple times within a five minute window.
 
+The Office of Pipeline Safety (OPS) later found (after another excavation) that the pipeline in the section of the train derailment "had not been completely exposed and visually examined for damage, that the structural integrity [...] had not been ascertained by Calnev" [@NTSB1990 pp. 35].
+
 ## Aftermath
 
 ## PHMSA narrative
