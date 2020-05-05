@@ -27,7 +27,7 @@ Visible scratch marks "nearly parallel to" the pipe rupture suggests that the pi
 
 * A remotely operated block valve was installed in the area, so that the pipeline section near the settlement could be blocked of in the care of an emergency [@NTSB1990 p. 56]. There previously existed a check valve to prevent backflow, but the check valve did not close properly [@NTSB1990 p.55].
 * The dispatch center terminal was modified so that if both low suction and low discharge occured at the same time, the system would automatically shut down the pump.  A corresponding section was added to the emergency response manual [@NTSB1990 p. 57].
-* The emergency response manual (according to my reading) already had a section that adequately lays out how to respond to a train derailment. The chance of a train derailment is mentioned specifically. "[H]eavy equipment should not be allowed to operate over the pipeline if it is considered hazardous to the pipeline" [@NTSB1990 p. 57]. See also [[resources|San Bernadino train disaster.md#resources]].
+* The emergency response manual (according to my reading) already had a section that adequately lays out how to respond to a train derailment. The chance of a train derailment is mentioned specifically. "[H]eavy equipment should not be allowed to operate over the pipeline if it is considered hazardous to the pipeline" [@NTSB1990 p. 57]. See also [[resources|San Bernadino train disaster.md#emergency-response-manual]].
 
 ## PHMSA narrative
 
