@@ -24,12 +24,17 @@ A southern pacific rairoad train derailed on May 12, 1989 at the site of the sub
 * Cranes crossed over the pipeline on May 15 and May 16. A calnev maintenance superintendent stated "I did not see any activity which I believed damaged the pipeline. Any time you are using large pieces of excavating type equipment nea a pipeline, you certainly have the potential for danger." [@NTSB1990 p. 25]. At the same time, no calculations of the stress were carried out.
 * 80 feet of pipeline under the locomotive were excavated and inspected with no damages found [@NTSB1990 p. 26].
 * When the spilled trona was removed, up to 12-16 inches of soil were also removed sometimes [@NTSB1990 p. 27].
-* Where rail cars were found to have penetrated the ground, Calnev's maintanance superintendent marked the location for later inspection [@NTSB1990 p. 28]
+* The personnel was not always exactly sure of the location of the pipeline (to the foot) [@NTSB 1990 p. 27].
+* Where rail cars were found to have penetrated the ground, Calnev's maintanance superintendent marked the location for later inspection [@NTSB1990 p. 28].
+* As early as May 15, Calnev's manager of operations stated to the fire chief that the pipeline would be safe to operate [@NTSB1990 p. 28].
+* In some of the locations where the crash occured, the pipeline was burried at a peth of only 4 or 5 feet [@NTSB1990 p. 28]. Overall, the pipeline depth varied from 4-8 feet [@NTSB1990 p. 29].
+* Equipment to inspect the pipeline could not be used because of the elevation. The operator would have had to bring the line to full operating pressure for the test to run [@NTSB1990 p. 29].
 
 ## Reponses
 
-Report really leaves you unsure whether to be horrified or amazed. Horrified because of the severity of the situation - heavy pieces strewn about and heavy equipment operating directly above a shalloly burried pipeline. Or amazed because of the care that went into avoiding damage to the pipeline, despite the fact that the heavy locomotive and train cars etc. had to be removed.
-* Really makes you doubt whether every testimony is true, or whether a lot of if is just to avoid liability.
+* Report really leaves you unsure whether to be horrified or amazed. Horrified because of the severity of the situation - heavy pieces strewn about and heavy equipment operating directly above a shalloly burried pipeline. Or amazed because of the care that went into avoiding damage to the pipeline, despite the fact that the heavy locomotive and train cars etc. had to be removed.
+* Really makes you doubt whether every testimony is true, or whether a lot of if is just to avoid liability. Which is really generalizable - if in a situation with physical equipment in one specific location we cannot reliably gather the facts, then how would we do that for any metric for a larger organization?
+* On the one hand, the situation seems quite clear-cut. If you do all kinds of bs above a pipeline, maybe really really make sure its not broken afterward. On the other hand, where is the line? Maybe if for some reason one piece of equipment passes over that would be alright? Should there be a rule to never pass over a pipeline? Certainly that would be too much.
 
 ## Data
 
