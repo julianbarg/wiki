@@ -16,6 +16,8 @@ When the incident first occured, the operator noticed the "low suction pressure"
 
 The Office of Pipeline Safety (OPS) later found (after another excavation) that the pipeline in the section of the train derailment "had not been completely exposed and visually examined for damage, that the structural integrity [...] had not been ascertained by Calnev" [@NTSB1990 pp. 35].
 
+Visible scratch marks "nearly parallel to" the pipe rupture suggests that the pipeline had indeed been damaged by an excavator. Similar damage was found in multiple spots around the rupture point [@NTSB1990 p. 42].
+
 ## Aftermath
 
 ## PHMSA narrative
@@ -41,6 +43,7 @@ A southern pacific rairoad train derailed on May 12, 1989 at the site of the sub
 * "At least four pieces of railroad debris [...] were found near the rupture" [@NTSB1990 pp. 34f].
 * After the incident, the pipeline near rupture was from 2-2.5 feet, whereas after cleanup operations it would have been 4.5-6 feet [@NTSB1990 pp. 35]. Either something happened, or somebody is not telling the truth. Conflicting information.
 * After renewed excavation (after the pipeline spill), the PHMSA (previously OPS) determined that in its current state, the pipeline was "hazardous to life and property" [@NTSB1990 p.36].
+* "Calnev's manager of operations testified that he was not aware that Calnev had ever inspected any of the check valves installed in the pipeline between the Colton pump station and Cajon Pass to determine if the valves operated properly. He further testified that it was his understanding that check valves are not routinely inpsected in the industry and that he was unaware of any Federal regulation or industry standards that required such inspection" [@NTSB1990 p. 55].
 
 ## Reponses
 
@@ -48,6 +51,7 @@ A southern pacific rairoad train derailed on May 12, 1989 at the site of the sub
 * Really makes you doubt whether every testimony is true, or whether a lot of if is just to avoid liability. Which is really generalizable - if in a situation with physical equipment in one specific location we cannot reliably gather the facts, then how would we do that for any metric for a larger organization?
 * On the one hand, the situation seems quite clear-cut. If you do all kinds of bs above a pipeline, maybe really really make sure its not broken afterward. On the other hand, where is the line? Maybe if for some reason one piece of equipment passes over that would be alright? Should there be a rule to never pass over a pipeline? Certainly that would be too much.
 * There are conflicting information. Either, events are missing from the report, or somebody is not telling the truth [e.g., @NTSB1990 p. 35 regarding soil cover depth].
+* Something about negative (cathodic) voltage on p. 55 that I don't understand. Should probably ask somebody to figure out whether it is significant. Could this have indicated to Calnev that damage to the coating had occured?
 
 ## Data
 
