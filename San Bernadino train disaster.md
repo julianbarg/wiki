@@ -12,7 +12,17 @@ The train itself derailed on May 12. It crashed into multiple houses and destroy
 
 ## PHMSA narrative
 
-A southern pacific rairoad train derailed on may 12, 1989 at the site of the subsequent pipeline rupture.  The pipeline was shut down during the clean-up operations.  Clean-up was monitored by pipeline personnel and the pipeline excavated and inspected at several locations.  The line was restarted on may 16.  On may 25, 1989, during stable pipeline operations, the pipeline ruptured spilling gasoline and causing a fire.
+A southern pacific rairoad train derailed on May 12, 1989 at the site of the subsequent pipeline rupture.  The pipeline was shut down during the clean-up operations.  Clean-up was monitored by pipeline personnel and the pipeline excavated and inspected at several locations.  The line was restarted on may 16.  On May 25, 1989, during stable pipeline operations, the pipeline ruptured spilling gasoline and causing a fire.
+
+## Notes
+
+* Company employees onsite on May 12 did not know how deep the pipeline was burried in the specific secion, or that it had a steel casing.
+* Personnel tried to close a check valve in the pipeline by inducing backflow. When the valve did not close, they concluded that their method to induce backflow was not sufficient and they would not be able to induce backflow. In realilty, the check valve was faulty.
+* During the cleanup operations a lot of attention was paid to the pipeline. The involved personnel tailored the plan so that damage to the pipeline would be unlikely [@NTSB1990 p. 22. The pipeline was marked with paint, however, because heavy equiptment operated in the area, the paint would often be erased [@NTSB1990 p. 24].
+* A Calnev representative was on site during cleanup operations.
+* "According to Calnev's maintenance superintendent, it appeared that the debris had not penetrated the natural ground cover" [@NTSB1990 p. 25]. On the other hand, many pieces of equipment operated over a large area at the same time, so it would be difficulty to tell.
+* Cranes crossed over the pipeline on May 15 and May 16. A calnev maintenance superintendent stated "I did not see any activity which I believed damaged the pipeline. Any time you are using large pieces of excavating type equipment nea a pipeline, you certainly have the potential for danger." [@NTSB1990 p. 25]. At the same time, no calculations of the stress were carried out.
+* 80 feet of pipeline were excavated and inspected with no damages found [@NTSB1990 p. 26].
 
 ## Data
 
