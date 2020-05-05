@@ -5,7 +5,7 @@ The San Bernadino train disaster was primarily that, a train disaster. The train
 
 ## The spill
 
-The train itself derailed on May 12. It crashed into multiple houses and destroyed seven of them. The spill occurred on May 25. A "geyser" of liquid shot up from the pipeline. Witnesses described white vapor and "white colored rain". A fire stood at four houses wide, extending 10 feet over the rooftops. One resident states that "the entire house [that she was in] was on fire" [@NTSB1990 p. 33]. See also [[San Bernadino train disaster.md#resources]]
+The train itself derailed on May 12. It crashed into multiple houses and destroyed seven of them. The spill occurred on May 25. A "geyser" of liquid shot up from the pipeline. Witnesses described white vapor and "white colored rain". A fire stood at four houses wide, extending 10 feet over the rooftops. One resident states that "the entire house [that she was in] was on fire" [@NTSB1990 p. 33]. See also [[resources|San Bernadino train disaster.md#resources]].
 
 ## Cause analysis
 
