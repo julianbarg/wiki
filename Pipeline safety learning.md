@@ -14,6 +14,7 @@
 
 ## Rare events
 * [[March, Sproull & Tamuz 1991]]
+* [[Maslach et al 2018]]
 
 ## Vicarious learning
 * [[Davis 1991]]
@@ -32,7 +33,7 @@
 * [[Kim & Miner 2007]]
 * [[Dahlin, Chuang & Roulet 2018]]
 
-## Population level learnigns
+## Population level learnign
 * [[Madsen & Desai 2018]]
 
 ## Aspiration levels
