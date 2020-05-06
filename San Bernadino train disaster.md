@@ -70,7 +70,7 @@ Calnev could have either:
 * The Transportation Department's Research and Special Programs Administration (RSPA) "*initiatied a study* [...] to determine the feasibility of establishing inspection, maintenance, and test requirements [...] of check valves" [@NTSB1990 p. 113].
 * NTSB urging for rules regarding residential development near pipelines (Safety Recommendations P-84-27, P-84-28, abd P-84-30).
 
-## Reponses
+## My reactions
 
 * Report really leaves you unsure whether to be horrified or amazed. Horrified because of the severity of the situation - heavy pieces strewn about and heavy equipment operating directly above a shalloly burried pipeline. Or amazed because of the care that went into avoiding damage to the pipeline, despite the fact that the heavy locomotive and train cars etc. had to be removed.
 * Really makes you doubt whether every testimony is true, or whether a lot of if is just to avoid liability. Which is really generalizable - if in a situation with physical equipment in one specific location we cannot reliably gather the facts, then how would we do that for any metric for a larger organization?
