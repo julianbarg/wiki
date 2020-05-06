@@ -16,6 +16,7 @@
 * [[March, Sproull & Tamuz 1991]]
 
 ## Vicarious learning
+* [[Davis 1991]]
 * [[Denrell 2003]]
 * [[Kim & Miner 2007]]
 * [[Madsen 2009]]
