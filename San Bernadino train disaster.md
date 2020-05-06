@@ -1,5 +1,9 @@
 [[_TOC_]]
 
+## Significance
+
+The incident (potentially) paved the way for wider acceptance of smart pigs for internal insepction of potentially damaged lines. The NTSB also continued its push for requiring liquid pipelines to adhere to the same regulations regarding new settlements being established near existing pipelines that are already in place for gas pipelines. Learning could be concluded if (1) the use of smart pigs later lead to a reduction of incidents (the use of a smart pig did not prevent )
+
 ## Summary
 
 The San Bernadino train disaster was primarily that, a train disaster. The train derailment on May 12 itself killed two, and two were seriously injured. The train and freight was removed by many pieces of heavy equipment, sometimes operating directly above the pipeline. The pipeline explosion that occurred on May 25, killed another two, and three were seriously injured. The pipeline was later found to have been damaged during the cleanup operations. The pipeline operator was found to not have adequately tested the pipeline prior to resuming operations. A check valve that would have limited the amount of commodity present in that section of the pipelien was stuck open.
@@ -45,10 +49,6 @@ Calnev could have either:
 * Safety Recommendation P-89-5, leading to an "alert bulleting to operators of all liquid pipeline operators *advising* them to test for proper closure all check valves in *critical locations*"  [@NTSB1990 p. 110 - emphasis by this author].
 * The Transportation Department's Research and Special Programs Administration (RSPA) "*initiatied a study* [...] to determine the feasibility of establishing inspection, maintenance, and test requirements [...] of check valves" [@NTSB1990 p. 113].
 * NTSB urging for rules regarding residential development near pipelines (Safety Recommendations P-84-27, P-84-28, abd P-84-30).
-
-## Significance
-
-The incident (potentially) paved the way for wider acceptance of smart pigs for internal insepction of potentially damaged lines. The NTSB also continued its push for requiring liquid pipelines to adhere to the same regulations regarding new settlements being established near existing pipelines that are already in place for gas pipelines. Learning could be concluded if (1) the use of smart pigs later lead to a reduction of incidents (the use of a smart pig did not prevent )
 
 ## Reponses
 
