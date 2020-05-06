@@ -6,9 +6,14 @@ Back to [[Oil spills]]
 
 [[https://upload.wikimedia.org/wikipedia/commons/e/eb/Duffy_St._train_disaster_San_Bernardino_California_May_12_1989.jpg|frame, alt=Derailed locomotive over the pipeline, width=700px]]
 
-## Document links
+## Documents
 
-* NTSB report: [[http://www.pipelinesafetytrust.com/docs/ntsb_doc26.pdf]]
+### NTSB report
+* [[http://www.pipelinesafetytrust.com/docs/ntsb_doc26.pdf]]
+
+### News reports
+
+### Videos
 
 ## Significance
 
