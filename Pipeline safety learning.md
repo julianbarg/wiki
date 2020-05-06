@@ -13,6 +13,7 @@
 * [[Argote 2013.md#2-organizational-learning-a-theoretical-framework]]
 
 ## Rare events
+* [[March, Sproull & Tamuz 1991]]
 
 ## Vicarious learning
 
