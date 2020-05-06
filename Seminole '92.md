@@ -11,7 +11,8 @@ Back to [[Oil spills]].
 * [[https://www.ntsb.gov/investigations/AccidentReports/Reports/PAR9301.pdf]]
 
 ### News reports
-* [[Salt dome explosion: 20 years later|https://www.theeagle.com/townnews/commerce/salt-dome-explosion-20-years-later/article_cab6128c-019b-11e2-8e7e-0019bb2963f4.html]]
+* Local news: [[Salt dome explosion: 20 years later|https://www.theeagle.com/townnews/commerce/salt-dome-explosion-20-years-later/article_cab6128c-019b-11e2-8e7e-0019bb2963f4.html]]
+* NYT: [[Gas Explosion Tears Through Texas Pastures|https://www.nytimes.com./1992/04/08/us/gas-explosion-tears-through-texas-pastures.html]]
 
 ### Videos
 * News report: [[https://youtu.be/IpYIvyCXv9w]]
