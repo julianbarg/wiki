@@ -24,7 +24,7 @@
 
 ## Failure
 * [[Madsen & Desai 2010]]
-* [[Madsen & Desai 2018]]
+* [[Madsen & Desai 2018]]*
 
 ## Near-Misses
 * [[Dillon & Tinsley 2008]]
