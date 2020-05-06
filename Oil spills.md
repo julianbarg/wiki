@@ -1,5 +1,5 @@
 [[_TOC_]]
-* [[Spill template]]
+* [[Spill template|Pipeline spill entry]]
 
 ## Literature
 * [[Perrow 1984]]
