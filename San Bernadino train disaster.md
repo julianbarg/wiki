@@ -62,7 +62,7 @@ The incident (potentially) paved the way for wider acceptance of smart pigs for 
 * There are conflicting information. Either, events are missing from the report, or somebody is not telling the truth [e.g., @NTSB1990 p. 35 regarding soil cover depth].
 * Something about negative (cathodic) voltage on p. 55 that I don't understand. Should probably ask somebody to figure out whether it is significant. Could this have indicated to Calnev that damage to the coating had occured?
 * If regulations are passed regaring liquid pipelines and population density [@NTSB1990 pp. 113f], does this equate to learning? Or would that just equate to a redistribution of resources? I.e., cost for new construction, lower throughput in populated areas.
-* Feud between NTSB and RSPA - e.g., "The Safety Board urges RSPA to objectively assess [...]". See also [[resources|San Bernadin train disaster.md#feud-between-ntsb-and-dot-s-research-and-special-programs-administration-rspa]].
+* Feud between NTSB and RSPA - e.g., "The Safety Board urges RSPA to objectively assess [...]". See also [[resources|San Bernadino train disaster.md#feud-between-ntsb-and-dot-s-research-and-special-programs-administration-rspa]].
 
 ## Various
 * "potential adverse effects of train derailments" [@NTSB1990 p. 57]. Amazing language.
