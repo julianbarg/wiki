@@ -4,7 +4,21 @@
 
 ### Learning
 
-The incident (potentially) paved the way for wider acceptance of smart pigs for internal insepction of potentially damaged lines. The NTSB also continued its push for requiring liquid pipelines to adhere to the same regulations regarding new settlements being established near existing pipelines that are already in place for gas pipelines. Learning could be concluded if (1) the use of smart pigs later lead to a reduction of incidents (the use of a smart pig did not prevent [[Olympic Pipe Line '99]] however). (2) If regulation were passed that requires adjustment to the operation or rebuilding of existing liquid pipelines when people move into the area (as exist for gas pipelines). Or (3) if regulations were changed to limit settlement near existing pipelines.
+The incident (potentially) paved the way for wider acceptance of smart pigs for internal insepction of potentially damaged lines. The NTSB also continued its push for requiring liquid pipelines to adhere to the same regulations regarding new settlements being established near existing pipelines that are already in place for gas pipelines. Also, the report discusses check valves, and suggests regular maintenance (but only to Calnev).
+
+#### Mechanisms
+
+Learning could be concluded if:
+
+1.smart pigs were promoted (the use of a smart pigs did already pick up though, and did not prevent [[Olympic Pipe Line '99]] however). 
+2. If regulation were passed that requires adjustment to the operation or rebuilding of existing liquid pipelines when people move into the area (as exist for gas pipelines). 
+3. If regulations were changed to limit settlement near existing pipelines.
+
+#### Outcomes
+
+1. The maintenance of check valves could lead to a subsequent reduction of spill volumes.
+2. The use of smart pigs could lead to a lower number of spills after external impacts such as train derailments.
+3. Extended rules regarding liquid pipelines near residential areas could reduce the future number of fatalities and injuries resulting from pipeline spills.
 
 ### Other
 
