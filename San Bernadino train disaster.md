@@ -2,7 +2,7 @@
 
 ## Incident image
 
-[[https://upload.wikimedia.org/wikipedia/commons/e/eb/Duffy_St._train_disaster_San_Bernardino_California_May_12_1989.jpg| alt=Derailed train, width=700px]]
+[[https://upload.wikimedia.org/wikipedia/commons/e/eb/Duffy_St._train_disaster_San_Bernardino_California_May_12_1989.jpg|frame, alt=Derailed loc over the pipeline, width=700px]]
 
 ## Document links
 
