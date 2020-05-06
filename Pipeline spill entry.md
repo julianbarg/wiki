@@ -1,5 +1,7 @@
 \[\[ \_TOC_]]
 
+\## Incident image
+
 \## Document links
 
 \## Significance
