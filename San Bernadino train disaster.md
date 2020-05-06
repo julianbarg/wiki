@@ -40,7 +40,9 @@ Calnev could have either:
 * The dispatch center terminal was modified so that if both low suction and low discharge occured at the same time, the system would automatically shut down the pump.  A corresponding section was added to the emergency response manual [@NTSB1990 p. 57].
 * The emergency response manual (according to my reading) already had a section that adequately lays out how to respond to a train derailment. The chance of a train derailment is mentioned specifically. "[H]eavy equipment should not be allowed to operate over the pipeline if it is considered hazardous to the pipeline" [@NTSB1990 p. 57]. See also [[resources|San Bernadino train disaster.md#emergency-response-manual]].
 * Risk assessment of hazardous liquid pipelines within 500 feet of a railroad truck was mandated by California  [@NTSB1990 p. 84].
-* "[T]he board *believes* that Calnev should enhance the computerized operating system by requiring the dispatcher to acknowledge individually each alarm received"  [@NTSB1990 p. 109].
+* "[T]he board *believes* that Calnev should enhance the computerized operating system by requiring the dispatcher to acknowledge individually each alarm received"  [@NTSB1990 p. 109 - emphasis by this author].
+* Safety Recommendation P-89-5, leading to an "alert bulleting to operators of all liquid pipeline operators *advising* them to test for proper closure all check valves in *critical locations*"  [@NTSB1990 p. 110 - emphasis by this author].
+* The Transportation Department's Research and Special Programs Administration (RSPA) "*initiatied a study* [...] to determine the feasibility of establishing inspection, maintenance, and test requirements [...] of check valves" [@NTSB1990 p. 113]
 
 ## PHMSA narrative
 
@@ -64,12 +66,12 @@ A southern pacific rairoad train derailed on May 12, 1989 at the site of the sub
 * A potential situation where excevator operators could have penetrated the soil surface occured on May 17-19  [@NTSB1990 p. 30].
 * "At least four pieces of railroad debris [...] were found near the rupture" [@NTSB1990 pp. 34f].
 * After the incident, the pipeline near rupture was from 2-2.5 feet, whereas after cleanup operations it would have been 4.5-6 feet [@NTSB1990 pp. 35]. Either something happened, or somebody is not telling the truth. Conflicting information.
-* After renewed excavation (after the pipeline spill), the PHMSA (previously OPS) determined that in its current state, the pipeline was "hazardous to life and property" [@NTSB1990 p.36].
+* After renewed excavation (after the pipeline spill), the PHMSA (previously OPS) determined that in its current state, the pipeline was "hazardous to life and property" [@NTSB1990 p. 36].
 * "Calnev's manager of operations testified that he was not aware that Calnev had ever inspected any of the check valves installed in the pipeline between the Colton pump station and Cajon Pass to determine if the valves operated properly. He further testified that it was his understanding that check valves are not routinely inpsected in the industry and that he was unaware of any Federal regulation or industry standards that required such inspection" [@NTSB1990 p. 55].
 * Newer regulations did not apply to the pipeline, because it has been constructed before 1970 [@NTSB1990 p. 69].
 * Provisions were created in a contract between the city and the railway operator that required the visual examination of the pipeline to the satisfaction of the fire department. The pipeline operator and fire department were not aware of this agreement however [@NTSB1990 pp. 80f].
 * The report notes on incident where a train derailment led to a hole in a pipeline, and one incident where the operator was later required to uncover and inspect the pipeline. On the other hand, the report notes that it found 121 reports of train derailments over pipelines, where no damaged had occured if the pipeline was covered by at least 3 feet of soil [@NTSB1990 pp. 83f].
-* A safety recommendation by the safety board (which safety board) issued a safety recommendation for the use of internal inspection equipment [@NTSB1990 p. 107].
+* A safety recommendation by the safety board issued a safety recommendation for the use of internal inspection equipment [@NTSB1990 p. 107].
 * Before the accident, Calnev has not tested its check valves (which prevent backflow) for 19 years (since construction). In the other section of the report, a manager states that (he believes) it is not industry practice to test check valves. Upon testing three of the chack valves after the incident, Calnev found that all of them were stuck in de open position  [@NTSB1990 pp. 109]. 
 
 ## Reponses
@@ -79,6 +81,8 @@ A southern pacific rairoad train derailed on May 12, 1989 at the site of the sub
 * On the one hand, the situation seems quite clear-cut. If you do all kinds of bs above a pipeline, maybe really really make sure its not broken afterward. On the other hand, where is the line? Maybe if for some reason one piece of equipment passes over that would be alright? Should there be a rule to never pass over a pipeline? Certainly that would be too much.
 * There are conflicting information. Either, events are missing from the report, or somebody is not telling the truth [e.g., @NTSB1990 p. 35 regarding soil cover depth].
 * Something about negative (cathodic) voltage on p. 55 that I don't understand. Should probably ask somebody to figure out whether it is significant. Could this have indicated to Calnev that damage to the coating had occured?
+* If regulations are passed regaring liquid pipelines and population density [@NTSB1990 pp. 113f, does this equate to learning? Or would that just equate to a redistribution of resources? I.e., cost for new construction, lower throughput in populated areas.
+* Feud between NTSB and RSPA - e.g., "The Safety Board urges RSPA to objectively assess [...]". See also
 
 ## Various
 * "potential adverse effects of train derailments" [@NTSB1990 p. 57]. Amazing language.
@@ -123,8 +127,24 @@ A southern pacific rairoad train derailed on May 12, 1989 at the site of the sub
 
 ### Wittnesses observations
 
-[[resources/NTSB_1990_witnesses_observations.png|frame, width = 700px, alt=Witnesses' observations in NTSB 1990 p. 33]]
+[[resources/NTSB_1990_witnesses_observations.png|frame, width = 550px, alt=Witnesses' observations in NTSB 1990 p. 33]]
 
 ### Emergency response manual
 
-[[resources/NTSB_1990_emergency_response_manual.png|frame, width = 700px, alt=Regarding train derailments from Calnev's emergency response manual in NTSB 1990 p. 33]]
+[[resources/NTSB_1990_emergency_response_manual.png|frame, width = 550px, alt=Regarding train derailments from Calnev's emergency response manual in NTSB 1990 p. 33]]
+
+## Feud between NTSB and DOT's Research and Special Programs Administration (RSPA)
+
+[[resources/ntsb_1990_feud_1.png|frame, width = 550px, alt=NTSB-DOT feud p. 113]]
+
+[[resources/ntsb_1990_feud_2.png|frame, width = 550px, alt=NTSB-DOT feud p. 114]]
+
+[[resources/ntsb_1990_feud_3.png|frame, width = 550px, alt=NTSB-DOT feud p. 114]]
+
+[[resources/ntsb_1990_feud_4.png|frame, width = 550px, alt=NTSB-DOT feud p. 114]]
+
+[[resources/ntsb_1990_feud_5.png|frame, width = 550px, alt=NTSB-DOT feud p. 114]]
+
+[[resources/ntsb_1990_feud_6.png|frame, width = 550px, alt=NTSB-DOT feud p. 115]]
+
+[[resources/ntsb_1990_feud_7.png|frame, width = 550px, alt=NTSB-DOT feud p. 115]]
