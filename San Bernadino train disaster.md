@@ -46,10 +46,6 @@ Calnev could have either:
 * The Transportation Department's Research and Special Programs Administration (RSPA) "*initiatied a study* [...] to determine the feasibility of establishing inspection, maintenance, and test requirements [...] of check valves" [@NTSB1990 p. 113].
 * NTSB urging for rules regarding residential development near pipelines (Safety Recommendations P-84-27, P-84-28, abd P-84-30).
 
-## PHMSA narrative
-
-A southern pacific rairoad train derailed on May 12, 1989 at the site of the subsequent pipeline rupture.  The pipeline was shut down during the clean-up operations.  Clean-up was monitored by pipeline personnel and the pipeline excavated and inspected at several locations.  The line was restarted on May 16. On May 25, 1989, during stable pipeline operations, the pipeline ruptured spilling gasoline and causing a fire.
-
 ## Significance
 
 The incident (potentially) paved the way for wider acceptance of smart pigs for internal insepction of potentially damaged lines. The NTSB also continued its push for requiring liquid pipelines to adhere to the same regulations regarding new settlements being established near existing pipelines that are already in place for gas pipelines. Learning could be concluded if (1) the use of smart pigs later lead to a reduction of incidents (the use of a smart pig did not prevent )
@@ -68,6 +64,12 @@ The incident (potentially) paved the way for wider acceptance of smart pigs for 
 * "potential adverse effects of train derailments" [@NTSB1990 p. 57]. Amazing language.
 
 ## Data
+
+### PHMSA narrative
+
+A southern pacific rairoad train derailed on May 12, 1989 at the site of the subsequent pipeline rupture.  The pipeline was shut down during the clean-up operations.  Clean-up was monitored by pipeline personnel and the pipeline excavated and inspected at several locations.  The line was restarted on May 16. On May 25, 1989, during stable pipeline operations, the pipeline ruptured spilling gasoline and causing a fire.
+
+### Quantitative data
 
 |**General information**
 |----------------|---:
