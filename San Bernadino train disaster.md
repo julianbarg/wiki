@@ -1,5 +1,9 @@
 [[_TOC_]]
 
+## Incident image
+
+[[https://upload.wikimedia.org/wikipedia/commons/e/eb/Duffy_St._train_disaster_San_Bernardino_California_May_12_1989.jpg| alt=Derailed train]]
+
 ## Document links
 
 * NTSB report: [[http://www.pipelinesafetytrust.com/docs/ntsb_doc26.pdf]]
