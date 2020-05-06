@@ -30,6 +30,7 @@
 
 ## Near-Failures
 * [[Kim & Miner 2007]]
+* [[Dahlin, Chuang & Roulet 2018]]
 
 ## Population level learnigns
 * [[Madsen & Desai 2018]]
