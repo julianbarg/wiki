@@ -68,7 +68,7 @@ Calnev could have either:
 * "[T]he board *believes* that Calnev should enhance the computerized operating system by requiring the dispatcher to acknowledge individually each alarm received"  [@NTSB1990 p. 109 - emphasis by this author].
 * Safety Recommendation P-89-5, leading to an "alert bulleting to operators of all liquid pipeline operators *advising* them to test for proper closure all check valves in *critical locations*"  [@NTSB1990 p. 110 - emphasis by this author].
 * The Transportation Department's Research and Special Programs Administration (RSPA) "*initiatied a study* [...] to determine the feasibility of establishing inspection, maintenance, and test requirements [...] of check valves" [@NTSB1990 p. 113].
-* NTSB urging for rules regarding residential development near pipelines (Safety Recommendations P-84-27, P-84-28, abd P-84-30).
+* NTSB urging for rules regarding residential development near pipelines (Safety Recommendations P-84-27, P-84-28, and P-84-30).
 
 ## My reactions
 
