@@ -2,7 +2,7 @@
 
 ## Summary
 
-The San Bernadino train disaster was primarily that, a train disaster. The train derailment on May 12 itself killed two, and two were seriously injured. The pipeline explosion that occurred on May 25, killed another two, and three were seriously injured. The pipeline was later found to have been damaged during the cleanup operations. The pipeline operator was found to not have adequately tested the pipeline prior to resuming operations. A check valve that would have limited the amount of commodity present in that section of the pipelien was stuck open.
+The San Bernadino train disaster was primarily that, a train disaster. The train derailment on May 12 itself killed two, and two were seriously injured. The train and freight was removed by many pieces of heavy equipment, sometimes operating directly above the pipeline. The pipeline explosion that occurred on May 25, killed another two, and three were seriously injured. The pipeline was later found to have been damaged during the cleanup operations. The pipeline operator was found to not have adequately tested the pipeline prior to resuming operations. A check valve that would have limited the amount of commodity present in that section of the pipelien was stuck open.
 
 ## The spill
 
