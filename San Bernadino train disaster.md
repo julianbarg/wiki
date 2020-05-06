@@ -23,7 +23,7 @@ Calnev could have either:
 
 * The last point refers to smart pigs, which picked up in popularity around the time. In 1988 it was required by law that all new and replaced pipelines were to be build in a fashion to allows for the use of smart pigs [@NTSB1990 p. 108]. However, smart pigs failed for instance to prevent the case of the Olympic Pipe Line spill in 1999 that killed 3.
 
-#### To recuce the severity of the spill
+#### To reduce the severity of the spill
 
 * Further, Calnev could have inspected its check valves, which would have significantly reduced the severity of the damages  [@NTSB1990 pp. 109f].
 * Local government could have opted not to open a site with a pipeline and railroad for residential development [@NTSB1990 p. 116].
