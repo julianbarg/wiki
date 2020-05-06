@@ -18,17 +18,25 @@ The Office of Pipeline Safety (OPS) later found (after another excavation) that 
 
 Visible scratch marks "nearly parallel to" the pipe rupture suggests that the pipeline had indeed been damaged by an excavator. Similar damage was found in multiple spots around the rupture point [@NTSB1990 p. 42].
 
-### Faulty parts
+### What could have been done
+
+Calnev could have either:
+1. Excavated and inspected the whole pipeline
+2. Performed a hydrostatic test
+**3. Used an internal inspection instrument** - this is what picked up in popularity around the time and should have revealed the problem - although, if this is supposed to describe a smart pig - this has failed in the case of the Olympic Pipe Line spill in 1999 that killed 3.
+
+### Faulty parts/flawed procedures
 
 * Pipeline segment damaged during cleanup of the train derailment.
 * Check valve [@NTSB1990 p. 55].
-* No formal training at Valnev for pipeline dispatcher [@NTSB1990 p. 64] - the individual that restarted the pipeline's pump after 
+* No formal training procedures at Valnev for pipeline dispatcher [@NTSB1990 p. 64] - the individual that restarted the pipeline's pump after alarms came on - flexible, apprintice-like system [@NTSB1990 p. 31].
 
 ## Aftermath/learning
 
 * A remotely operated block valve was installed in the area, so that the pipeline section near the settlement could be blocked of in the care of an emergency [@NTSB1990 p. 56]. There previously existed a check valve to prevent backflow, but the check valve did not close properly [@NTSB1990 p.55].
 * The dispatch center terminal was modified so that if both low suction and low discharge occured at the same time, the system would automatically shut down the pump.  A corresponding section was added to the emergency response manual [@NTSB1990 p. 57].
 * The emergency response manual (according to my reading) already had a section that adequately lays out how to respond to a train derailment. The chance of a train derailment is mentioned specifically. "[H]eavy equipment should not be allowed to operate over the pipeline if it is considered hazardous to the pipeline" [@NTSB1990 p. 57]. See also [[resources|San Bernadino train disaster.md#emergency-response-manual]].
+* Risk assessment of hazardous liquid pipelines within 500 feet of a railroad truck was mandated by California  [@NTSB1990 p. 84].
 
 ## PHMSA narrative
 
@@ -54,6 +62,10 @@ A southern pacific rairoad train derailed on May 12, 1989 at the site of the sub
 * After the incident, the pipeline near rupture was from 2-2.5 feet, whereas after cleanup operations it would have been 4.5-6 feet [@NTSB1990 pp. 35]. Either something happened, or somebody is not telling the truth. Conflicting information.
 * After renewed excavation (after the pipeline spill), the PHMSA (previously OPS) determined that in its current state, the pipeline was "hazardous to life and property" [@NTSB1990 p.36].
 * "Calnev's manager of operations testified that he was not aware that Calnev had ever inspected any of the check valves installed in the pipeline between the Colton pump station and Cajon Pass to determine if the valves operated properly. He further testified that it was his understanding that check valves are not routinely inpsected in the industry and that he was unaware of any Federal regulation or industry standards that required such inspection" [@NTSB1990 p. 55].
+* Newer regulations did not apply to the pipeline, because it has been constructed before 1970 [@NTSB1990 p. 69].
+* Provisions were created in a contract between the city and the railway operator that required the visual examination of the pipeline to the satisfaction of the fire department. The pipeline operator and fire department were not aware of this agreement however [@NTSB1990 pp. 80f].
+* The report notes on incident where a train derailment led to a hole in a pipeline, and one incident where the operator was later required to uncover and inspect the pipeline. On the other hand, the report notes that it found 121 reports of train derailments over pipelines, where no damaged had occured if the pipeline was covered by at least 3 feet of soil [@NTSB1990 pp. 83f].
+* A safety recommendation by the safety board (which safety board) issued a safety recommendation for the use of internal inspection equipment [@NTSB1990 p. 107].
 
 ## Reponses
 
