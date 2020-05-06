@@ -25,6 +25,7 @@
 ## Failure
 * [[Madsen & Desai 2010]]
 * [[Madsen & Desai 2018]]*
+* [[Baum & Dahlin 2007]]*
 
 ## Near-Misses
 * [[Dillon & Tinsley 2008]]
@@ -38,6 +39,11 @@
 
 ## Aspiration levels
 * [[Baum & Dahlin 2007]]
+
+## Optional
+
+### Modern learning curve works
+* [[Arthur & Huntley 2005]]
 
 ## Notes
 
