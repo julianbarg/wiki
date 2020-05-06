@@ -20,6 +20,9 @@
 * [[Kim & Miner 2007]]
 * [[Madsen 2009]]
 
+## Failure
+* [[Madsen & Desai 2010]]
+
 ## Population level learnigns
 
 ## Aspiration levels
