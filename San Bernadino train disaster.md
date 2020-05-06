@@ -52,7 +52,7 @@ A southern pacific rairoad train derailed on May 12, 1989 at the site of the sub
 
 ## Significance
 
-The incident (potentially) paved the way for wider acceptance of smart pigs for internal insepction of potentially damaged lines. The NTSB also 
+The incident (potentially) paved the way for wider acceptance of smart pigs for internal insepction of potentially damaged lines. The NTSB also continued its push for requiring liquid pipelines to adhere to the same regulations regarding new settlements being established near existing pipelines that are already in place for gas pipelines. Learning could be concluded if (1) the use of smart pigs later lead to a reduction of incidents (the use of a smart pig did not prevent )
 
 ## Reponses
 
