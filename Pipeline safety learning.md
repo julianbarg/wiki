@@ -18,3 +18,5 @@
 ## Vicarious learning
 
 ## Population level learnigns
+
+## Aspiration levels
