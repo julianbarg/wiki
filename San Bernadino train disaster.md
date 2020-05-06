@@ -26,11 +26,12 @@ Calnev could have either:
 3. **Used an internal inspection instrument** 
 
 * The last point refers to smart pigs, which picked up in popularity around the time. In 1988 it was required by law that all new and replaced pipelines were to be build in a fashion to allows for the use of smart pigs [@NTSB1990 p. 108]. However, smart pigs failed for instance to prevent the case of the Olympic Pipe Line spill in 1999 that killed 3.
+* Further, Calnev could have inspected its check valves, which would have significantly reduced the severity of the damage  [@NTSB1990 pp. 109f].
 
 ### Faulty parts/flawed procedures
 
 * Pipeline segment damaged during cleanup of the train derailment.
-* Check valve [@NTSB1990 p. 55].
+* Check valves stuck open [@NTSB1990 p. 55, pp. 109f].
 * No formal training procedures at Valnev for pipeline dispatcher [@NTSB1990 p. 64] - the individual that restarted the pipeline's pump after alarms came on - flexible, apprintice-like system [@NTSB1990 p. 31].
 
 ## Aftermath/learning
@@ -69,6 +70,7 @@ A southern pacific rairoad train derailed on May 12, 1989 at the site of the sub
 * Provisions were created in a contract between the city and the railway operator that required the visual examination of the pipeline to the satisfaction of the fire department. The pipeline operator and fire department were not aware of this agreement however [@NTSB1990 pp. 80f].
 * The report notes on incident where a train derailment led to a hole in a pipeline, and one incident where the operator was later required to uncover and inspect the pipeline. On the other hand, the report notes that it found 121 reports of train derailments over pipelines, where no damaged had occured if the pipeline was covered by at least 3 feet of soil [@NTSB1990 pp. 83f].
 * A safety recommendation by the safety board (which safety board) issued a safety recommendation for the use of internal inspection equipment [@NTSB1990 p. 107].
+* Before the accident, Calnev has not tested its check valves (which prevent backflow) for 19 years (since construction). In the other section of the report, a manager states that (he believes) it is not industry practice to test check valves. Upon testing three of the chack valves after the incident, Calnev found that all of them were stuck in de open position  [@NTSB1990 pp. 109]. 
 
 ## Reponses
 
