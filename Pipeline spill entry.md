@@ -26,7 +26,7 @@
 
 \## Aftermath/learning
 
-\## Responses
+\## My reactions
 
 \## Various
 
