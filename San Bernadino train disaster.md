@@ -2,7 +2,13 @@
 
 ## Significance
 
+### Learning
+
 The incident (potentially) paved the way for wider acceptance of smart pigs for internal insepction of potentially damaged lines. The NTSB also continued its push for requiring liquid pipelines to adhere to the same regulations regarding new settlements being established near existing pipelines that are already in place for gas pipelines. Learning could be concluded if (1) the use of smart pigs later lead to a reduction of incidents (the use of a smart pig did not prevent [[Olympic Pipe Line '99]] however). (2) If regulation were passed that requires adjustment to the operation or rebuilding of existing liquid pipelines when people move into the area (as exist for gas pipelines). Or (3) if regulations were changed to limit settlement near existing pipelines.
+
+### Other
+
+Reveals the political rift between the NTSB and the DOT. The operator receives less attention, even though the spill could have been prevented, had the operator excavated and visually inspected the entirety of the impacted pipeline segment.
 
 ## Summary
 
