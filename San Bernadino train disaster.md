@@ -12,7 +12,7 @@ The train itself derailed on May 12. It crashed into multiple houses and destroy
 
 In the section under and around the train incident, the pipeline was originally burried 8-8 feet deep. After the work had concluded (which included removing trona that had fallen of the train), the soil cover was 2-3 feet [@NTSB1990 p. 30] - which is after the soil covered had been smoothed out.
 
-When the incident first occured, the operator noticed the "low suction pressure" alarm, but concluded that liquid levels in the storage tank must have occured for this to alarm to come on. He restarted the pump multiple times within a five minute window.
+When the incident first occured, the operator noticed the "low suction pressure" alarm, but concluded that liquid levels in the storage tank must have occured for this to alarm to come on. He restarted the pump multiple times within a five minute window [@NTSB1990 p. 31].
 
 The Office of Pipeline Safety (OPS) later found (after another excavation) that the pipeline in the section of the train derailment "had not been completely exposed and visually examined for damage, that the structural integrity [...] had not been ascertained by Calnev" [@NTSB1990 pp. 35].
 
@@ -22,6 +22,7 @@ Visible scratch marks "nearly parallel to" the pipe rupture suggests that the pi
 
 * Pipeline segment damaged during cleanup of the train derailment.
 * Check valve [@NTSB1990 p. 55].
+* No formal training at Valnev for pipeline dispatcher [@NTSB1990 p. 64] - the individual that restarted the pipeline's pump after 
 
 ## Aftermath/learning
 
@@ -36,7 +37,7 @@ A southern pacific rairoad train derailed on May 12, 1989 at the site of the sub
 ## Notes
 
 * Company employees onsite on May 12 did not know how deep the pipeline was burried in the specific secion, or that it had a steel casing [@NTSB1990 p. ].
-* Personnel tried to close a check valve in the pipeline by inducing backflow. When the valve did not close, they concluded that their method to induce backflow was not sufficient and they would not be able to induce backflow. In realilty, the check valve was faulty [@NTSB1990 p. 20].
+* Personnel tried to close a check valve in the pipeline by inducing backflow. When the valve did not close, they concluded that their method to induce backflow was not sufficient and they would not be able to induce backflow. In realilty, the check valve was faulty [@NTSB1990 p. 20].[@NTSB1990 p. 
 * During the cleanup operations a lot of attention was paid to the pipeline. The involved personnel tailored the plan so that damage to the pipeline would be unlikely [@NTSB1990 p. 22. The pipeline was marked with paint, however, because heavy equiptment operated in the area, the paint would often be erased [@NTSB1990 p. 24].
 * A Calnev representative was on site during cleanup operations.
 * "According to Calnev's maintenance superintendent, it appeared that the debris had not penetrated the natural ground cover" [@NTSB1990 p. 25]. On the other hand, many pieces of equipment operated over a large area at the same time, so it would be difficulty to tell.
