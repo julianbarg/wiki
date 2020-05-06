@@ -23,7 +23,9 @@ Visible scratch marks "nearly parallel to" the pipe rupture suggests that the pi
 Calnev could have either:
 1. Excavated and inspected the whole pipeline
 2. Performed a hydrostatic test
-3. **Used an internal inspection instrument** - this is what picked up in popularity around the time and should have revealed the problem - although, if this is supposed to describe a smart pig - this has failed in the case of the Olympic Pipe Line spill in 1999 that killed 3.
+3. **Used an internal inspection instrument** 
+
+* The last point refers to smart pigs, which picked up in popularity around the time. In 1988 it was required by law that all new and replaced pipelines were to be build in a fashion to allows for the use of smart pigs [@NTSB1990 p. 108]. However, smart pigs failed for instance to prevent the case of the Olympic Pipe Line spill in 1999 that killed 3.
 
 ### Faulty parts/flawed procedures
 
