@@ -50,14 +50,18 @@ Calnev could have either:
 
 A southern pacific rairoad train derailed on May 12, 1989 at the site of the subsequent pipeline rupture.  The pipeline was shut down during the clean-up operations.  Clean-up was monitored by pipeline personnel and the pipeline excavated and inspected at several locations.  The line was restarted on May 16. On May 25, 1989, during stable pipeline operations, the pipeline ruptured spilling gasoline and causing a fire.
 
+## Significance
+
+The incident (potentially) paved the way for wider acceptance of smart pigs for internal insepction of potentially damaged lines. The NTSB also 
+
 ## Reponses
 
 * Report really leaves you unsure whether to be horrified or amazed. Horrified because of the severity of the situation - heavy pieces strewn about and heavy equipment operating directly above a shalloly burried pipeline. Or amazed because of the care that went into avoiding damage to the pipeline, despite the fact that the heavy locomotive and train cars etc. had to be removed.
 * Really makes you doubt whether every testimony is true, or whether a lot of if is just to avoid liability. Which is really generalizable - if in a situation with physical equipment in one specific location we cannot reliably gather the facts, then how would we do that for any metric for a larger organization?
-* On the one hand, the situation seems quite clear-cut. If you do all kinds of bs above a pipeline, maybe really really make sure its not broken afterward. On the other hand, where is the line? Maybe if for some reason one piece of equipment passes over that would be alright? Should there be a rule to never pass over a pipeline? Certainly that would be too much.
+* On the one hand, the situation seems quite clear-cut. If you do all kinds of bs above a pipeline, maybe really really make sure its not broken afterward. On the other hand, where is the line? Maybe if for some reason one piece of equipment passes over that would be alright? Should there be a rule to never pass over a pipeline? Certainly that would be too much. The report lists 121 similar incidents where nothing happened.
 * There are conflicting information. Either, events are missing from the report, or somebody is not telling the truth [e.g., @NTSB1990 p. 35 regarding soil cover depth].
 * Something about negative (cathodic) voltage on p. 55 that I don't understand. Should probably ask somebody to figure out whether it is significant. Could this have indicated to Calnev that damage to the coating had occured?
-* If regulations are passed regaring liquid pipelines and population density [@NTSB1990 pp. 113f, does this equate to learning? Or would that just equate to a redistribution of resources? I.e., cost for new construction, lower throughput in populated areas.
+* If regulations are passed regaring liquid pipelines and population density [@NTSB1990 pp. 113f], does this equate to learning? Or would that just equate to a redistribution of resources? I.e., cost for new construction, lower throughput in populated areas.
 * Feud between NTSB and RSPA - e.g., "The Safety Board urges RSPA to objectively assess [...]". See also
 
 ## Various
