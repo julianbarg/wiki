@@ -18,7 +18,7 @@
 ## Vicarious learning
 * [[Davis 1991]]
 * [[Denrell 2003]]
-* [[Kim & Miner 2007]]
+* [[Kim & Miner 2007]]*
 * [[Madsen 2009]]
 
 ## Failure
@@ -36,3 +36,7 @@
 * [[Madsen & Desai 2018]]
 
 ## Aspiration levels
+
+## Notes
+
+\*: Duplicate (not in its main category)
