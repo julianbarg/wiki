@@ -10,3 +10,4 @@
 
 ## To do
 * Add data on wall diameter, thickness, and maximum yield strength?
+* Track change of regulations in response to Safety Recommendations (especially  P-84-27, P-84-28, abd P-84-30 from the [[San Bernadino train disaster]]).
