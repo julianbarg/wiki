@@ -18,6 +18,7 @@
 ## Vicarious learning
 * [[Denrell 2003]]
 * [[Kim & Miner 2007]]
+* [[Madsen 2009]]
 
 ## Population level learnigns
 
