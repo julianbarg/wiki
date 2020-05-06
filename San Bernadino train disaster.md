@@ -10,7 +10,7 @@ The incident (potentially) paved the way for wider acceptance of smart pigs for 
 
 Learning could be concluded if:
 
-1.smart pigs were promoted (the use of a smart pigs did already pick up though, and did not prevent [[Olympic Pipe Line '99]] however). 
+1. Smart pigs were promoted (the use of a smart pigs did already pick up though, and did not prevent [[Olympic Pipe Line '99]] however). 
 2. If regulation were passed that requires adjustment to the operation or rebuilding of existing liquid pipelines when people move into the area (as exist for gas pipelines). 
 3. If regulations were changed to limit settlement near existing pipelines.
 
