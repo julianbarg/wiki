@@ -4,6 +4,7 @@
 * [[Dutton, Thomas & Butler 1984]]
 
 ## Behavioral approach
+* [[March & Olsen 1975]]
 * [[Levitt & March 1988]]
 * [[March 1991]]
 * [[Levinthal & March 1993]]
