@@ -2,6 +2,10 @@
 
 ## Significance
 
+### Learning 
+
+### Other
+
 ## Summary
 
 ## The spill
