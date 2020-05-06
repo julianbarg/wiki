@@ -2,7 +2,7 @@
 
 ## Summary
 
-The San Bernadino train disaster was primarily that, a train disaster. The train derailment itself killed two, and two were seriously injured. The pipeline explosion occurred 13 days after the train derailment, killed another two, and three were seriously injured. The pipeline was later found to have (most likely) been damaged during the cleanup operations. The pipeline operator was found to not have adequately tested the pipeline prior to resuming operations.
+The San Bernadino train disaster was primarily that, a train disaster. The train derailment on May 12 itself killed two, and two were seriously injured. The pipeline explosion that occurred on May 25, killed another two, and three were seriously injured. The pipeline was later found to have been damaged during the cleanup operations. The pipeline operator was found to not have adequately tested the pipeline prior to resuming operations. A check valve that would have limited the amount of commodity present in that section of the pipelien was stuck open.
 
 ## The spill
 
@@ -27,6 +27,7 @@ Calnev could have either:
 
 * The last point refers to smart pigs, which picked up in popularity around the time. In 1988 it was required by law that all new and replaced pipelines were to be build in a fashion to allows for the use of smart pigs [@NTSB1990 p. 108]. However, smart pigs failed for instance to prevent the case of the Olympic Pipe Line spill in 1999 that killed 3.
 * Further, Calnev could have inspected its check valves, which would have significantly reduced the severity of the damage  [@NTSB1990 pp. 109f].
+* Do not open a site with a pipeline and railroad for residential development [@NTSB1990 p. 116].
 
 ### Faulty parts/flawed procedures
 
@@ -42,7 +43,8 @@ Calnev could have either:
 * Risk assessment of hazardous liquid pipelines within 500 feet of a railroad truck was mandated by California  [@NTSB1990 p. 84].
 * "[T]he board *believes* that Calnev should enhance the computerized operating system by requiring the dispatcher to acknowledge individually each alarm received"  [@NTSB1990 p. 109 - emphasis by this author].
 * Safety Recommendation P-89-5, leading to an "alert bulleting to operators of all liquid pipeline operators *advising* them to test for proper closure all check valves in *critical locations*"  [@NTSB1990 p. 110 - emphasis by this author].
-* The Transportation Department's Research and Special Programs Administration (RSPA) "*initiatied a study* [...] to determine the feasibility of establishing inspection, maintenance, and test requirements [...] of check valves" [@NTSB1990 p. 113]
+* The Transportation Department's Research and Special Programs Administration (RSPA) "*initiatied a study* [...] to determine the feasibility of establishing inspection, maintenance, and test requirements [...] of check valves" [@NTSB1990 p. 113].
+* NTSB urging for rules regarding residential development near pipelines (Safety Recommendations P-84-27, P-84-28, abd P-84-30).
 
 ## PHMSA narrative
 
@@ -73,6 +75,7 @@ A southern pacific rairoad train derailed on May 12, 1989 at the site of the sub
 * The report notes on incident where a train derailment led to a hole in a pipeline, and one incident where the operator was later required to uncover and inspect the pipeline. On the other hand, the report notes that it found 121 reports of train derailments over pipelines, where no damaged had occured if the pipeline was covered by at least 3 feet of soil [@NTSB1990 pp. 83f].
 * A safety recommendation by the safety board issued a safety recommendation for the use of internal inspection equipment [@NTSB1990 p. 107].
 * Before the accident, Calnev has not tested its check valves (which prevent backflow) for 19 years (since construction). In the other section of the report, a manager states that (he believes) it is not industry practice to test check valves. Upon testing three of the chack valves after the incident, Calnev found that all of them were stuck in de open position  [@NTSB1990 pp. 109]. 
+* "Federal pipeline safety requirements for liquid pipelines do not properly protect public safety because they do not contain adequate requirements for the rapid detection and shutdown of failed pipelines and there are no provisions for safety enhancements when the population at risk increases. [@NTSB1990 p. 123]  
 
 ## Reponses
 
