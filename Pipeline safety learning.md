@@ -36,6 +36,7 @@
 * [[Dahlin, Chuang & Roulet 2018]]
 
 ## Population level learnign
+* [[Miner & Haunschild 1995]]
 * [[Madsen & Desai 2018]]
 
 ## Aspiration levels
