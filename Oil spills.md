@@ -2,7 +2,7 @@
 * [[Spill template|Pipeline spill entry]]
 
 ## Theorie development
-* [[Oil learning]]
+* [[Pipeline safety learning]]
 
 ## Literature
 * [[Perrow 1984]]
