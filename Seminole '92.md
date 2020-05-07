@@ -45,6 +45,8 @@ Back to [[Oil spills]].
 
 ## My reactions
 
+* Maybe I should adjust my expectations. If we could stop chemical plants and other facilities in Texas from randomly exploding all the time, that would already be a relatively great achievement. Move the goalpost.
+
 ## Various
 
 ## Data
