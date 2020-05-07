@@ -61,6 +61,6 @@ Back to [[Oil spills]].
 ### Quantitative data
 
 ## Resources
-[[resources/NTSB_1993_remote_safety.png|frame, alt=Flaws of the remote safety system page 19,width=550px]]
+[[resources/NTSB_1993_scada.png|frame, alt=Flaws of the scada described on page 19,width=550px]]
 
 ## Notes
