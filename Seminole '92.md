@@ -20,6 +20,7 @@ Back to [[Oil spills]].
 ## Actors
 * [[NTSB]]
 * Operator of the pipeine: Seminole Pipeline Company. Largest shareholder at the time was MAPCO, the pipeline (and its operating company) is currently owned by Enterprise Products Operating.
+* Research and Special Programs Administration ([[RSPA]])
 
 ## Significance
 
@@ -61,6 +62,10 @@ Back to [[Oil spills]].
 ### Quantitative data
 
 ## Resources
+
+### Scada limitations
+
 [[resources/NTSB_1993_scada.png|frame, alt=Flaws of the scada described on page 19,width=600px]]
 
 ## Notes
+* Flawed safety system, see also [[here|Seminole '92#Scada-limitations]]
