@@ -54,7 +54,7 @@ Back to [[Oil spills]].
 
 ## Various
 * "He stopped his truck a short distance before the swale and turned the ignition switch off. He said that when the pickup continued to run, 'I knew something serious had happened" because "there was enoughgasin the air to keep feeding my engine.'" [@NTSB1993 p. 4].
-* Interesting insights into how organizational memory works [see @NTSB1993 pp. 25f.]. One can immediately imagine how understanding of the system gradually gets lost in this game of telephone. Clear lack of documentation. See also [[resources|Seminole '92#Organizational-memory]].
+* Interesting insights into how organizational memory works [see @NTSB1993 pp. 25f.]. One can immediately imagine how understanding of the system gradually gets lost in this game of telephone. Clear lack of documentation. See also [[resources|Seminole '92#organizational-memory]].
 
 ## Data
 
