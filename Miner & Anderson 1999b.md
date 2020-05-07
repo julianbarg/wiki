@@ -2,6 +2,8 @@
 
 [[_TOC_]]
 
+Published in [[Minder & Anderson 1999]]
+
 ## Citation
 
 Miner, A. S., & Anderson, P. (1999). Industry and Population-level Learning: Organizational, Interorganizational, and Collective Learning Processes. In A. S. Miner & P. Anderson (Eds.), *Advances in Strategic Management: Population-Level learning and Strategic Change* (Vol. 16, pp. 1–30). Stamford, CT: JAI Press Inc.
