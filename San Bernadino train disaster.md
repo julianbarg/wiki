@@ -21,7 +21,7 @@ Back to [[Oil spills]]
 
 ### Learning
 
-The incident (potentially) paved the way for wider acceptance of smart pigs for internal insepction of potentially damaged lines. The NTSB also continued its push for requiring liquid pipelines to adhere to the same regulations regarding new settlements being established near existing pipelines that are already in place for gas pipelines. Also, the report discusses check valves, and suggests regular maintenance (but only to Calnev).
+The incident (potentially) paved the way for wider acceptance of smart pigs for internal insepction of potentially damaged lines. The [[NTSB]] also continued its push for requiring liquid pipelines to adhere to the same regulations regarding new settlements being established near existing pipelines that are already in place for gas pipelines. Also, the report discusses check valves, and suggests regular maintenance (but only to Calnev).
 
 #### Mechanisms
 
