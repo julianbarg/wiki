@@ -17,6 +17,10 @@ Back to [[Oil spills]].
 ### Videos
 * News report: [[https://youtu.be/IpYIvyCXv9w]]
 
+## Actors
+* [[NTSB]]
+* Operator of the pipeine: Seminole Pipeline Company. Largest shareholder at the time was MAPCO, the pipeline (and its operating company) is currently owned by Enterprise Products Operating.
+
 ## Significance
 
 ### Learning
@@ -44,10 +48,11 @@ Back to [[Oil spills]].
 ## Aftermath/learning
 
 ## My reactions
-
-* Maybe I should adjust my expectations. If we could stop chemical plants and other facilities in Texas from randomly exploding all the time, that would already be a relatively great achievement. Move the goalpost.
+* Maybe I should adjust my expectations. If we could stop chemical plants and other facilities in Texas from randomly exploding all the time, that would already be a relatively great achievement. Move the goalpost. Overall though - let's not generalize. Learning is possible if intentionally pursued.
+* Disaster could have been much, much greater [see @NTSB1993 pp. 7f].
 
 ## Various
+* "He stopped his truck a short distance before the swale and turned the ignition switch off. He said that when the pickup continued to run, 'I knew something serious had happened" because "there was enoughgasin the air to keep feeding my engine.'" [@NTSB1993 p. 4].
 
 ## Data
 
@@ -56,5 +61,6 @@ Back to [[Oil spills]].
 ### Quantitative data
 
 ## Resources
+[[resources/NTSB_1993_remote_safety.png|frame, alt=Flaws of the remote safety system|width=600px]]
 
 ## Notes
