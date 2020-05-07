@@ -3,7 +3,7 @@
 Back to [[Oil spills]].
 
 ## Incident image
-[[https://bloximages.chicago2.vip.townnews.com/theeagle.com/content/tncms/assets/v3/editorial/e/cc/eccb11ba-019b-11e2-a931-0019bb2963f4/50588327704e9.image.jpg|alt=Aftermath of the explosion, frame]]
+[[https://bloximages.chicago2.vip.townnews.com/theeagle.com/content/tncms/assets/v3/editorial/e/cc/eccb11ba-019b-11e2-a931-0019bb2963f4/50588327704e9.image.jpg|alt=Aftermath of the explosion, frame, width=600px]]
 
 ## Documents
 
