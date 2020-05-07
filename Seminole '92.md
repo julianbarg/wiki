@@ -69,7 +69,7 @@ Back to [[Oil spills]].
 [[resources/NTSB_1993_scada.png|frame, alt=Flaws of the scada described on page 19,width=600px]]
 
 ### Organizational memory
-[[resources/NTSB_1993_memory|frame, width=600px, alt=Flaws of organizational memeory.]]
+[[resources/NTSB_1993_memory.png|frame, width=600px, alt=Flaws of organizational memeory.]]
 
 ## Notes
 * Flawed safety system, see also [[here|Seminole '92#Scada-limitations]]
