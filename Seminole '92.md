@@ -24,6 +24,10 @@ Back to [[Oil spills]].
 
 ## Significance
 
+
+
+The report also features a great section that gives an idea of how organizational memory might be encapsulated in routines [@NTSB1993 pp. 24ff]. See e.g., [[resources|Seminole '92#organizational-memory]], further [@NTSB1993 p. 34]. The lack of written rules to follow is partially blamed for the failure. On the one hand, math errors could certainly be corrected - that would help  [@NTSB1993 pp. 31f]. On the other hand, when written rules exist, it may then be flaws in written rules that are blamed for failures.
+
 ### Learning
 
 #### Mechanisms
@@ -50,11 +54,11 @@ Back to [[Oil spills]].
 
 ## My reactions
 * Maybe I should adjust my expectations. If we could stop chemical plants and other facilities in Texas from randomly exploding all the time, that would already be a relatively great achievement. Move the goalpost. Overall though - let's not generalize. Learning is possible if intentionally pursued.
-* Disaster could have been much, much greater [see @NTSB1993 pp. 7f].
+* Interesting insights into how organizational memory works [@NTSB1993 pp. 25f.]. One can immediately imagine how an understanding of the system may gradually get lost in this game of telephone. Clear lack of documentation. See also [[resources|Seminole '92#organizational-memory]].
+* Today, a word file or simple script would probably be used to calculate the inflow and outflow of HVL into the salt dome. Which may also leave room for error given a lack of understanding? But less likely? Would that be learning? The fact that an excel file would be created? Or just a switch in routines? Is switching routines learning? Wouldn't the best approach be to have somebody at the job who actually understands the process that is going on? Is it learning if we manage to allow for an untrained person to do the job of a trained person, even if this increases risk, because it is more efficient?
 
 ## Various
 * "He stopped his truck a short distance before the swale and turned the ignition switch off. He said that when the pickup continued to run, 'I knew something serious had happened" because "there was enoughgasin the air to keep feeding my engine.'" [@NTSB1993 p. 4].
-* Interesting insights into how organizational memory works [see @NTSB1993 pp. 25f.]. One can immediately imagine how understanding of the system gradually gets lost in this game of telephone. Clear lack of documentation. See also [[resources|Seminole '92#organizational-memory]].
 
 ## Data
 
@@ -72,4 +76,11 @@ Back to [[Oil spills]].
 [[resources/NTSB_1993_memory.png|frame, width=600px, alt=Flaws of organizational memeory on pages 25f]]
 
 ## Notes
-* Flawed safety system, see also [[here|Seminole '92#Scada-limitations]]
+* Flawed safety system, see also [[here|Seminole '92#Scada-limitations]].
+* Disaster could have been much, much greater [see @NTSB1993 pp. 7f].
+* The company did not have exact data on the gas going in and out [@NTSB1993 pp. 31].
+* Personnel did not receive formal instructions for carrying out the calculations for inflow and outflow of HVL [@NTSB1993 p. 25].
+* The facility was supposed to be designed to automatically deal with failure [@NTSB1993 p. 26].
+* No written guidelines on many functions of the facility [@NTSB1993 p. 34].
+* "He was not aware that the plant pumps were designed to shut down automatically when the pump pressure increased to 1,550 psig" [@NTSB1993 p. 38].
+* Extend of public education [@NTSB1993 pp. 42f].
