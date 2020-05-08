@@ -26,7 +26,7 @@ Back to [[Oil spills]].
 
 
 
-The report also features a great section that gives an idea of how organizational memory might be encapsulated in routines [@NTSB1993 pp. 24ff]. See e.g.,  [[resources|Seminole '92#organizational-memory]], further [@NTSB1993 p. 34]. The lack of written rules to follow is partially blamed for the failure. On the one hand, math errors could certainly be corrected - that would help [@NTSB1993 pp. 31f]. On the other hand, when written rules exist, it may then be flaws in written rules that are blamed for failures? Maybe as a result of the flawed organization of memory, the dispatcher made the fatal mistake of reopening the pipeline valves to the salt dome [@NTSB1993 pp. 38]. See also [[notes|Seminole '92#The-valve-opening]].
+The report also features a great section that gives an idea of how organizational memory might be encapsulated in routines [@NTSB1993 pp. 24ff]. See e.g., [[resources|Seminole '92#organizational-memory]], further [@NTSB1993 p. 34]. The lack of written rules to follow is partially blamed for the failure. On the one hand, math errors could certainly be corrected - that would help [@NTSB1993 pp. 31f]. On the other hand, when written rules exist, it may then be flaws in written rules that are blamed for failures? Maybe as a result of the flawed organization of memory, the dispatcher made the fatal mistake of reopening the pipeline valves to the salt dome [@NTSB1993 pp. 38]. See also [[notes|Seminole '92#The-valve-opening]].
 
 ### Learning
 
@@ -38,9 +38,11 @@ The report also features a great section that gives an idea of how organizationa
 
 ## Summary
 
-The Brenham station is a salt cavern that is used as part of the MAPCO pipeline network for interim storage of HVLs. Since it is a "natural" structure of artificially flushed out salt that is continuosly expanding with operations, the exact capacity is not known except for the exact point of time when it is measured (which happens every couple of months). In the weeks leading up to the disaster, the cavern was filled up to or over capacity a couple of times.
+The Brenham station is a salt cavern that is used as part of the MAPCO pipeline network for interim storage of HVLs. Since it is a "natural" structure of flushed out salt that is expending with operations, its capacity is only known when it is measured (which happens every couple of weeks). The [[NTBS]] later determined that in the weeks leading up to the incident, the cavern was filled over capacity at several points in time. The cavern was over capacity because the employees made errors when calculating the volume of HVL that was pumped into the cavern [@NTSB1993 p. 31]. The employees did not know exactly how to calculate the volume because they did not have a relevant educational background and did not receive appropriate guidance [@NTSB1993 pp. 25f]. The employees on site did know how to determine whether the cavern was overflowing, and how to shut off the flow of HVL into the cavern. When the cavern was already overflowing, the dispatcher used the [[SCADA]] system to close the valve to the cavern. At this point, a "large mushroom-shaped cloud" was already visible over the station and the area had been foggy for at least 20 minutes [@NTSB1993 p. 39 and pp. 100f]. Later, he was worried that too much pressure on the connecting pipeline might be an issue, so he reopened the valve - in reality, the pipeline would have shut down automatically once it reaches a certain pressure [@NTSB1993 p. 38].
 
 ## The spill
+
+The overflowing gas covered the surrounding area in a haze. An employee parked on the access road and stopped on driver from entering the area. Another driver however bypassed the vehicles and entered the fog. Soon after that vehicle entered, an explosion occured that leveled a large area, including
 
 ## Cause analysis
 
@@ -58,6 +60,7 @@ The Brenham station is a salt cavern that is used as part of the MAPCO pipeline 
 * Maybe I should adjust my expectations. If we could stop chemical plants and other facilities in Texas from randomly exploding all the time, that would already be a relatively great achievement. Move the goalpost. Overall though - let's not generalize. Learning is possible if intentionally pursued.
 * Interesting insights into how organizational memory works [@NTSB1993 pp. 25f.]. One can immediately imagine how an understanding of the system may gradually get lost in this game of telephone. Clear lack of documentation. See also [[resources|Seminole '92#organizational-memory]].
 * Today, a word file or simple script would probably be used to calculate the inflow and outflow of HVL into the salt dome. Which may also leave room for error given a lack of understanding? But less likely? Would that be learning? The fact that an excel file would be created? Or just a switch in routines? Is switching routines learning? Wouldn't the best approach be to have somebody at the job who actually understands the process that is going on? Is it learning if we manage to allow for an untrained person to do the job of a trained person, even if this increases risk, because it is more efficient?
+* Is this an operator error? Or a hiring issue? Or a training issue?
 
 ## Various
 * "He stopped his truck a short distance before the swale and turned the ignition switch off. He said that when the pickup continued to run, 'I knew something serious had happened" because "there was enough gas in the air to keep feeding my engine.'" [@NTSB1993 p. 4].
