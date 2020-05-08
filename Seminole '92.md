@@ -21,10 +21,11 @@ Back to [[Oil spills]].
 * [[NTSB]]
 * Operator of the pipeine: Seminole Pipeline Company. Largest shareholder at the time was MAPCO, the pipeline (and its operating company) is currently owned by Enterprise Products Operating.
 * Research and Special Programs Administration ([[RSPA]])
+* [[FERC]]
 
 ## Significance
 
-
+Regulators and industry organizations largely have not recognized the potential risk that stems from misoperated storage caverns [@NTSB1993 pp. 54f]. Could a significant takeaway from the incident be as simple as "hey, look, these things can blow up, too"? For instance, the [[AGA]] believed that the gas, if leaking, would simply dissipate quickly and hence not pose a hazard [@NTSB1993 p. 56].
 
 The report also features a great section that gives an idea of how organizational memory might be encapsulated in routines [@NTSB1993 pp. 24ff]. See e.g., [[resources|Seminole '92#organizational-memory]], further [@NTSB1993 p. 34]. The lack of written rules to follow is partially blamed for the failure. On the one hand, math errors could certainly be corrected - that would help [@NTSB1993 pp. 31f]. On the other hand, when written rules exist, it may then be flaws in written rules that are blamed for failures? Maybe as a result of the flawed organization of memory, the dispatcher made the fatal mistake of reopening the pipeline valves to the salt dome [@NTSB1993 pp. 38]. See also [[notes|Seminole '92#The-valve-opening]].
 
@@ -38,13 +39,22 @@ The report also features a great section that gives an idea of how organizationa
 
 ## Summary
 
-The Brenham station is a salt cavern that is used as part of the MAPCO pipeline network for interim storage of HVLs. Since it is a "natural" structure of flushed out salt that is expending with operations, its capacity is only known when it is measured (which happens every couple of weeks). The [[NTBS]] later determined that in the weeks leading up to the incident, the cavern was filled over capacity at several points in time. The cavern was over capacity because the employees made errors when calculating the volume of HVL that was pumped into the cavern [@NTSB1993 p. 31]. The employees did not know exactly how to calculate the volume because they did not have a relevant educational background and did not receive appropriate guidance [@NTSB1993 pp. 25f]. The employees on site did know how to determine whether the cavern was overflowing, and how to shut off the flow of HVL into the cavern. When the cavern was already overflowing, the dispatcher used the [[SCADA]] system to close the valve to the cavern. At this point, a "large mushroom-shaped cloud" was already visible over the station and the area had been foggy for at least 20 minutes [@NTSB1993 p. 39 and pp. 100f]. Later, he was worried that too much pressure on the connecting pipeline might be an issue, so he reopened the valve - in reality, the pipeline would have shut down automatically once it reaches a certain pressure [@NTSB1993 p. 38].
+The Brenham station is a salt cavern that is used as part of the MAPCO pipeline network for interim storage of HVLs. Since it is a "natural" structure of flushed out salt that is expending with operations, its capacity is only known when it is measured (which happens every couple of weeks). The [[NTBS]] later determined that in the weeks leading up to the incident, the cavern was filled over capacity at several points in time. The cavern was over capacity because the employees made errors when calculating the volume of HVL that was pumped into the cavern [@NTSB1993 p. 31]. The employees did not know exactly how to calculate the volume because they did not have a relevant educational background and did not receive appropriate guidance [@NTSB1993 pp. 25f]. The employees that later arrived on site did know how to determine whether the cavern was overflowing, and how to shut off the flow of HVL into the cavern. When the cavern was already overflowing, the remote dispatcher first did not recognize the emergency [@NTSB1993 pp. 59f] and later used the [[SCADA]] system to close the valve to the cavern. At this point, a "large mushroom-shaped cloud" was already visible over the station and the area had been foggy for at least 20 minutes [@NTSB1993 p. 39 and pp. 100f]. Later, he was worried that too much pressure on the connecting pipeline might be an issue, so he reopened the valve - in reality, the pipeline would have shut down automatically once it reaches a certain pressure [@NTSB1993 p. 38].
 
 ## The spill
 
 The overflowing gas covered the surrounding area in a haze. An employee parked on the access road and stopped on driver from entering the area. Another driver however bypassed the vehicles and entered the fog. Soon after that vehicle entered, an explosion occured that leveled a large area, including
 
 ## Cause analysis
+
+A core issue is that Y-grade HVL did unexpectedly escape through the brine, thus keeping pressure inside the cavern constant and masking the emergency.
+
+* Two valves in a sensing line, which could have prevented the spill by automatically shutting flow to the facility, had erroneously been manually closed. It could not be determined when or by whom [@NTSB1993 p. 60].
+* A wellhead safety system was inoperative [@NTSB1993 p. 60].
+* Information displayed on the SCADA system were incomplete, did not show historic data and thus trends [@NTSB1993 p. 61].
+* The HAZGAS detectors only send a single signal, even if multiple of them went off.
+* A lack of communication between employees [@NTSB1993 p. 72].
+* Existing regulations did not apply to HVL underground storage facilities [@NTSB1993 pp. 81f].
 
 ### What could have been done
 
@@ -61,6 +71,7 @@ The overflowing gas covered the surrounding area in a haze. An employee parked o
 * Interesting insights into how organizational memory works [@NTSB1993 pp. 25f.]. One can immediately imagine how an understanding of the system may gradually get lost in this game of telephone. Clear lack of documentation. See also [[resources|Seminole '92#organizational-memory]].
 * Today, a word file or simple script would probably be used to calculate the inflow and outflow of HVL into the salt dome. Which may also leave room for error given a lack of understanding? But less likely? Would that be learning? The fact that an excel file would be created? Or just a switch in routines? Is switching routines learning? Wouldn't the best approach be to have somebody at the job who actually understands the process that is going on? Is it learning if we manage to allow for an untrained person to do the job of a trained person, even if this increases risk, because it is more efficient?
 * Is this an operator error? Or a hiring issue? Or a training issue?
+* Everything has to explode once in order for us to recognize it as a potential safety hazard? Is learning from failure really that simple?
 
 ## Various
 * "He stopped his truck a short distance before the swale and turned the ignition switch off. He said that when the pickup continued to run, 'I knew something serious had happened" because "there was enough gas in the air to keep feeding my engine.'" [@NTSB1993 p. 4].
@@ -130,6 +141,10 @@ The overflowing gas covered the surrounding area in a haze. An employee parked o
 * No written guidelines on many functions of the facility [@NTSB1993 p. 34].
 * "He was not aware that the plant pumps were designed to shut down automatically when the pump pressure increased to 1,550 psig" [@NTSB1993 p. 38].
 * Extend of public education [@NTSB1993 pp. 42f].
+* Cavern storage not regulated more strictly because as part of pipeline systems, they kind of fell throught the cracks [@NTSB1993 p. 51].
+* Before the incident, an industry association ([[AGA]]) held that storage systems such as the one involved in this accident were universally save [@NTSB1993 p. 56].
+* Summary on training [@NTSB1993 p. 73].
+* Again a feud with the RSPA [@NTSB1993 pp. 75f].
 
 ### The valve opening
 * "The other dispatchers were able to contact personnel at one of the two plants pumping into the Bryan Lateral and have them shut down operations almost immediately. However, when they could not get anyone to answerat the second plant, the dispatcher at the Seminole board became apprehensive that if a plant continued to pump product against a closed valve, the pressure might rupture the lateral, so he reopened the Bryan Lateral. He was not aware that the plant pumps were designed to shut down automatically when the pump pressure increased to 1,550 psig" [@NTSB1993 p. 38].
