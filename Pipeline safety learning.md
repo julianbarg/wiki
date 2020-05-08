@@ -1,5 +1,4 @@
-
-[_TOC_]
+[[_TOC_]]
 
 ## Classic learning curve
 * [[Wright 1936]]
