@@ -22,6 +22,7 @@ Back to [[Oil spills]].
 * Operator of the pipeine: Seminole Pipeline Company. Largest shareholder at the time was [[MAPCO]], the pipeline (and its operating company) is currently owned by Enterprise Products Operating.
 * Research and Special Programs Administration ([[RSPA]]) of the [[DOT]], [[OPS]] 
 * [[FERC]]
+* Texas Railroad Commission ([[TRC]]) 
 
 ## Significance
 
@@ -84,6 +85,7 @@ A core issue is that Y-grade HVL did unexpectedly escape through the brine, thus
 * MAPCO established a training excercise with public response agencies [@NTSB1993 p. 81].
 * MAPCO installed a siren at the station that can be activated by the sheriff's office [@NTSB1993 p. 81].
 * The station will also be manned 24/7 from now on [@NTSB1993 p. 81].
+* Texas Railroad Commission ([[TRC]]) prepared to more regulation [@NTSB1993 p. 84].
 
 ## My reactions
 * Maybe I should adjust my expectations. If we could stop chemical plants and other facilities in Texas from randomly exploding all the time, that would already be a relatively great achievement. Move the goalpost. Overall though - let's not generalize. Learning is possible if intentionally pursued.
