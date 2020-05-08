@@ -1,3 +1,5 @@
+[_TOC_]
+
 ## Classic learning curve
 * [[Wright 1936]]
 * [[Arrow 1962]]
