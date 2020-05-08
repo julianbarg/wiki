@@ -26,7 +26,7 @@ Back to [[Oil spills]].
 
 
 
-The report also features a great section that gives an idea of how organizational memory might be encapsulated in routines [@NTSB1993 pp. 24ff]. See e.g., [[resources|Seminole '92#organizational-memory]], further [@NTSB1993 p. 34]. The lack of written rules to follow is partially blamed for the failure. On the one hand, math errors could certainly be corrected - that would help [@NTSB1993 pp. 31f]. On the other hand, when written rules exist, it may then be flaws in written rules that are blamed for failures? Maybe as a result of the flawed organization of memory, the dispatcher made the fatal mistake of reopening the pipeline valves to the salt dome [@NTSB1993 pp. 38]. See also [[notes|Seminole '92#The-valve-opening]].
+The report also features a great section that gives an idea of how organizational memory might be encapsulated in routines [@NTSB1993 pp. 24ff]. See e.g.,  [[resources|Seminole '92#organizational-memory]], further [@NTSB1993 p. 34]. The lack of written rules to follow is partially blamed for the failure. On the one hand, math errors could certainly be corrected - that would help [@NTSB1993 pp. 31f]. On the other hand, when written rules exist, it may then be flaws in written rules that are blamed for failures? Maybe as a result of the flawed organization of memory, the dispatcher made the fatal mistake of reopening the pipeline valves to the salt dome [@NTSB1993 pp. 38]. See also [[notes|Seminole '92#The-valve-opening]].
 
 ### Learning
 
@@ -38,7 +38,7 @@ The report also features a great section that gives an idea of how organizationa
 
 ## Summary
 
-The Brenham station is a salt cavern that is used as part of the MAPCO pipeline network for interim storage of HVLs. 
+The Brenham station is a salt cavern that is used as part of the MAPCO pipeline network for interim storage of HVLs. Since it is a "natural" structure of artificially flushed out salt that is continuosly expanding with operations, the exact capacity is not known except for the exact point of time when it is measured (which happens every couple of months). In the weeks leading up to the disaster, the cavern was filled up to or over capacity a couple of times.
 
 ## The spill
 
