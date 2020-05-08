@@ -32,8 +32,17 @@ The report also features a great section that gives an idea of how organizationa
 ### Learning
 
 #### Mechanisms
+* More complex SCADA systems to display e.g., historical data in a chart, separate output for individual sensors.
+* Attention drawn to storage caverns - leading to new regulation.
+* Problems with training and procedures at MAPCO.
+* Fail safe equipment.
+* System safety analysis.
+* Emergency procedures - both for local employees and EMS etc.
 
 #### Outcomes
+* Lower failure rate for storage caverns.
+* Detection of more failure for storage caverns.
+* Less injuries and fatalities from failures of storage caverns.
 
 ### Other
 
@@ -49,22 +58,32 @@ The overflowing gas covered the surrounding area in a haze. An employee parked o
 
 A core issue is that Y-grade HVL did unexpectedly escape through the brine, thus keeping pressure inside the cavern constant and masking the emergency.
 
-* Two valves in a sensing line, which could have prevented the spill by automatically shutting flow to the facility, had erroneously been manually closed. It could not be determined when or by whom [@NTSB1993 p. 60].
-* A wellhead safety system was inoperative [@NTSB1993 p. 60].
+* Two valves in a sensing line, which could have prevented the spill by automatically shutting flow to the facility, had erroneously been manually closed. It could not be determined when or by whom [@NTSB1993 p. 60]. Thus, a wellhead safety system was inoperative [@NTSB1993 p. 60].
 * Information displayed on the SCADA system were incomplete, did not show historic data and thus trends [@NTSB1993 p. 61].
 * The HAZGAS detectors only send a single signal, even if multiple of them went off.
 * A lack of communication between employees [@NTSB1993 p. 72].
 * Existing regulations did not apply to HVL underground storage facilities [@NTSB1993 pp. 81f].
+* Lacking procedures and training.
 
 ### What could have been done
 
 #### To prevent the spill
+* Failsafe safety system
+* Correct accounting of HVL volume
 
 #### To reduce the severity of the spill
+* Show historical data on SCADA
+* Employees could have realized severity of the situation sooner, and contacted local emergency personnel
 
 ### Faulty parts/flawed procedures
+* Training and lack of procedures for emergencies.
 
 ## Aftermath/learning
+* MAPCO replaced the SCADA system "to graphically display both historical and current operational data on all boards at the dispatch center" [@NTSB1993 p. 62].
+* Added a meter to a previously unmetered valve from the cavern to a mainline [@NTSB1993 p. 69], which results in a complete picture of volume in the cavern (all inputs and all outputs). MAPCO will upgrade all other storage caverns in their system similarly [@NTSB1993 p. 71].
+* MAPCO established a training excercise with public response agencies [@NTSB1993 p. 81].
+* MAPCO installed a siren at the station that can be activated by the sheriff's office [@NTSB1993 p. 81].
+* The station will also be manned 24/7 from now on [@NTSB1993 p. 81].
 
 ## My reactions
 * Maybe I should adjust my expectations. If we could stop chemical plants and other facilities in Texas from randomly exploding all the time, that would already be a relatively great achievement. Move the goalpost. Overall though - let's not generalize. Learning is possible if intentionally pursued.
