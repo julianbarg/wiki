@@ -19,8 +19,8 @@ Back to [[Oil spills]].
 
 ## Actors
 * [[NTSB]]
-* Operator of the pipeine: Seminole Pipeline Company. Largest shareholder at the time was MAPCO, the pipeline (and its operating company) is currently owned by Enterprise Products Operating.
-* Research and Special Programs Administration ([[RSPA]])
+* Operator of the pipeine: Seminole Pipeline Company. Largest shareholder at the time was [[MAPCO]], the pipeline (and its operating company) is currently owned by Enterprise Products Operating.
+* Research and Special Programs Administration ([[RSPA]]) of the [[DOT]], [[OPS]] 
 * [[FERC]]
 
 ## Significance
