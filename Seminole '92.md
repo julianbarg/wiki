@@ -114,7 +114,12 @@ The overflowing gas covered the surrounding area in a haze. An employee parked o
 [[resources/NTSB_1993_scada.png|frame, alt=Flaws of the scada described on page 19,width=600px]]
 
 ### Organizational memory
+
 [[resources/NTSB_1993_memory.png|frame, width=600px, alt=Flaws of organizational memeory on pages 25f]]
+
+### Previous releases
+
+[[resoures/NTSB_1993_previous_releases.png|frame, width=600x, alt=Previous relaeses described on page 50]]
 
 ## Notes
 * Flawed safety system, see also [[here|Seminole '92#Scada-limitations]].
