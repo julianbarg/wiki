@@ -16,6 +16,7 @@
 * [[Gavetti et al 2012]]
 
 ## Knowledge-based approach
+* [[Argote & Epple 1990]]
 * [[Argote 2013.md#2-organizational-learning-a-theoretical-framework]]
 
 ## Rare events
