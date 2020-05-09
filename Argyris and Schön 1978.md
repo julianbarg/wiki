@@ -20,7 +20,9 @@ Argyris, C., & Schön, D. A. (1978). Organizational Learning: A Theory of Action
 ## Resources
 
 ## Important points
-* "[T]he very information needded to detect and correct erros becomes undiscussable" (pp. 3f)
+* "[T]he very information needded to detect and correct erros becomes undiscussable" (pp. 3f).
+* Critical view of learning (p. 9).
+* The organization's _theory of action_ includes norms, strategies, and assumptions.
 
 ## One-paragraph summary
 
