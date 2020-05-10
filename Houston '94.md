@@ -43,8 +43,10 @@ Boring deeper river crossings:
 ### Learning
 
 #### Mechanisms
+* Revelation that rivers are far more unpredictable than previously assumed. Could lead operators to bury their pipelines deeper, and to proactively shutdown and purge their pipelines.
 
 #### Outcomes
+* Less oil spills as the result of floodings.
 
 ### Other
 
@@ -66,6 +68,7 @@ Boring deeper river crossings:
 
 ## My reactions
 * I can't wrap my head around why engineers have not figured out at least until 2011 (see [[documets|Houston '94#Other]]), that river beds can exert great forces on pipelines, even if pipelines are burried a couple of feet deep.
+* When all pipelines in Houston are shutoff, this could severely affect the oil price. Might operators be willing to take a rest in order to sell for higher prices?
 
 ## Various
 * "Although pipeline transportation is one of the safest means for transporting petroleum, it poses great risk potential to the environment because of the large volumes of hazardous liquids that can be released when a rupture occurs. In a pipeline transportation situation, there is a greater likelihood of releasing petroleum into environmentally sensitive areas" [@NTSB1996 p. 1].
@@ -109,4 +112,5 @@ In-situ burning:
 * The coast guard had previously (in February) carried out an excercise for just the kind of fire that occured. The drill identified communication issues [@NTSB1996 p. 20].
 * Near miss or failure redefined as success: "The FOSC stated that, because no one was injured and the burn was technically effective and the 'right thing to do,' he did not aggressively pursue the matter" [@NTSB1996 p. 21].
 * [The OPA] stated that the EPA OSC requested and received permission from the FOSC to conduct an in-situ burn, and that about 7:00 p.m. (actual time was about 6:00 p.m.), the in-situ burn was initiated. The EPA reported that the burn lasted about 2 hours (actual duration was about 28 hours), was monitored throughout, self- extinguished, and affected about 0.25 acre (actually more than 15 acres) [@NTSB1996 p. 22].
-* "Erosive forces during periods of high water flow may have a capacity as much as 100 times greater than those acting during periods of intermediate or low flow [@NTSB1996 p. 24]".
+* "Erosive forces during periods of high water flow may have a capacity as much as 100 times greater than those acting during periods of intermediate or low flow" [@NTSB1996 p. 24].
+* Shutdown and purging of the pipeline proceeded in vastly diverging fashion across operators [@NTSB1996 p. 27].
