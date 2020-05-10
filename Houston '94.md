@@ -4,7 +4,7 @@ Back to [[Oil spills]].
 
 ## Incident image
 
-[[https://pubs.usgs.gov/of/2003/ofr03-193/cd_files/USGS_Storms/photos/USGS_78.jpg|frame, alt=]]
+[[https://pubs.usgs.gov/of/2003/ofr03-193/cd_files/USGS_Storms/photos/USGS_78.jpg|frame, alt=In-situ burning of the escaping commodities, size=600]]
 
 ## Documents
 
