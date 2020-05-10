@@ -43,6 +43,8 @@ Boring deeper river crossings:
 
 ## Significance
 
+Drawing attention away from third-party [[Editing San Bernadino train disaster]] and corrosion damage toward "potential catastropic damages to pipelines due to natural disasters" [@NTSB1996 p. 37].
+
 ### Learning
 
 #### Mechanisms
