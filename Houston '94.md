@@ -71,7 +71,7 @@ Boring deeper river crossings:
 ### Quantitative data
 
 ## Resources
-* [[resources/NTSB_1996_explosions.png|frame, width = 450px, alt=NTSB-DOT feud p. 114]]
+* [[resources/NTSB_1996_explosions.png|frame, width = 350px, alt=NTSB-DOT feud p. 114]]
 
 ## Notes
 * "For those stations where the 100- year-flood was exceeded, the flood was from 1.1 to 2.9 times the 100-year-flood" [@NTSB1996 p. 2].
