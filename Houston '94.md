@@ -4,9 +4,9 @@ Back to [[Oil spills]].
 
 ## Incident image
 
-[[https://pubs.usgs.gov/of/2003/ofr03-193/cd_files/USGS_Storms/photos/USGS_78.jpg|frame, alt=In-situ burning of the escaping commodities, width=600]]
+[[https://pubs.usgs.gov/of/2003/ofr03-193/cd_files/USGS_Storms/photos/USGS_78.jpg|frame, alt=In-situ burning of the escaping commodities, width=600px]]
 
-[[https://s.hdnux.com/photos/01/01/14/32/17090239/3/940x0.jpg|frame, alt=Larger view, width=450]][[https://www.houstonchronicle.com/news/houston-texas/houston/article/Houston-no-stranger-to-chemical-plant-fires-13697557.php#photo-17090239]]
+[[https://s.hdnux.com/photos/01/01/14/32/17090239/3/940x0.jpg|frame, alt=Larger view, width=450px]][[https://www.houstonchronicle.com/news/houston-texas/houston/article/Houston-no-stranger-to-chemical-plant-fires-13697557.php#photo-17090239]]
 
 ## Documents
 
