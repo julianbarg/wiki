@@ -35,6 +35,8 @@ Boring deeper river crossings:
 ## Actors
 * [[TGLO]]
 * EPA [[OSC]]
+* [[FOSC]]
+* [[OPS]]
 
 ## Significance
 
@@ -84,7 +86,7 @@ Initial leak:
 
 In-situ burning:
 
-> The resulting fire sent flames about 100 feet into the air. The smoke plume rose about 1,500 feet vertically and, when it came into contact with an inversion layer, the smoke traveled horizontally [@NTSB1996 p. 17].
+> The resulting fire [which was ignited on October 23, 6:03 PM], sent flames about 100 feet into the air. The smoke plume rose about 1,500 feet vertically and, when it came into contact with an inversion layer, the smoke traveled horizontally. [...] By 9:00 p.m. on October 23, the height of the flames from the in-situ fire had reduced to 60 feet. By 6:00 a.m. the next day, the fire was moving south, away from the new channel. The Coast Guard monitored the progress of the fire, and the EPA assessed the airborne pollution threat until the fire self-extinguished about 10:00 p.m. on October 24. [@NTSB1996 p. 17].
 
 [[resources/NTSB_1996_explosions.png|frame, width = 350px, alt=Description of the explosions p. 6]]
 
@@ -92,9 +94,19 @@ In-situ burning:
 
 > One of the EPA contract employees left on the east side of the fire boom stated that while the EPA OSC and the Colonial safety coordinator were on the west bank of the new channel discussing the proposed in-situ controlled burn, he and the others heard the question “What are you waiting for?,” over the EPA contractor’s mobile radio. The EPA contract employee stated that the east bank team believed that the question signaled them to ignite the accumulated petroleum products. He stated that he tried three times unsuccessfully to make radio contact to confirm that the product should be ignited. Then, the three employees on the east bank agreed that they had been signaled to ignite the accumulated products. Flares were lit, placed on a trashcan lid, and floated into the area of accumulated petroleum products adjacent to the fire boom [@NTSB1996 p. 17].
 
+### Pipeline damages and learning
+
+> Damages --Thirty-seven of the 69 pipelines that cross the flood plain were either ruptured or undermined during the flood; 13 at river crossings only, 18 at locations within the flood plain not at crossings, and 6 in both locations. Eight of the 69 pipelines ruptured during the flood; 4 at river crossings and 4 in the flood plain. Only 12 of the 25 operators that provided information on the design bases of their pipelines indicated that they had performed some type of study of the river crossing to augment their design decisions. (Survey responses did not include details on the types of studies performed.) The other 13 operators cited industry codes, Federal regulations, or both as the bases of their pipeline designs. No operator indicated that it had used the American Petroleum Institute’s Bulletin 1105, Bulletin on Construction for Oil and Products Pipe Lines (first edition, 1955) or performed a comprehensive study of the flood plain. Spill [@NTSB1996 p. 25]
+
 ## Notes
 * "For those stations where the 100- year-flood was exceeded, the flood was from 1.1 to 2.9 times the 100-year-flood" [@NTSB1996 p. 2].
 * The floods began on October 14 [@NTSB1996 p. 2]. The first pipeline spill did not occur until October 19.
 * The Colonial Pipeline spill occured at 8:31 AM  on Oct 20, the county communications center did not learn about this spill until 9:41 AM from a concerned citizen [@NTSB1996 pp. 5f].
 * Mean to cancel in-situ burning, but did not communicate this decision [@NTSB1996 p. 16].
 * Eventual fire was started because of miscommunication, see [[erroneous ignition|Houston '94#Erroneous-start-of-in-situ-burning]].
+* Not all operators sustained damages to their pipelines--Exxon emptied a pipelines on October 19 [@NTSB1996 p. 18].
+* Fire departments did not attempt to extinguish any fires on the rived [@NTSB1996 p. 19]
+* The coast guard had previously (in February) carried out an excercise for just the kind of fire that occured. The drill identified communication issues [@NTSB1996 p. 20].
+* Near miss or failure redefined as success: "The FOSC stated that, because no one was injured and the burn was technically effective and the 'right thing to do,' he did not aggressively pursue the matter" [@NTSB1996 p. 21].
+* [The OPA] stated that the EPA OSC requested and received permission from the FOSC to conduct an in-situ burn, and that about 7:00 p.m. (actual time was about 6:00 p.m.), the in-situ burn was initiated. The EPA reported that the burn lasted about 2 hours (actual duration was about 28 hours), was monitored throughout, self- extinguished, and affected about 0.25 acre (actually more than 15 acres) [@NTSB1996 p. 22].
+* "Erosive forces during periods of high water flow may have a capacity as much as 100 times greater than those acting during periods of intermediate or low flow [@NTSB1996 p. 24]".
