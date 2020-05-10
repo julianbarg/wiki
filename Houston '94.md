@@ -37,6 +37,9 @@ Boring deeper river crossings:
 * EPA [[OSC]]
 * [[FOSC]]
 * [[OPS]]
+* [[American Gas Association]] - relevant for population level learning
+* American Petroleum Institute [[API]]
+* [[FEMA]]
 
 ## Significance
 
@@ -114,3 +117,7 @@ In-situ burning:
 * [The OPA] stated that the EPA OSC requested and received permission from the FOSC to conduct an in-situ burn, and that about 7:00 p.m. (actual time was about 6:00 p.m.), the in-situ burn was initiated. The EPA reported that the burn lasted about 2 hours (actual duration was about 28 hours), was monitored throughout, self- extinguished, and affected about 0.25 acre (actually more than 15 acres) [@NTSB1996 p. 22].
 * "Erosive forces during periods of high water flow may have a capacity as much as 100 times greater than those acting during periods of intermediate or low flow" [@NTSB1996 p. 24].
 * Shutdown and purging of the pipeline proceeded in vastly diverging fashion across operators [@NTSB1996 p. 27].
+* Design requirements obviously unsuitable for withstanding 100-year floods. Yet, in an earlier section used this law to justify their action (claim that pipelines comply with regulations) [@NTSB1996 p. 32].
+* Operators response plan starting point is occurance and awareness of a spill, rather than threat of a spill [@NTSB1996 p. 33].
+* In 1969, industry showed an awareness of rivers changing their beds [@NTSB1996 p. 33].
+* RSPA promoting new rules on leak detection [@NTSB1996 p. 36].
