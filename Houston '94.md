@@ -74,11 +74,11 @@ In 1994, Hurricane Rosa swept over Texas. It caused heavy rainfall in 38 countie
 
 ## The spill
 
-First, the spill only led to a release of oil into the river. Some of the spilled oil 
+First, the spill only led to a release of oil into the river. Some of the spilled oil engulfed in flames, and explosions occured. See also [[description of fires|Houston '94#initial-leak]].
 
-The response forces decided to use a [[fire boom]] to remove some of the unburned oil [@NTSB1996 p. 14] that had gathered in a flood channel. The plan had the approval of the FOSC and TGLO, [@NTSB1996 pp. 14f]. But the fire was eventually started without approval, because of a miscommunication [@NTSB1996 p. 17]. The fire spread to the main river and burned for approximately 28 hours. Initially, flames stood at 100 feet high, before receding to 60 feet [@NTSB1996 p. 17].
+The response forces decided to use a [[fire boom]] to remove some of the unburned oil [@NTSB1996 p. 14] that had gathered in a flood channel. The plan had the approval of the FOSC and TGLO, [@NTSB1996 pp. 14f]. But the fire was eventually started without approval, because of a miscommunication [@NTSB1996 p. 17]. The fire spread to the main river and burned for approximately 28 hours. Initially, flames stood at 100 feet high, before receding to 60 feet [@NTSB1996 p. 17]. See also [[description of fires|Houston '94#in-situ-burning]].
 
-Because the 
+Because at the time of the accidential start of the controlled fire, some residents had already returned to their home, so there were a relatively high number of residents in the area [@NTSB1996 p. 7]. As a result of the fire and smoke, 547 were injured, including two serious injuries [@NTSB1996 p. 18].
 
 ## Cause analysis
 
