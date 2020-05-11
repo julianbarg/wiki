@@ -147,11 +147,11 @@ Because the
 
 ### Description of fires
 
-Initial leak:
+#### Initial leak
 
 > About 9:51 a.m. [on October 20], explosions and fires erupted on the river and began moving slowly southward towards the Interstate 10 bridge. Witnesses reported hearing a series of five distinct explosions and observing balls of fire and smoke rising just north of Interstate 10. After the first explosion, fire and smoke rose about 300–400 feet into the air. A second explosion, located about 200–300 feet to the west of the first, occurred about 10 seconds later, and a third explosion occurred about 600– 700 feet to the west of the second. Minutes later, two more explosions were heard as the fire advanced across the lake and the stream flow carried the petroleum toward the Interstate 10 bridge [@NTSB1996 p. 6].
 
-In-situ burning:
+#### In-situ burning
 
 > The resulting fire [which was ignited on October 23, 6:03 PM], sent flames about 100 feet into the air. The smoke plume rose about 1,500 feet vertically and, when it came into contact with an inversion layer, the smoke traveled horizontally. [...] By 9:00 p.m. on October 23, the height of the flames from the in-situ fire had reduced to 60 feet. By 6:00 a.m. the next day, the fire was moving south, away from the new channel. The Coast Guard monitored the progress of the fire, and the EPA assessed the airborne pollution threat until the fire self-extinguished about 10:00 p.m. on October 24. [@NTSB1996 p. 17].
 
