@@ -85,7 +85,7 @@ Drawing attention away from third-party [[Editing San Bernadino train disaster]]
 ### Quantitative data
 
 |**General information**
-|----------------|---:
+|----------------|------------------:-----------------:
 |Incident ID:    |19940236          |19940237    
 |Operator name:  |Colonial Pipeline |Colonial Pipeline            
 |Date:           |1994-10-19        |1994-10-19        
