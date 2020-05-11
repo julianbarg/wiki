@@ -22,13 +22,13 @@ Back to [[Oil spills]].
 ### Other
 * [[https://en.wikipedia.org/wiki/Hurricane_Rosa_(1994)]]
 
-Regarding potential lawsuits:
+#### Regarding potential lawsuits
 * [[https://www.fws.gov/southwest/es/Docs/NRDAR_SiteInformation/Texas/SanJac.pdf]]
 
-Comment by professional association:
+#### Comment by professional association
 * [[https://ascelibrary.org/doi/pdf/10.1061/40800%28180%2935]]
 
-Boring deeper river crossings:
+#### Boring deeper river crossings
 * [[https://www.emergency-response-planning.com/blog/bid/40891/Are-the-Floods-of-2011-affecting-Pipeline-Safety]]
 * [[https://billingsgazette.com/news/local/article_c788d5f2-6b76-5143-8769-0e8bed0fc055.html]]
 
@@ -38,29 +38,47 @@ Boring deeper river crossings:
 * [[FOSC]]
 * [[OPS]]
 * [[American Gas Association]] - relevant for population level learning
-* American Petroleum Institute [[API]]
+* American Petroleum Institute ([[API]])
 * [[FEMA]]
 * [[FWS]]
+* Association of Oil Pipe Lines ([[AOPL]])
+* Interstate Natural Gas Association of America ([[INGAA]])
+* [[RSPA]]
 
 ## Significance
 
 Drawing attention away from third-party [[Editing San Bernadino train disaster]] and corrosion damage toward "potential catastropic damages to pipelines due to natural disasters" [@NTSB1996 p. 37].
 
-An example of population level learning. Individually, pipeline operators do not know how to handle operating pipelines in flood plains. The [[API]] put forth some temporary standards that showed that they were aware of the issue of flooding, but unfortunately this know-how got "lost" (actually abandoned/non-renewed). Now, the NTSB puts forth that this knowledge should be anchored at the population level. This is further the first case where I can prove a very different message from the legal system: the DOJ foresaw that the spill would end in an "Act of God" judgement and largely let the corporate perpetrators of the hook [@FWS2007 p. 2].
+Potentially an example of population level learning. Individually, pipeline operators do not know how to handle operating pipelines in flood plains. The [[API]] put forth some temporary standards that showed that they were aware of the issue of flooding, but unfortunately this know-how got "lost" (actually abandoned/"not renewed"). Now, the NTSB puts forth that this knowledge should be anchored at the population level. This is further the first case where I can prove a very different message from the legal system: the DOJ foresaw that the spill would end in an "Act of God" judgement and largely let the corporate perpetrators of the hook, see also [[documents|Houson '94#Regarding-potential-lawsuit]] [@FWS2007 p. 2].
 
 ### Learning
 
 #### Mechanisms
 * Revelation that rivers are far more unpredictable than previously assumed. Could lead operators to bury their pipelines deeper, and to proactively shutdown and purge their pipelines.
+* On the population level, the [[API]] in conjunction with the [[AOPL]] and [[INGAA]] might develop the standards that codify the knowledge gained from this spill.
+* Less distance between valves at river crossings, especially where the rivers are threatened by floodings. Possibly installation of remote- or automatic-operated valves.
+* [[RSPA]]] issuing a requirement of rapid detection of spills, too. Supposedly through equipment that can remotely detect leaks.
 
 #### Outcomes
+
 * Less oil spills as the result of floodings.
+* Lower volume of spills that result from floodings, because of lower distance between valves at river crossings.
+* Incidents resulting in lower spill volumes in general, because of of remote- and automatic-operated valves.
+* More spills being detected because of remote sensing equipment.
 
 ### Other
 
 ## Summary
 
+In 1994, Hurricane Rosa swept over Texas. It caused heavy rainfall in 38 counties, including a 100-year-flood of the San Jacinto River. On October 19, an LPG pipe by Exxon burst and was subsequently shut down by Exxon staff. On October 20 a Colonial Pipeline pipeline that was still operating burst under the river. The phone call for closing the pipeline was made at ~8:31 AM. It was shut off within two minutes of the call. Some explosions occured and a fire broke out on the river, see [the spill|Houston '94#The-spill]. Another Colonial Pipeline pipeline burst at approximately 11:30 AM. That pipeline had been shut off the evening before for reasons unrelated to the flood. The first pipeline to burst contained gasoline, the second contained diesel fuel. Two more pipelines operated by by Texaco (natural gas) and Valero (crude oil) ruptured on October 20. Velero's pipeline had been shut down in August, and some unpressurized crude had remained in the pipeline [@NTSB1996 p. 8].
+
 ## The spill
+
+First, the spill only led to a release of oil into the river. Some of the spilled oil 
+
+The response forces decided to use a [[fire boom]] to remove some of the unburned oil [@NTSB1996 p. 14] that had gathered in a flood channel. The plan had the approval of the FOSC and TGLO, [@NTSB1996 pp. 14f]. But the fire was eventually started without approval, because of a miscommunication [@NTSB1996 p. 17]. The fire spread to the main river and burned for approximately 28 hours. Initially, flames stood at 100 feet high, before receding to 60 feet [@NTSB1996 p. 17].
+
+Because the 
 
 ## Cause analysis
 
