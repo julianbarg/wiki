@@ -40,10 +40,13 @@ Boring deeper river crossings:
 * [[American Gas Association]] - relevant for population level learning
 * American Petroleum Institute [[API]]
 * [[FEMA]]
+* [[FWS]]
 
 ## Significance
 
 Drawing attention away from third-party [[Editing San Bernadino train disaster]] and corrosion damage toward "potential catastropic damages to pipelines due to natural disasters" [@NTSB1996 p. 37].
+
+An example of population level learning. Individually, pipeline operators do not know how to handle operating pipelines in flood plains. The [[API]] put forth some temporary standards that showed that they were aware of the issue of flooding, but unfortunately this know-how got "lost" (actually abandoned/non-renewed). Now, the NTSB puts forth that this knowledge should be anchored at the population level. This is further the first case where I can prove a very different message from the legal system: the DOJ foresaw that the spill would end in an "Act of God" judgement and largely let the corporate perpetrators of the hook [@FWS2007 p. 2].
 
 ### Learning
 
@@ -74,9 +77,11 @@ Drawing attention away from third-party [[Editing San Bernadino train disaster]]
 ## My reactions
 * I can't wrap my head around why engineers have not figured out at least until 2011 (see [[documets|Houston '94#Other]]), that river beds can exert great forces on pipelines, even if pipelines are burried a couple of feet deep.
 * When all pipelines in Houston are shutoff, this could severely affect the oil price. Might operators be willing to take a rest in order to sell for higher prices?
+* "No effective standards or guidance currently exist for designing pipelines that cross flood plains or river crossings" [@NTSB1996 p. 40]. Is that really the standard we hold ourselves to? Whether standards exist or not?
 
 ## Various
 * "Although pipeline transportation is one of the safest means for transporting petroleum, it poses great risk potential to the environment because of the large volumes of hazardous liquids that can be released when a rupture occurs. In a pipeline transportation situation, there is a greater likelihood of releasing petroleum into environmentally sensitive areas" [@NTSB1996 p. 1].
+* Criticises RSPA again [@NTSB1996 p. 42].
 
 ## Data
 
@@ -140,6 +145,11 @@ In-situ burning:
 
 > Damages --Thirty-seven of the 69 pipelines that cross the flood plain were either ruptured or undermined during the flood; 13 at river crossings only, 18 at locations within the flood plain not at crossings, and 6 in both locations. Eight of the 69 pipelines ruptured during the flood; 4 at river crossings and 4 in the flood plain. Only 12 of the 25 operators that provided information on the design bases of their pipelines indicated that they had performed some type of study of the river crossing to augment their design decisions. (Survey responses did not include details on the types of studies performed.) The other 13 operators cited industry codes, Federal regulations, or both as the bases of their pipeline designs. No operator indicated that it had used the American Petroleum Institute’s Bulletin 1105, Bulletin on Construction for Oil and Products Pipe Lines (first edition, 1955) or performed a comprehensive study of the flood plain. Spill [@NTSB1996 p. 25]
 
+### Lack of response
+
+> On learning of the failures, a few operators elected to shut operations, down but left products under pressure and valves open in the shutdown pipelines. Some shut down operations, closed valves, and purged the pipelines of products. One operator continued operations for a time, but posted employees at valves near the river crossing to be prepared to close them should a
+rupture occur. Other operators continued operations as usual, though they were aware of several failures of pipelines across the San Jacinto flood plain. The Safety Board concludes that most operators of pipelines crossing the San Jacinto River flood plain continued operations without evaluating the capability of the pipeline design to withstand the threats presented by the flood [@NTSB1996 p. 41].
+
 ## Notes
 * "For those stations where the 100- year-flood was exceeded, the flood was from 1.1 to 2.9 times the 100-year-flood" [@NTSB1996 p. 2].
 * The floods began on October 14 [@NTSB1996 p. 2]. The first pipeline spill did not occur until October 19.
@@ -157,3 +167,8 @@ In-situ burning:
 * Operators response plan starting point is occurance and awareness of a spill, rather than threat of a spill [@NTSB1996 p. 33].
 * In 1969, industry showed an awareness of rivers changing their beds [@NTSB1996 p. 33].
 * RSPA promoting new rules on leak detection [@NTSB1996 p. 36].
+* Pipeline design of most operators showed no consideration for flooding [@NTSB1996 p. 39].
+* A document by the [[API]] existed that addressed the root cause (API Bulleting 1105), but it was abandoned.
+* Plans were inadequate [@NTSB1996 p. 41], yet operators would have been able to use an act of god defense [FWS2007 p. 2]?!
+* Colonial messed up by not closing their pipeline [@NTSB1996 p. 42].
+* Suggests technological solution: "operational monitoring and [...] remote-or automatic-operated valves" [@NTSB1996 p. 42].
