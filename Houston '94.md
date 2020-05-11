@@ -78,6 +78,8 @@ An example of population level learning. Individually, pipeline operators do not
 * I can't wrap my head around why engineers have not figured out at least until 2011 (see [[documets|Houston '94#Other]]), that river beds can exert great forces on pipelines, even if pipelines are burried a couple of feet deep.
 * When all pipelines in Houston are shutoff, this could severely affect the oil price. Might operators be willing to take a rest in order to sell for higher prices?
 * "No effective standards or guidance currently exist for designing pipelines that cross flood plains or river crossings" [@NTSB1996 p. 40]. Is that really the standard we hold ourselves to? Whether standards exist or not?
+* NTSB document largely comments on response. Because its easier to comment on that? Because its easier to collect data and talk about events?
+* When in doubt, the NTSB seems to blame the DOT's RSPA rather than the operators [@NTSB1996 p. 47].
 
 ## Various
 * "Although pipeline transportation is one of the safest means for transporting petroleum, it poses great risk potential to the environment because of the large volumes of hazardous liquids that can be released when a rupture occurs. In a pipeline transportation situation, there is a greater likelihood of releasing petroleum into environmentally sensitive areas" [@NTSB1996 p. 1].
@@ -172,3 +174,4 @@ rupture occur. Other operators continued operations as usual, though they were a
 * Plans were inadequate [@NTSB1996 p. 41], yet operators would have been able to use an act of god defense [FWS2007 p. 2]?!
 * Colonial messed up by not closing their pipeline [@NTSB1996 p. 42].
 * Suggests technological solution: "operational monitoring and [...] remote-or automatic-operated valves" [@NTSB1996 p. 42].
+* Critique of in-situ burning, but also support for the decision in general [@NTSB1996 pp. 43f].
