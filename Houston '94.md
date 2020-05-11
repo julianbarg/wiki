@@ -47,7 +47,7 @@ Back to [[Oil spills]].
 
 ## Significance
 
-Drawing attention away from third-party [[Editing San Bernadino train disaster]] and corrosion damage toward "potential catastropic damages to pipelines due to natural disasters" [@NTSB1996 p. 37].
+Drawing attention away from third-party [[Editing San Bernadino train disaster]] and corrosion damage toward "potential catastropic damages to pipelines due to natural disasters" [@NTSB1996 p. 37]. 
 
 Potentially an example of population level learning. Individually, pipeline operators do not know how to handle operating pipelines in flood plains. The [[API]] put forth some temporary standards that showed that they were aware of the issue of flooding, but unfortunately this know-how got "lost" (actually abandoned/"not renewed"). Now, the NTSB puts forth that this knowledge should be anchored at the population level. This is further the first case where I can prove a very different message from the legal system: the DOJ foresaw that the spill would end in an "Act of God" judgement and largely let the corporate perpetrators of the hook, see also [[documents|Houson '94#Regarding-potential-lawsuit]] [@FWS2007 p. 2].
 
@@ -154,8 +154,6 @@ Because the
 #### In-situ burning
 
 > The resulting fire [which was ignited on October 23, 6:03 PM], sent flames about 100 feet into the air. The smoke plume rose about 1,500 feet vertically and, when it came into contact with an inversion layer, the smoke traveled horizontally. [...] By 9:00 p.m. on October 23, the height of the flames from the in-situ fire had reduced to 60 feet. By 6:00 a.m. the next day, the fire was moving south, away from the new channel. The Coast Guard monitored the progress of the fire, and the EPA assessed the airborne pollution threat until the fire self-extinguished about 10:00 p.m. on October 24. [@NTSB1996 p. 17].
-
-[[resources/NTSB_1996_explosions.png|frame, width = 350px, alt=Description of the explosions p. 6]]
 
 ### Erroneous start of in-situ burning
 
