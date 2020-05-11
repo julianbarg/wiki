@@ -85,38 +85,38 @@ Drawing attention away from third-party [[Editing San Bernadino train disaster]]
 ### Quantitative data
 
 |**General information**
-|----------------|------------------:-----------------:
-|Incident ID:    |19940236          |19940237    
-|Operator name:  |Colonial Pipeline |Colonial Pipeline            
-|Date:           |1994-10-19        |1994-10-19        
-|State:          |TX                |TX
-|Lat/Long:       |NA/NA             |NA/NA
-|Commodity:      |rpp               |rpp
+|----------------|-----------------:----------------:|---:
+|Incident ID:    |19940236         |19940237         |19940242   
+|Operator name:  |Colonial Pipeline|Colonial Pipeline|Exxon Pipeline                        
+|Date:           |1994-10-19       |1994-10-19       |1994-10-18         
+|State:          |TX               |TX               |TX
+|Lat/Long:       |NA/NA            |NA/NA            |NA/NA
+|Commodity:      |rpp              |rpp              |NOT GIVEN
 |**Outcomes**
-|Spill volume:   |20000             |10000        
-|Recovered:      |0                 |0    
-|Net loss:       |20000             |10000        
-|Cost:           |1e+07             |0        
-|Cost (USD 1984):|7489343.56351236  |0                    
-|Injuries:       |925               |926        
-|Fatalities:     |0                 |0    
+|Spill volume:   |20000             |10000           |492
+|Recovered:      |0                 |0               |0
+|Net loss:       |20000             |10000           |492
+|Cost:           |1e+07             |0               |610000
+|Cost (USD 1984):|7489343.56351236  |0               |456849.957374254             
+|Injuries:       |925               |926             |0
+|Fatalities:     |0                 |0               |0
 |**Causes**
-|Cause (self selected):              |OUTSIDE FORCE DAMAGE |OUTSIDE FORCE DAMAGE                
-|Cause (coded by PHMSA):             |natural force damage |natural force damage                
-|Subcause (coded by PHMSA):          |heavy rains/floods   |heavy rains/floods                
-|System that cause the incident:     |Line Pipe            |Line Pipe    
-|Part that caused the incident:      |Pipe                 |Pipe
-|Year that the part was installed:   |1979                 |1962
-|Year that the part was manufactured:|NA                   |NA
+|Cause (self selected):              |OUTSIDE FORCE DAMAGE |OUTSIDE FORCE DAMAGE|FAILED PIPE    
+|Cause (coded by PHMSA):             |natural force damage |natural force damage|material/weld/equip failure    
+|Subcause (coded by PHMSA):          |heavy rains/floods   |heavy rains/floods  |unspecified pipe body or seam
+|System that cause the incident:     |Line Pipe            |Line Pipe           |Line Pipe
+|Part that caused the incident:      |Pipe                 |Pipe                |Pipe
+|Year that the part was installed:   |1979                 |1962                |1937
+|Year that the part was manufactured:|NA                   |NA                  |NA
 |**Other impacts**
-|Water contamination:                           |NA   |NA      
-|Did a fire occur?                              |TRUE |TRUE          
-|Did an explosion occur?                        |FALSE|FALSE          
-|Need for surface water remediation anticipated?|NA   |NA      
-|Need for groundwater remediation anticipated?  |NA   |NA      
-|Need for soil remediation anticipated?         |NA   |NA      
-|Need for vegetation remediation anticipated?   |NA   |NA      
-|Need for wildlife remediation anticipated?     |NA   |NA      
+|Water contamination:                           |NA   |NA   |NA   
+|Did a fire occur?                              |TRUE |TRUE |FALSE         
+|Did an explosion occur?                        |FALSE|FALSE|FALSE          
+|Need for surface water remediation anticipated?|NA   |NA   |NA   
+|Need for groundwater remediation anticipated?  |NA   |NA   |NA   
+|Need for soil remediation anticipated?         |NA   |NA   |NA   
+|Need for vegetation remediation anticipated?   |NA   |NA   |NA   
+|Need for wildlife remediation anticipated?     |NA   |NA   |NA   
 
 ## Resources
 
