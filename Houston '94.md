@@ -149,6 +149,22 @@ Also:
 
 ### PHMSA narrative
 
+#### Exxon
+
+> San jacinto river was above flood stage and washed out around the crossing, resulting in pipe failure.
+
+#### Colonial Pipeline (19940236)
+
+> On thursday, october 20, 1994, a pressure drop and significant rate increaseon line 01, were noted at houston station by the local station operator and by the line controller in atlanta,ga at approximately 0831 cdt. The line was immediately shut down and company personnel began searching for a possible leak. Personnel were also dispatched to close block valves between houston station and shiloh station. At 0937 cdt gasoline was found in a new channel created by flood waters of the san jacinto river, approximately 12.5 miles downstream of houston station. The pipeline was severed near the west bank of the new channel. Shortly after the discovery of the location of the leak, the gasoline fumes ignited near the river road area of channelview, tx. Telephonic notice was made to the nrc at 0924 cdt on 10/20/1994, report no. 266190. It is estimated that 20,000 barrels of gasoline escaped from the severed pipeline, all of which was consumed by the fire or lost to evaporation. While at the present time the estimated total property damages are undetermined,the combined costs for the line 01, line 02 and the texaco crude oil line breaks are expected to exceed $10,000,000. This incident is under investigation by the ntsb. The number of person (1851) injuried is a combined total with line 02 break and texaco crude oil line see report #940237 for line 2 information.
+
+#### Colonial Pipeline (19940237)
+
+> On thursday morning, october 20, 1994, the houston to shiloh stationsegment of line 02 was down due to normal scheduling. After the failure ofline 01, the shutdown of this segment of line 02  was continued and theblock valve at shiloh station was closed as a precautionary measure.shortly after 1400 cdt, the line controller noted that a sharp pressuredrop in this segment had occurred, suggesting that a leak existed.telephonic calls were made to the nrc at 1455 cdt, report no. 266278 and at1808 cdt, report no. 266312. After the flood waters of the san jacintoriver subsided, it was found that the 36-inch, line 02 had also beensevered in the new channel adjacent to the break of the 40-inch, line 01,which occurred earlier on 10/20/94 at 0831 cdt. It is estimated that 10,000barrels of low sulfur diesel oil escaped from the severed line, much ofwhich was consumed in the fire that started after the line 01 break. Anyrecovered product would have been mixed with the crude oil from the texacobreak and hence cannot be separably measured. While at the present time theestimated total property damages are undetermined, the combined costs forthe line 01, line 02, and the texaco crude oil line breaks are expected toexceed $10,000,000. This incident is under investigation by the ntsb. Seereport #940236 for line 1 information  b: #injured in 1851, a combined totalwith line 01 break and texaco crude oil line.
+
+#### Texaco
+
+> The texaco pipeline inc. (Tpli) crude oil pipeline located in harris county near the san jacinto river was ruptured during severe flooding at a point 1550' west of the west bank of the san jacinto river (mile post 12.07). The break was discovered on the above indicated date and time when tpli personnel observed what they believed to be crude oil on the flood water near the tpli 20\"pipeline. This was verified on saturday, october 22nd when the flood water receded sufficiently to allow the severed 20\" pipe to be observed. At the timeof the pipeline break the pipeline was shut-in with block valves closed on either side of the river (and break) at mile post 8.27 and mile post 36.7. At this time the pipeline has not been repaired and therefore remains out of service across the san jacinto river. Part f- estimated total texaco property damage (total damaes are unknown) $4,489,020 (estimate) damage to pipeline -$900,000 (est.) Lost crude oil @16.961/bbl. 90,739. 100% texaco cost (cleanup) 3,498,281(est.) Total- $4,489,020. *Approx. 2900 bbls. Of decanted hydrocarbons recovered to date.
+
 ### Quantitative data
 
 |**General information**
