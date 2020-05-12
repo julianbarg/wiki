@@ -19,7 +19,7 @@ Back to [[Oil spills]].
 
 ### Relevant lawes and regulations
 
-(specifically § 192.613 for natural gas and )
+* [[https://www.ecfr.gov/cgi-bin/retrieveECFR?n=pt49.3.192]] (specifically § 192.613 for natural gas and § 195.401 for hazardous liquid)
 
 ### Videos
 * [[https://abc13.com/river-fire-flood-san-jacinto-on/1563118/]]
