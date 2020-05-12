@@ -18,6 +18,7 @@
 ## Knowledge-based approach
 * [[Argote & Epple 1990]]
 * [[Argote 2013.md#2-organizational-learning-a-theoretical-framework]]
+* [[Argote & Miron-Spektor 2011]]
 
 ## Rare events
 * [[March, Sproull & Tamuz 1991]]
@@ -49,6 +50,16 @@
 
 ## Aspiration levels
 * [[Baum & Dahlin 2007]]
+* [[Greve 1998]]
+* [[Cyert and March 1963]]
+
+## Organizational misconduct
+
+Not learning but still very relevant:
+
+* [[Vaughan 1999]]
+* [[Oliver 1991]]
+* [[Greve et al 2010]]
 
 ## Optional
 
