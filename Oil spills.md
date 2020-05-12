@@ -10,7 +10,7 @@
 ## Incidents
 * [[Seminole '92]]
 * [[Houston '94]]
-* [[San Bernadino train disaster]]
+* [[Calnev '94]]
 * [[Olympic Pipe Line '99]]
 
 ## To do
