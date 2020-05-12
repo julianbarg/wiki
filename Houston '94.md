@@ -51,6 +51,8 @@ Drawing attention away from third-party [[Editing San Bernadino train disaster]]
 
 Potentially an example of population level learning. Individually, pipeline operators do not know how to handle operating pipelines in flood plains. The [[API]] put forth some temporary standards that showed that they were aware of the issue of flooding, but unfortunately this know-how got "lost" (actually abandoned/"not renewed"). Now, the NTSB puts forth that this knowledge should be anchored at the population level. This is further the first case where I can prove a very different message from the legal system: the DOJ foresaw that the spill would end in an "Act of God" judgement and largely let the corporate perpetrators of the hook, see also [[documents|Houson '94#Regarding-potential-lawsuit]] [@FWS2007 p. 2].
 
+The NTSB report also largely focuses on the flawed response, which led to the smoke injuries of so many people (over 500).
+
 ### Learning
 
 #### Mechanisms
@@ -85,12 +87,26 @@ Because at the time of the accidential start of the controlled fire, some reside
 ### What could have been done
 
 #### To prevent the spill
+* Install the pipeline deeper below the river bed in the first place
 
 #### To reduce the severity of the spill
 
+In the case of the Colonial pipeline that was still operating:
+* Shutting off the pipeline when the flooding started
+
+In the case of the other spilled pipelines:
+* Purging the pipelines ahead of time
+
+Regarding the deployment of the fire boom that led to the high number of smoke injuries:
+* Better communication between responders
+* Reduction of max workhours per day per responder in emergency situation (to reduce fatigue and make errors such as the accidential start of the fire less likely)
+
 ### Faulty parts/flawed procedures
+* Pipelines not properly installed below river bed
+* No procedures in place for flooding of the river, such as shut off and purging of the pipelines
 
 ## Aftermath/learning
+
 
 ## My reactions
 * I can't wrap my head around why engineers have not figured out at least until 2011 (see [[documets|Houston '94#Other]]), that river beds can exert great forces on pipelines, even if pipelines are burried a couple of feet deep.
