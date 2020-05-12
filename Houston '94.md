@@ -23,6 +23,12 @@ Back to [[Oil spills]].
 ### Other
 * [[https://en.wikipedia.org/wiki/Hurricane_Rosa_(1994)]]
 
+#### Oil prices rising
+
+As a reaction to the spill. Futures to be more precise
+
+* [[https://www.nytimes.com./1994/10/21/business/futures-markets-rupture-of-texas-pipelines-sends-gasoline-prices-up.html]]
+
 #### Regarding potential lawsuits
 * [[https://www.fws.gov/southwest/es/Docs/NRDAR_SiteInformation/Texas/SanJac.pdf]]
 
@@ -30,8 +36,21 @@ Back to [[Oil spills]].
 * [[https://ascelibrary.org/doi/pdf/10.1061/40800%28180%2935]]
 
 #### Boring deeper river crossings
+
+##### Colonial pipeline
+* [[https://www.joc.com/colonial-pipeline-begin-building-river-crossings_19950725.html]]
+
+##### Other operators
 * [[https://www.emergency-response-planning.com/blog/bid/40891/Are-the-Floods-of-2011-affecting-Pipeline-Safety]]
 * [[https://billingsgazette.com/news/local/article_c788d5f2-6b76-5143-8769-0e8bed0fc055.html]]
+
+#### Requirements for continuous observation
+
+For natural gas pipelines:
+* [[https://www.govinfo.gov/content/pkg/CFR-2007-title49-vol3/pdf/CFR-2007-title49-vol3-sec192-613.pdf]]
+
+For hazardous liquid pipelines:
+* [[https://www.govinfo.gov/content/pkg/CFR-2009-title49-vol3/pdf/CFR-2009-title49-vol3-sec195-401.pdf]]
 
 ## Actors
 * [[TGLO]]
