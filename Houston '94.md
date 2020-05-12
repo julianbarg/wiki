@@ -15,6 +15,7 @@ Back to [[Oil spills]].
 
 ### News reports
 * [[https://www.houstonchronicle.com/news/houston-texas/houston/article/Houston-no-stranger-to-chemical-plant-fires-13697557.php#photo-17090239]]
+* [[https://www.nytimes.com./1994/10/22/us/texans-striving-to-contain-pipeline-spills.html]]
 
 ### Videos
 * [[https://abc13.com/river-fire-flood-san-jacinto-on/1563118/]]
@@ -106,7 +107,6 @@ Regarding the deployment of the fire boom that led to the high number of smoke i
 * No procedures in place for flooding of the river, such as shut off and purging of the pipelines
 
 ## Aftermath/learning
-
 
 ## My reactions
 * I can't wrap my head around why engineers have not figured out at least until 2011 (see [[documets|Houston '94#Other]]), that river beds can exert great forces on pipelines, even if pipelines are burried a couple of feet deep.
