@@ -45,7 +45,10 @@ As a reaction to the spill. Futures to be more precise
 * [[https://www.joc.com/colonial-pipeline-begin-building-river-crossings_19950725.html]]
 
 ##### Other operators
+
+With reference to applicable laws:
 * [[https://www.emergency-response-planning.com/blog/bid/40891/Are-the-Floods-of-2011-affecting-Pipeline-Safety]]
+
 * [[https://billingsgazette.com/news/local/article_c788d5f2-6b76-5143-8769-0e8bed0fc055.html]]
 
 #### Requirements for continuous observation
