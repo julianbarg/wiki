@@ -17,6 +17,10 @@ Back to [[Oil spills]].
 * [[https://www.houstonchronicle.com/news/houston-texas/houston/article/Houston-no-stranger-to-chemical-plant-fires-13697557.php#photo-17090239]]
 * [[https://www.nytimes.com./1994/10/22/us/texans-striving-to-contain-pipeline-spills.html]]
 
+### Relevant lawes and regulations
+
+(specifically § 192.613 for natural gas and )
+
 ### Videos
 * [[https://abc13.com/river-fire-flood-san-jacinto-on/1563118/]]
 
