@@ -82,7 +82,8 @@ Regarding the deployment of the fire boom that led to the high number of smoke i
 ## Aftermath/learning
 
 * Changes should be tracked in laws and regulations, see [[documents|Houston '94#relevant-laws-and-regulations]].
-* 
+* Colonial Pipelines reburied deeper right away, using directional drilling, see [[documents|Houston '94#colonial-pipeline]] But other operators were much slower, with reburying going on around the year 2015, see [[documents|Hoston '94#other-operators]].
+* The operators got away largely without fines, see [[documents|Houston '94#regarding-potential-lawsuits]]. In a similar case (with less dramatic outcomes) in 2011, Exxon received a $1 mio penalty, see [[documents|Houston 94#other-operators]].
 
 ## My reactions
 * I can't wrap my head around why engineers have not figured out at least until 2011 (see [[documets|Houston '94#Other]]), that river beds can exert great forces on pipelines, even if pipelines are burried a couple of feet deep.
@@ -132,6 +133,9 @@ As a reaction to the spill. Futures to be more precise
 * [[https://www.joc.com/colonial-pipeline-begin-building-river-crossings_19950725.html]]
 
 ##### Other operators
+
+Situation in 2015
+* [[https://www.wyofile.com/rivers-of-oil-standards-for-burying-oil-pipelines-prove-insufficient]]
 
 With reference to applicable laws:
 
