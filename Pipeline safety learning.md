@@ -48,6 +48,7 @@
 * [[Miner & Haunschild 1995]]
 * [[Miner & Anderson 1999b]]
 * [[Madsen & Desai 2018]]
+* [[Abrahamson & Fairchild 1999]]
 
 ## Aspiration levels
 * [[Baum & Dahlin 2007]]
