@@ -8,57 +8,6 @@ Back to [[Oil spills]].
 
 [[https://s.hdnux.com/photos/01/01/14/32/17090239/3/940x0.jpg|frame, alt=Larger view, width=450px]][[https://www.houstonchronicle.com/news/houston-texas/houston/article/Houston-no-stranger-to-chemical-plant-fires-13697557.php#photo-17090239]]
 
-## Documents
-
-### NTSB report
-* [[http://pstrust.org/docs/ntsb_doc24.pdf]]
-
-### News reports
-* [[https://www.houstonchronicle.com/news/houston-texas/houston/article/Houston-no-stranger-to-chemical-plant-fires-13697557.php#photo-17090239]]
-* [[https://www.nytimes.com./1994/10/22/us/texans-striving-to-contain-pipeline-spills.html]]
-
-### Relevant lawes and regulations
-
-* [[https://www.ecfr.gov/cgi-bin/retrieveECFR?n=pt49.3.192]] (specifically § 192.613 for natural gas and § 195.401 for hazardous liquid)
-
-### Videos
-* [[https://abc13.com/river-fire-flood-san-jacinto-on/1563118/]]
-
-### Other
-* [[https://en.wikipedia.org/wiki/Hurricane_Rosa_(1994)]]
-
-#### Oil prices rising
-
-As a reaction to the spill. Futures to be more precise
-
-* [[https://www.nytimes.com./1994/10/21/business/futures-markets-rupture-of-texas-pipelines-sends-gasoline-prices-up.html]]
-
-#### Regarding potential lawsuits
-* [[https://www.fws.gov/southwest/es/Docs/NRDAR_SiteInformation/Texas/SanJac.pdf]]
-
-#### Comment by professional association
-* [[https://ascelibrary.org/doi/pdf/10.1061/40800%28180%2935]]
-
-#### Boring deeper river crossings
-
-##### Colonial pipeline
-* [[https://www.joc.com/colonial-pipeline-begin-building-river-crossings_19950725.html]]
-
-##### Other operators
-
-With reference to applicable laws:
-* [[https://www.emergency-response-planning.com/blog/bid/40891/Are-the-Floods-of-2011-affecting-Pipeline-Safety]]
-
-* [[https://billingsgazette.com/news/local/article_c788d5f2-6b76-5143-8769-0e8bed0fc055.html]]
-
-#### Requirements for continuous observation
-
-For natural gas pipelines:
-* [[https://www.govinfo.gov/content/pkg/CFR-2007-title49-vol3/pdf/CFR-2007-title49-vol3-sec192-613.pdf]]
-
-For hazardous liquid pipelines:
-* [[https://www.govinfo.gov/content/pkg/CFR-2009-title49-vol3/pdf/CFR-2009-title49-vol3-sec195-401.pdf]]
-
 ## Actors
 * [[TGLO]]
 * EPA [[OSC]]
@@ -134,6 +83,8 @@ Regarding the deployment of the fire boom that led to the high number of smoke i
 
 ## Aftermath/learning
 
+* Changes should be tracked in laws and regulations, see [[documents|Houston '94#relevant-laws-and-regulations]].
+
 ## My reactions
 * I can't wrap my head around why engineers have not figured out at least until 2011 (see [[documets|Houston '94#Other]]), that river beds can exert great forces on pipelines, even if pipelines are burried a couple of feet deep.
 * When all pipelines in Houston are shutoff, this could severely affect the oil price. Might operators be willing to take a rest in order to sell for higher prices?
@@ -144,6 +95,52 @@ Regarding the deployment of the fire boom that led to the high number of smoke i
 ## Various
 * "Although pipeline transportation is one of the safest means for transporting petroleum, it poses great risk potential to the environment because of the large volumes of hazardous liquids that can be released when a rupture occurs. In a pipeline transportation situation, there is a greater likelihood of releasing petroleum into environmentally sensitive areas" [@NTSB1996 p. 1].
 * Criticises RSPA again [@NTSB1996 p. 42].
+
+## Documents
+
+### NTSB report
+* [[http://pstrust.org/docs/ntsb_doc24.pdf]]
+
+### News reports
+* [[https://www.houstonchronicle.com/news/houston-texas/houston/article/Houston-no-stranger-to-chemical-plant-fires-13697557.php#photo-17090239]]
+* [[https://www.nytimes.com./1994/10/22/us/texans-striving-to-contain-pipeline-spills.html]]
+
+### Relevant laws and regulations
+
+* [[https://www.ecfr.gov/cgi-bin/retrieveECFR?n=pt49.3.192]] (specifically § 192.613 for natural gas and § 195.401 for hazardous liquid)
+
+### Videos
+* [[https://abc13.com/river-fire-flood-san-jacinto-on/1563118/]]
+
+### Other
+* [[https://en.wikipedia.org/wiki/Hurricane_Rosa_(1994)]]
+
+#### Oil prices rising
+
+As a reaction to the spill. Futures to be more precise
+
+* [[https://www.nytimes.com./1994/10/21/business/futures-markets-rupture-of-texas-pipelines-sends-gasoline-prices-up.html]]
+
+#### Regarding potential lawsuits
+* [[https://www.fws.gov/southwest/es/Docs/NRDAR_SiteInformation/Texas/SanJac.pdf]]
+
+#### Comment by professional association
+* [[https://ascelibrary.org/doi/pdf/10.1061/40800%28180%2935]]
+
+#### Boring deeper river crossings
+
+##### Colonial pipeline
+* [[https://www.joc.com/colonial-pipeline-begin-building-river-crossings_19950725.html]]
+
+##### Other operators
+
+With reference to applicable laws:
+
+* [[https://www.emergency-response-planning.com/blog/bid/40891/Are-the-Floods-of-2011-affecting-Pipeline-Safety]]
+
+Also:
+
+* [[https://billingsgazette.com/news/local/article_c788d5f2-6b76-5143-8769-0e8bed0fc055.html]]
 
 ## Data
 
