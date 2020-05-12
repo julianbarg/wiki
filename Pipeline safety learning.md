@@ -72,6 +72,9 @@ Not learning but still very relevant:
 ### Modern learning curve works
 * [[Arthur & Huntley 2005]]
 
+### Various
+* [[Abrahamson 1996]]
+
 ## Notes
 
 \*: Duplicate (not in its main category)
