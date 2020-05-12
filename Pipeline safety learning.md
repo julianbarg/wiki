@@ -35,6 +35,7 @@
 * [[Baum & Dahlin 2007]]*
 
 ## Near-Misses
+* [[Carroll 1998]]
 * [[Dillon & Tinsley 2008]]
 
 ## Near-Failures
