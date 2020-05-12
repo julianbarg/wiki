@@ -53,6 +53,10 @@
 * [[Greve 1998]]
 * [[Cyert and March 1963]]
 
+## Learning and power
+* [[Roome & Wijen 2006]]
+* [[Kassinis & Vafeas 2006]]
+
 ## Organizational misconduct
 
 Not learning but still very relevant:
