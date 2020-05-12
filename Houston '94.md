@@ -31,7 +31,7 @@ Drawing attention away from third-party damage ([[San Bernadino train disaster]]
 
 Potentially an example of population level learning. Individually, pipeline operators do not know how to handle operating pipelines in flood plains. The [[API]] put forth some temporary standards that showed that they were aware of the issue of flooding, but unfortunately this know-how got "lost" (actually abandoned/"not renewed"). Now, the NTSB puts forth that this knowledge should be anchored at the population level. This is further the first case where I can prove a very different message from the legal system: the DOJ foresaw that the spill would end in an "Act of God" judgement and largely let the corporate perpetrators of the hook, see also [[documents|Houson '94#Regarding-potential-lawsuit]] [@FWS2007 p. 2].
 
-The NTSB report also largely focuses on the flawed response, which led to the smoke injuries of so many people (over 500).
+The NTSB report also largely focuses on the flawed response, which led to the smoke injuries of so many people (over 500). Another comment in wyofile (see [[Houston '94#Regarding-PHMSA-research-and-action]]) lays out the inaction until 2015 by the PHMSA (which is part of the DOT and thus connected to the [[RSPA]]).
 
 ## Learning
 
@@ -144,6 +144,9 @@ With reference to applicable laws:
 Also:
 
 * [[https://billingsgazette.com/news/local/article_c788d5f2-6b76-5143-8769-0e8bed0fc055.html]]
+
+#### Regarding PHMSA research and action
+* [[https://www.wyofile.com/rivers-of-oil-standards-for-burying-oil-pipelines-prove-insufficient]]
 
 ## Data
 
