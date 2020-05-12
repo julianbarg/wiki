@@ -86,7 +86,7 @@ The NTSB report also largely focuses on the flawed response, which led to the sm
 * Revelation that rivers are far more unpredictable than previously assumed. Could lead operators to bury their pipelines deeper, and to proactively shutdown and purge their pipelines.
 * On the population level, the [[API]] in conjunction with the [[AOPL]] and [[INGAA]] might develop the standards that codify the knowledge gained from this spill.
 * Less distance between valves at river crossings, especially where the rivers are threatened by floodings. Possibly installation of remote- or automatic-operated valves.
-* [[RSPA]]] issuing a requirement of rapid detection of spills, too. Supposedly through equipment that can remotely detect leaks.
+* [[RSPA]] issuing a requirement of rapid detection of spills, too. Supposedly through equipment that can remotely detect leaks.
 
 #### Outcomes
 
