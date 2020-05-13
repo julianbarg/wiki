@@ -105,5 +105,5 @@ According to the PHMSA dataset, the line had been tested for a pressure of 1,620
 ## Resources
 
 ## Notes
-* Because the 
+* Is it that because the computers for the SCADA system were down, the controller did not notice the drop in pressure?
 * The leak detection software detects a leak, but the controller started another pump. The pump is eventually stopped after an employee reports gasoline odors [@NTSB2002 p. 7].
