@@ -4,27 +4,17 @@ Back to \[\[Oil spills\]\].
 
 \## Incident image
 
-\## Documents
-
-\### NTSB report
-
-\### News reports
-
-\### Videos
-
 \## Actors
+
+\## Summary
 
 \## Significance
 
-\### Learning
+\## Learning
 
-\#### Mechanisms
+\### Mechanisms
 
-\#### Outcomes
-
-\### Other
-
-\## Summary
+\### Outcomes
 
 \## The spill
 
@@ -43,6 +33,18 @@ Back to \[\[Oil spills\]\].
 \## My reactions
 
 \## Various
+
+\## Documents
+
+\### NTSB report
+
+\### News reports
+
+\### Relevant laws and regulations
+
+\### Videos
+
+\### Other
 
 \## Data
 
