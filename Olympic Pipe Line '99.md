@@ -1,20 +1,20 @@
 [[_TOC_]]
 
+Back to [[Oil spills]].
+
 ## Incident image
 
-## Document links
+## Actors
+
+## Summary
 
 ## Significance
 
-### Learning 
+## Learning
 
-#### Mechanisms
+### Mechanisms
 
-#### Outcomes
-
-### Other
-
-## Summary
+### Outcomes
 
 ## The spill
 
@@ -33,6 +33,18 @@
 ## My reactions
 
 ## Various
+
+## Documents
+
+### NTSB report
+
+### News reports
+
+### Relevant laws and regulations
+
+### Videos
+
+### Other
 
 ## Data
 
