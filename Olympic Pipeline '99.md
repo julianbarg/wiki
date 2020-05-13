@@ -110,3 +110,4 @@ According to the PHMSA dataset, the line had been tested for a pressure of 1,620
 * Is it that because the computers for the SCADA system were down, the controller did not notice the drop in pressure?
 * The leak detection software detects a leak, but the controller started another pump. The pump is eventually stopped after an employee reports gasoline odors [@NTSB2002 p. 7].
 * The spill most likely began at 3:28 PM [@NTSB2002 p. 5]. At 4:11PM some operations were resumed [@NTSB2002 p. 7]. At about 4:30PM an emergency response began [@NTSB2002 p. 9].
+* 1,890 barrels of the total of 5,638 barrels spilled were lost after the line was restarted.
