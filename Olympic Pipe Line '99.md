@@ -7,6 +7,7 @@ Back to [[Oil spills]].
 [[https://www.bellinghamherald.com/latest-news/ju0o3y/picture21815628/alternates/LANDSCAPE_1140/Pipeline_smoke.source.prod_affiliate.39.jpg|frame, alt=Incident as seen from the neighborhood, size=600px]]
 
 ## Actors
+* [[Olympic Pipe Line]]
 
 ## Summary
 
