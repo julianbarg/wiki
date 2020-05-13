@@ -33,6 +33,7 @@ Back to [[Oil spills]].
 ## Aftermath/learning
 
 ## My reactions
+* Another incident that the PHMSA did not update on in its database. I can see why the [[commentator|Houston '94##regarding-phmsa-research-and-action]] on [[Houston '94]] as well as the NTSB in general got fed up with the DOT. Assumin that the PHMSA researchers rely on the PHMSA database, it would be fair to assume that they would have a bias toward drawing on data of spills where the cause of the incident is immediately clear and reported in the PHMSA incident report. Fortunately, PHMSA changed their policy starting in 2002 and began to update the database later.
 
 ## Various
 
@@ -54,7 +55,43 @@ Back to [[Oil spills]].
 
 ### PHMSA narrative
 
+> "Mainline 16\" pipline rupture.  Cause is being investigated by the ntsb and dot office of pipeline safety.  Initial examination of the pipe revealed a 28\" longintudinal spill and gouges and dents adjacent to the rupture area.  Details to be provided following the ntsb investigation.  Supplemental info:  mainline 16\" pipeline ruptured.  Initial examination of the failed pipe revealed at 28\" longitudinal split with gouges and dents adjacent to the rupture area.  The impact of this damage on the pipes failure, as well as all other potential causes including the functioning of surge relief equipment, is under current investigation by the ntsb and the dot office of pipeline safety."
+
 ### Quantitative data
+
+|**General information**
+|----------------|---:
+|Incident ID:    |19990107
+|Operator name:  |Olympic Pipe Line Company
+|Date:           |1999-06-09
+|State:          |WA
+|Lat/Long:       |NA/NA
+|Commodity:      |rpp
+|**Outcomes**
+|Spill volume:   |5475
+|Recovered:      |234
+|Net loss:       |5241
+|Cost:           |4.5e+07
+|Cost (USD 1984):|31034279.7330891
+|Injuries:       |8
+|Fatalities:     |3
+|**Causes**
+|Cause (self selected):              |OTHER
+|Cause (coded by PHMSA):             |all other causes
+|Subcause (coded by PHMSA):          |miscellaneous
+|System that cause the incident:     |Line Pipe
+|Part that caused the incident:      |Pipe
+|Year that the part was installed:   |1966
+|Year that the part was manufactured:|NA
+|**Other impacts**
+|Water contamination:                           |NA
+|Did a fire occur?                              |TRUE
+|Did an explosion occur?                        |FALSE
+|Need for surface water remediation anticipated?|NA
+|Need for groundwater remediation anticipated?  |NA
+|Need for soil remediation anticipated?         |NA
+|Need for vegetation remediation anticipated?   |NA
+|Need for wildlife remediation anticipated?     |NA
 
 ## Resources
 
