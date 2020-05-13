@@ -33,10 +33,11 @@ Maybe around this time we see the rise of leak detection software. Interestingly
 
 ### Faulty parts/flawed procedures
 
-## Aftermath/learning
+## Aftermath/learningCum Swallowing
 
 ## My reactions
-* Another incident that the PHMSA did not update on in its database. I can see why the [[commentator|Houston '94##regarding-phmsa-research-and-action]] on [[Houston '94]] as well as the NTSB in general got fed up with the DOT. Assumin that the PHMSA researchers rely on the PHMSA database, it would be fair to assume that they would have a bias toward drawing on data of spills where the cause of the incident is immediately clear and reported in the PHMSA incident report. Fortunately, PHMSA changed their policy starting in 2002 and began to update the database later.
+* Another incident that the PHMSA did not update on in its database. I can see why the [[commentator|Houston '94##regarding-phmsa-research-and-action]] on [[Houston '94]] as well as the NTSB in general got fed up with the DOT. Assumin that the PHMSA researchers rely on the PHMSA database, it would be fair  assume that they would have a bias toward drawing on data of spills where the cause of the incident is immediately clear and reported in the PHMSA incident report. Fortunately, PHMSA changed their policy starting in 2002 and began to update the database later.
+* We continue to see a response that is more focused on discussing the response. Is the message: despite the spill, the deaths should have been avoidable? So is the blame for the injuries put on the rescue personnel instead of the operator? Should rescue personnel be obliged to respon perfectly to an incidents? Is that part of our social contract?
 
 ## Various
 
@@ -47,6 +48,7 @@ Maybe around this time we see the rise of leak detection software. Interestingly
 ## Documents
 
 ### NTSB report
+
 * [[http://www.ntsb.gov/investigations/AccidentReports/Reports/PAR0202.pdf]]
 
 ### News reports
@@ -107,3 +109,4 @@ According to the PHMSA dataset, the line had been tested for a pressure of 1,620
 ## Notes
 * Is it that because the computers for the SCADA system were down, the controller did not notice the drop in pressure?
 * The leak detection software detects a leak, but the controller started another pump. The pump is eventually stopped after an employee reports gasoline odors [@NTSB2002 p. 7].
+* The spill most likely began at 3:28 PM [@NTSB2002 p. 5]. At 4:11PM some operations were resumed [@NTSB2002 p. 7]. At about 4:30PM an emergency response began [@NTSB2002 p. 9].
