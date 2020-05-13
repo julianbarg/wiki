@@ -40,7 +40,7 @@ Back to [[Oil spills]].
 
 *A story as old as time:
 
-> The system administrator said he noticed that the records now contained a typographical error that he said was not there when he created them. 
+> The system administrator said he noticed that the records now contained a typographical error that he said was not there when he created them. [@NTSB2002 p. 7]
 
 ## Documents
 
