@@ -4,9 +4,9 @@ Back to [[Oil spills]].
 
 ## Incident image
 
-[[https://www.bellinghamherald.com/latest-news/ju0o3y/picture21815628/alternates/LANDSCAPE_1140/Pipeline_smoke.source.prod_affiliate.39.jpg|frame, alt=Incident as seen from the neighborhood, size=600px]]
-
-## Actors
+[[https://www.bellinghamherald.com/latest-news/ju0o3y/picture21815628/alternates/LANDSCAPE_1140/Pipeline_smoke.source.prod_affiliate.39.jpg|frame, alt=Incident as seen from the neighborhood, size=600px]] 
+  
+## Actors 
 * [[Olympic Pipe Line]]
 
 ## Summary
@@ -26,23 +26,23 @@ Maybe around this time we see the rise of leak detection software. Interestingly
 ## Cause analysis
 
 ### What could have been done
-
+ 
 #### To prevent the spill
-
+       
 #### To reduce the severity of the spill
 
 ### Faulty parts/flawed procedures
 
 ## Aftermath/learningCum Swallowing
-
+ 
 ## My reactions
 * Another incident that the PHMSA did not update on in its database. I can see why the [[commentator|Houston '94##regarding-phmsa-research-and-action]] on [[Houston '94]] as well as the NTSB in general got fed up with the DOT. Assumin that the PHMSA researchers rely on the PHMSA database, it would be fair  assume that they would have a bias toward drawing on data of spills where the cause of the incident is immediately clear and reported in the PHMSA incident report. Fortunately, PHMSA changed their policy starting in 2002 and began to update the database later.
 * We continue to see a response that is more focused on discussing the response. Is the message: despite the spill, the deaths should have been avoidable? So is the blame for the injuries put on the rescue personnel instead of the operator? Should rescue personnel be obliged to respon perfectly to an incidents? Is that part of our social contract?
 
 ## Various
-
-*A story as old as time:
-
+   
+*A story as old as time:  
+ 
 > The system administrator said he noticed that the records now contained a typographical error that he said was not there when he created them. [@NTSB2002 p. 7]
 
 ## Documents
@@ -51,9 +51,9 @@ Maybe around this time we see the rise of leak detection software. Interestingly
 
 * [[http://www.ntsb.gov/investigations/AccidentReports/Reports/PAR0202.pdf]]
 
-### News reports
+### News reports    
 * [[https://www.kiro7.com/news/north-sound-news/on-this-day-olympic-pipeline-explosion-in-bellingham-kills-three-in-1999/766933436/]]
-
+ 
 ### Relevant laws and regulations
 
 ### Videos
