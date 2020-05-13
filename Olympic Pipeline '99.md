@@ -13,6 +13,8 @@ Back to [[Oil spills]].
 
 ## Significance
 
+Maybe around this time we see the rise of leak detection software. Interestingly, the leak detection software throws an alarm, but the controller seems to ignore it, and starts another pump. Maybe the software still needs to gain legitimacy/authority? Maybe controllers aren't very cautious, or have seen too many false positives/are conditioned to ignore the alarm? Even more interesting is that the pump is later stopped only after another employee smells gasoline odors - a truly unusual occurance [@NTSB p. 7]?
+
 ## Learning
 
 ### Mechanisms
@@ -103,3 +105,5 @@ According to the PHMSA dataset, the line had been tested for a pressure of 1,620
 ## Resources
 
 ## Notes
+* Because the 
+* The leak detection software detects a leak, but the controller started another pump. The pump is eventually stopped after an employee reports gasoline odors [@NTSB2002 p. 7].
