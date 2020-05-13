@@ -33,7 +33,7 @@ Maybe around this time we see the rise of leak detection software. Interestingly
 
 ### Faulty parts/flawed procedures
 
-## Aftermath/learningCum Swallowing
+## Aftermath/learning
  
 ## My reactions
 * Another incident that the PHMSA did not update on in its database. I can see why the [[commentator|Houston '94##regarding-phmsa-research-and-action]] on [[Houston '94]] as well as the NTSB in general got fed up with the DOT. Assumin that the PHMSA researchers rely on the PHMSA database, it would be fair  assume that they would have a bias toward drawing on data of spills where the cause of the incident is immediately clear and reported in the PHMSA incident report. Fortunately, PHMSA changed their policy starting in 2002 and began to update the database later.
