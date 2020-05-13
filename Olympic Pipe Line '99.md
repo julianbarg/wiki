@@ -39,8 +39,10 @@ Back to [[Oil spills]].
 ## Documents
 
 ### NTSB report
+* [[http://www.ntsb.gov/investigations/AccidentReports/Reports/PAR0202.pdf]]
 
 ### News reports
+* [[https://www.kiro7.com/news/north-sound-news/on-this-day-olympic-pipeline-explosion-in-bellingham-kills-three-in-1999/766933436/]]
 
 ### Relevant laws and regulations
 
