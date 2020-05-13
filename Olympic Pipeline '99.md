@@ -38,6 +38,10 @@ Back to [[Oil spills]].
 
 ## Various
 
+*A story as old as time:
+
+> The system administrator said he noticed that the records now contained a typographical error that he said was not there when he created them. 
+
 ## Documents
 
 ### NTSB report
