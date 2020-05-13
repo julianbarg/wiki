@@ -60,6 +60,8 @@ Back to [[Oil spills]].
 
 ### Quantitative data
 
+According to the PHMSA dataset, the line had been tested for a pressure of 1,620 psig.
+
 |**General information**
 |----------------|---:
 |Incident ID:    |19990107
