@@ -53,15 +53,16 @@ This case also introduces some of the issues we might encounter with research in
 ### Olympic 
 * Updated its manuals with regard to the Bayfield facility [@NTSB2002 p. 40].
 * Various corrective action [Appendix B @NTSB2002 p. 76f].
-    
+
 ### Regulations
-* Test
+* OPS rule about repairing specific damages within 60 days.
 
 ## My reactions
 * Another incident that the PHMSA did not update on in its database. I can see why the [[commentator|Houston '94##regarding-phmsa-research-and-actiobn]] on [[Houston '94]] as well as the NTSB in general got fed up with the DOT. Assumin that the PHMSA researchers rely on the PHMSA database, it would be fair  assume that they would have a bias toward drawing on data of spills where the cause of the incident is immediately clear and reported in the PHMSA incident report. Fortunately, PHMSA changed their policy starting in 2002 and began to update the database later.
 * We continue to see a response that is more focused on discussing the response. Is the message: despite the spill, the deaths should have been avoidable? So is the blame for the injuries put on the rescue personnel instead of the operator? Should rescue personnel be obliged to respon perfectly to an incidents? Is that part of our social contract?
 * Procurement issues on p 36f. It seems so many things that should be routine are actually not?
 * Were the controllers incompetent or malicious? They were under criminal investigation, otherwise we might have some statements from them. But this just goes to exemplify that you cannot trust the statements of those involved in general. They might fear repercussions. The bigger question is whether controllers are incompetent in general, or whether this is some case of sampling bias. What if the technology piece is just a coverup?
+* It seems the starting point for OPS (as for any inspector it seems) is the status quo of the organization. Are the regulations just a reference point that practice converges toward, but that it never reaches? Whenever a failure occurs, action may be taken to correct the underlying issues, but at the same time, performance could get worse in other areas.
 
 ## Various
    
