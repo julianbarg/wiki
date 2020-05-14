@@ -122,3 +122,6 @@ According to the PHMSA dataset, the line had been tested for a pressure of 1,620
 * 1,890 barrels of the total of 5,638 barrels spilled were lost after the line was restarted. 
 * Quick administration test for drugs, but did not test for alcohol because of misscommunication [@NTSB2002 p. 13].
 * Description of Olypmics SCADA system [@NTSB2002 p. 15].
+* The necessary data would have been available on the SCADE system, but only with extra effort to set up. Nowadays, it would probaby be more easily available, assuming an operator invests in the system. 
+* Suspicious repair of coating [@NTSB2002 p. 22].
+* Olympic inspectors stating that they were unaware of changes to the construction around the pipeline - for liability reasons?
