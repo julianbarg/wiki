@@ -9,6 +9,7 @@ Back to [[Oil spills]].
 ## Actors 
 * [[Olympic Pipe Line]]
 * Bayfield facility: A ??? facility.
+* [[OPS]]
 
 ## Technology
 * [[SCADA]]
@@ -45,12 +46,17 @@ This case also introduces some of the issues we might encounter with research in
 #### To reduce the severity of the spill
 
 ### Faulty parts/flawed procedures
+* DOT regulations did not specify testing methods for safety equipment [@NTSB2002 p. 52].
 
 ## Aftermath/learning
 
 ### Olympic 
 * Updated its manuals with regard to the Bayfield facility [@NTSB2002 p. 40].
- 
+* Various corrective action [Appendix B @NTSB2002 p. 76f].
+    
+### Regulations
+* Test
+
 ## My reactions
 * Another incident that the PHMSA did not update on in its database. I can see why the [[commentator|Houston '94##regarding-phmsa-research-and-actiobn]] on [[Houston '94]] as well as the NTSB in general got fed up with the DOT. Assumin that the PHMSA researchers rely on the PHMSA database, it would be fair  assume that they would have a bias toward drawing on data of spills where the cause of the incident is immediately clear and reported in the PHMSA incident report. Fortunately, PHMSA changed their policy starting in 2002 and began to update the database later.
 * We continue to see a response that is more focused on discussing the response. Is the message: despite the spill, the deaths should have been avoidable? So is the blame for the injuries put on the rescue personnel instead of the operator? Should rescue personnel be obliged to respon perfectly to an incidents? Is that part of our social contract?
