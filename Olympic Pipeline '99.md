@@ -8,15 +8,17 @@ Back to [[Oil spills]].
   
 ## Actors 
 * [[Olympic Pipe Line]]
+* Bayfield facility: A ??? facility.
 
 ## Technology
 * [[SCADA]]
 * [[RTU]]
 * [[PLC]]
+* [[IMCO]]
 
 ## Summary
 
-The pipeline had been damaged in a construction [describe construction]
+The pipeline was damaged in 1994 when piping was installed for a nearby water plant in 1994. Originally, Olympic Pipeline employees were supposed to be present for every part of the work. But when some employees made changes to some plans, Olympic Pipeline was not informed. The crew carried out that work by themselves, adjusting their plans as they went along. The pipeline was struck by a backhoe but did not burst [@NTSB2002 p. 24]. The Olympic Pipeline employees were on site during some of that time, but most likely failed to notice the additional excavation around the pipeline. Multiple analyses with smart pigs were carried out between the time of the damage and the eventual spill. These analyses picked up the damage, but Olypmic Pipeline failed to follow up and inspect the pipeline, and the supervising agencies failed to follow up and enforce action. In one instance, 
 
 At the day of the incident, a system administrator entered a faulty data entry into the server that controls the SCADA system. "The system administrator said he noticed that the records [later] contained a typographical error that he said was not there when he created them" [@NTSB2002 p. 11].  This SCADA system is used to remotely control the pipeline. It just so happened that at around the same time, the controller ran a few operations (which were routine operations) on the pipeline via the SCADA system that caused the pressure to spike [@NTSB2002 p. 3]. The pressure spiked to 1,494 psig,; it had previously been tested at 1,820psig [@NTSB2002 p. 14]. Because the system became inoperative at around the same time for about 20-30 minutes, the operator did not notice a sudden drop in pressure at 3:28PM--the burst of the damaged section of the pipeline [@NTSB2002 p. 5]. Thus, later the operator attempt to resume operations, which added another 1,890 barrels bein spilled, leading to a total spill of 5,638 barrels spilled [@NTSB2002 p. 11].
 
@@ -43,16 +45,22 @@ Maybe around this time we see the rise of leak detection software. Interestingly
 ### Faulty parts/flawed procedures
 
 ## Aftermath/learning
+
+### Olympic 
+* Updated its manuals with regard to the Bayfield facility [@NTSB2002 p. 40].
  
 ## My reactions
 * Another incident that the PHMSA did not update on in its database. I can see why the [[commentator|Houston '94##regarding-phmsa-research-and-action]] on [[Houston '94]] as well as the NTSB in general got fed up with the DOT. Assumin that the PHMSA researchers rely on the PHMSA database, it would be fair  assume that they would have a bias toward drawing on data of spills where the cause of the incident is immediately clear and reported in the PHMSA incident report. Fortunately, PHMSA changed their policy starting in 2002 and began to update the database later.
 * We continue to see a response that is more focused on discussing the response. Is the message: despite the spill, the deaths should have been avoidable? So is the blame for the injuries put on the rescue personnel instead of the operator? Should rescue personnel be obliged to respon perfectly to an incidents? Is that part of our social contract?
+* Procurement issues on p 36f. It seems so many things that should be routine are actually not?
 
 ## Various
    
 *A story as old as time:  
  
 > The system administrator said he noticed that the records now contained a typographical error that he said was not there when he created them. [@NTSB2002 p. 7]
+
+* Most of the IMCO employees did not spill the beans on their colleagues [@NTSB2002 p. 25].
 
 ## Documents
 
@@ -115,6 +123,9 @@ According to the PHMSA dataset, the line had been tested for a pressure of 1,620
 
 ## Resources
 
+### Rupture
+[[resources/NTSB_2002_rupture.png|frame,alt=Image of the pipeline rupture on p 41]]
+
 ## Notes
 * Is it that because the computers for the SCADA system were down, the controller did not notice the drop in pressure?
 * The leak detection software detects a leak, but the controller started another pump. The pump is eventually stopped after an employee reports gasoline odors [@NTSB2002 p. 7].
@@ -125,3 +136,9 @@ According to the PHMSA dataset, the line had been tested for a pressure of 1,620
 * The necessary data would have been available on the SCADE system, but only with extra effort to set up. Nowadays, it would probaby be more easily available, assuming an operator invests in the system. 
 * Suspicious repair of coating [@NTSB2002 p. 22].
 * Olympic inspectors stating that they were unaware of changes to the construction around the pipeline - for liability reasons?
+* In 1996, a smart pig was sent down the pipeline (for magnetic flux inspection), and detected some new anomalies. The inspection company used a wrong formula to calculate the remaining operating pressure (assuming corrosion rather than mechanical damage) and thus did not arrive at the assumption that the damage would reduce the maximum operating pressure [@NTSB2002 p. 26].
+* Later, Olpympics was as the result of another spill required to pipelines with a calipter tool. This tool picked up sharp tool damage in the area [@NTSB2002 pp. 27f].
+* Olypmic Pipeline failed to carry out an excavation, and the supervising agency failed to notice or enforce the inspection [@NTSB2002 p. 28].
+* Some installed valves did not close properly, although I don't understand whether this is by design or not [@NTSB2002 p. 32].
+* The pipeline section receivs quite a lot of "false positives", instances where the inlet block valves would close because of high pressure. Potentially normalizing this to controllers [@NTSB2002 pp. 37f]. Hence, these occurances fell through the crack, even though the Olypmic Pipeline's manuals advise a very cautious approach with regard to anomalies [@NTSB2002 p. 39].
+* Controllers were often frustrated with the new Bayview products terminal, because of the high workload and stress [@NTSB2002 p. 39]. There was also no specialized training available for the facility [@NTSB2002 p. 40].
