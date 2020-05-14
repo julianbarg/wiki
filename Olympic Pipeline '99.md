@@ -146,3 +146,5 @@ According to the PHMSA dataset, the line had been tested for a pressure of 1,620
 * The pipeline section receivs quite a lot of "false positives", instances where the inlet block valves would close because of high pressure. Potentially normalizing this to controllers [@NTSB2002 pp. 37f]. Hence, these occurances fell through the crack, even though the Olypmic Pipeline's manuals advise a very cautious approach with regard to anomalies [@NTSB2002 p. 39].
 * Controllers were often frustrated with the new Bayview products terminal, because of the high workload and stress [@NTSB2002 p. 39]. There was also no specialized training available for the facility [@NTSB2002 p. 40].
 * Computer files were missing. The database error claim is inconsistent with independent testing [@NTSB2002 p. 48].
+* Ownership of Olypmic Pipelines at the time was split [@NTSB2002 p. 49].
+* Corrective action: $3,050,000 civil penalty proposed [@NTSB2002 p. 49]. Corrective action required [@NTSB2002 pp. 76f].
