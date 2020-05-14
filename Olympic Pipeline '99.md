@@ -128,6 +128,7 @@ According to the PHMSA dataset, the line had been tested for a pressure of 1,620
 
 ### Rupture
 [[resources/NTSB_2002_rupture.png|frame,alt=Image of the pipeline rupture on p 41]]
+[[resources/NTSB_2002_rupture_2.png|frame,alt=Location of the pipeline rupture as seen on p 43]]
 
 ## Notes
 * Is it that because the computers for the SCADA system were down, the controller did not notice the drop in pressure?
