@@ -8,7 +8,7 @@ Back to [[Oil spills]].
   
 ## Actors 
 * [[Olympic Pipe Line]]
-* Bayfield facility: A ??? facility.
+* Bayfield facility: Facility with five product tanks, presumably for storage and delivery of petroleum products.
 * [[OPS]]
 
 ## Technology
@@ -136,6 +136,18 @@ According to the PHMSA dataset, the line had been tested for a pressure of 1,620
 ### Rupture
 [[resources/NTSB_2002_rupture.png|frame,alt=Image of the pipeline rupture on p 41]]
 [[resources/NTSB_2002_rupture_2.png|frame,alt=Location of the pipeline rupture as seen on p 43]]
+
+### Spill
+
+> More than 1,200 feet of the creek bed and banks were removed by excavator along the upper portion of Hannah Creek where the creek bed and banks were saturated with gasoline up to 5 feet into the creek face.
+
+[@NTSB2002 p. 54]
+
+> To address additional residual gasoline in surrounding areas that were not excavated, a vapor extraction system was designed and installed with a catalytic oxidation system. The system was completed under the emergency restoration plan, bypassing any
+excavated, a vapor extraction system was designed and installed with a catalytic oxidation system. The system was completed under the emergency restoration plan, bypassing any potential permit delays related to construction, and began operation on December 15, 1999. Future efforts will include the operation and maintenance of the systems for several
+potential permit delays related to construction, and began operation on December 15, 1999. Future efforts will include the operation and maintenance of the systems for several years until the site is remedied.
+
+[@NTSB2002 p. 55]
 
 ## Notes
 * Is it that because the computers for the SCADA system were down, the controller did not notice the drop in pressure?
