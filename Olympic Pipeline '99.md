@@ -19,7 +19,7 @@ Back to [[Oil spills]].
 
 ## Summary
 
-The pipeline was damaged in 1994 when piping was installed for a nearby water plant in 1994. Originally, Olympic Pipeline employees were supposed to be present for every part of the work. But when some employees made changes to some plans, Olympic Pipeline was not informed. The crew carried out that work by themselves, adjusting their plans as they went along. The pipeline was struck by a backhoe but did not burst [@NTSB2002 p. 24]. The Olympic Pipeline employees were on site during some of that time, but most likely failed to notice the additional excavation around the pipeline. Multiple analyses with smart pigs were carried out between the time of the damage and the eventual spill. These analyses picked up the damage, but Olypmic Pipeline failed to follow up and inspect the pipeline, and the supervising agencies failed to follow up and enforce action. An improperly installed relief valve did not function properly [@NTSB2002 p. 45].
+The pipeline was damaged in 1994 when piping was installed for a nearby water plant in 1994. Originally, Olympic Pipeline employees were supposed to be present for every part of the work. But when some employees made changes to some plans, Olympic Pipeline was not informed. The crew carried out that work by themselves, adjusting their plans as they went along. The pipeline was struck by a backhoe but did not burst [@NTSB2002 p. 24]. The Olympic Pipeline employees were on site during some of that time, but most likely failed to notice the additional excavation around the pipeline. They were also not informed of this work [@NTSB2002 p. 58]. Two analyses with smart pigs (magnetic flux and caliper tool) were carried out between the time of the damage and the eventual spill [@NTSB2002 p. 57]. These analyses picked up the damage, but Olypmic Pipeline failed to follow up and inspect the pipeline, and the supervising agencies failed to follow up and enforce action. An improperly installed relief valve did not function properly [@NTSB2002 p. 45].
 
 At the day of the incident, a system administrator entered a faulty data entry into the server that controls the SCADA system. "The system administrator said he noticed that the records [later] contained a typographical error that he said was not there when he created them" [@NTSB2002 p. 11].  This SCADA system is used to remotely control the pipeline. It just so happened that at around the same time, the controller ran a few operations (which were routine operations) on the pipeline via the SCADA system that caused the pressure to spike [@NTSB2002 p. 3]. The pressure spiked to 1,494 psig,; it had previously been tested at 1,820psig [@NTSB2002 p. 14]. Because the system became inoperative at around the same time for about 20-30 minutes, the operator did not notice a sudden drop in pressure at 3:28PM--the burst of the damaged section of the pipeline [@NTSB2002 p. 5]. Thus, later the operator attempt to resume operations, which added another 1,890 barrels bein spilled, leading to a total spill of 5,638 barrels spilled [@NTSB2002 p. 11].
 
@@ -63,6 +63,8 @@ This case also introduces some of the issues we might encounter with research in
 * Procurement issues on p 36f. It seems so many things that should be routine are actually not?
 * Were the controllers incompetent or malicious? They were under criminal investigation, otherwise we might have some statements from them. But this just goes to exemplify that you cannot trust the statements of those involved in general. They might fear repercussions. The bigger question is whether controllers are incompetent in general, or whether this is some case of sampling bias. What if the technology piece is just a coverup?
 * It seems the starting point for OPS (as for any inspector it seems) is the status quo of the organization. Are the regulations just a reference point that practice converges toward, but that it never reaches? Whenever a failure occurs, action may be taken to correct the underlying issues, but at the same time, performance could get worse in other areas.
+* On the one hand, for an incident to occur, it really requires a combination of multiple unlikely events. On the other hand, the reports show negligence of misconduct in every organizational function involved, so how unlikely is the occurance of unlikely events really?
+* There is a pattern of too many alarms and false positive.
 
 ## Various
    
@@ -149,6 +151,10 @@ potential permit delays related to construction, and began operation on December
 
 [@NTSB2002 p. 55]
 
+### Negligence
+
+> The excavation for the tee did, however, remain open for several days, and although Olympic’s inspector made occasional visits to the site during this time, the inspector made no documented effort to investigate this excavation or question IMCO about it, even though it was only about 100 feet away from the excavation he was reportedly inspecting. In addition, even though Olympic was not notified of the design change that caused the tee to be installed above its pipeline, these changes would certainly have been reflected in the as-built drawings maintained by the contractor at the job site.
+
 ## Notes
 * Is it that because the computers for the SCADA system were down, the controller did not notice the drop in pressure?
 * The leak detection software detects a leak, but the controller started another pump. The pump is eventually stopped after an employee reports gasoline odors [@NTSB2002 p. 7].
@@ -168,3 +174,4 @@ potential permit delays related to construction, and began operation on December
 * Computer files were missing. The database error claim is inconsistent with independent testing [@NTSB2002 p. 48].
 * Ownership of Olypmic Pipelines at the time was split [@NTSB2002 p. 49].
 * Corrective action: $3,050,000 civil penalty proposed [@NTSB2002 p. 49]. Corrective action required [@NTSB2002 pp. 76f].
+* False positives from smart pigs (magnetic flux inspecteion) [@NTSB2002 p. 60].
