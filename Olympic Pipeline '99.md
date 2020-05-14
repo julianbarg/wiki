@@ -9,7 +9,16 @@ Back to [[Oil spills]].
 ## Actors 
 * [[Olympic Pipe Line]]
 
+## Technology
+* [[SCADA]]
+* [[RTU]]
+* [[PLC]]
+
 ## Summary
+
+The pipeline had been damaged in a construction [describe construction]
+
+At the day of the incident, a system administrator entered a faulty data entry into the server that controls the SCADA system. "The system administrator said he noticed that the records [later] contained a typographical error that he said was not there when he created them" [@NTSB2002 p. 11].  This SCADA system is used to remotely control the pipeline. It just so happened that at around the same time, the controller ran a few operations (which were routine operations) on the pipeline via the SCADA system that caused the pressure to spike [@NTSB2002 p. 3]. Because the system became inoperative at around the same time for about 20-30 minutes, the operator did not notice a sudden drop in pressure at 3:28PM--the burst of the damaged section of the pipeline [@NTSB2002 p. 5]. Thus, later the operator attempt to resume operations, which added another 1,890 barrels bein spilled, leading to a total spill of 5,638 barrels spilled [@NTSB2002 p. 11].
 
 ## Significance
 
@@ -109,5 +118,7 @@ According to the PHMSA dataset, the line had been tested for a pressure of 1,620
 ## Notes
 * Is it that because the computers for the SCADA system were down, the controller did not notice the drop in pressure?
 * The leak detection software detects a leak, but the controller started another pump. The pump is eventually stopped after an employee reports gasoline odors [@NTSB2002 p. 7].
-* The spill most likely began at 3:28 PM [@NTSB2002 p. 5]. At 4:11PM some operations were resumed [@NTSB2002 p. 7]. At about 4:30PM an emergency response began [@NTSB2002 p. 9].
-* 1,890 barrels of the total of 5,638 barrels spilled were lost after the line was restarted.
+* The spill most likely began at 3:28 PM [@NTSB2002 p. 5]. At 4:11PM some operations were resumed [@NTSB2002 p. 7]. At about 4:30PM an emergency response began [@NTSB2002 p. 9]. At 5:02PM the explosion occured.
+* 1,890 barrels of the total of 5,638 barrels spilled were lost after the line was restarted. 
+* Quick administration test for drugs, but did not test for alcohol because of misscommunication [@NTSB2002 p. 13].
+* Description of Olypmics SCADA system [@NTSB2002 p. 15].
