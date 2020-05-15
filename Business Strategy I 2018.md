@@ -25,13 +25,13 @@
 1. [[Penrose 1959]] - Theory of the Growth of the Firm
 2. [[Wernerfelt 1984]] - A Resource-based View of the Firm
 3. [[Barney 1991]] - Firm Resources and Sustained Competitive Advantage
-4. [[Ahuja and Katila 2004]] - Where Do Resources Come from?
-5. [[Priem and Butler 2001]] - Is the Resource-Based "View" a Useful Perspective for Strategic Management Research?
+4. [[Ahuja & Katila 2004]] - Where Do Resources Come from?
+5. [[Priem & Butler 2001]] - Is the Resource-Based "View" a Useful Perspective for Strategic Management Research?
 
 ### Session 04: [[Resource-Based View]] II
-1. [[Teece, Pisano and Shuen 1997]] - Dynamic Capabilities and Strategic Management
+1. [[Teece, Pisano & Shuen 1997]] - Dynamic Capabilities and Strategic Management
 2. [[Rivkin 2000]] - Imitation of Complex Strategies
-3. [[Henderson and Cockburn 1994]] - Measuring Competence?
+3. [[Henderson & Cockburn 1994]] - Measuring Competence?
 4. [[Newbert 2007]] - Empirical Research on the Resource-Based View of the Firm
 5. [[Shaver 1998]] - Accounting for Endogeneity when Assessing Strategy Performance
 6. [[Eisenhard 2000]] - Dynamic Capabilities: What Are They?
