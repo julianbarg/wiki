@@ -21,14 +21,14 @@
 7. [[Waring 1996]] - Industry Differences in the Persistence of Firm-specific Returns
 8. [[McGahan 1999]] - The Performance of US Corporations: 1981-1994
 
-### Session 03: [[Resource-Based View]] I
+### Session 03: [[Resource-based View]] I
 1. [[Penrose 1959]] - Theory of the Growth of the Firm
 2. [[Wernerfelt 1984]] - A Resource-based View of the Firm
 3. [[Barney 1991]] - Firm Resources and Sustained Competitive Advantage
 4. [[Ahuja & Katila 2004]] - Where Do Resources Come from?
 5. [[Priem & Butler 2001]] - Is the Resource-Based "View" a Useful Perspective for Strategic Management Research?
 
-### Session 04: [[Resource-Based View]] II
+### Session 04: [[Resource-based View]] II
 1. [[Teece, Pisano & Shuen 1997]] - Dynamic Capabilities and Strategic Management
 2. [[Rivkin 2000]] - Imitation of Complex Strategies
 3. [[Henderson & Cockburn 1994]] - Measuring Competence?
