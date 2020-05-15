@@ -10,6 +10,8 @@ Back to [[Oil spills]].
 * [[Olympic Pipe Line]]
 * Bayfield facility: Facility with five product tanks, presumably for storage and delivery of petroleum products.
 * [[OPS]]
+* [[NTSB]]
+* [[RSPA]]
 
 ## Technology
 * [[SCADA]]
@@ -19,32 +21,48 @@ Back to [[Oil spills]].
 
 ## Summary
 
-The pipeline was damaged in 1994 when piping was installed for a nearby water plant in 1994. Originally, Olympic Pipeline employees were supposed to be present for every part of the work. But when some employees made changes to some plans, Olympic Pipeline was not informed. The crew carried out that work by themselves, adjusting their plans as they went along. The pipeline was struck by a backhoe but did not burst [@NTSB2002 p. 24]. The Olympic Pipeline employees were on site during some of that time, but most likely failed to notice the additional excavation around the pipeline. They were also not informed of this work [@NTSB2002 p. 58]. Two analyses with smart pigs (magnetic flux and caliper tool) were carried out between the time of the damage and the eventual spill [@NTSB2002 p. 57]. These analyses picked up the damage, but Olypmic Pipeline failed to follow up and inspect the pipeline, and the supervising agencies failed to follow up and enforce action. An improperly installed relief valve did not function properly [@NTSB2002 p. 45].
+The pipeline was damaged in 1994 when piping was installed for a nearby water plant. Originally, Olympic Pipeline employees were supposed to be present for every part of the work. But when some construction workers made changes to some plans, Olympic Pipeline was not informed [@NTSB2002 p. 58]. The crew carried out that work by themselves, adjusting their plans as they went along. The pipeline was struck by a backhoe but did not burst [@NTSB2002 p. 24]. The Olympic Pipeline employees were on site during some of that time, but most likely failed to notice the additional excavation around the pipeline. Two analyses with smart pigs (magnetic flux and caliper tool) were carried out between the time of the damage and the eventual spill [@NTSB2002 p. 57]. These analyses picked up the damage, but Olypmic Pipeline failed to follow up and inspect the pipeline, and the supervising agencies failed to follow up and enforce action. An improperly installed relief valve did not function properly [@NTSB2002 p. 45].
 
 At the day of the incident, a system administrator entered a faulty data entry into the server that controls the SCADA system. "The system administrator said he noticed that the records [later] contained a typographical error that he said was not there when he created them" [@NTSB2002 p. 11].  This SCADA system is used to remotely control the pipeline. It just so happened that at around the same time, the controller ran a few operations (which were routine operations) on the pipeline via the SCADA system that caused the pressure to spike [@NTSB2002 p. 3]. The pressure spiked to 1,494 psig,; it had previously been tested at 1,820psig [@NTSB2002 p. 14]. Because the SCADA system experienced problems at around the same time for about 20-30 minutes [@NTSB2002 p. 62], the operator was not able to swiftly respond to an increasing pressure [@NTSB2002 p. 62] and did not notice a sudden drop in pressure at 3:28PM--the burst of the damaged section of the pipeline [@NTSB2002 p. 5]. Later the operator attempt to resume operations, which within an additional 13 minutes of operations [@NTSB2002 p. 66] added another 1,890 barrels bein spilled, leading to a total spill of 5,638 barrels spilled [@NTSB2002 p. 11].
 
 ## Significance
 
-Maybe around this time we see the rise of leak detection software. Interestingly, the leak detection software throws an alarm, but the controller seems to ignore it, and starts another pump. Maybe the software still needs to gain legitimacy/authority? Maybe controllers aren't very cautious, or have seen too many false positives/are conditioned to ignore the alarm? Even more interesting is that the pump is later stopped only after another employee smells gasoline odors - a truly unusual occurance [@NTSB p. 7]?
+Many technological innovations emerge throughout this time, which all seems to fail for different, non-technology reasons. Smart pigs suggest damages, but the results are ignored. A SCADA system is not fully configured, and experiences an outage because of user error. A leak detection software detects a leak, but the pumps are restarted anyways (because the SCADA system is offline?). Eventually, an Olympic employee smells gasoline [@NTSB2002 p. 7]. A inlet pressure relief valve is set up incorrectly.
 
 This case also introduces some of the issues we might encounter with research in this area. Those involved might fabricate technology problem narratives to cover up human errors or other sources of errors. We would keep updating the technology, while not actually adressing the underlying issue. Also, does the new, more capable technology such as the Bayfield station and SCADA systems cause us to run technology closer to its limits, such as exemplified by the high peak pressure? And what about all the technology. In theory, all this great stuff is now available, but do organizations actually upgrade? Banks run on 50 year old COBOL code, what about pipelines? Maybe, they are still using the same SCADA systems today that were used in '98, and their condition only got worse?
+
+Interestingly, all the recommendations are addressed at the regulator, specifically the [[RSPA]]. 
 
 ## Learning
 
 ### Mechanisms
+* Rules for software and hardware administration also apply to SCADA systems.
+* Smart pigs provide relevant information, but a lot of context is needed to interpret them properly. For instance, the anomalies detected by the smart pigs (electric flux I believe) are more valuable when the operators knows that they did not exist at a previous point in time (1991) and then in the mean time, work was carried out around that area.
+* **Testing of new systems needs to simulate realistc operating conditions.**
 
 ### Outcomes
+* Less instances of incidents occuring after smart pigs were operated.
+* Less instances of incidents occuring because of computer problems.
+* **Less instances occuring because of flawed testing.**
 
 ## The spill
+
+Oil was spilled into a creek, but at first this was not discovered. After it was discovered, emergency forces closed the area and evacuated some residents. A fireball and fire occured. Two children suffered from serious burns and passed the next day. A young adult was overcome by the fumes and suffocated. In one hour, the fire burned 25 acres of land. A water treatment plant was severly damaged. 
 
 ## Cause analysis
 
 ### What could have been done
  
 #### To prevent the spill
+* Proper supervision of the work around the pipeline.
+* Proper operating of the SCADA system.
+* Proper use of the smart pig data.
+* Management responding to complaints of the controllers about the system not functioning properly.
+* Communication about the computer system experiencing problems.
 * Installation of proper inlet pressure relief valve [@NTSB2002 p. 68].
-       
+
 #### To reduce the severity of the spill
+* Not resuming operations under unclear circumstances [@NTSB2002 p. 66].
 
 ### Faulty parts/flawed procedures
 * DOT regulations did not specify testing methods for safety equipment [@NTSB2002 p. 52].
@@ -57,6 +75,7 @@ This case also introduces some of the issues we might encounter with research in
 
 ### Regulations
 * OPS rule about repairing specific damages within 60 days.
+* Rules about testing?
 
 ### Other
 * NTSB suggesting that software changes or data input not be made on live systems [@NTSB2002 p. 64].
