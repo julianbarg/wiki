@@ -9,15 +9,15 @@ Both the [[Resource-based View]] and Dynamic Capabilities are independent theori
 ## Related to
 
 ### Seminal papers
-* [[Teece, Pisano and Shuen 1997|Teece Pisano and Shuen 1997]]
+* [[Teece, Pisano and Shuen 1997]]
 
 ### Other papers
-* [[Henderson and Cockburn 1994]]
+* [[Henderson & Cockburn 1994]]
 * [[Shaver 1998]]
 * [[Eisenhard 2000]]
 * [[Rivkin 2000]]
 * [[Newbert 2007]]
-* [[Schilke, Hu and Helfat 2018|Schilke Hu and Helfat 2018]]
+* [[Schilke, Hu & Helfat 2018]]
 
 ### Courses etc.
 * [[Business Strategy I 2018]]
