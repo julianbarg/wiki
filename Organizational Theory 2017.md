@@ -41,7 +41,7 @@ Related to: [[Organizational Theory]]
 * [[Meyer & Rowan 1977]] - Institutionalized Organizations: Formal Structure as Myth and Ceremony
 * [[Zbaracki 1998]] - The Rhetoric and Reality of Total Quality Management
 * [[Hwang & Powell 2009]] - The Rationalization of Charity: The Influences of Professionalism in the Nonprofit Sector
-* [[McPherson & Suader 2013]] - Logics in Action: Managing Institutional Complexity in a Drug Court
+* [[McPherson & Sauder 2013]] - Logics in Action: Managing Institutional Complexity in a Drug Court
 
 ### Session 08: [[Network approaches|Network Theory]]
 * [[Scott & Davis 2007]] - Organizations and Organizing, Chapter 11
