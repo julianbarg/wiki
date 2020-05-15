@@ -5,21 +5,21 @@ Part of: [[Organizational Theory]]
 ## Related to
 
 ### Seminal papers
-* [[Bansal and DesJardine 2014]]
-* [[Flammer and Bansal 2017]]
-* [[Slawinski and Bansal 2015]]
+* [[Bansal & DesJardine 2014]]
+* [[Flammer & Bansal 2017]]
+* [[Slawinski & Bansal 2015]]
 
 ### Lit review
 * [[Bansal et al 2019]]
 
 ### Other papers
-* [[Bansal and Knox-Hayes 2013]]
+* [[Bansal & Knox-Hayes 2013]]
 * [[Gersick 1994]]
 
 ### Speed
 * [[Eisenhardt 1989]]
-* [[Morales-Raya and Bansal 2015]]
-* [[Perlow Okhuysen and Repenning 2002]]
+* [[Morales-Raya & Bansal 2015]]
+* [[Perlow, Okhuysen & Repenning 2002]]
 
 ### One-paragraph summary
 Temporality is a very rich and diverse field. The origins of the field (in the strategy literature) are in characteristics of temporality, for instance speed, and event-time vs. clock-time. Event-time describes the perception of time based on events. It was first introduced by [[Gersick (1994)|Gersick 1994]] based on the observation that some decision makers wait for key events, or make decisions to attain key events. Clock-time was also described by [[Gersick (1994)|Gersick 1994]] (as temporal pacing), and describes the flow of time as measured in time units such as year, month, etc. Around the same time, [[Eisenhardt (1989)|Eisenhardt 1989]] laid the foundation for a literature on speed. She ran some of the first studies on the speed of decision making in organizations, and her data suggests that microcomputer firms which engage in fast decision making, e.g., through the use of real-time information, manage to include more, not less, information in their decision making process.
