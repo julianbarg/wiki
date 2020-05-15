@@ -14,8 +14,8 @@
 
 ### Session 03: Reputation and Status
 1. [[Rao 1994]] - The Social Construction of Reputation
-2. [[Benjamin and Podolny 1999]] - Status, Quality, and Social Order in the California Wine Industry
-3. [[Phillips and Zuckerman 2001]] - Middle Status Conformity
+2. [[Benjamin & Podolny 1999]] - Status, Quality, and Social Order in the California Wine Industry
+3. [[Phillips & Zuckerman 2001]] - Middle Status Conformity
 
 ### Session 04: [[Cognition]] and Adaption
 1. [[Porac, Thomas & Baden-Fuller 1989]] - Competitive Groups as Cognitive Communities
