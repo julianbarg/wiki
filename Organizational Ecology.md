@@ -7,10 +7,10 @@ Part of: [[Organizational Theory]]
 ## Related to
 
 ### Seminal papers
-* [[Hannan and Freeman 1977]]
+* [[Hannan & Freeman 1977]]
 
 ### Other papers
-* [[Carroll and Swaminathan 2000]]
+* [[Carroll & Swaminathan 2000]]
 * [[Hsu 2006]]
 
 ### Courses
