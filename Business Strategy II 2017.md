@@ -18,7 +18,7 @@
 3. [[Phillips & Zuckerman 2001]] - Middle Status Conformity
 
 ### Session 04: [[Cognition]] and Adaption
-1. [[Porac Thomas & Baden-Fuller 1989]] - Competitive Groups as Cognitive Communities
+1. [[Porac, Thomas & Baden-Fuller 1989]] - Competitive Groups as Cognitive Communities
 2. [[Eggers & Kaplan 2009]] - Cognition and Renewal
 3. [[Vergne & Depeyre 2016]] - How do Firms Adapt?
 
