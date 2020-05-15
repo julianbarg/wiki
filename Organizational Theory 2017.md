@@ -52,8 +52,8 @@ Related to: [[Organizational Theory]]
 ### Session 09: [[Learning]] and the Ambiguities of Experience
 * [[March, Sproull & Tamuz 1991]] - Learning from Samples of One or Fewer
 * [[Ocasio 1997]] - Towards an Attention-Based View of the Firm
-* [[Maitlis and Christianson 2014]] - Sensemaking in Organizations: Taking Stock and Moving Forward
-* [[Madsen and Desai 2010]] - Failing to Learn? The Effects of Failure and Success on Organizational Learning in the Global Orbital Launch Vehicle Industry
+* [[Maitlis & Christianson 2014]] - Sensemaking in Organizations: Taking Stock and Moving Forward
+* [[Madsen & Desai 2010]] - Failing to Learn? The Effects of Failure and Success on Organizational Learning in the Global Orbital Launch Vehicle Industry
 
 ### Session 10: Occupations, Negatiated Order and Power
 * [[Goffman 1968]] - The Characteristics of Total Institutions
