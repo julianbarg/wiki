@@ -8,9 +8,9 @@
 3. [[Bergh et al. 2017]] - Is there a Credibility Crisis in Strategic Management Research
 
 ### Session 02: [[Institutions|Institutional Theory]] and Organizational Fields
-1. [[DiMaggio and Powell 1983]] - The Iron Cage Revisited
+1. [[DiMaggio & Powell 1983]] - The Iron Cage Revisited
 2. [[Oliver 1991]] - Strategic Responses to Institutional Processes
-3. [[Heugens and Lander 2009]] - Structure! Agency! (and other Quarrels)
+3. [[Heugens & Lander 2009]] - Structure! Agency! (and other Quarrels)
 
 ### Session 03: Reputation and Status
 1. [[Rao 1994]] - The Social Construction of Reputation
