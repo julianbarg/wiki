@@ -10,10 +10,10 @@ Part of: [[Organizational Theory]]
 * [[Attention-Based View]]
 
 ### Seminal papers
-* [[Cyert and March 1963]]
+* [[Cyert & March 1963]]
 
 ### Other papers
-* [[Eisenhardt and Zbaracki 1992]]
+* [[Eisenhardt & Zbaracki 1992]]
 * [[March 1962]]
 
 ### Courses etc.
