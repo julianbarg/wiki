@@ -19,8 +19,8 @@
 
 ### Session 04: [[Cognition]] and Adaption
 1. [[Porac, Thomas & Baden-Fuller 1989]] - Competitive Groups as Cognitive Communities
-2. [[Eggers and Caplan 2009]] - Cognition and Renewal
-3. [[Vergne and Depeyre]] - How do Firms Adapt?
+2. [[Eggers & Caplan 2009]] - Cognition and Renewal
+3. [[Vergne & Depeyre]] - How do Firms Adapt?
 
 ### Session 05: [[Organizational Categorization|Categories]]
 1. [[Zuckerman 1999]] - The Categorical Imperative
