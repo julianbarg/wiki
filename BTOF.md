@@ -7,7 +7,7 @@ Part of: [[Organizational Theory]]
 ## Related to
 
 ### Theories
-* [[Attention-based View]]
+* [[Attention-Based View]]
 
 ### Seminal papers
 * [[Cyert and March 1963]]
