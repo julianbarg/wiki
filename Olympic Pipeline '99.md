@@ -21,7 +21,7 @@ Back to [[Oil spills]].
 
 The pipeline was damaged in 1994 when piping was installed for a nearby water plant in 1994. Originally, Olympic Pipeline employees were supposed to be present for every part of the work. But when some employees made changes to some plans, Olympic Pipeline was not informed. The crew carried out that work by themselves, adjusting their plans as they went along. The pipeline was struck by a backhoe but did not burst [@NTSB2002 p. 24]. The Olympic Pipeline employees were on site during some of that time, but most likely failed to notice the additional excavation around the pipeline. They were also not informed of this work [@NTSB2002 p. 58]. Two analyses with smart pigs (magnetic flux and caliper tool) were carried out between the time of the damage and the eventual spill [@NTSB2002 p. 57]. These analyses picked up the damage, but Olypmic Pipeline failed to follow up and inspect the pipeline, and the supervising agencies failed to follow up and enforce action. An improperly installed relief valve did not function properly [@NTSB2002 p. 45].
 
-At the day of the incident, a system administrator entered a faulty data entry into the server that controls the SCADA system. "The system administrator said he noticed that the records [later] contained a typographical error that he said was not there when he created them" [@NTSB2002 p. 11].  This SCADA system is used to remotely control the pipeline. It just so happened that at around the same time, the controller ran a few operations (which were routine operations) on the pipeline via the SCADA system that caused the pressure to spike [@NTSB2002 p. 3]. The pressure spiked to 1,494 psig,; it had previously been tested at 1,820psig [@NTSB2002 p. 14]. Because the SCADA system experienced problems at around the same time for about 20-30 minutes [@NTSB2002 p. 62], the operator was not able to swiftly respond to an increasing pressure [@NTSB2002 p. 62] and did not notice a sudden drop in pressure at 3:28PM--the burst of the damaged section of the pipeline [@NTSB2002 p. 5]. Later the operator attempt to resume operations, which added another 1,890 barrels bein spilled, leading to a total spill of 5,638 barrels spilled [@NTSB2002 p. 11].
+At the day of the incident, a system administrator entered a faulty data entry into the server that controls the SCADA system. "The system administrator said he noticed that the records [later] contained a typographical error that he said was not there when he created them" [@NTSB2002 p. 11].  This SCADA system is used to remotely control the pipeline. It just so happened that at around the same time, the controller ran a few operations (which were routine operations) on the pipeline via the SCADA system that caused the pressure to spike [@NTSB2002 p. 3]. The pressure spiked to 1,494 psig,; it had previously been tested at 1,820psig [@NTSB2002 p. 14]. Because the SCADA system experienced problems at around the same time for about 20-30 minutes [@NTSB2002 p. 62], the operator was not able to swiftly respond to an increasing pressure [@NTSB2002 p. 62] and did not notice a sudden drop in pressure at 3:28PM--the burst of the damaged section of the pipeline [@NTSB2002 p. 5]. Later the operator attempt to resume operations, which within an additional 13 minutes of operations [@NTSB2002 p. 66] added another 1,890 barrels bein spilled, leading to a total spill of 5,638 barrels spilled [@NTSB2002 p. 11].
 
 ## Significance
 
@@ -42,6 +42,7 @@ This case also introduces some of the issues we might encounter with research in
 ### What could have been done
  
 #### To prevent the spill
+* Installation of proper inlet pressure relief valve [@NTSB2002 p. 68].
        
 #### To reduce the severity of the spill
 
@@ -56,6 +57,10 @@ This case also introduces some of the issues we might encounter with research in
 
 ### Regulations
 * OPS rule about repairing specific damages within 60 days.
+
+### Other
+* NTSB suggesting that software changes or data input not be made on live systems [@NTSB2002 p. 64].
+* NTSB suggesting users don't share logins on computers and don't all receive admin privileges [@NTSB2002 p. 62].
 
 ## My reactions
 * Another incident that the PHMSA did not update on in its database. I can see why the [[commentator|Houston '94##regarding-phmsa-research-and-actiobn]] on [[Houston '94]] as well as the NTSB in general got fed up with the DOT. Assumin that the PHMSA researchers rely on the PHMSA database, it would be fair  assume that they would have a bias toward drawing on data of spills where the cause of the incident is immediately clear and reported in the PHMSA incident report. Fortunately, PHMSA changed their policy starting in 2002 and began to update the database later.
@@ -73,6 +78,14 @@ This case also introduces some of the issues we might encounter with research in
 > The system administrator said he noticed that the records now contained a typographical error that he said was not there when he created them. [@NTSB2002 p. 7]
 
 * Most of the IMCO employees did not spill the beans on their colleagues [@NTSB2002 p. 25].
+
+> Because the SCADA screens for Bayview were still under development 6 months after the facility’s startup, no pressure trend SCADA screen for Bayview was readily available to the accident controller.
+
+* I could easily believe that the the feature is still under development 10 years later.
+* If regulations not followed up on, who is really to be blamed? The regulator steered himself clear of guilt, but regulations without enforcement are really meaningles. ALso, what role does wanting to keep the industry profitable play in these issues.
+
+> Indeed, any improvements in pipeline operations between the Bayview commissioning and the accident were apparently the 
+result of trial-and-error experiences of the controllers, not the result of effective management oversight. [@NTSB2002 pp. 68f]
 
 ## Documents
 
@@ -176,3 +189,4 @@ potential permit delays related to construction, and began operation on December
 * Corrective action: $3,050,000 civil penalty proposed [@NTSB2002 p. 49]. Corrective action required [@NTSB2002 pp. 76f].
 * False positives from smart pigs (magnetic flux inspecteion) [@NTSB2002 p. 60].
 * New regulations would have required Olypmic Pipeline to fix the damage [@NTSB2002 p. 61]. But would they have followed up? Does OPS have the resources to put enough pressure on them?
+* Wrong pressure relief valve installed [@NTSB2002 p. 67].
