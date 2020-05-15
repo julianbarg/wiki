@@ -50,7 +50,7 @@
 4. [[Mayer and Nickerson 2005]] - Antecedents and Performance Implications for Knowledge Workers
 
 ### Session 07: [[Evolutionary Theory]]
-1. [[Nelson and Winter 1982]] - An Evolutionary Theory of Economic Change
+1. [[Nelson & Winter 1982]] - An Evolutionary Theory of Economic Change
 2. [[Sutton 2007]] - Market Share Dynamics and the "Persistence of Leadership" Debate
 3. [[Tushman and Anderson 1986]] - Technological Discontinuities and Organizational Environments
 4. [[Helfat 1994]] - Evolutionary Trajectories in Petroleum Firm R&D
