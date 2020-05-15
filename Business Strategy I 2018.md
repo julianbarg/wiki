@@ -71,22 +71,22 @@
 1. [[Barney 1988]] - Returns to Bidding Firms in Mergers and Acquisitions
 2. [[Seth 1990]] - Sources of Value Creation in Acquisitions
 3. [[Matsusaka 1993]] - Takeover Motives during the Conglomerate Merger Wave
-4. [[Ahuja and Katila 2001]] - Technological Acquisitions and the Innovation Performance of Acquiring Firms
+4. [[Ahuja & Katila 2001]] - Technological Acquisitions and the Innovation Performance of Acquiring Firms
 5. [[Wulf 2004]] - Do CEOs in Mergers Trade Power for Premium?
 
 ### Session 10: [[Agency Theory]]
-1. [[Jensen and Meckling 1976]] - Theory of the Firm: Managerial Behavior, Agency Cost, and Ownership Structure
+1. [[Jensen & Meckling 1976]] - Theory of the Firm: Managerial Behavior, Agency Cost, and Ownership Structure
 2. [[Eisenhardt 1989]] - Agency Theory: An Assessment and Review
-3. [[Souder and Shaver 2010]] - Constraints and Incentives for Making Long Term Corporate Investments
-4. [[Wowak, Mannor and Wowak 2015]] - Throwing Caution to the Wind: The Effect of CEO Stock Option Pay on the Incidence of Product Safety Problems
+3. [[Souder & Shaver 2010]] - Constraints and Incentives for Making Long Term Corporate Investments
+4. [[Wowak, Mannor & Wowak 2015]] - Throwing Caution to the Wind: The Effect of CEO Stock Option Pay on the Incidence of Product Safety Problems
 5. [[Yermack 2006]] - Flights of Fancy: Corporate Jets, CEO Perquisites, and Inferior Shareholder Returns
 
 #### Additional Readings
-6. [[Fama and Jensen 1983]] - Separation of Ownership and Control
+6. [[Fama & Jensen 1983]] - Separation of Ownership and Control
 7. [[Schoar 2002]] - Effects of Corporate Diversification on Productivity
 
 ### Session 11: Agglomeration & Spillovers
-1. [[Fremeth and Shaver 2014]] - Strategic Rationale for Responding to Extra-jurisdictional Regulation
-2. [[Shaver and Flyer 2000]] - Agglomeration Economies, Firm Heterogeneity, and Foreign Direct Investment in the United States
-3. [[Jin and Leslie 2003]] - The Effect of Information on Product Quality
-4. [[Bloom et al. 2013]] - Does Management Matter? Evidence from India
+1. [[Fremeth & Shaver 2014]] - Strategic Rationale for Responding to Extra-jurisdictional Regulation
+2. [[Shaver & Flyer 2000]] - Agglomeration Economies, Firm Heterogeneity, and Foreign Direct Investment in the United States
+3. [[Jin & Leslie 2003]] - The Effect of Information on Product Quality
+4. [[Bloom et al 2013]] - Does Management Matter? Evidence from India
