@@ -5,13 +5,13 @@ Part of: [[Organizational Theory]]
 ## Related to
 
 ### Seminal papers
-* [[Pfeffer and Salancik 1974]]
-* [[Pfeffer and Salancik 1978]]
+* [[Pfeffer & Salancik 1974]]
+* [[Pfeffer & Salancik 1978]]
 
 ### Other papers
 * [[Emerson 1962]]
-* [[Casciaro and Piskoriski 2005]]
-* [[Katila, Rosenberger and Eisenhardt 2008|Katila Rosenberger and Eisenhardt 2008]]
+* [[Casciaro & Piskoriski 2005]]
+* [[Katila, Rosenberger & Eisenhardt 2008]]
 
 ### Courses etc.
 * [[Organizational Theory 2017]]
