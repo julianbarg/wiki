@@ -5,10 +5,10 @@ Part of: [[Organizational Theory]]
 ## Related to
 
 ### Seminal papers
-* [[Nelson and Winter 1982]]
+* [[Nelson & Winter 1982]]
 
 ### Other papers
-* [[Tushman and Anderson 1986]]
+* [[Tushman & Anderson 1986]]
 * [[Helfat 1994]]
 * [[Knott 2001]]
 * [[Sutton 2007]]
