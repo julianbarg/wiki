@@ -3,21 +3,21 @@
 ## Sessions
 
 ### Session 01: Intro
-1. [[Ghemawat and Pankaj 2002]] - Competition and Business Strategy in Historical Perspective.
-2. [[Mahoney and McGahan 2007]] - The Field of Strategic Management within the Evolving Science of Strategic Organization.
-3. [[Oxley and Rivkin 2010]] - The Strategy Research Initiative: Recognizing and Encouraging High-quality Research in Strategy.
-4. [[March and Sutton 1997]] - Organizational Performance as a Dependent Variable
+1. [[Ghemawat & Pankaj 2002]] - Competition and Business Strategy in Historical Perspective.
+2. [[Mahoney & McGahan 2007]] - The Field of Strategic Management within the Evolving Science of Strategic Organization.
+3. [[Oxley & Rivkin 2010]] - The Strategy Research Initiative: Recognizing and Encouraging High-quality Research in Strategy.
+4. [[March & Sutton 1997]] - Organizational Performance as a Dependent Variable
 5. [[Shaver 2008]] - Organizational Significance
 
 ### Session 02: [[Industrial organization]]
-1. [[Carlton and Perloff 2000]] - Industry Structure and Performance. In: Modern Industrial Organization
+1. [[Carlton & Perloff 2000]] - Industry Structure and Performance. In: Modern Industrial Organization
 2. [[Schamelnsee 1985]] - Do Markets Differ Much?
 3. [[Demsetz 1973]] - Industry Structure, Market Rivalry, and Public Policy
 4. [[Porter 1979]] - The Structure Within Industries and Companies' Performance
 5. [[Rumelt 1991]] - How Much does Industry Matter?
 
 #### Additional Readings
-6. [[Wernerfelt and Montgomery 1986]] - What Is an Attractive Industry?
+6. [[Wernerfelt & Montgomery 1986]] - What Is an Attractive Industry?
 7. [[Waring 1996]] - Industry Differences in the Persistence of Firm-specific Returns
 8. [[McGahan 1999]] - The Performance of US Corporations: 1981-1994
 
@@ -44,24 +44,24 @@
 5. [[Hart 1995]] - Firms, Contracts and Financial Structure
 
 ### Session 06: [[Transaction Cost Economics/Coasian View II|Transaction Cost Economics]]
-1. [[Ghoshal and Moran 1996]] - Bad for Practice: A Critique of the Transaction Cost Theory
+1. [[Ghoshal & Moran 1996]] - Bad for Practice: A Critique of the Transaction Cost Theory
 2. [[Williamson 1996]] - Economics Organization: The Case for Candor
 3. [[Masten, Meehan & Snyder 1991]] - The Cost of Organization
-4. [[Mayer and Nickerson 2005]] - Antecedents and Performance Implications for Knowledge Workers
+4. [[Mayer & Nickerson 2005]] - Antecedents and Performance Implications for Knowledge Workers
 
 ### Session 07: [[Evolutionary Theory]]
 1. [[Nelson & Winter 1982]] - An Evolutionary Theory of Economic Change
 2. [[Sutton 2007]] - Market Share Dynamics and the "Persistence of Leadership" Debate
-3. [[Tushman and Anderson 1986]] - Technological Discontinuities and Organizational Environments
+3. [[Tushman & Anderson 1986]] - Technological Discontinuities and Organizational Environments
 4. [[Helfat 1994]] - Evolutionary Trajectories in Petroleum Firm R&D
 5. [[Knott 2001]] - The Dynamic Value of Hierarchy
 
 #### Additional Readings
 6. [[Dosi 1988]] - Sources, Procedures, and Microeconomic Effects of Innovation
-7. [[Capron and Mitchell 2009]] - Selection Capability
+7. [[Capron & Mitchell 2009]] - Selection Capability
 
 ### Session 08: [[Diversification]]
-1. [[Motgomery and Wernerfelt 1988]] - Diversification, Ricardian Rents, and Tobin's Q
+1. [[Motgomery & Wernerfelt 1988]] - Diversification, Ricardian Rents, and Tobin's Q
 2. [[Teece 1980]] - Economies of Scope and the Scope of the Enterprise
 3. [[Silverman 1999]] - Technological Resources and the Direction of Corporate Diversification
 4. [[Lang 1994]] - Tobin's Q, Corporate Diversification, and Firm Performance
