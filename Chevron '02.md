@@ -8,15 +8,21 @@ Back to [[Oil spills]].
 
 ## Summary
 
-
+A pipeline corroded and exploded in the middle of nowhere, near Frost, Texas, some 30km outside of Houston. According to the PHMSA incident narrative, the incident occured on October 24 (although the date column states Octover 23), and by October 26 the pipeline segment was replaced and up and running again. 33,010 barrels of HVLs were spilled and none of it recovered, making it the third largest spill in terms of net loss volume in the US on record. Nobody was hurt, and the records do not indicate any environmental damage that the operator would be obliged to clean up. No records of the incident seem to exist on the internet except for the PHMSA incident report.
 
 ## Significance
+
+We already encountered in the case of the [[Seminole '92]] spill the perception that HVL is a relatively safe fuel because when a spill occurs, HVLs will dissipate. According to this notion, what made the [[Seminole '92]] spill a disaster was (1) the relative proximity to a residential area, and (2) the calm weather conditions, which slowed the dissipation of the HVLs, and (3) the accumulation of the HVLs in a depression. In the '92 spill, a release of between 3,000 and 10,000 barrels of HVLs led to the explosion and fire that killed 3 [@NTSB1993 p. 49]. In this case the release of 33,010 barrels did not lead to any adverse impacts (except for the an already corroded pipeline that was replaced). Either enough of the HVLs dissipated 
+
+The incident appears to be a missed opportunity for learning. Should the corrosion have been caught before the spill occured? The treatment of this incident (or rather, the lack of any response) implies that these kinds of incidents are seen as normal or acceptable, maybe seen as routine part of operating pipelines in remote areas.
 
 ## Learning
 
 ### Mechanisms
+* Normalizing or seeing a lack of response to incidents in remote areas.
 
 ### Outcomes
+* Based on the mechanism above, we would expect a continuation of similar incidents, maybe even an increase ("if we can get away with a leak, fire an explosion such as this one, we really don't need to worry")
 
 ## The spill
 
@@ -25,10 +31,13 @@ Back to [[Oil spills]].
 ### What could have been done
 
 #### To prevent the spill
+* Pipeline maintenance to detect corrosion ahead of spill
 
 #### To reduce the severity of the spill
+* Lower distance between remote valves
 
 ### Faulty parts/flawed procedures
+* Corosion protection/coating
 
 ## Aftermath/learning
 
