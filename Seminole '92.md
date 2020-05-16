@@ -151,7 +151,7 @@ A core issue is that Y-grade HVL did unexpectedly escape through the brine, thus
 
 ### Previous releases
 
-[[resoures/NTSB_1993_previous_releases.png|frame, width=600x, alt=Previous relaeses described on page 50]]
+[[resoures/NTSB_1993_previous_releases.png|frame, width=600px, alt=Previous relaeses described on page 50]]
 
 ## Notes
 * Flawed safety system, see also [[here|Seminole '92#Scada-limitations]].
