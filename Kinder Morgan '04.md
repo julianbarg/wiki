@@ -16,7 +16,7 @@ The pipeline was punctured by an excavature on Nov 9, 2004 at 1:22 PM. By Nov 13
 
 The incident showcases multiple safety systems that are in place to prevent the accidential puncturing of the pipeline. (1) There is obviously (1) a plan of the pipelines, and (2) when a pipeline is constructed, workers on the ground create "as built" plans to capture any potential deviation. When construction is planned near an existing pipeline, the constructing party has to reach out to the pipeline operators. The pipeline operator (3) provides the contractor(s) with the plans, including the as built plans. (4) A pipeline operator should mark the location of the pipeline on the ground. (5) A contractor is also supposed "[to use] hand tools to positively locate the line" [@OfficeoftheStateFireMarshal2005 p. 19]. (6) There is also a "one-call" law in place which requires contractors to call 811 at least two days before a dig to anounce digs.
 
-At least in this specific case, the quality of the regulations does not seem to be the deciding factor, but rather the care with which employees proceed. In this context, It is noteworthy that one of the responses is a requirement regarding the training of the employees.
+At least in this specific case, the quality of the regulations does not seem to be the deciding factor, but rather the care with which employees proceed. In this context, It is noteworthy that one of the responses is a requirement regarding the training of the employees. Later, Kinder Morgan was also ordered to invest $90 million in pipeline safety, see [[documents|Kinder Morgan '04#Safety deal]]--which is not how we usually think about learning, an organization being forced to do that.
 
 ## Learning
 
@@ -38,9 +38,10 @@ At least in this specific case, the quality of the regulations does not seem to 
 
 ## Aftermath/learning
 
-OSHA California issued two "serious willful" violations, see [[documents|Kinder Morgan '05#Serious willful violation]]. Kinder Morgan was also convicted of six felony counts and received a $15 million fine.
+OSHA California issued two "serious willful" violations, see [[documents|Kinder Morgan '04#Serious willful violation]]. Kinder Morgan was also convicted of six felony counts and received a $15 million fine. Two years after the incidents, California passed a new pipeline safety law that requires employees that mark pipelines to undergo a one-week course at the Common Ground Alliance, see [[documents|Kinder Morgan '04#Pipeline bill]]. Kinder Morgan in 2006 was forced to implement a $90 million safety program, see [[documents|Kinder Morgan '04#Safety deal]].
 
 ## My reactions
+* Kinder Morgan being forced to invest $90 million in safety? That's not how we usually think about learning.
 
 ## Various
 
