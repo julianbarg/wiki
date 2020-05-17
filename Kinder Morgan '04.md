@@ -10,7 +10,13 @@ Back to [[Oil spills]].
 
 ## Summary
 
+The pipeline was punctured by an excavature on Nov 9, 2004 at 1:22 PM. By Nov 13, 8:00PM the pipeline was repaired, and operations continue at 8:50PM (see narrative). The pipeline in this location was not located where marked in the original plan, instead, it took a small detour around a tree (this tree was later removed, leaving no traces). A Kinder Morgan employee was supposed to mark the location of the pipe on the ground, but failed to do so, even though she or he was on site on Nov 2 [@OfficeoftheStateFireMarshal2005 p. 19]. The original contractor was provided with as-built drawings of the pipe, but a new contractor was later hired and details on the handover of the plans are vague. None of the people on the ground verified the position of the pipeline through excavation by hand.
+
 ## Significance
+
+The incident showcases multiple safety systems that are in place to prevent the accidential puncturing of the pipeline. (1) There is obviously (1) a plan of the pipelines, and (2) when a pipeline is constructed, workers on the ground create "as built" plans to capture any potential deviation. When construction is planned near an existing pipeline, the constructing party has to reach out to the pipeline operators. The pipeline operator (3) provides the contractor(s) with the plans, including the as built plans. (4)
+
+At least in this specific case, the quality of the regulations does not seem to be the deciding factor, but rather the care with which employees proceed. In this context, It is noteworthy that one of the responses is a requirement regarding the training of the employees.
 
 ## Learning
 
