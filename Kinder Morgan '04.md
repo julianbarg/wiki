@@ -21,10 +21,16 @@ At least in this specific case, the quality of the regulations does not seem to 
 ## Learning
 
 ### Mechanisms
+* The pipeline safety law, requiring training for employees that mark pipeline locations.
+* Kinder Morgan $90 million safety investment.
 
 ### Outcomes
+* Fewer incidents from third-party excavations
+* Kinder Morgan less spills.
 
 ## The spill
+
+The construction crew hit a pipeline under high pressure [973 psig according to @OfficeoftheStateFireMarshal2005 p. 4]. Within seconds, employees were drenched in gasoline, and a nearby worker with a blowtorch ignited this fuel. An explosion and a fire occured that killed 5, injured 4, and damaged a nearby house. The amount of oil spilled was relatively low--564 barrels [@OfficeoftheStateFireMarshal2005 p. 3].
 
 ## Cause analysis
 
