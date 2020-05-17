@@ -12,6 +12,8 @@ Back to [[Oil spills]].
 
 The pipeline was punctured by an excavature on Nov 9, 2004 at 1:22 PM. By Nov 13, 8:00PM the pipeline was repaired, and operations continue at 8:50PM (see narrative). The pipeline in this location was not located where marked in the original plan, instead, it took a small detour around a tree (this tree was later removed, leaving no traces). A Kinder Morgan employee was supposed to mark the location of the pipe on the ground, but failed to do so, even though she or he was on site on Nov 2 [@OfficeoftheStateFireMarshal2005 p. 19]. The original contractor was provided with as-built drawings of the pipe, but a new contractor was later hired and details on the handover of the plans are vague. None of the people on the ground verified the position of the pipeline through excavation by hand.
 
+Kinder Morgan was later convicted of "serious willful" 
+
 ## Significance
 
 The incident showcases multiple safety systems that are in place to prevent the accidential puncturing of the pipeline. (1) There is obviously (1) a plan of the pipelines, and (2) when a pipeline is constructed, workers on the ground create "as built" plans to capture any potential deviation. When construction is planned near an existing pipeline, the constructing party has to reach out to the pipeline operators. The pipeline operator (3) provides the contractor(s) with the plans, including the as built plans. (4) A pipeline operator should mark the location of the pipeline on the ground. (5) A contractor is also supposed "[to use] hand tools to positively locate the line" [@OfficeoftheStateFireMarshal2005 p. 19]. (6) There is also a "one-call" law in place which requires contractors to call 811 at least two days before a dig to anounce digs.
@@ -52,9 +54,19 @@ At least in this specific case, the quality of the regulations does not seem to 
 * [[https://web.archive.org/web/20180918012236/https://osfm.fire.ca.gov/pipeline/pdf/WCFinalReport/PenaltyLetter.pdf]]
 
 ### News reports
+* [[https://thetyee.ca/News/2005/08/23/KinderMorgan/]]
 
 #### Lack of resources (2011)
 * [[https://www.sfexaminer.com/news/testing-for-other-pipelines-is-stricter-than-pgs-methods/]]
+
+#### Lawsuit
+* [[https://www.sfgate.com/bayarea/article/Energy-firm-convicted-in-Walnut-Creek-pipeline-2539356.php]]
+
+#### Serious willful violation
+* [[https://www.eastbaytimes.com/2005/05/06/cal-osha-fines-pipeline-owner-for-explosion-in-walnut-creek/]]
+
+### 15 million fine
+* [[https://www.sfgate.com/bayarea/article/Energy-firm-convicted-in-Walnut-Creek-pipeline-2539356.php]]
 
 ### Relevant laws and regulations
 
