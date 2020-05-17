@@ -47,6 +47,10 @@ At least in this specific case, the quality of the regulations does not seem to 
 ### Fire Marshall report
 * [[https://web.archive.org/web/20130406122502/http://osfm.fire.ca.gov/pipeline/pdf/WCFinalReport/KMWCInvRep.pdf]]
 
+### Notice of Violation and Civil Panelty
+
+* [[https://web.archive.org/web/20180918012236/https://osfm.fire.ca.gov/pipeline/pdf/WCFinalReport/PenaltyLetter.pdf]]
+
 ### News reports
 
 #### Lack of resources (2011)
