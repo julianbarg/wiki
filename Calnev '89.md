@@ -11,6 +11,9 @@ Back to [[Oil spills]]
 ### NTSB report
 * [[http://www.pipelinesafetytrust.com/docs/ntsb_doc26.pdf]]
 
+### Congress report
+* [[https://books.google.ca/books?id=dG1pE5dns1IC]]
+
 ### News reports
 
 ### Videos
