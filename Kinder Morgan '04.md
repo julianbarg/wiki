@@ -4,6 +4,8 @@ Back to [[Oil spills]].
 
 ## Incident image
 
+[[https://2zwmzkbocl625qdrf2qqqfok-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/walnutcreekfire.jpg|frame, alt=Image of the construction work and resulting fire, width=600px]]
+
 ## Actors
 
 ## Summary
