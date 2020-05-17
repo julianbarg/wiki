@@ -65,8 +65,14 @@ OSHA California issued two "serious willful" violations, see [[documents|Kinder 
 #### Serious willful violation
 * [[https://www.eastbaytimes.com/2005/05/06/cal-osha-fines-pipeline-owner-for-explosion-in-walnut-creek/]]
 
-### 15 million fine
+#### 15 million fine
 * [[https://www.sfgate.com/bayarea/article/Energy-firm-convicted-in-Walnut-Creek-pipeline-2539356.php]]
+
+#### Pipeline bill
+* [[https://www.eastbaytimes.com/2006/09/03/2-years-after-explosion-pipeline-bill-passes/]]
+
+#### Safety deal
+* [[https://www.marketwatch.com/story/kinder-morgan-energy-us-reach-safety-deal]]
 
 ### Relevant laws and regulations
 
