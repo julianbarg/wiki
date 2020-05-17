@@ -4,7 +4,7 @@ Back to [[Oil spills]].
 
 ## Incident image
 
-[[https://2zwmzkbocl625qdrf2qqqfok-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/walnutcreekfire.jpg|frame, alt=source: [[https://www.sfexaminer.com/news/testing-for-other-pipelines-is-stricter-than-pgs-methods/]], width=600px]]
+[[https://2zwmzkbocl625qdrf2qqqfok-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/walnutcreekfire.jpg|frame, alt=source: https://www.sfexaminer.com/news/testing-for-other-pipelines-is-stricter-than-pgs-methods/, width=600px]]
 
 ## Actors
 
