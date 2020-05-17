@@ -8,11 +8,12 @@
 * [[Perrow 1984]]
 
 ## Incidents
+* [[Calnev '89]]
 * [[Seminole '92]]
 * [[Houston '94]]
-* [[Calnev '89]]
 * [[Olympic Pipeline '99]]
 * [[Chevron '02]]
+* [[Kinder Morgan '04]]
 
 ## To do
 * Add data on wall diameter, thickness, and maximum yield strength?
