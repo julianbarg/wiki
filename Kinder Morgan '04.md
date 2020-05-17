@@ -30,17 +30,25 @@ At least in this specific case, the quality of the regulations does not seem to 
 
 ## The spill
 
-The construction crew hit a pipeline under high pressure [973 psig according to @OfficeoftheStateFireMarshal2005 p. 4]. Within seconds, employees were drenched in gasoline, and a nearby worker with a blowtorch ignited this fuel. An explosion and a fire occured that killed 5, injured 4, and damaged a nearby house. The amount of oil spilled was relatively low--564 barrels [@OfficeoftheStateFireMarshal2005 p. 3].
+The construction crew hit a pipeline under high pressure [973 psig according to @OfficeoftheStateFireMarshal2005 p. 4]. Within seconds, employees were drenched in gasoline, and a nearby worker with a blowtorch ignited this fuel. An explosion and a fire occured that killed 5, injured 4, and damaged a nearby house. Within four minutes, the operator shut the line down. Thus, the amount of oil spilled was relatively low--564 barrels [@OfficeoftheStateFireMarshal2005 p. 3].
 
 ## Cause analysis
 
 ### What could have been done
 
 #### To prevent the spill
+* Kinder Morgan could have build the pipeline as planned.
+* Kinder Morgan employee could have marked the line correctly on the ground.
+* Kinder Morgan employee could have paid more attention to the work going on on the ground when she or he was on the site one week ahead of the incident.
+* Contractor could have excavated the pipeline by hand to verify its location.
+* Contractor could have taken more sure to hand over the as built plans.
+* Contractor could have called 811.
 
 #### To reduce the severity of the spill
+* Very little.
 
 ### Faulty parts/flawed procedures
+* Employee not following procedures to mark pipeline.
 
 ## Aftermath/learning
 
