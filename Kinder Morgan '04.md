@@ -39,10 +39,12 @@ Back to [[Oil spills]].
 ## Documents
 
 ### Fire Marshall report
-
 * [[https://web.archive.org/web/20130406122502/http://osfm.fire.ca.gov/pipeline/pdf/WCFinalReport/KMWCInvRep.pdf]]
 
 ### News reports
+
+#### Lack of resources (2011)
+* [[https://www.sfexaminer.com/news/testing-for-other-pipelines-is-stricter-than-pgs-methods/]]
 
 ### Relevant laws and regulations
 
