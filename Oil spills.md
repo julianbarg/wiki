@@ -1,6 +1,8 @@
 [[_TOC_]]
 * [[Spill template|Pipeline spill entry]]
 
+[[https://insideclimatenews.org/sites/default/files/styles/icn_full_wrap_wide/public/6b.jpg?itok=h8dq-bqC|frame, alt=Embridge SCADA]]
+
 ## Theorie development
 * [[Pipeline safety learning]]
 
@@ -31,3 +33,14 @@
 
 * [[https://www.nytimes.com./2012/12/22/us/study-finds-flaws-in-pipeline-leak-detection-systems.html]]
 
+> If you get a thousand [false alarms] a month, what happens when ylu get a big [real] one? [...] How do you tell the difference? You can't.
+
+> Allen, the UTSI consultant, said experienced controllers can recognize the warning signs even before the system sounds an alarm. But because they're usually busy making sure batches of oil are delivered to the right destinations, they're not necessarily looking at the hydraulic data used for leak detection.
+
+### Lack of resources
+
+* [[https://www.nytimes.com./2011/09/10/business/energy-environment/agency-struggles-to-safeguard-pipeline-system.html]]
+
+### Slow response
+
+* [[https://insideclimatenews.org/news/20120530/enbridge-restarted-ruptured-oil-pipeline-%E2%80%94twice%E2%80%94-during-2010-michigan-oil-spill]]
