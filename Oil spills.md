@@ -1,7 +1,7 @@
 [[_TOC_]]
 * [[Spill template|Pipeline spill entry]]
 
-[[https://insideclimatenews.org/sites/default/files/styles/icn_full_wrap_wide/public/6b.jpg?itok=h8dq-bqC|frame, alt=Embridge SCADA]]
+[[https://insideclimatenews.org/sites/default/files/styles/icn_full_wrap_wide/public/6b.jpg?itok=h8dq-bqC.jpg|frame, alt=Embridge SCADA]]
 
 ## Theorie development
 * [[Pipeline safety learning]]
