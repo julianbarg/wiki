@@ -52,7 +52,43 @@ Very little can be found about this spill. Certainly, very little can be learned
 
 ### PHMSA narrative
 
+Chevron pipe line company's empire terminal which is located in the very southeastern part of louisiana, just north of buras, in plaquemines parish was impacted by hurricane katrina and suffed major wind damages.
+
 ### Quantitative data
+
+|**General information**
+|----------------|---:
+|Incident ID:    |20050287
+|Operator name:  |Chevron Pipe Line Company
+|Date:           |2005-08-29
+|State:          |LA
+|Lat/Long:       |29 - 22.49/89 - 32.97
+|Commodity:      |crude
+|**Outcomes**
+|Spill volume:   |23614
+|Recovered:      |23614
+|Net loss:       |0
+|Cost:           |1.5e+08
+|Cost (USD 1984):|90712482.7902708
+|Injuries:       |0
+|Fatalities:     |0
+|**Causes**
+|Cause (self selected):              |NATURAL FORCES
+|Cause (coded by PHMSA):             |natural force damage
+|Subcause (coded by PHMSA):          |high winds
+|System that cause the incident:     |Pump/Meter Station; Terminal/Tank Farm Piping And Equipment, Including Sumps
+|Part that caused the incident:      |Other
+|Year that the part was installed:   |NA
+|Year that the part was manufactured:|NA
+|**Other impacts**
+|Water contamination:                           |FALSE
+|Did a fire occur?                              |FALSE
+|Did an explosion occur?                        |FALSE
+|Need for surface water remediation anticipated?|FALSE
+|Need for groundwater remediation anticipated?  |FALSE
+|Need for soil remediation anticipated?         |FALSE
+|Need for vegetation remediation anticipated?   |FALSE
+|Need for wildlife remediation anticipated?     |FALSE
 
 ## Resources
 
