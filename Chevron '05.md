@@ -62,6 +62,10 @@ Very little can be found about this spill. Certainly, very little can be learned
 
 ### Other
 
+#### Katrina and Rita
+
+* [[https://response.restoration.noaa.gov/about/media/10-years-after-being-hit-hurricane-katrina-seeing-oiled-marsh-center-experiment-oil-clea]]
+
 #### 15 years later
 
 * [[https://www.propublica.org/article/how-oil-companies-avoided-environmental-accountability-after-10.8-million-gallons-spilled]]
