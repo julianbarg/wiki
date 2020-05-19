@@ -22,6 +22,8 @@ Back to [[Oil spills]].
 
 ## Summary
 
+When Hurricane Katrina made windfall on August 29, a storage tank ruptured, spilling oil into a retention pond. Because the spill was contained by the storage tank, Chevron claimed the net loss to be 0 barrels. On September 24, Hurricane Rita hit Louisiana. That second hurricane caused some of the crude, which had still remeined in the retention pond, to be spilled into the neighboring marsh. The response forces later decided to "dispose" of this spill though in situ burning. The $150 million property damage figure that the Chevron submitted (for Katrina) is hard to comprehend. As of 2019. Maybe the cost include damage to facilities from the storm, and lost revenue?
+
 ## Significance
 
 Very little can be found about this spill. Certainly, very little can be learned from this spills if it is "swept under the rug". Maybe that is because the spill is seen as solely caused by Hurricane Katrina, and overall, the response to Hurricane Katrina in terms of containing oil spills is drawn as positive by the EPA. But if we turn this logic on its head, that means that major oil spills are seen as an acceptable outcome of a Hurricane. Also, it seems that this spill, although relatively large and costly, was overshadowed by the offshore spills that occured at the same time. The outcome of the process is that we can say almost with certainty that spill will continue, and gain in severity, see [[resources|Chevron '05#15-years-later]].
@@ -93,11 +95,19 @@ Expanding oil industry in the gulf of Mexico
 
 * [[https://thinkprogress.org/louisiana-governor-jindal-unaware-katrina-caused-major-oil-spills-in-his-own-state-af9a45aebef/]]
 
-#### Hurricane Harvey
+#### Later hurricanes 
+
+**Hurricane Harvey** 
 
 "most plants escaped long-term damage and were back in action quickly enough to capture swelling margins created by fuel shortages". But what would would have happened if a second spill had occured?
 
 * [[https://www.texasbar.com/AM/Template.cfm?Section=articles&Template=/CM/HTMLDisplay.cfm&ContentID=39647]]
+
+**Hurricane Isaac**
+
+Unremarkable hurricane, with some noteworthy impacts.
+
+* [[https://www.facingsouth.org/2015/08/the-katrina-oil-spill-disaster-a-harbinger-for-the.html]]
 
 ## Data
 
