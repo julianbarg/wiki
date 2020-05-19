@@ -8,6 +8,10 @@ Back to [[Oil spills]].
 
 ## Actors
 
+* [[Chevron]]
+* Louisiana Oil Spill Coordinator's Office - [[LOSCO]]
+* National Oceanic and Atmospheric Administration - [[NOAA]]
+
 ## Summary
 
 ## Significance
@@ -103,3 +107,4 @@ Chevron pipe line company's empire terminal which is located in the very southea
 [[https://assets-c3.propublica.org/images/articles/_threeTwo1600w/20191227-Oil-Spills-Bass-Enterprises.jpg|frame, width=600px, alt=Use of absorbent pads during hurricane Katrina at Bass Enterprise South Facility, https://www.propublica.org/article/how-oil-companies-avoided-environmental-accountability-after-10.8-million-gallons-spilled]]
 
 ## Notes
+* No new regulations in Louisiana since the spill, see [[resources|Chevron '05#15-years-later]]
