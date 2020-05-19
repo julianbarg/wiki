@@ -62,6 +62,10 @@ Very little can be found about this spill. Certainly, very little can be learned
 
 ### Other
 
+Presidential report - one paragraph on spills:
+
+* [[http://library.stmarytx.edu/acadlib/edocs/katrinawh.pdf]]
+
 #### Katrina and Rita
 
 * [[https://response.restoration.noaa.gov/about/media/10-years-after-being-hit-hurricane-katrina-seeing-oiled-marsh-center-experiment-oil-clea]]
