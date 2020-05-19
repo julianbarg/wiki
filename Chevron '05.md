@@ -98,6 +98,6 @@ Chevron pipe line company's empire terminal which is located in the very southea
 
 ### Oil absorbent pads
 
-[[https://assets-c3.propublica.org/images/articles/_threeTwo1600w/20191227-Oil-Spills-Bass-Enterprises.jpg|frame, alt=Use of absorbent pads during hurricane Katrina at Bass Enterprise South Facility, https://www.propublica.org/article/how-oil-companies-avoided-environmental-accountability-after-10.8-million-gallons-spilled]]
+[[https://assets-c3.propublica.org/images/articles/_threeTwo1600w/20191227-Oil-Spills-Bass-Enterprises.jpg|frame, width=600px, alt=Use of absorbent pads during hurricane Katrina at Bass Enterprise South Facility, https://www.propublica.org/article/how-oil-companies-avoided-environmental-accountability-after-10.8-million-gallons-spilled]]
 
 ## Notes
