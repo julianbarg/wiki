@@ -4,6 +4,11 @@
 
 * [[Spill template|Pipeline spill entry]]
 
+## Titles
+
+* Better, faster, cleaner?
+* Something with "modern", "industry", and "learning"
+
 ## Theorie development
 * [[Pipeline safety learning]]
 
