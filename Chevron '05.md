@@ -10,7 +10,7 @@ Back to [[Oil spills]].
 
 ## Significance
 
-Very little can be found about this spill. Certainly, very little can be learned from this spills if it is "swept under the rug". Maybe that is because the spill is seen as solely caused by Hurricane Katrina, and overall, the response to Hurricane Katrina in terms of containing oil spills is drawn as positive by the EPA. But if we turn this logic on its head, that means that major oil spills are seen as an acceptable outcome of a Hurricane. Also, it seems that this spill, although relatively large and costly, was overshadowed by the offshore spills that occured at the same time.
+Very little can be found about this spill. Certainly, very little can be learned from this spills if it is "swept under the rug". Maybe that is because the spill is seen as solely caused by Hurricane Katrina, and overall, the response to Hurricane Katrina in terms of containing oil spills is drawn as positive by the EPA. But if we turn this logic on its head, that means that major oil spills are seen as an acceptable outcome of a Hurricane. Also, it seems that this spill, although relatively large and costly, was overshadowed by the offshore spills that occured at the same time. 
 
 ## Learning
 
@@ -47,6 +47,10 @@ Very little can be found about this spill. Certainly, very little can be learned
 ### Videos
 
 ### Other
+
+#### 15 years later
+
+* [[https://www.propublica.org/article/how-oil-companies-avoided-environmental-accountability-after-10.8-million-gallons-spilled]]
 
 ## Data
 
