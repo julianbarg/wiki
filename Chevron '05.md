@@ -73,6 +73,20 @@ Very little can be found about this spill. Certainly, very little can be learned
 #### Louisiana environmental governance
 * [[https://www.propublica.org/article/how-louisiana-lawmakers-stop-residents-efforts-to-fight-big-oil-and-gas]]
 
+#### Response to Hurricane Katrina
+
+Expanding oil industry in the gulf of Mexico
+
+* [[https://www.facingsouth.org/2015/08/the-katrina-oil-spill-disaster-a-harbinger-for-the.html]]
+
+#### Spill as success
+
+* [[https://archive.epa.gov/emergencies/content/fss/web/pdf/davis.pdf]]
+
+"no major spills": 
+
+* [[https://thinkprogress.org/louisiana-governor-jindal-unaware-katrina-caused-major-oil-spills-in-his-own-state-af9a45aebef/]]
+
 ## Data
 
 ### PHMSA narrative
