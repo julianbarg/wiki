@@ -4,7 +4,7 @@ Back to [[Oil spills]].
 
 ## Incident image
 
-[[resources/fingas_2017_chevron.png|frame,alt=Aerial photo of the spill from Fingas (2017) p. 571, width=450px]]
+[[resources/fingas_2017_chevron.png|frame,alt=Aerial photo of the spill from Fingas (2017) p. 571. Also visible is the retention pond, which caught the leaking oil., width=450px]]
 
 [[https://response.restoration.noaa.gov/sites/default/files/chevron-empire-oil-tanks-burning-marsh_noaa_720.jpg|frame, alt=Spill and fire, https://response.restoration.noaa.gov/about/media/10-years-after-being-hit-hurricane-katrina-seeing-oiled-marsh-center-experiment-oil-clea, width=450px]]
 
