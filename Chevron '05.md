@@ -11,6 +11,12 @@ Back to [[Oil spills]].
 * [[Chevron]]
 * Louisiana Oil Spill Coordinator's Office - [[LOSCO]]
 * National Oceanic and Atmospheric Administration - [[NOAA]]
+* Louisiana Department of Natural Resources - [[DNR]]
+* Louisiana Department of Environmental Quality - [[DEQ]]
+* Louisiana Department if Interior - [[DOI]]
+* National Response Center ([[NRC]]) of the [[Coast Guard]]
+* [[EPA]]
+* Marine Spill Response Corporation - [[MSRC]]
 
 ## Summary
 
@@ -57,6 +63,9 @@ Very little can be found about this spill. Certainly, very little can be learned
 #### 15 years later
 
 * [[https://www.propublica.org/article/how-oil-companies-avoided-environmental-accountability-after-10.8-million-gallons-spilled]]
+
+#### Louisiana environmental governance
+* [[https://www.propublica.org/article/how-louisiana-lawmakers-stop-residents-efforts-to-fight-big-oil-and-gas]]
 
 ## Data
 
@@ -108,3 +117,4 @@ Chevron pipe line company's empire terminal which is located in the very southea
 
 ## Notes
 * No new regulations in Louisiana since the spill, see [[resources|Chevron '05#15-years-later]]
+* $19 million paid out to oil companies for cleaning up oil spills, see [[resources|Chevron '05#15-years-later]]
