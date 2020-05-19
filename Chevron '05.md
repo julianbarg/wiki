@@ -85,6 +85,8 @@ Expanding oil industry in the gulf of Mexico
 
 #### Spill as success
 
+"A good job was done by all.":
+
 * [[https://archive.epa.gov/emergencies/content/fss/web/pdf/davis.pdf]]
 
 "no major spills": 
