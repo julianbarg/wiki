@@ -4,7 +4,7 @@ Back to [[Oil spills]].
 
 ## Incident image
 
-[[resources/fingas_2017_chevron.png|frame,alt=Aerial photo of the spill, width=600px]]
+[[resources/fingas_2017_chevron.png|frame,alt=Aerial photo of the spill in Fingas 2017 p. 571, width=600px]]
 
 ## Actors
 
