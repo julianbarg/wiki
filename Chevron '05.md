@@ -93,6 +93,12 @@ Expanding oil industry in the gulf of Mexico
 
 * [[https://thinkprogress.org/louisiana-governor-jindal-unaware-katrina-caused-major-oil-spills-in-his-own-state-af9a45aebef/]]
 
+#### Hurricane Harvey
+
+"most plants escaped long-term damage and were back in action quickly enough to capture swelling margins created by fuel shortages". But what would would have happened if a second spill had occured?
+
+* [[https://www.texasbar.com/AM/Template.cfm?Section=articles&Template=/CM/HTMLDisplay.cfm&ContentID=39647]]
+
 ## Data
 
 ### PHMSA narrative
