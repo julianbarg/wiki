@@ -38,6 +38,7 @@ Very little can be found about the specific spill that occured at the Empire Ter
 
 ## The spill
 
+
 ## Cause analysis
 
 ### What could have been done
