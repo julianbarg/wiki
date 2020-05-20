@@ -38,6 +38,7 @@ Very little can be found about the specific spill that occured at the Empire Ter
 
 ## The spill
 
+During Hurricane Katrina, a storage tank was hit by a large object and spilled its content into a retention pond. Hurricane Rita hit a few weeks later and caused some of the oil that had remained in the retention pond to enter a neighboring marsh. The response force claimed that marshes are difficult to clean. Since most of the oil collected in a small area, they decided to carry out an in situ burn (which are usually only carried out on open waters). 
 
 ## Cause analysis
 
