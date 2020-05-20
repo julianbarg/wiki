@@ -38,21 +38,28 @@ Very little can be found about the specific spill that occured at the Empire Ter
 
 ## The spill
 
-During Hurricane Katrina, a storage tank was hit by a large object and spilled its content into a retention pond. Hurricane Rita hit a few weeks later and caused some of the oil that had remained in the retention pond to enter a neighboring marsh. The response force claimed that marshes are difficult to clean. Since most of the oil collected in a small area, they decided to carry out an in situ burn (which are usually only carried out on open waters). 
+During Hurricane Katrina, a storage tank was hit by a large object and spilled its content into a retention pond. Hurricane Rita hit a few weeks later and caused some of the oil that had remained in the retention pond to enter a neighboring marsh. The response force claimed that marshes are difficult to clean. Since most of the oil collected in a small area, they decided to carry out an in situ burn (which are usually only carried out on open waters). The crude was burned in six sections, one section at a time. The first burn is described as "dramatic" and burned for three hours, whereas the second fire was more benign and took four and a half hours, see [[resources|Chevron '05#Katrina and Rita]]
 
 ## Cause analysis
 
 ### What could have been done
+* The lower Plaquemines Parish seems a terrible choice of location for any chemical industry.
 
 #### To prevent the spill
+* More flood protection, e.g., higher levees.
+* Faster cleanup after the first hurricane.
 
 #### To reduce the severity of the spill
 
 ### Faulty parts/flawed procedures
+* The whole thing.
 
 ## Aftermath/learning
+* Contradictory claims as to whether flood protection was improved, see [[resources|Chevron '05#Later-hurricanes]].
+* No changes to laws, see [[resources|Chevron '05#15-years-later]].
 
 ## My reactions
+* Can I really claim that having an oil industry in Plaquemines Parish is a bad idea? The whole lower part of the Parish might disappear in the next few decades, but it is just a fact that this is where a lot of oil is located.
 
 ## Various
 
