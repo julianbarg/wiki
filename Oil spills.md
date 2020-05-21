@@ -23,6 +23,7 @@
 * [[Chevron '02]]
 * [[Kinder Morgan '04]]
 * [[Chevron '05]]
+* [[Semcrude '06]]
 
 ## To do
 * Add data on wall diameter, thickness, and maximum yield strength?
