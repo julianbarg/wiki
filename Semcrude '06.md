@@ -5,8 +5,11 @@ Back to [[Oil spills]].
 ## Incident image
 
 ## Actors
+* [[Semcrude]]
 
 ## Summary
+
+Cushing, Oklahoma has 13% of the US' oil storage. A storage tank corroded enough to spill its contents into a containment area or retention pond. Obviously, it is concerning that a storage tank can be allowed to corrode that much. The tank was constructed in the 1930s. The spill volume of 49,000 barrels makes this the third largest spill on record. However, the containment area fulfilled its function, and the net loss was much smaller at 100 barrels. The 100 barrels lost probably seeped into the soil, as the soil remediation plans suggest. On the internet, no information can be found on the spill, probably because the actual volume lost is very small. At a cost of approximately \$700,000, the spill is not insignificant. But again, this cost might be small compared to the cost of modernizing a site from the 1930s.
 
 ## Significance
 
@@ -45,6 +48,10 @@ Back to [[Oil spills]].
 ### Videos
 
 ### Other
+
+#### About Cushing
+
+* [[https://www.cmegroup.com/education/lessons/the-importance-of-cushing-oklahoma.html]]
 
 ## Data
 
