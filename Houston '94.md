@@ -148,6 +148,9 @@ Also:
 #### Regarding PHMSA research and action
 * [[https://www.wyofile.com/rivers-of-oil-standards-for-burying-oil-pipelines-prove-insufficient]]
 
+### Hurricane Harvey
+* [[https://www.houstonchronicle.com/news/houston-texas/houston/article/In-Houston-and-beyond-Harvey-s-spills-leave-a-12771237.php]]
+
 ## Data
 
 ### PHMSA narrative
