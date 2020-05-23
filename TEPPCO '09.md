@@ -4,7 +4,7 @@ Back to [[Oil spills]].
 
 ## Incident image
 
-[[resources/csb_teppco_image.png|frame, alt=The exploded storage tank in CSB (2010), p 9, width=600x]]
+[[resources/csb_teppco_image.png|frame, alt=The exploded storage tank in CSB (2010), p 9, width=600px]]
 
 ## Actors
 
