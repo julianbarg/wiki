@@ -50,6 +50,10 @@ Subcontractors were
 
 ### News reports
 
+Fire Marshall & Inspections
+
+* [[https://www.insurancejournal.com/news/southcentral/2009/05/15/100565.htm]]
+
 ### Relevant laws and regulations
 
 ### Videos
@@ -65,3 +69,4 @@ Subcontractors were
 ## Resources
 
 ## Notes
+* There is only one Fire Marshall in Arkansas, who is in charge of all similar facilities, but only if they are constructed after 1992, see [[resources|TEPPCO '09#News-reports.
