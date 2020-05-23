@@ -34,6 +34,9 @@
 
 * Is the number of pipeline spills a predictor of subsquent spill volume? That would provide me with an avenue for inquiry - there is a definitve feedback from the environment, but it is not utilized. Because low-level activities, especially controllers, are ignored.
 
+### Regarding the law
+* How do I trace the changes made to the law (see [[https://cms7.phmsa.dot.gov/regulations/title49/b/2/1]])?
+
 ## Secondary sources
 
 ### Leak detection systems
