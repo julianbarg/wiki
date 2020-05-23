@@ -109,4 +109,4 @@ Fire Marshall & Inspections
 
 ## Notes
 * There is only one Fire Marshall in Arkansas, who is in charge of all similar facilities, but only if they are constructed after 1992, see [[resources|TEPPCO '09#News-reports]].
-* I did not understand how to read the regulations involved in this, see [[resources|TEPPCO '09#PHMSA-report]]
+* I did not understand how to read the regulations involved in this, see [[resources|TEPPCO '09#phmsa-report]].
