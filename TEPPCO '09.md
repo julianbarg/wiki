@@ -20,7 +20,7 @@ Subcontractors were installing a gauge pole in a storage tank at the McRae termi
 
 ## Significance
 
-Again, the cause of the incident is relatively simple, and a part of the pipeline system is involved that usually gets little attention. The grounds for the fine dished out are relatively vague--
+Again, the cause of the incident is relatively simple, and a part of the pipeline system is involved that usually gets little attention. The fine of $200,000 [@PHMSA2009] seems not suitable for stopping the behavior.
 
 ## Learning
 
