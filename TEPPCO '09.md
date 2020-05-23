@@ -20,6 +20,8 @@ Subcontractors were installing a gauge pole in a storage tank at the McRae termi
 
 ## Significance
 
+Again, the cause of the incident is relatively simple, and a part of the pipeline system is involved that usually gets little attention. The grounds for the fine dished out are relatively vague--
+
 ## Learning
 
 ### Mechanisms
@@ -47,6 +49,9 @@ Subcontractors were installing a gauge pole in a storage tank at the McRae termi
 ## Documents
 
 ### NTSB report
+
+### PHMSA report
+* [[https://primis.phmsa.dot.gov/comm/reports/enforce/documents/420105015/420105015_NOPV%20PCP_08272010_text.pdf]]
 
 ### News reports
 
@@ -104,3 +109,4 @@ Fire Marshall & Inspections
 
 ## Notes
 * There is only one Fire Marshall in Arkansas, who is in charge of all similar facilities, but only if they are constructed after 1992, see [[resources|TEPPCO '09#News-reports]].
+* I did not understand how to read the regulations involved in this, see [[resources|TEPPCO '09#PHMSA-report]]
