@@ -16,7 +16,7 @@ Back to [[Oil spills]].
 
 ## Summary
 
-Subcontractors were installing a gauge pole in a storage tank at the McRae terminal. Two mistakes occured. The tank had been cleaned by a subcontractor, but (1) only one floor instead of the whole structure [@PHMSA2009 p. 3]. At 7AM, they had tested the air for explosive fumes. The explosion occured at 2:17PM, after they had returned to work (2) without testing for fumes again. Their testing equipment was later found in their truck [@PHMSA2009 p.5].
+Subcontractors were installing a gauge pole in a storage tank at the McRae terminal. Two mistakes occured. The tank had been cleaned by a subcontractor, but (1) only one floor instead of the whole structure [@PHMSA2009 p. 3]. At 7AM, they had tested the air for explosive fumes. The explosion occured at 2:17PM, after they had returned to work (2) without testing for fumes again. They were torch-cutting a pontoon roof. Their testing equipment was later found in their truck [@PHMSA2009 p.5].
 
 ## Significance
 
@@ -25,10 +25,15 @@ Again, the cause of the incident is relatively simple, and a part of the pipelin
 ## Learning
 
 ### Mechanisms
+* CSB wrote a brochure on deaths during hot work on tanks [@CSB2010]
+* PHMSA imposed a fine of 200,000 on TEPPCO
 
 ### Outcomes
+* Potantially less incidents during hot work on tanks?
 
 ## The spill
+
+The contractors were torch-cutting a hole into the pontoon roof, which ignited the vapors inside. The three contractors died from the concussion of the explosion, there was no fire.  
 
 ## Cause analysis
 
