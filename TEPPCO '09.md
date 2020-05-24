@@ -69,6 +69,8 @@ The contractors were torch-cutting a hole into the pontoon roof, which ignited t
 
 ### News reports
 
+* [[https://www.claimsjournal.com/news/southcentral/2009/05/14/100516.htm]]
+
 Fire Marshall & Inspections
 
 * [[https://www.insurancejournal.com/news/southcentral/2009/05/15/100565.htm]]
