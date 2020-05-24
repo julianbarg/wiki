@@ -25,7 +25,7 @@
 * [[Chevron '05]]
 * [[Semcrude '06]]
 * [[TEPPCO '09]]
-* [[Enbridge '10]]
+* [[Kalamazoo River oil spill]]
 
 ## To do
 * Add data on wall diameter, thickness, and maximum yield strength?
