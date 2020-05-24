@@ -20,7 +20,7 @@ Subcontractors were installing a gauge pole in a storage tank at the McRae termi
 
 ## Significance
 
-Again, the cause of the incident is relatively simple, and a part of the pipeline system is involved that usually gets little attention. The fine of $200,000 [@PHMSA2009] seems not suitable for stopping the behavior.
+Again, the cause of the incident is relatively simple, and an overlooked part of the pipeline system is. The fine of $200,000 [@PHMSA2009] seems not suitable for stopping the behavior. Also, this is the first report I have seen that has later been updated/completed. In 2015, 6 years after the incident, the commodity involved was specified.
 
 ## Learning
 
@@ -40,14 +40,23 @@ The contractors were torch-cutting a hole into the pontoon roof, which ignited t
 ### What could have been done
 
 #### To prevent the spill
+* Test atmosphere for fumes before using blow torch.
 
 #### To reduce the severity of the spill
 
 ### Faulty parts/flawed procedures
+* Procedures existed, but were not followed?
+* TEPPCO did not inspect the whole tank before work began.
+* Contractors did not use their detector after break.
+* TEPPCO did not enforce use of detectors after break.
 
 ## Aftermath/learning
+* Reemphasizing existing rules
 
 ## My reactions
+* This whole incident seems pretty dumb.
+* Again, it's not pipeline, it's another overlooked part in the system.
+* Could I have made the same mistake?
 
 ## Various
 
@@ -71,6 +80,12 @@ Fire Marshall & Inspections
 ### Other
 
 ## Data
+
+### PHMSA narrative
+
+Teppco contractors were preparing tank 1303 to receive the installation of a guage pole when an explosion occurred. Contractors employed to work on tank 1303 unsuccessfully rendered the tank free of vapors by not following company procedures as part of the job planning. The “company” requires that all personnel have the knowledge, skills, and abilities to perform certain job functions in the prevention of accidents during skilled routine and non-routine work. Enterprise will seek opportunities to review its accepted industry practices, identify, and use additional qualified leading industry contractors. In result, enterprise contractors performing such skilled services will meet internal and regulatory requirements through primary contractor information management system providers.      Updated by phmsa on 9/15/2015 (commodity classification).
+
+### Quantitative data
 
 |**General information**
 |----------------|---:
@@ -105,10 +120,6 @@ Fire Marshall & Inspections
 |Need for soil remediation anticipated?         |FALSE
 |Need for vegetation remediation anticipated?   |FALSE
 |Need for wildlife remediation anticipated?     |FALSE
-
-### PHMSA narrative
-
-### Quantitative data
 
 ## Resources
 
