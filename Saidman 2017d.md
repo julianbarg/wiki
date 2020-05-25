@@ -25,7 +25,9 @@ Seidman, S. (2017). Revisions and Revolts : The Postmodern Turn. In *Contested K
 
 ## Resources
 
-## 
+## Section by section summary
+
+### Structuralism
 
 ## Important points
 
