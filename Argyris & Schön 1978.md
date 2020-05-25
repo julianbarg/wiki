@@ -40,7 +40,11 @@ Argyris, C., & Schön, D. A. (1978). Organizational Learning: A Theory of Action
 
 ## Resources
 
-## One-page summary
+## Chapter by chapter summary
+
+### Chapter one
+
+Gives an overview over organizational memory and organizational learning. Organizational norms, strategies and assumptions constitute the organizations _theory of action_. The organization also possesses a more tacit _theory-in-use_--which may sometimes conflict with the _theory of action_.
 
 ## Important points
 * "[T]he very information needded to detect and correct erros becomes undiscussable" (pp. 3f).
