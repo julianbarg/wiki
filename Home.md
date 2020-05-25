@@ -8,6 +8,7 @@
 * [[Business Strategy II (2017)|Business Strategy II 2017]]
 * [[Business Sustainability (2017)|Business Sustainability 2017]]
 * [[Organizational Theory (2017)|Organizational Theory 2017]]
+* [[Modern Social Theory (2017)]]
 
 ## Phenomena
 * [[Oil spills]]
