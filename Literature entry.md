@@ -4,6 +4,8 @@
 
 \## Citation
 
+\## One-paragraph summary
+
 \## Related to
 
 \### Theories
@@ -12,12 +14,16 @@
 
 \### Previous literature/influences
 
+\### Projects
+
 \### Cited by
+
+\## Concepts
 
 \## Resources
 
+\## One-page summary
+
 \## Important points
 
-\## One-paragraph summary
-
-\## One-page summary
+\## Reactions
