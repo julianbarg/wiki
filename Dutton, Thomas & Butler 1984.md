@@ -17,6 +17,9 @@ Dutton, J. M., Thomas, A., & Butler, J. E. (1984). The History of Progress Funct
 * [[Wright 1936]]
 * [[Alchian 1963]]
 
+### Projects
+* [[Pipeline safety learning]]
+
 ## Resources
 
 ### Variance of the learning rate across different studies.
