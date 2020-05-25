@@ -17,6 +17,9 @@ Argyris, C., & Schön, D. A. (1978). Organizational Learning: A Theory of Action
 
 ### Previous literature/influences
 
+### Proejcts
+* [[Pipeline safety learning]]
+
 ### Cited by
 
 ## Concepts
