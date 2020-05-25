@@ -21,6 +21,10 @@ Argyris, C., & Schön, D. A. (1978). Organizational Learning: A Theory of Action
 
 ## Concepts
 
+### Organizational maps
+
+"[S]hared decriptions of organization [sic, ...]"
+
 ## Resources
 
 ## One-page summary
