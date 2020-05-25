@@ -23,7 +23,11 @@ Argyris, C., & Schön, D. A. (1978). Organizational Learning: A Theory of Action
 
 ### Organizational maps
 
-"[S]hared decriptions of organization [sic, ... which] include, for example, diagrams of work flow, compensation charts, statements of procedure, even the schematic drawings of office space." [@argyris1978 p. 17].)
+"[S]hared decriptions of organization [sic, ... which] include, for example, diagrams of work flow, compensation charts, statements of procedure, even the schematic drawings of office space" [@argyris1978 p. 17].
+
+### Single-loop learning
+
+"There is a single feed-back loop which connects detected outcomes of action to organizational strategies and assumptions which are modified so as to keep organizational performance within the range set by organizational norms. The norms themselves--for product quality, sales, or task performance--remain unchanged" [@argyris1978 pp. 18f].
 
 ## Resources
 
