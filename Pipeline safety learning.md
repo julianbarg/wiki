@@ -6,7 +6,7 @@
 * [[Dutton, Thomas & Butler 1984]]
 
 ## Double loop learning
-* [[Argyris and Schön 1978]]
+* [[Argyris & Schön 1978]]
 
 ## Behavioral approach
 * [[March & Olsen 1975]]
