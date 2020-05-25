@@ -2,6 +2,8 @@
 
 [[_TOC_]]
 
+[[Back to the Seidman 2017|Seidman 2017]]
+
 ## Citation
 Seidman, S. (2017). Revisions and Revolts : The Postmodern Turn. In *Contested Knowledge: Social Theory Today* (6th Edition, pp. 157–199). John Wiley & Sons, Ltd.
 
