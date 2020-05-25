@@ -44,7 +44,7 @@ Argyris, C., & Schön, D. A. (1978). Organizational Learning: A Theory of Action
 
 ### Chapter one
 
-Gives an overview over organizational memory and organizational learning. Organizational norms, strategies and assumptions constitute the organizations _theory of action_. The organization also possesses a more tacit _theory-in-use_--which may sometimes conflict with the _theory of action_.
+Gives an overview over organizational memory and organizational learning. Organizational norms, strategies and assumptions constitute the organizations _theory of action_. The organization also possesses a more tacit _theory-in-use_--which may sometimes conflict with the _theory of action_. Individuals represent their theory-in-use of the organzation in _organizational maps_, which includes diagrams of workflow, statements of procedure, compensation charts, etc (p.17). When the outcomes fail to meet expectations, a member may modify its organizational maps in a fashion that the member finds suitable to bring future outcomes back in line with expectations. If the member can convince other members to adopt this modified organizational map, this might lead to a change of theory-in-use--_organizational learning_ occurs.
 
 ## Important points
 * "[T]he very information needded to detect and correct erros becomes undiscussable" (pp. 3f).
