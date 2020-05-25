@@ -25,6 +25,10 @@ Seidman, S. (2017). *Contested Knowledge. Social Theory Today* (6th Edition).
 
 ## Chapter by chapter summary
 
+### Chapter II
+
+* [[Seidman 2017b]]
+
 ### Chapter IV
 
 * [[Saidman 2017d]]
