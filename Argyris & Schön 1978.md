@@ -23,7 +23,7 @@ Argyris, C., & Schön, D. A. (1978). Organizational Learning: A Theory of Action
 
 ### Organizational maps
 
-"[S]hared decriptions of organization [sic, ...]"
+"[S]hared decriptions of organization [sic, ... which] include, for example, diagrams of work flow, compensation charts, statements of procedure, even the schematic drawings of office space." (@argyris1978 p. 17].)
 
 ## Resources
 
