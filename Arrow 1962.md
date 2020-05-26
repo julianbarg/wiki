@@ -23,3 +23,6 @@ The epitomy of a modernist learning paper. The author start off with the assumpt
 * Assumes a continuous growth in production, as long as total labor force employed (L) stays constant (p. 159).
 * Assumes that (entrepreneurs will assume that) wages will increase exponentially (p. 162).
 * The expected wage growth is used to calculate the economic lifetime of an investment - so what if the wage doesn't grow? Then, the physical lifetime takes over (p. 162). Both does not seem to hold true anymore.
+
+## Reactions 
+* The embodiment of modernism. No changes to style and preferences assumed. Every generation of products is better than the last, although more growth is always feasible. When the reality is that your fancy new kitchen with synthetic, easy to clean surfaces will soon be replaced by a marble countertop again, as soon as it is back in fashion. And similarly, there are trends in management, too.
