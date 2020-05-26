@@ -28,5 +28,7 @@ March, J. G., & Olsen, J. P. (1975). The Uncertainty of the Past: Organizational
 ## One-page summary
 
 ## Important points
+* Distinguishing between rational calculation and learning from experience.
+* Learning from experience also includes deliberate efforts--experimentation!
 
 ## Reactions
