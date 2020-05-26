@@ -22,6 +22,9 @@
 * [[Meeting notes]]
 * [[Seminars]]
 
+## Conference & seminar series notes
+* [[NOTES]]
+
 ## Conference Submissions
 * [[EGOS 2020]]
 
