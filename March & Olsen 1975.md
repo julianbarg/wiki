@@ -25,7 +25,7 @@ March, J. G., & Olsen, J. P. (1975). The Uncertainty of the Past: Organizational
 
 ## Resources
 
-[[resources/March_Olsen_1975_fig_1.png|frame, width=500px, alt=Fig. 1. The Complete Cycle of Choice (p. 15)]]
+[[resources/March_Olsen_1975_fig_1.png|frame, width=500px, alt=Fig 1--p. 15]]
 
 ## One-page summary
 
