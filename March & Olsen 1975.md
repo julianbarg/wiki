@@ -7,6 +7,8 @@ March, J. G., & Olsen, J. P. (1975). The Uncertainty of the Past: Organizational
 
 ## One-paragraph summary
 
+March and Olsen tackle the cycle of choice--the notion that organizational learning happens when invididuals in organizations make choices based on their insights, the outcomes of which 
+
 ## Related to
 
 ### Theories
