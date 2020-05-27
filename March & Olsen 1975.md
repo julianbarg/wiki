@@ -27,6 +27,8 @@ March, J. G., & Olsen, J. P. (1975). The Uncertainty of the Past: Organizational
 
 ## One-page summary
 
+The article is written in an era where there is a transition of the literature from rationality to limited rationality. March and Olsen want to bring this transition to organizations, through making simple observations, for instance the observation that organizations cannot always distinguish success from failure.
+
 ## Important points
 * Distinguishing between rational calculation and learning from experience.
 * Learning from experience also includes deliberate efforts--experimentation!
