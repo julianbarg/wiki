@@ -7,7 +7,7 @@ March, J. G., & Olsen, J. P. (1975). The Uncertainty of the Past: Organizational
 
 ## One-paragraph summary
 
-March and Olsen tackle the cycle of choice--the notion that organizational learning happens when invididuals in organizations make choices based on their insights, the outcomes of which 
+March and Olsen tackle the cycle of choice: the notion that organizational learning happens when invididuals in organizations make choices based on their insights, the outcomes of which prompt environmental responses, which get picked up again by individuals' cogntion--restarting the circle. March and Olsen note limitations to every relationship in the circle. Learning from experience is an alternative to the then-popular model of organizational intelligence through rational calculation. There is _role-contrained_ experiential learning, _superstitious_ experiential learning, _audience_ experiential learning, and experiential learning under _ambiguity_.
 
 ## Related to
 
