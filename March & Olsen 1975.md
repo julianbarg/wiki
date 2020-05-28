@@ -7,7 +7,9 @@ March, J. G., & Olsen, J. P. (1975). The Uncertainty of the Past: Organizational
 
 ## One-paragraph summary
 
-March and Olsen tackle the cycle of choice: the notion that organizational learning happens when invididuals in organizations make choices based on their insights, the outcomes of which prompt environmental responses, which get picked up again by individuals' cogntion--restarting the circle. March and Olsen note limitations to every relationship in the circle. Learning from experience is an alternative to the then-popular model of organizational intelligence through rational calculation. There is _role-contrained_ experiential learning, _superstitious_ experiential learning, _audience_ experiential learning, and experiential learning under _ambiguity_.
+March and Olsen tackle the cycle of choice: the notion that organizational learning happens when invididuals in organizations make choices based on their insights, the outcomes of which prompt environmental responses, which get picked up again by individuals' cogntion--restarting the circle. March and Olsen note limitations to every relationship in the circle. Learning from experience is an alternative to the then-popular model of organizational intelligence through rational calculation. There is _role-contrained_ experiential learning, _superstitious_ experiential learning, _audience_ experiential learning, and experiential learning under _ambiguity_. The purpose of this article is to sketch out organizational learning under ambiguity. They argue that individuals in organizations do spend significant efforts to learn, but that this process is necessarily imperfect.
+
+March and Olsen spend the last section explaining why what individuals see and like is not easily predicted. Both are socially determined. For instance, individuals are more likely to see what others from their in-group see, and to like what others in their in-group do. On the other hand, they may attribute outcomes they do not like to organizational members in their out-group.
 
 ## Related to
 
