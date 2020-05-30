@@ -79,6 +79,7 @@ Not learning but still very relevant:
 
 ## Method papers
 * [[Rhee 2009]]
+* [[Madsen and Desai 2018]]
 
 ## Notes
 
