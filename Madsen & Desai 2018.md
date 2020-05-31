@@ -10,7 +10,7 @@ Madsen and Desai (2018) theorize that population-level factors affect vicarious 
 
 ### Methods
 
-Company-country-year observations. Various independent variables that capture vicarious learning as well as regulator activity. Uses negative binomial regression with various interesting robustness checks.
+Company-country-year observations. Various independent variables that capture vicarious learning as well as regulator activity. Uses negative binomial regression with various interesting robustness checks. Did not choose Poisson because of likelihood ratio test result.
 
 ## Related to
 
