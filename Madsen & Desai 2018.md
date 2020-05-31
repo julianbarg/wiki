@@ -5,15 +5,25 @@
 ## Citation
 Madsen, P. M., & Desai, V. (2018). No Firm Is an Island: The Role of Population-Level Actors in Organizational Learning from Failure. *Organization Science*, 29(4), 739–753. [[https://doi.org/10.1287/orsc.2017.1199]]
 
+## One-paragraph summary
+Madsen and Desai (2018) theorize that population-level factors affect vicarious learning of organizations. They show that rates of vicarious learning from others' failures vary across jurisdictions (H1). Further, that regulators' monitoring strength positively affects vicarious learning. And finally, they show for a subsample the ability of active regulators to positively affect failure rates.
+
 ## Related to
 
 ### Theories
 * [[Learning]]
 
-### Previous literature
+### Conferences, courses, etc. 
+
+### Previous literature/influences
 * [[Levinthal and March 1993]]
 * [[Levitt and March 1988]]
 * [[Madsen and Desai 2018]]
+
+### Projects
+* [[Pipeline safety learning]]
+
+### Cited by
 
 ## Resources
 
@@ -26,8 +36,8 @@ All independent variables are airline-country-year. A is the set of all airlines
 * *Population-level actor strength*: From regulatory audit carried out by ICAO.
 * *Pop. actor strength* X *others' failure experience (within country)*
 
-## One-paragraph summary
-
-Madsen and Desai (2018) theorize that population-level factors affect vicarious learning of organizations. They show that rates of vicarious learning from others' failures vary across jurisdictions (H1). Further, that regulators' monitoring strength positively affects vicarious learning. And finally, they show for a subsample the ability of active regulators to positively affect failure rates.
-
 ## One-page summary
+
+## Important points
+
+##Reactions
