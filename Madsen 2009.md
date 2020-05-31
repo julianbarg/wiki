@@ -21,6 +21,7 @@ Madsen, P. M. (2009). These Lives Will Not Be Lost in Vain: Organizational Learn
 * [[Carroll 1998]]
 
 ### Projects
+* [[Pipeline safety learning]]
 
 ### Cited by
 
