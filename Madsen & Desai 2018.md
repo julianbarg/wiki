@@ -8,6 +8,10 @@ Madsen, P. M., & Desai, V. (2018). No Firm Is an Island: The Role of Population-
 ## One-paragraph summary
 Madsen and Desai (2018) theorize that population-level factors affect vicarious learning of organizations. They show that rates of vicarious learning from others' failures vary across jurisdictions (H1). Further, that regulators' monitoring strength positively affects vicarious learning. And finally, they show for a subsample the ability of active regulators to positively affect failure rates.
 
+### Methods
+
+Company-country-year observations. Various independent variables that capture vicarious learning as well as regulator activity. Uses negative binomial regression with various interesting robustness checks.
+
 ## Related to
 
 ### Theories
