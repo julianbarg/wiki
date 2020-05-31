@@ -74,6 +74,9 @@ Not learning but still very relevant:
 ### High-hazard industries
 * [[Carroll 1998]]
 
+### Learning from disasters
+* [[Madsen 2009]]
+
 #### Modern learning curve works
 * [[Arthur & Huntley 2005]]
 
