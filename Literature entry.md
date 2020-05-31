@@ -6,6 +6,8 @@
 
 \## One-paragraph summary
 
+\### Methods
+
 \## Related to
 
 \### Theories
