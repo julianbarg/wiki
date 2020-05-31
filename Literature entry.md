@@ -10,7 +10,7 @@
 
 \### Theories
 
-\### Conferences, Courses etc.
+\### Conferences, courses etc.
 
 \### Previous literature/influences
 
