@@ -71,6 +71,9 @@ Not learning but still very relevant:
 
 ### Optional
 
+### High-hazard industries
+* [[Carroll 1998]]
+
 #### Modern learning curve works
 * [[Arthur & Huntley 2005]]
 
