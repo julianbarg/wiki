@@ -80,6 +80,7 @@ Not learning but still very relevant:
 ## Method papers
 * [[Rhee 2009]]
 * [[Madsen & Desai 2018]]
+* [[Madsen 2009]]
 
 ## Notes
 
