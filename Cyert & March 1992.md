@@ -16,6 +16,7 @@ Cyert, R. M., & March, J. G. (1992). A Behavioral Theory of the Firm (2nd ed.). 
 ### Conferences, courses etc.
 
 ### Previous literature/influences
+* [[March & Simon 1958]]
 
 ### Projects
 * [[Pipeline safety learning]]
