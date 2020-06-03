@@ -9,7 +9,7 @@ Cyert, R. M., & March, J. G. (1992). A Behavioral Theory of the Firm (2nd ed.). 
 
 ### Methods
 
-## Related to
+## Related to   
 
 ### Theories
 
@@ -37,8 +37,9 @@ The internal characteristics of a firm matter. The behavior of the firm is not e
 
 #### The Firm as an Adaptive Institution
 
-Regards the firm as an _adaptively rational_ systems rather than as an _omnisciently rational_ system. 
+Regards the firm as an _adaptively rational_ systems rather than as an _omnisciently rational_ system. States that long-run rationality is not relevant for theorizing, because we live in a world of short-run adaptive reactions. The subject of study should therefore be standard operating procedures, and how these change within observable time periods (modestly, does not consider larger changes).
 
 ## Important points
+* "The conditions required for the non-fortuitous achievement of strictly rational behavior are extremely implausible as descriptions of the world." (p. 119)
 
 ## Reactions
