@@ -35,7 +35,9 @@ The internal characteristics of a firm matter. The behavior of the firm is not e
 
 ### Chapter 5
 
+#### The Firm as an Adaptive Institution
 
+Regards the firm as an _adaptively rational_ systems rather than as an _omnisciently rational_ system. 
 
 ## Important points
 
