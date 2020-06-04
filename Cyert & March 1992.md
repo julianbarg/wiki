@@ -49,6 +49,36 @@ Specific operating procedures, specifically _task performance rules_, _continuin
 
 Cyert and March guide the reader through a specific example that lays out how the behavioral theory plays out in practice. For a retail department store, a missed sales goal would be the trigger for adjustments. These adjustments are predetermined however: the store has routines, e.g., for renegotiating prices with suppliers, for marking down items, and for introducing new items in response to missed sales goals. Similar routines exist for mark-up goals. March and Olsen than show some of the very specific routines for setting prices that they observed. They demonstrate that their behavioral model, rather than a model of an *objectively rational* system can predict pricing decisions.
 
+### Chapter 7
+
+#### Goals, expectations, and choice
+
+**Goals**:
+
+* Change when new members arrive.
+* Are determined for an area by the subunit in charge of an area.
+* Goals are evoked by problems.
+
+**Aspiration level**--determined by:
+
+* Past goal
+* Past performance
+* Past performance of peers
+
+Search is induced when expectations are not met, and when slack is available.
+
+#### Four major relational concepts
+
+At the core of this work are four concepts: (1) quasi resolution of conflict, (2) uncertainty avoidance, (3) problematistic search, and (4) organizational learning.
+
+**(2) Uncertainty avoidance**
+
+Organizations avoid planning for uncertain future events. Rather, plans are made where mechanisms exist to later ensure conformity to these plans. Overall, organizations function more as "fire departments" that react to diversions from plans where they occur. Established "industry practice" allows even for prediction of events in the external environment.
+
+**(3) Problematistic search**
+
+Problems, such as failure to satisfy goals, motivates search. Search starts in the proximity of the problem (e.g., in the same department), and only becomes more distance if a solution is not found in the proximity.
+
 ## Important points
 * "The conditions required for the non-fortuitous achievement of strictly rational behavior are extremely implausible as descriptions of the world." (p. 119)
 
