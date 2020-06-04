@@ -41,7 +41,7 @@ Regards the firm as an _adaptively rational_ systems rather than as an _omniscie
 
 #### Standard operating procedures
 
-Specific operating procedures, specifically _task performance rules_, _continuing records and reports_, _information handling rules_, and _plans_ change slowly and give stability to organizations. Standard operating procedures can be transfered (e.g., to new employees). Previous learnin is encoded in the procedures, and they also act to provide unique solutions and thus make behavior more predictable for other members (since most tasks do not provide unique solutions). 
+Specific operating procedures, specifically _task performance rules_, _continuing records and reports_, _information handling rules_, and _plans_ change slowly and give stability to organizations. Standard operating procedures can be transfered (e.g., to new employees). Previous learnin is encoded in the procedures, and they also act to provide unique solutions and thus make behavior more predictable for other members (since most tasks do not provide unique solutions). Many of the decisions in a firm are standardized, including planning activities. If the kind of information included and their sources are standardized (and as long as previous experience on a similar outcome are available), the planning activities are little more than ceremony. Only when the organization faces major failure will it engage in search.
 
 ## Important points
 * "The conditions required for the non-fortuitous achievement of strictly rational behavior are extremely implausible as descriptions of the world." (p. 119)
