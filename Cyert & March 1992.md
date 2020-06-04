@@ -45,7 +45,9 @@ Regards the firm as an _adaptively rational_ systems rather than as an _omniscie
 
 Specific operating procedures, specifically _task performance rules_, _continuing records and reports_, _information handling rules_, and _plans_ change slowly and give stability to organizations. Standard operating procedures can be transfered (e.g., to new employees). Previous learnin is encoded in the procedures, and they also act to provide unique solutions and thus make behavior more predictable for other members (since most tasks do not provide unique solutions). Many of the decisions in a firm are standardized, including planning activities. If the kind of information included and their sources are standardized (and as long as previous experience on a similar outcome are available), the planning activities are little more than ceremony. Only when the organization faces major failure will it engage in search.
 
-#### 
+### Chapter 6
+
+Cyert and March guide the reader through a specific example that lays out how the behavioral theory plays out in practice. For a retail department store, a missed sales goal would be the trigger for adjustments. These adjustments are predetermined however: the store has routines, e.g., for renegotiating prices with suppliers, for marking down items, and for introducing new items in response to missed sales goals. Similar routines exist for mark-up goals. March and Olsen than show some of the very specific routines for setting prices that they observed.
 
 ## Important points
 * "The conditions required for the non-fortuitous achievement of strictly rational behavior are extremely implausible as descriptions of the world." (p. 119)
