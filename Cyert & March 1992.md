@@ -47,7 +47,7 @@ Specific operating procedures, specifically _task performance rules_, _continuin
 
 ### Chapter 6
 
-Cyert and March guide the reader through a specific example that lays out how the behavioral theory plays out in practice. For a retail department store, a missed sales goal would be the trigger for adjustments. These adjustments are predetermined however: the store has routines, e.g., for renegotiating prices with suppliers, for marking down items, and for introducing new items in response to missed sales goals. Similar routines exist for mark-up goals. March and Olsen than show some of the very specific routines for setting prices that they observed.
+Cyert and March guide the reader through a specific example that lays out how the behavioral theory plays out in practice. For a retail department store, a missed sales goal would be the trigger for adjustments. These adjustments are predetermined however: the store has routines, e.g., for renegotiating prices with suppliers, for marking down items, and for introducing new items in response to missed sales goals. Similar routines exist for mark-up goals. March and Olsen than show some of the very specific routines for setting prices that they observed. They demonstrate that their behavioral model, rather than a model of an *objectively rational* system can predict pricing decisions.
 
 ## Important points
 * "The conditions required for the non-fortuitous achievement of strictly rational behavior are extremely implausible as descriptions of the world." (p. 119)
