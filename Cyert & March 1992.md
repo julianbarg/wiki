@@ -27,7 +27,7 @@ Cyert, R. M., & March, J. G. (1992). A Behavioral Theory of the Firm (2nd ed.). 
 
 ## Resources
 
-[[resources/cyert_march_1992_fig_6_1.png|Figure 6.1: General form of reaction to sales goal indicators.]]
+[[resources/cyert_march_1992_fig_6_1.png|frame, width=400px, Figure 6.1: General form of reaction to sales goal indicators.]]
 
 ## Chapter by chapter summary
 
