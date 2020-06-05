@@ -79,7 +79,12 @@ Organizations avoid planning for uncertain future events. Rather, plans are made
 
 Problems, such as failure to satisfy goals, motivates search. Search starts in the proximity of the problem (e.g., in the same department), and only becomes more distance if a solution is not found in the proximity.
 
+**(4) Learning**
+
+
+
 ## Important points
 * "The conditions required for the non-fortuitous achievement of strictly rational behavior are extremely implausible as descriptions of the world." (p. 119)
 
 ## Reactions
+* The fact that learning is observed just means that an organization just thought a metric was important enough to track it. If it is not being tracked, we will not learn it (cause how would we?). There is further a publication bias to the learning literature. So the findings of the learning curve literature do not change our findings--we just hold that organizations can make progress in specific metrics when they track them.
