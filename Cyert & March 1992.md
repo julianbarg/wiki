@@ -81,7 +81,7 @@ Problems, such as failure to satisfy goals, motivates search. Search starts in t
 
 **(4) Learning**
 
-
+Explained on an aggregated, not an individual level. Adjusted through learning are goals, attention rules, and search rules. Goals depend on previous goals, the organizationals own previous experience, and others' previous experience. Attention rules are adjusted when a firm observes a relationship between measurable criteria and its goal performance. Similarly, search success and search failure lead the organization to adjust search rules--it will be more likely to look where it has succeeded in search before.
 
 ## Important points
 * "The conditions required for the non-fortuitous achievement of strictly rational behavior are extremely implausible as descriptions of the world." (p. 119)
