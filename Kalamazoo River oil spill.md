@@ -31,6 +31,7 @@ Back to [[Oil spills]].
 ## Aftermath/learning
 
 ## My reactions
+* The first drill where NTSB unambiguously declares just that organizational failures are the cause (as well as criticism of PHMSA as the regulator).
 
 ## Various
 
