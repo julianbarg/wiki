@@ -91,3 +91,4 @@ On july 26, 2010, enbridge confirmed a mainline rupture on line 6b at mp608.2452
 ## Resources
 
 ## Notes
+* 81% if the material was spilled when Enbridge attempted to restart the pipeline.
