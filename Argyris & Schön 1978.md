@@ -51,6 +51,10 @@ Gives an overview over organizational memory and organizational learning. Organi
 
 If it is just the _organizational map_ that is modified in a bid to bring outcomes back in line with expectations, then we talk of single-loop learning (pp. 18ff). Members may also notice that rather than bringin outcomes back in line with expectations, it might be more sensible to change expectations. For instance, in response to organizational changes, an individual might advocate for an organization to change the industry that competes in (pp. 20ff).
 
+### Chapter two
+
+Provides an example of single-loop and double-loop learning, and in that context introduces a companies _learning system_. In the specific example, the the learning system is facing a self-reinforcing problem. The organization is decentralized, and the heads of the business unit learn that innovation and new businesses might take resources away from their department. There is a business unit for developing new businesses that is too constrained. But nobody raises these issues in discussions, because that would give room for criticism and conflict.
+
 ## Important points
 * "[T]he very information needded to detect and correct erros becomes undiscussable" (pp. 3f).
 * Critical view of learning (p. 9).
