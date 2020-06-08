@@ -8,6 +8,8 @@ Back to [[Oil spills]].
 
 ## Summary
 
+The line was restarted twice after the ruptue by one crew, and the next crew considered starting it up again (p. 14).
+
 ## Significance
 
 ## Learning
@@ -99,3 +101,4 @@ On july 26, 2010, enbridge confirmed a mainline rupture on line 6b at mp608.2452
 * Multiple alarms within the first five minutes: a severe alarm, two warning alarms, a severe leak alarm, and 7 other alarms (p. 8f).
 * If pressure remains below 1 psig for an extended period of time... seems fairly obvious to me. But most of the operators have probably not seen a major spill before. They may have seen many false positives though (p. 12).
 * Considered leakage as early as 5AM.
+* Significant difference in emergency response training vs reality.
