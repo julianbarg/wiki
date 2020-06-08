@@ -32,8 +32,6 @@ Back to [[Oil spills]].
 
 ## My reactions
 
-* Whereas the narrative is very long on this, the NTSB has only written a brief on this. Did the narrative being provided by the operator cause the regulating agencies to let the operator of the hook? Has more responsibility to investigate the incidents been transferred to the industry?
-
 ## Various
 
 ## Documents
