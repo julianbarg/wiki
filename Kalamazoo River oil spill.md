@@ -32,6 +32,8 @@ Back to [[Oil spills]].
 
 ## My reactions
 * The first drill where NTSB unambiguously declares just that organizational failures are the cause (as well as criticism of PHMSA as the regulator).
+* This is an industry that has not eliminated severe false positives for 3 decades... How mnany more years should we wait, if we know that false positives basically cannot be entirely excluded (p. 13)?  They could not account for a 10s of thousands of gallons and kept operating the pipeline (p. 13).
+* False positives are at fault again (p. 13). Do false positives mean that technically "the technology is not at fault"?
 
 ## Various
 
@@ -95,3 +97,4 @@ On july 26, 2010, enbridge confirmed a mainline rupture on line 6b at mp608.2452
 * 81% if the material was spilled when Enbridge attempted to restart the pipeline.
 * Multiple alarms within the first five minutes: a severe alarm, two warning alarms, a severe leak alarm, and 7 other alarms (p. 8f).
 * If pressure remains below 1 psig for an extended period of time... seems fairly obvious to me. But most of the operators have probably not seen a major spill before. They may have seen many false positives though (p. 12).
+* Considered leakage as early as 5AM.
