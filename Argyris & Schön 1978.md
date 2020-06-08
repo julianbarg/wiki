@@ -55,6 +55,10 @@ If it is just the _organizational map_ that is modified in a bid to bring outcom
 
 Provides an example of single-loop and double-loop learning, and in that context introduces a companies _learning system_. In the specific example, the the learning system is facing a self-reinforcing problem. The organization is decentralized, and the heads of the business unit learn that innovation and new businesses might take resources away from their department. There is a business unit for developing new businesses that is too constrained. But nobody raises these issues in discussions, because that would give room for criticism and conflict.
 
+### Chapter three
+
+Talking about primary inhibiting loops.
+
 ## Important points
 * "[T]he very information needded to detect and correct erros becomes undiscussable" (pp. 3f).
 * Critical view of learning (p. 9).
@@ -63,3 +67,4 @@ Provides an example of single-loop and double-loop learning, and in that context
 
 ## Reactions
 * An inhibition of opposing ideas also has its justification, as it supports coherence and allows for an organization to push in one direction, and overcome obstacles in that path. If you do something, you may fail in that endaveour, but if you do not try something, you have already failed. How should the organization know whether with regard to a particular issue, this norm should be broken?
+* Chapter 3 seems to be written under the assumption that there is always something that the organziation can do or that could have been done. That is not always true, e.g., because of the external environment. For example, businesses in a third world country might be constrained by unfolding events.
