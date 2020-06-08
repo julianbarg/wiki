@@ -57,7 +57,7 @@ Provides an example of single-loop and double-loop learning, and in that context
 
 ### Chapter three
 
-Talking about primary inhibiting loops.
+Talking about primary inhibiting loops. Unpacking the model of organizational learning introduced in chapter 1 by exploring examples. Showing that the actual processes unfolding in organizations are much more messy than the "clean" theory would suggest.
 
 ## Important points
 * "[T]he very information needded to detect and correct erros becomes undiscussable" (pp. 3f).
