@@ -34,6 +34,7 @@ Back to [[Oil spills]].
 * The first drill where NTSB unambiguously declares just that organizational failures are the cause (as well as criticism of PHMSA as the regulator).
 * This is an industry that has not eliminated severe false positives for 3 decades... How mnany more years should we wait, if we know that false positives basically cannot be entirely excluded (p. 13)?  They could not account for a 10s of thousands of gallons and kept operating the pipeline (p. 13).
 * False positives are at fault again (p. 13). Do false positives mean that technically "the technology is not at fault"? Related to this, operator states he has "never seen this" (p. 14).
+* Operators have more data available, but otherwise workflows seem as simple or primitive as they have been before (p. 14).
 
 ## Various
 
