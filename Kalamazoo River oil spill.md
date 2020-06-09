@@ -109,3 +109,6 @@ On july 26, 2010, enbridge confirmed a mainline rupture on line 6b at mp608.2452
 * Prediction of crack growth rates is very sensitive to data input, e.g., exact size of the original crack.
 * Changes of law to require integrity management for HCAs (p. 29).
 * Metal loss below 80% does not require immediate repair (p. 31), 50% is theshold of Embridge for repair (p. 32). How fast can you go from 50% to 80% though?
+* Limitation of in-line testing (p. 35). Is hydrostatic testing unpopular because the line has to be shut down for a longer time.
+* Failure to account for measurement tolerance (p. 35).
+* User error for USCD tool? Or faulty user manual? Crack depth and corrosion have to be added. In any case, there is an interaction between cracks and corrosion. Embridge only considered crack depth, but not wall loss from corrosion.
