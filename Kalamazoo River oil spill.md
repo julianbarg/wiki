@@ -37,6 +37,7 @@ The line was restarted twice after the ruptue by one crew, and the next crew con
 * This is an industry that has not eliminated severe false positives for 3 decades... How mnany more years should we wait, if we know that false positives basically cannot be entirely excluded (p. 13)?  They could not account for a 10s of thousands of gallons and kept operating the pipeline (p. 13).
 * False positives are at fault again (p. 13). Do false positives mean that technically "the technology is not at fault"? Related to this, operator states he has "never seen this" (p. 14).
 * Operators have more data available, but otherwise workflows seem as simple or primitive as they have been before (p. 14).
+* Decades into the future, we might see a lot of instances of leukemia (p. 18).
 
 ## Various
 
@@ -102,3 +103,4 @@ On july 26, 2010, enbridge confirmed a mainline rupture on line 6b at mp608.2452
 * If pressure remains below 1 psig for an extended period of time... seems fairly obvious to me. But most of the operators have probably not seen a major spill before. They may have seen many false positives though (p. 12).
 * Considered leakage as early as 5AM.
 * Significant difference in emergency response training vs reality.
+* PHMSA form lists zero injuries, but Michigan Department of Community Health identified 331 affected people.
