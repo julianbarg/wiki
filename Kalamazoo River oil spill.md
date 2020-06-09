@@ -123,4 +123,4 @@ On july 26, 2010, enbridge confirmed a mainline rupture on line 6b at mp608.2452
 * Confusing workflow, unclear responsibilities.
 * Up to 2,011 personnel working at the same time.
 * Actual incident worse than worst case (p. 59).
-* 200 acres of river bottom exhibited moderate-to-heavy contamination (p. 63).
+* 200 acres of river bottom exhibited moderate-to-heavy contamination. 3,650 reptiles and 196 birds directly affected (p. 63).
