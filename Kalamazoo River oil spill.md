@@ -106,3 +106,5 @@ On july 26, 2010, enbridge confirmed a mainline rupture on line 6b at mp608.2452
 * PHMSA form lists zero injuries, but Michigan Department of Community Health identified 331 affected people.
 * Embridge has a history of problems with pipeline inspection (pp. 21f).
 * Prediction of crack growth rates is very sensitive to data input, e.g., exact size of the original crack.
+* Changes of law to require integrity management for HCAs (p. 29).
+* Metal loss below 80% does not require immediate repair (p. 31).
