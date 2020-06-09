@@ -39,6 +39,8 @@ The line was restarted twice after the ruptue by one crew, and the next crew con
 * Operators have more data available, but otherwise workflows seem as simple or primitive as they have been before (p. 14).
 * Decades into the future, we might see a lot of instances of leukemia (p. 18).
 * How predictable is crack development? Should we expect extreme outliers?
+* How can a spill response in 8 minutes be achieved if there is a 10-minute restriction in place (p. 52).
+* The amount of emergency response material available--isn't it better than before? But still not sufficient though (p. 60)?
 
 ## Various
 
@@ -115,4 +117,10 @@ On july 26, 2010, enbridge confirmed a mainline rupture on line 6b at mp608.2452
 * Crazy amount of corrosion features: 50,270 overall, 1,037 critical ones. However, the ones detected around the rupture did not meet the criteria for excavation. The ones deteced by the fracture were estimated at between 12.5-25% wall thickness.
 * Public Awareness Programs effectivenss: why was the caller and the fire department not contacting Enbridge. THey should have the number from this material (p. 42). 
 * Why are shift leaders "people persons", instead of engineers (p. 44). Reason is supposedly growth (p. 45)? Most of the staff involved had plenty of experience (p. 46)--is that a good or a bad thing?
-* Job training--individual on-the-job training with some online material and testing.
+* Job training--individual on-the-job training with some online material and testing. Staff is either graduates from technical schools or with relevant experience as operators (pp. 47f). Some not familiar with MBS software (p. 50).
+* Column separation is a "known limitation". For MBS analyst, column separation accounts for "three of five" calls per shift. There were also weird shenanigans going on with the software before the shift (p. 51).
+* The 10-minute restriction is a cool example of a failure to learn. Is this rule just being knowlingly ignored? Personnel seems to have thought filling in the pipeline would just take longer than 10 minutes (pp. 51f).
+* Confusing workflow, unclear responsibilities.
+* Up to 2,011 personnel working at the same time.
+* Actual incident worse than worst case (p. 59).
+* 200 acres of river bottom exhibited moderate-to-heavy contamination (p. 63).
