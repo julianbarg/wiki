@@ -113,3 +113,4 @@ On july 26, 2010, enbridge confirmed a mainline rupture on line 6b at mp608.2452
 * Failure to account for measurement tolerance (p. 35).
 * User error for USCD tool? Or faulty user manual? Crack depth and corrosion have to be added. In any case, there is an interaction between cracks and corrosion. Embridge only considered crack depth, but not wall loss from corrosion.
 * Crazy amount of corrosion features: 50,270 overall, 1,037 critical ones. However, the ones detected around the rupture did not meet the criteria for excavation. The ones deteced by the fracture were estimated at between 12.5-25% wall thickness.
+* Public Awareness Programs effectivenss: why was the caller and the fire fighters not able contacting Enbridge. THey should have the number from this material (p. 42). 
