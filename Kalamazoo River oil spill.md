@@ -38,6 +38,7 @@ The line was restarted twice after the ruptue by one crew, and the next crew con
 * False positives are at fault again (p. 13). Do false positives mean that technically "the technology is not at fault"? Related to this, operator states he has "never seen this" (p. 14).
 * Operators have more data available, but otherwise workflows seem as simple or primitive as they have been before (p. 14).
 * Decades into the future, we might see a lot of instances of leukemia (p. 18).
+* How predictable is crack development? Should we expect extreme outliers?
 
 ## Various
 
