@@ -107,4 +107,4 @@ On july 26, 2010, enbridge confirmed a mainline rupture on line 6b at mp608.2452
 * Embridge has a history of problems with pipeline inspection (pp. 21f).
 * Prediction of crack growth rates is very sensitive to data input, e.g., exact size of the original crack.
 * Changes of law to require integrity management for HCAs (p. 29).
-* Metal loss below 80% does not require immediate repair (p. 31).
+* Metal loss below 80% does not require immediate repair (p. 31), 50% is theshold of Embridge for repair (p. 32). How fast can you go from 50% to 80% though?
