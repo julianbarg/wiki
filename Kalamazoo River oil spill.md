@@ -52,7 +52,7 @@ no
 * How predictable is crack development? Should we expect extreme outliers?
 * How can a spill response in 8 minutes be achieved if there is a 10-minute restriction in place (p. 52).
 * The amount of emergency response material available--isn't it better than before? But still not sufficient though (p. 60)?
-* Report suggests insufficient oversight by PHMSA--in the original theory, that should not matter for learning curves, but for more behavioral models, the missing feedback matters.
+* Report suggests insufficient oversight by PHMSA--in the original theory, that should not matter for learning curves, but for more behavioral models, the missing feedback matters. Or maybe I should rather say--experience-based models do not discuss the role of the government and other stakeholders in making sure that organizations gather experience. There also is a connection here to March, Sproull & Tamuz (1991).
 
 ## Various
 
