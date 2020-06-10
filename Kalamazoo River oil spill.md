@@ -12,7 +12,7 @@ Enbridge has a history of flawed integrity management--PHMSA claims a lack of kn
 
 The line was restarted twice after the ruptue by one crew, and the next crew considered starting it up again (p. 14).
 
-One thing that comes into focus in the NTSB report are the PHMSA's responses and policies for emergence response (pp. 71ff, p. 76).
+One thing that comes into focus in the NTSB report are the PHMSA's responses and policies for emergence response (pp. 71ff, p. 76). 
 
 ## Significance
 no
@@ -42,7 +42,6 @@ no
 * Used of statistics in integrity management, will probably lead to more excavations (p. 67).
 * New control center and some new personnel and structure (pp. 67f).
 * "Operators and supervisors were prohibited from overriding approved control-room procedures (p. 68).
-* 
 
 ## My reactions
 * The first drill where NTSB unambiguously declares just that organizational failures are the cause (as well as criticism of PHMSA as the regulator).
@@ -53,6 +52,7 @@ no
 * How predictable is crack development? Should we expect extreme outliers?
 * How can a spill response in 8 minutes be achieved if there is a 10-minute restriction in place (p. 52).
 * The amount of emergency response material available--isn't it better than before? But still not sufficient though (p. 60)?
+* Report suggests insufficient oversight by PHMSA--in the original theory, that should not matter for learning curves, but for more behavioral models, the missing feedback matters.
 
 ## Various
 
