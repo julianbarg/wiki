@@ -141,3 +141,4 @@ On july 26, 2010, enbridge confirmed a mainline rupture on line 6b at mp608.2452
 * "Discover of condition" was past due date (p. 69).
 * Enbridge has a history of problems with integrity management (p. 70).
 * PHMSA is not very strict in oversight compared to Coast Guard and EPA (p. 74). Has not held a lot of excercises (p. 76).
+* Reponse force incorrectly used sorbent booms (p. 79)?
