@@ -12,7 +12,7 @@ Enbridge has a history of flawed integrity management--PHMSA claims a lack of kn
 
 The line was restarted twice after the ruptue by one crew, and the next crew considered starting it up again (p. 14).
 
-One thing that comes into focus in the NTSB report are the PHMSA's responses and policies for emergence response (pp. 71ff).
+One thing that comes into focus in the NTSB report are the PHMSA's responses and policies for emergence response (pp. 71ff, p. 76).
 
 ## Significance
 no
@@ -139,4 +139,4 @@ On july 26, 2010, enbridge confirmed a mainline rupture on line 6b at mp608.2452
 * Regarding a prvious spill: "Execution of the PG&E emergency plan resulted in delays that could have been avoided by better utilizing the SCADA center's capability" (p. 64).
 * "Discover of condition" was past due date (p. 69).
 * Enbridge has a history of problems with integrity management (p. 70).
-* PHMSA is not very strict in oversight compared to Coast Guard and EPA (p. 74).
+* PHMSA is not very strict in oversight compared to Coast Guard and EPA (p. 74). Has not held a lot of excercises (p. 76).
