@@ -8,10 +8,14 @@ Back to [[Oil spills]].
 
 ## Summary
 
+Enbridge has a history of flawed integrity management--PHMSA claims a lack of knowledge integration (pp. 70f).
+
 The line was restarted twice after the ruptue by one crew, and the next crew considered starting it up again (p. 14).
 
-## Significance
+One thing that comes into focus in the NTSB report are the PHMSA's responses and policies for emergence response (pp. 71ff).
 
+## Significance
+no
 ## Learning
 
 ### Mechanisms
@@ -31,6 +35,14 @@ The line was restarted twice after the ruptue by one crew, and the next crew con
 ### Faulty parts/flawed procedures
 
 ## Aftermath/learning
+
+### Enbridge
+* Minor changes to operator training (pp. 67f).
+* Replacement of some of the pipeline with larger diameter pipes, supposedly also making maintenance easier pp. 66f).
+* Used of statistics in integrity management, will probably lead to more excavations (p. 67).
+* New control center and some new personnel and structure (pp. 67f).
+* "Operators and supervisors were prohibited from overriding approved control-room procedures (p. 68).
+* 
 
 ## My reactions
 * The first drill where NTSB unambiguously declares just that organizational failures are the cause (as well as criticism of PHMSA as the regulator).
@@ -124,3 +136,7 @@ On july 26, 2010, enbridge confirmed a mainline rupture on line 6b at mp608.2452
 * Up to 2,011 personnel working at the same time.
 * Actual incident worse than worst case (p. 59).
 * 200 acres of river bottom exhibited moderate-to-heavy contamination. 3,650 reptiles and 196 birds directly affected (p. 63).
+* Regarding a prvious spill: "Execution of the PG&E emergency plan resulted in delays that could have been avoided by better utilizing the SCADA center's capability" (p. 64).
+* "Discover of condition" was past due date (p. 69).
+* Enbridge has a history of problems with integrity management (p. 70).
+* PHMSA is not very strict in oversight compared to Coast Guard and EPA (p. 74).
