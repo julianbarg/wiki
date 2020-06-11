@@ -10,9 +10,13 @@ Back to [[Oil spills]].
 
 The coating disbonded (p. 83).
 
-Enbridge has a history of flawed integrity management--PHMSA claims a lack of knowledge integration (pp. 70f).
+Enbridge has a history of flawed integrity management--PHMSA claims a lack of knowledge integration (pp. 70f). However, PHMSA also did not do anything about it (p. 85).
+
+Enbridge's integrity management discovered the flaws as early as 2006, but did not act on it (by imposing pressure restrictions) until 2009 (p. 86). Because part of the assessment was faulty, Enbridge did not act on it, rather waiting for another complete assessment without faults to take place. However, part of the assessment was not faulty, and should have been sufficient to impose repairs or pressure restrictions earlier (pp. 86f).
 
 The line was restarted twice after the ruptue by one crew, and the next crew considered starting it up again (p. 14).
+
+Although a crack and corrosion occured simultaneously, Enbridge's internal procedures for cracks and corrosions were applied separately. The potantiel for more serious damage to occur when cracks and corrosion appear together was not recognized. In addition, PHMSA's regulation regarding cracks, and regarding the combination of cracks and corrossion is severly lacking (p. 85). Enbridge also did not take the tool tolerance into consideration (p. 89).
 
 One thing that comes into focus in the NTSB report are the PHMSA's responses and policies for emergence response (pp. 71ff, p. 76). 
 
@@ -30,6 +34,7 @@ One thing that comes into focus in the NTSB report are the PHMSA's responses and
 
 * Disbonding of the coating.
 * Combination of crack + coating that had not been considered in organizational procedures and regulations (p. 84).
+* Corrosion management program (software) obviously flawed (p. 87).
 
 ### What could have been done
 
@@ -61,6 +66,7 @@ One thing that comes into focus in the NTSB report are the PHMSA's responses and
 * Report suggests insufficient oversight by PHMSA--in the original theory, that should not matter for learning curves, but for more behavioral models, the missing feedback matters. Or maybe I should rather say--experience-based models do not discuss the role of the government and other stakeholders in making sure that organizations gather experience. There also is a connection here to March, Sproull & Tamuz (1991).
 * One problem seems to be tasks that are infrequently carried out--such as constructing an underflow dam--personnel was aware of the technique, but has not done it before--maybe carried out only 2-3 times even during a full caree (p. 76, p. 79)?
 * That "remediation" controversy. Successful lobbying or sensible choice of language? Clearly, it allows operators to hold off repairs. 80% threshold seems ridiculous (p. 84).
+* With the high number of defects detected, it is very much possible that the number of cracks & corrosion defects flagged for excavation is a function of Enbridge's capacity for excavation rather than actual need for excavation. If Enbridge did not believe it would be able to excavate a sufficient number of cracks, maybe that is because it would not be profitiable to do so? On the other hand, Enbridge later did replace the pipeline with a new one, and it did also spend much more on clean-up and remediation than it would have in maintenance cost.
 
 ## Various
 
