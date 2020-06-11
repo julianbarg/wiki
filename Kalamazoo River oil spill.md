@@ -175,3 +175,4 @@ On july 26, 2010, enbridge confirmed a mainline rupture on line 6b at mp608.2452
 * Shutting down lines to clean up alarms?
 * Operators over time "learned" to ignore the 10-minute restriction, especially in the case of MBS alarm--workarounds or a "culture of deviance" had developed (p. 101).
 * I don't think that alcohol testing problem will ever be resolved (pp. 101f).
+* Sorben boom as token effort (p. 105).
