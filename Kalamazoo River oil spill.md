@@ -32,7 +32,7 @@ One thing that comes into focus in the NTSB report are the PHMSA's responses and
 
 ## Cause analysis
 
-* Three main factors: tool tolerance, nominal wall thickness, and interaction of corrosion and cracking. If any of these were considered in calculating failure pressure (or the standards for corrosion instead of those for cracking), excavation would have been required because the failure pressure would have been below the hydrostatic test pressure (p. 91). See also [[resources|Kalamazoo River oil spill#ntsb-summary-of-causes]]
+* Three main factors: tool tolerance, nominal wall thickness, and interaction of corrosion and cracking. If any of these were considered in calculating failure pressure (or the standards for corrosion instead of those for cracking), excavation would have been required because the failure pressure would have been below the hydrostatic test pressure (p. 91). See also [[resources|Kalamazoo River oil spill#ntsb-summary-of-causes]].
 
 * Disbonding of the coating.
 * Combination of crack + coating that had not been considered in organizational procedures and regulations (p. 84).
@@ -40,14 +40,19 @@ One thing that comes into focus in the NTSB report are the PHMSA's responses and
 * Tolerance of measurement tool for cracks (+/- 0.02 inch) not taken into consideration (p. 89).
 * Historial data used for prediction crack growth--that data was of a different type (nominal fatigue crack) than the corrosion fatigue crack present here (p. 90).
 * New rule for including tool tolerance (introduced in 2007) not applied retroactively to 2005 in-line inspection data (pp. 91f).
+* 
 ### What could have been done
 
 #### To prevent the spill
 * Modern pipe coating would have prevented corrossion (p. 82).
 
 #### To reduce the severity of the spill
+* Enbridge should not have relied on the public to recognize and report the spill.
+* 911 operators should have contacted Enbridge (p. 103).
+* Firefighters should have searched along Line 6B (p. 103).
 
 ### Faulty parts/flawed procedures
+* PHMSA's oversight of Enbridge's integrity mangement (p. 92).
 
 ## Aftermath/learning
 
@@ -73,6 +78,7 @@ One thing that comes into focus in the NTSB report are the PHMSA's responses and
 * That "remediation" controversy. Successful lobbying or sensible choice of language? Clearly, it allows operators to hold off repairs. 80% threshold seems ridiculous (p. 84).
 * With the high number of defects detected, it is very much possible that the number of cracks & corrosion defects flagged for excavation is a function of Enbridge's capacity for excavation rather than actual need for excavation. If Enbridge did not believe it would be able to excavate a sufficient number of cracks, maybe that is because it would not be profitiable to do so? On the other hand, Enbridge later did replace the pipeline with a new one, and it did also spend much more on clean-up and remediation than it would have in maintenance cost.
 * Enbridges prediction of crack growth is based on historical data (p.  90). Hence why the this corrosion fatigue crack was not accurately modeled--the data available is from nominal fatigue cracks.
+* All of the issues seem like things that could be cleared up with more experience--but don't they always do?
 
 ## Various
 
@@ -166,3 +172,6 @@ On july 26, 2010, enbridge confirmed a mainline rupture on line 6b at mp608.2452
 * PHMSA is not very strict in oversight compared to Coast Guard and EPA (p. 74). Has not held a lot of excercises (p. 76).
 * Reponse force incorrectly used sorbent booms (p. 79)?
 * Disconnect between PHMSA's expectations and company practice--because there is no safe way of knowing (p. 85).
+* Shutting down lines to clean up alarms?
+* Operators over time "learned" to ignore the 10-minute restriction, especially in the case of MBS alarm--workarounds or a "culture of deviance" had developed (p. 101).
+* I don't think that alcohol testing problem will ever be resolved (pp. 101f).
