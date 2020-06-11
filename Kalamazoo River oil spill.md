@@ -16,7 +16,7 @@ Enbridge's integrity management discovered the flaws as early as 2006, but did n
 
 The line was restarted twice after the ruptue by one crew, and the next crew considered starting it up again (p. 14).
 
-Although a crack and corrosion occured simultaneously, Enbridge's internal procedures for cracks and corrosions were applied separately. The potantiel for more serious damage to occur when cracks and corrosion appear together was not recognized. In addition, PHMSA's regulation regarding cracks, and regarding the combination of cracks and corrossion is severly lacking (p. 85). Enbridge also did not take the tool tolerance into consideration (p. 89).
+Although a crack and corrosion occured simultaneously, Enbridge's internal procedures for cracks and corrosions were applied separately. The potantiel for more serious damage to occur when cracks and corrosion appear together was not recognized. In addition, PHMSA's regulation regarding cracks, and regarding the combination of cracks and corrossion is severly lacking (p. 85). Enbridge also did not take the tool tolerance into consideration, or previously collected data (p. 89).
 
 One thing that comes into focus in the NTSB report are the PHMSA's responses and policies for emergence response (pp. 71ff, p. 76). 
 
@@ -32,10 +32,14 @@ One thing that comes into focus in the NTSB report are the PHMSA's responses and
 
 ## Cause analysis
 
+* Three main factors: tool tolerance, nominal wall thickness, and interaction of corrosion and cracking (p. 91). If any of these were considered in calculating failure pressure (or the standards for corrosion instead of those for cracking), excavation would have been required because the failure pressure would have been below the hydrostatic test pressure (p. 91).
+
 * Disbonding of the coating.
 * Combination of crack + coating that had not been considered in organizational procedures and regulations (p. 84).
 * Corrosion management program (software) obviously flawed (p. 87).
-
+* Tolerance of measurement tool for cracks (+/- 0.02 inch) not taken into consideration (p. 89).
+* Historial data used for prediction crack growth--that data was of a different type (nominal fatigue crack) than the corrosion fatigue crack present here (p. 90).
+* New rule for including tool tolerance (introduced in 2007) not applied retroactively to 2005 in-line inspection data (pp. 91f).
 ### What could have been done
 
 #### To prevent the spill
@@ -53,6 +57,7 @@ One thing that comes into focus in the NTSB report are the PHMSA's responses and
 * Used of statistics in integrity management, will probably lead to more excavations (p. 67).
 * New control center and some new personnel and structure (pp. 67f).
 * "Operators and supervisors were prohibited from overriding approved control-room procedures (p. 68).
+* New tool for predicting crack growth considers SCC (but still doesn't consider corrosion fatigue; p. 91).
 
 ## My reactions
 * The first drill where NTSB unambiguously declares just that organizational failures are the cause (as well as criticism of PHMSA as the regulator).
@@ -67,6 +72,7 @@ One thing that comes into focus in the NTSB report are the PHMSA's responses and
 * One problem seems to be tasks that are infrequently carried out--such as constructing an underflow dam--personnel was aware of the technique, but has not done it before--maybe carried out only 2-3 times even during a full caree (p. 76, p. 79)?
 * That "remediation" controversy. Successful lobbying or sensible choice of language? Clearly, it allows operators to hold off repairs. 80% threshold seems ridiculous (p. 84).
 * With the high number of defects detected, it is very much possible that the number of cracks & corrosion defects flagged for excavation is a function of Enbridge's capacity for excavation rather than actual need for excavation. If Enbridge did not believe it would be able to excavate a sufficient number of cracks, maybe that is because it would not be profitiable to do so? On the other hand, Enbridge later did replace the pipeline with a new one, and it did also spend much more on clean-up and remediation than it would have in maintenance cost.
+* Enbridges prediction of crack growth is based on historical data (p.  90). Hence why the this corrosion fatigue crack was not accurately modeled--the data available is from nominal fatigue cracks.
 
 ## Various
 
@@ -125,6 +131,10 @@ On july 26, 2010, enbridge confirmed a mainline rupture on line 6b at mp608.2452
 |Need for wildlife remediation anticipated?     |TRUE
 
 ## Resources
+
+### NTSB summary of causes
+
+"Therefore, the NTSB concludes that Enbridge’s integrity management program was inadequate because it did not consider the following: a sufficient margin of safety, appropriate wall thickness, tool tolerances, use of a continuous reassessment approach to incorporate lessons learned, the effects of corrosion on crack depth sizing, and accelerated crack growth rates due to corrosion fatigue on corroded pipe with a failed coating" (p.92).
 
 ## Notes
 * 81% if the material was spilled when Enbridge attempted to restart the pipeline.
