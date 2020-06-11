@@ -32,7 +32,7 @@ One thing that comes into focus in the NTSB report are the PHMSA's responses and
 
 ## Cause analysis
 
-* Three main factors: tool tolerance, nominal wall thickness, and interaction of corrosion and cracking (p. 91). If any of these were considered in calculating failure pressure (or the standards for corrosion instead of those for cracking), excavation would have been required because the failure pressure would have been below the hydrostatic test pressure (p. 91).
+* Three main factors: tool tolerance, nominal wall thickness, and interaction of corrosion and cracking. If any of these were considered in calculating failure pressure (or the standards for corrosion instead of those for cracking), excavation would have been required because the failure pressure would have been below the hydrostatic test pressure (p. 91). See also [[resources|Kalamazoo River oil spill#ntsb-summary-of-causes]]
 
 * Disbonding of the coating.
 * Combination of crack + coating that had not been considered in organizational procedures and regulations (p. 84).
