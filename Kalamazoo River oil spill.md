@@ -25,8 +25,10 @@ One thing that comes into focus in the NTSB report are the PHMSA's responses and
 ## Learning
 
 ### Mechanisms
+* Keep more/different emergency supplies at hand (p. 108).
 
 ### Outcomes
+* Reduce need for remediation.
 
 ## The spill
 
@@ -40,7 +42,7 @@ One thing that comes into focus in the NTSB report are the PHMSA's responses and
 * Tolerance of measurement tool for cracks (+/- 0.02 inch) not taken into consideration (p. 89).
 * Historial data used for prediction crack growth--that data was of a different type (nominal fatigue crack) than the corrosion fatigue crack present here (p. 90).
 * New rule for including tool tolerance (introduced in 2007) not applied retroactively to 2005 in-line inspection data (pp. 91f).
-* 
+
 ### What could have been done
 
 #### To prevent the spill
@@ -50,11 +52,16 @@ One thing that comes into focus in the NTSB report are the PHMSA's responses and
 * Enbridge should not have relied on the public to recognize and report the spill.
 * 911 operators should have contacted Enbridge (p. 103).
 * Firefighters should have searched along Line 6B (p. 103).
+* Spill response at source.
+* Build an underflow dam to reduce severity of the spill (p. 108).
+* More resources available on site for response (p. 112).
 
 ### Faulty parts/flawed procedures
 * PHMSA's oversight of Enbridge's integrity mangement (p. 92).
+* Spill response 8.9 miles downstream rather than at source (p. 106).
 
 ## Aftermath/learning
+* (NTSB recommends) harmonize PHMSA response plan requirements with EPA and Coast Guard (p. 110).
 
 ### Enbridge
 * Minor changes to operator training (pp. 67f).
@@ -176,3 +183,6 @@ On july 26, 2010, enbridge confirmed a mainline rupture on line 6b at mp608.2452
 * Operators over time "learned" to ignore the 10-minute restriction, especially in the case of MBS alarm--workarounds or a "culture of deviance" had developed (p. 101).
 * I don't think that alcohol testing problem will ever be resolved (pp. 101f).
 * Sorben boom as token effort (p. 105).
+* Staff trained for rivers and creeks, not for "wetland environments, high water, or small creeks with swift moving water" (p. 107).
+* Both EPA and Coast Guard are more strict (specific) than PHMSA with regard to response capability standards (p. 109).
+* Learning is highly specific--after operators have learned to respond to oil spills on large rivers, they have not yet learned to respond to incidents on small, fast-moving creeks.
