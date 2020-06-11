@@ -186,3 +186,5 @@ On july 26, 2010, enbridge confirmed a mainline rupture on line 6b at mp608.2452
 * Staff trained for rivers and creeks, not for "wetland environments, high water, or small creeks with swift moving water" (p. 107).
 * Both EPA and Coast Guard are more strict (specific) than PHMSA with regard to response capability standards (p. 109).
 * Learning is highly specific--after operators have learned to respond to oil spills on large rivers, they have not yet learned to respond to incidents on small, fast-moving creeks.
+* NTSB suggesting that PHMSA is rubber-stamping plans (p. 112).
+* What happens after this report is really important--is it possible that the regulator just doesn't respond? In that case, the report would be really ceremonial--is the hard criticism directed at the PHMSA picked up?
