@@ -4,7 +4,7 @@ Back to [[Oil spills]].
 
 ## Incident image
 
-[[resources/kalamazoo_river.jpg|frame, alt=Aerial photo of the Kalamazoo River oil spil|width=900px]]
+[[resources/kalamazoo_river.jpg|frame, alt=Aerial photo of the Kalamazoo River oil spil. Source: https://www.hollandsentinel.com/article/20130730/NEWS/307309865|width=900px]]
 
 ## Actors
 
