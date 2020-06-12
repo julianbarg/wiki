@@ -113,6 +113,8 @@ One thing that comes into focus in the NTSB report are the PHMSA's responses and
 
 ## Various
 
+* Enbridge still ignoring rules: [[https://insideclimatenews.org/news/03052018/enbridge-fined-tar-sands-oil-pipeline-inspections-kalamazoo-michigan-dilbit-spill]]
+
 ## Documents
 
 ### NTSB report
