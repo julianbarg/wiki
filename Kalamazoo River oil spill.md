@@ -8,17 +8,7 @@ Back to [[Oil spills]].
 
 ## Summary
 
-The coating disbonded (p. 83).
 
-Enbridge has a history of flawed integrity management--PHMSA claims a lack of knowledge integration (pp. 70f). However, PHMSA also did not do anything about it (p. 85).
-
-Enbridge's integrity management discovered the flaws as early as 2006, but did not act on it (by imposing pressure restrictions) until 2009 (p. 86). Because part of the assessment was faulty, Enbridge did not act on it, rather waiting for another complete assessment without faults to take place. However, part of the assessment was not faulty, and should have been sufficient to impose repairs or pressure restrictions earlier (pp. 86f).
-
-The line was restarted twice after the ruptue by one crew, and the next crew considered starting it up again (p. 14).
-
-Although a crack and corrosion occured simultaneously, Enbridge's internal procedures for cracks and corrosions were applied separately. The potantiel for more serious damage to occur when cracks and corrosion appear together was not recognized. In addition, PHMSA's regulation regarding cracks, and regarding the combination of cracks and corrossion is severly lacking (p. 85). Enbridge also did not take the tool tolerance into consideration, or previously collected data (p. 89).
-
-One thing that comes into focus in the NTSB report are the PHMSA's responses and policies for emergence response (pp. 71ff, p. 76). 
 
 ## Significance
 
@@ -34,6 +24,19 @@ One thing that comes into focus in the NTSB report are the PHMSA's responses and
 
 ## Cause analysis
 
+### Narrative
+
+Enbridge has a history of flawed integrity management--PHMSA claims a lack of knowledge integration (pp. 70f). However, PHMSA also did not do anything about it (p. 85). A crack grew inside a corroded area of the pipe, where the tape coating had disbonded. The reulations regarding these kinds of cracks are unclear (p. 118). Enbridge's integrity management discovered the flaws as early as 2006, but did not act on it (by imposing pressure restrictions) until 2009 (p. 86). Because part of the assessment was faulty, Enbridge did not act on it, rather waiting for another complete assessment without faults to take place. However, part of the assessment was not faulty, and should have been sufficient to impose repairs or pressure restrictions earlier (pp. 86f).
+
+Although a crack and corrosion occured simultaneously, Enbridge's internal procedures for cracks and corrosions were applied separately. The potantiel for more serious damage to occur when cracks and corrosion appear together was not recognized. In addition, PHMSA's regulation regarding cracks, and regarding the combination of cracks and corrossion is severly lacking (p. 85). Enbridge also did not take the tool tolerance into consideration, or previously collected data (p. 89).
+
+The control center staff did not correctly identify the leak, despire having received adequate information from the SCADA system (p. 119). Shutting down and restarting the line cleared the warning messages (p. 123). The line was restarted twice after the ruptue by one crew, and the third crew considered starting it up again (p. 14). The control center relied on residents informing them of the leak occuring. Enbridge did not have experience in responding to spills in fast-flowing water (p. 119). Becuse PHMSA's regulations are not strict enough, too little resources for emergency response were available.
+
+
+One thing that comes into focus in the NTSB report are the PHMSA's responses and policies for emergence response (pp. 71ff, p. 76). 
+
+### Factors
+
 * Three main factors: tool tolerance, nominal wall thickness, and interaction of corrosion and cracking. If any of these were considered in calculating failure pressure (or the standards for corrosion instead of those for cracking), excavation would have been required because the failure pressure would have been below the hydrostatic test pressure (p. 91). See also [[resources|Kalamazoo River oil spill#ntsb-summary-of-causes]].
 
 * Disbonding of the coating.
@@ -42,6 +45,7 @@ One thing that comes into focus in the NTSB report are the PHMSA's responses and
 * Tolerance of measurement tool for cracks (+/- 0.02 inch) not taken into consideration (p. 89).
 * Historial data used for prediction crack growth--that data was of a different type (nominal fatigue crack) than the corrosion fatigue crack present here (p. 90).
 * New rule for including tool tolerance (introduced in 2007) not applied retroactively to 2005 in-line inspection data (pp. 91f).
+* Stutdown and subsequent startup of the line cleared errors (p. 123).
 
 ### What could have been done
 
@@ -86,6 +90,8 @@ One thing that comes into focus in the NTSB report are the PHMSA's responses and
 * With the high number of defects detected, it is very much possible that the number of cracks & corrosion defects flagged for excavation is a function of Enbridge's capacity for excavation rather than actual need for excavation. If Enbridge did not believe it would be able to excavate a sufficient number of cracks, maybe that is because it would not be profitiable to do so? On the other hand, Enbridge later did replace the pipeline with a new one, and it did also spend much more on clean-up and remediation than it would have in maintenance cost.
 * Enbridges prediction of crack growth is based on historical data (p.  90). Hence why the this corrosion fatigue crack was not accurately modeled--the data available is from nominal fatigue cracks.
 * All of the issues seem like things that could be cleared up with more experience--but don't they always do?
+* At least one of the authors seems not to be an engineer--critique of management practice.
+* Are these incidents just bound to occur periodically? When staff grows to careless because an incident has not occured in a while?
 
 ## Various
 
@@ -188,3 +194,6 @@ On july 26, 2010, enbridge confirmed a mainline rupture on line 6b at mp608.2452
 * Learning is highly specific--after operators have learned to respond to oil spills on large rivers, they have not yet learned to respond to incidents on small, fast-moving creeks.
 * NTSB suggesting that PHMSA is rubber-stamping plans (p. 112).
 * What happens after this report is really important--is it possible that the regulator just doesn't respond? In that case, the report would be really ceremonial--is the hard criticism directed at the PHMSA picked up?
+* Did Enbridges track record improve after Kalamazoo?
+* Is Enbridges growth really the cause of the deterioration of capabilities, or just an excuse?
+* Is SMS simply the latest trend (p. 116)? Before, there was that systems stuff.
