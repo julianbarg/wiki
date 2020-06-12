@@ -7,10 +7,12 @@ Back to [[Oil spills]].
 [[resources/kalamazoo_river.jpg|frame, alt=Aerial photo of the Kalamazoo River oil spil. Source: https://www.hollandsentinel.com/article/20130730/NEWS/307309865|width=900px]]
 
 ## Actors
-
 * [[Enbridge]]
 * [[NTSB]]
 * [[PHMSA]]
+
+## Abbreviations
+* Maximum Operating Pressure [[MOP]]
 
 ## Summary
 
@@ -32,6 +34,7 @@ The spill continues the trend: more and more complex technology is in place, and
 
 ## The spill
 
+"On Sunday, July 25, 2010, at 5:58 p.m., eastern daylight time, a segment of a 30-inch-diameter pipeline (Line 6B), owned and operated by Enbridge Incorporated (Enbridge) ruptured in a wetland in Marshall, Michigan. The rupture occurred during the last stages of a planned shutdown and was not discovered or addressed for over 17 hours. During the time lapse, Enbridge twice pumped additional oil (81 percent of the total release) into Line 6B during two startups; the total release was estimated to be 843,444 gallons of crude oil. The oil saturated the surrounding wetlands and flowed into the Talmadge Creek and the Kalamazoo River. Local residents self-evacuated from their houses, and the environment was negatively affected. Cleanup efforts continue as of the adoption date of this report, with continuing costs exceeding $767 million. About 320 people reported symptoms consistent with crude oil exposure. No fatalities were reported" (p. ii).
 ## Cause analysis
 
 ### Narrative
@@ -61,6 +64,10 @@ One thing that comes into focus in the NTSB report are the PHMSA's responses and
 
 #### To prevent the spill
 * Modern pipe coating would have prevented corrossion (p. 82).
+* Thorough analysis of the available in-line inspection data.
+* Excavation of more pipelines.
+* Further reduction of maximum operating pressure (MOP).
+* The pipeline pressure at the time of the rutpture was only 486 psig (p. 20)--there isn't much the operators could have tone to _prevent_ the spill.
 
 #### To reduce the severity of the spill
 * Enbridge should not have relied on the public to recognize and report the spill.
@@ -68,7 +75,7 @@ One thing that comes into focus in the NTSB report are the PHMSA's responses and
 * Firefighters should have searched along Line 6B (p. 103).
 * Spill response at source.
 * Build an underflow dam to reduce severity of the spill (p. 108).
-* More resources available on site for response (p. 112).
+* Make more resources available on site for response (p. 112).
 
 ### Faulty parts/flawed procedures
 * PHMSA's oversight of Enbridge's integrity mangement (p. 92).
@@ -76,6 +83,7 @@ One thing that comes into focus in the NTSB report are the PHMSA's responses and
 
 ## Aftermath/learning
 * (NTSB recommends) harmonize PHMSA response plan requirements with EPA and Coast Guard (p. 110).
+* Suggestions for change in law and standards--trace?
 
 ### Enbridge
 * Minor changes to operator training (pp. 67f).
