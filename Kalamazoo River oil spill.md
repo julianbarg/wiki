@@ -116,6 +116,7 @@ One thing that comes into focus in the NTSB report are the PHMSA's responses and
 ## Documents
 
 ### NTSB report
+* [[https://www.ntsb.gov/investigations/AccidentReports/Reports/PAR1201.pdf]]
 
 ### News reports
 
@@ -124,6 +125,8 @@ One thing that comes into focus in the NTSB report are the PHMSA's responses and
 ### Videos
 
 ### Other
+
+* Some hearing: [[https://www.govinfo.gov/content/pkg/CHRG-111hhrg58236/html/CHRG-111hhrg58236.htm]]
 
 ## Data
 
