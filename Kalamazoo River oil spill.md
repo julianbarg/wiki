@@ -18,7 +18,7 @@ The pipe coating disbonded. The pipe corroded below the coating, and within the 
 
 ## Significance
 
-This spill gained limited attention, but later resurfaced as the "overlooked spill".
+This spill gained limited attention, but later resurfaced as the "overlooked spill". It seems to be the most complex, but maybe the complexity is misleading. The initial failures (pipe not excavated, spill not recognized) are quite simple, but because of the other technology involved, we need to explain more things, construct a more complex story around it.
 
 ## Learning
 
