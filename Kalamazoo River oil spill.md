@@ -8,11 +8,17 @@ Back to [[Oil spills]].
 
 ## Actors
 
+* [[Enbridge]]
+* [[NTSB]]
+* [[PHMSA]]
+
 ## Summary
 
-
+The pipe coating disbonded. The pipe corroded below the coating, and within the corroded area, cracks formed. Enbridge analyzed the area in 2005, and again in 2007, but did not correctly identify that the section was in danger of rupturing, despite having the necessary data to identify the spot. When the pipe ruptured, the operators stopped the line and started it up again twice (these two starups account for 81% of the spill volume). They relied on residence informing them of odor of a spill. The oil spilled into a small, fast moving creek. Enbridge did not inform the the response personnel of the magnitude or type (Dilbit) of the spill. The response personnel without those information focused their response not to the source, but to an area about 9 miles downstream from the spill source, thus exacerbating the environmental impact.
 
 ## Significance
+
+This spill gained limited attention, but later resurfaced as the "overlooked spill".
 
 ## Learning
 
