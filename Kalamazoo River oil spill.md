@@ -120,6 +120,12 @@ One thing that comes into focus in the NTSB report are the PHMSA's responses and
 ### NTSB report
 * [[https://www.ntsb.gov/investigations/AccidentReports/Reports/PAR1201.pdf]]
 
+### NTSB settlements
+
+Settlement of $177 million, of which $110 million to be spent on spill prevention. 
+
+* [[https://archive.epa.gov/epa/newsreleases/united-states-enbridge-reach-177-million-settlement-after-2010-oil-spills-michigan-and.html]]
+
 ### News reports
 
 ### Relevant laws and regulations
