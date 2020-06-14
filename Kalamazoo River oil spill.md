@@ -132,6 +132,10 @@ Settlement of $177 million, of which $110 million to be spent on spill preventio
 
 ### Videos
 
+Great video with first-person accounts of residents. Most interesting claim: Enbridge using integrity management to replace pipeline, gain capability to pump more oil. ("You have been polluted--as a reward we will rip out all your backyards").
+
+* [[https://youtu.be/IAR7z76KWj8]]
+
 ### Other
 
 * Some hearing: [[https://www.govinfo.gov/content/pkg/CHRG-111hhrg58236/html/CHRG-111hhrg58236.htm]]
