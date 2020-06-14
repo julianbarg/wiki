@@ -8,6 +8,8 @@ Pratt, M. G., & Bonaccio, S. (2016). Qualitative Research in I-O Psychology: Map
 
 ## One-paragraph summary
 
+There is not enough qualitative research in I-O Pyschology, and there should be more of it. Qualitative research can answer questions that quantitative research cannot answer--the "why" and "how". Qualitative research and quantitative research can be complementary. Qualitative research can help to find new questions, explore emerging phenomena. But it needs the right support to be able to do so. For instance, courses such as CARMA, editorials in journals, editors with qualitative experience, and courses on qualitative methods for students.
+
 Types of qualitative research: ethnography, grounded theory, case studies, phenomenology, narrative analysis, hermeneutics, (some) content analysis.
 
 ### Methods
