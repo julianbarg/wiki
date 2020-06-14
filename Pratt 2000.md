@@ -8,7 +8,7 @@ Pratt, M. G. (2000). The Good, the Bad, and the Ambivalent: Managing Identificat
 
 ## One-paragraph summary
 
-Ethnografic study on Amway to examine how Amway established its strong ties with its members. Data collection strategies include **semiovert participant observation**, **open-ended interviews**, and **archival data gathering**. Iterative approach to data analysis: move between rich narratives and abstract and analytical level. Starting point: scanning data for dominant themes while collecting data. Modified the framework based on conversations with key informants.
+Ethnografic study on Amway to examine how Amway established its strong ties with its members. The author sampled on an extreme case. Data collection strategies include **semiovert participant observation**, **open-ended interviews**, and **archival data gathering**. Iterative approach to data analysis: move between rich narratives and abstract and analytical level. Starting point: scanning data for dominant themes while collecting data. Modified the framework based on conversations with key informants.
 
 ### Methods
 
