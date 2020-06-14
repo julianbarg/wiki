@@ -28,3 +28,7 @@ Drift rather than design--starting out with an idea to explore. But what you mig
 ### Ethnography
 
 Participant observation & interviews. Types of ethnographies: classic ethnography, video ethnography, netnography. Research questions should be qualitative friendly. Access: connections ("gatekeepers", "idea champions", "key informants"), buy-in from people who can give you access, thinking why they might want to give you access, persistence, "credentials", tentative investment (pilot study). Anonymize: use a coding scheme, ask interview partners not to use real names, come up with, e.g., jump forward 3 letters in the alphabet.
+
+## Session 2
+
+* [[Pratt & Bonaccio 2016]]
