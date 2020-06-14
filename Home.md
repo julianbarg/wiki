@@ -9,6 +9,7 @@
 * [[Business Sustainability (2017)|Business Sustainability 2017]]
 * [[Organizational Theory (2017)|Organizational Theory 2017]]
 * [[Modern Social Theory (2017)]]
+* [[Qualitative Methods (2020)]]
 
 ## Phenomena
 * [[Oil spills]]
