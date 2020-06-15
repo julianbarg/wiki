@@ -8,6 +8,8 @@ Pratt, M. G. (2015). Crafting and Selecting Research Questions and Contexts in Q
 
 ## One-paragraph summary
 
+Introduces the idea of *Fundamental Social Questions* (FSQ) to ground your work in and motivate it. Selection of FSQs can come before the selction of context and theory or after, but it should always take place. Mentions sustainability, social justice, and CSR as potential dilemmas to start the intellectual mill. Further, there are four major sociological paradigms: functionalism, interpretetivist, radical humanist (agency), and radical structuralist (structuralism). Summary: provide a modern sin on a fundemantel social question, e.g., by taking a new context and embedding it in familiar territory--an "old" question.
+
 ### Methods
 
 ## Related to
