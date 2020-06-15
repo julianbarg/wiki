@@ -31,7 +31,7 @@ Pratt, M. G. (2015). Crafting and Selecting Research Questions and Contexts in Q
 
 ## Resources
 
-[[resources/Pratt_2015_Fig_2.png|alt=Circular Process of Selecting Research Questions and Context, width=450px,frame]]
+[[resources/Pratt_2015_Fig_2.png|alt=Circular Process of Selecting Research Questions and Context, width=550px,frame]]
 
 ## One-page summary
 
