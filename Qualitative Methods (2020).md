@@ -32,3 +32,4 @@ Participant observation & interviews. Types of ethnographies: classic ethnograph
 ## Session 2
 
 * [[Pratt & Bonaccio 2016]]
+* [[Pratt 2015]]
