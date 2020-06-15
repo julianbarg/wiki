@@ -37,3 +37,25 @@ Participant observation & interviews. Types of ethnographies: classic ethnograph
 Observation--there is overt and covert--covert is difficult to do, work is going to be overt. Participant or non-participant. What do I record? (1) Record everything. (2) Look for nothing in particular--take notes when something disruptive happens. (3) Look for paradoxes. (4) Identify key problems. Other techniques--(1) mapping--sketching out the scene, (2) interactions--who talks to whom, or non-verbal communication. 
 
 - Putting inferences in brackets. What about the environment? What about a particular groups? Those are choices you can make.
+
+- Taking notes: start with stream of consciousness, then reflect. Is it too interpretative? Similar for interviews: look at it, did I talk too much.
+
+- Mike--doesn't start taking notes until 5-10 minutes in. Doesn't even start with a research question, just has a topic in mind. And starts unstructured. Maybe then you will find something that you are interested in. Drop by regularly so they do not forget who I am. Sometimes you observe, sometimes you can poke the organization and see how they react.
+
+- Making observations is a way to come up with research questions. Question previous notions.
+
+- Participant observation types: (1) Job type--shouldn't be too impactful, (2) commitment acts--decide as much how far you are willing to go, (3) participating and observing?!--not quite possible, (4) identity investment.
+
+- Conflicts--sometimes embrace if central, if not central, avoid.
+
+- Time capsule--put in some information about yourself, like favorite things. How do your political leanings change, e.g., in terms of liking politicians?
+
+**Ethnographic interviewing**
+
+multiple interviews, going from general to specific, analyze inbetween, change interview protocol over time (e.g., not working, already answered by sufficient people).
+
+Ethnographic explanations--native language explanations--encourage informants to talk to you in their own cultural slang. Also "I am not looking for anything in specific, you are the expert, I want to hear what you think".
+
+Types of questions: (1) grand tour questions, e.g., take me through a typical day, (2) specific, e.g., what did you do on time or task, (3) guided, e.g., show me around the office, (4) task-related, e.g., how do you admit a patient?--draw it out (5) example--including "dumb" questions, (6) hypothetical interaction, (7) structural question, e.g., how is x categorized, what are your categories of work? (8) cover questions--are there other types of... (9) verification question, (10) card questions--give them somethign to visualize (11) contract questions.
+
+Complementing informants--you did a great job mapping out the field, how to you categorize yourself.
