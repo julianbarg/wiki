@@ -34,4 +34,6 @@ Participant observation & interviews. Types of ethnographies: classic ethnograph
 * [[Pratt & Bonaccio 2016]]
 * [[Pratt 2015]]
 
-Observation--there is overt and covert--covert is difficult to do, work is going to be overt. Participant or non-participant. What do I record? (1) Record everything. (2) Look for nothing in particular--take notes when something disruptive happens. (3) Look for paradoxes. (4) Identify key problems. Other techniques--(1) mapping--sketching out the scene, (2) interactions--who talks to whom, or non-verbal communication.
+Observation--there is overt and covert--covert is difficult to do, work is going to be overt. Participant or non-participant. What do I record? (1) Record everything. (2) Look for nothing in particular--take notes when something disruptive happens. (3) Look for paradoxes. (4) Identify key problems. Other techniques--(1) mapping--sketching out the scene, (2) interactions--who talks to whom, or non-verbal communication. 
+
+- Putting inferences in brackets. What about the environment? What about a particular groups? Those are choices you can make.
