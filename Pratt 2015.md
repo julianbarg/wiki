@@ -21,6 +21,7 @@ Pratt, M. G. (2015). Crafting and Selecting Research Questions and Contexts in Q
 * [[Spradley 1979]]
 * [[Strauss & Corbin 1998]]
 * [[Golden-Biddle & Locke 2007]]
+* [[Van Maanen 1988]]
 
 ### Projects
 
@@ -29,6 +30,8 @@ Pratt, M. G. (2015). Crafting and Selecting Research Questions and Contexts in Q
 ## Concepts
 
 ## Resources
+
+[[resources/Pratt_2015_Fig_2.png|alt=Circular Process of Selecting Research Questions and Context, width=450px,frame]]
 
 ## One-page summary
 
