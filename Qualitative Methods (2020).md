@@ -61,3 +61,8 @@ Types of questions: (1) grand tour questions, e.g., take me through a typical da
 Complementing informants--you did a great job mapping out the field, how to you categorize yourself.
 
 Work--location-dependent memory. So--in the workplace, private conference room if possible. Set up the room, e.g., remove all chairs except two that are set together. Recordings: maybe set up two recordings, something always goes wrong with one of them. Keep recording--people say interesting stuff after the informant is gone. Maximum of 4 interviews per day, leave 30 minutes, because maybe you want to take some notes inbetween. "We have ten minutes left, is it ok if we go longer"--if no, skik to most important question.
+
+## Session 3
+
+* [[Spradley 1979]]
+* [[Van Maanen 1979]]
