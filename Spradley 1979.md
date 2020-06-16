@@ -8,11 +8,9 @@ Spradley, J. P. (1979). *The Ethnographic Interview*. Fort Worth: Harcourt Brace
 
 ## One-paragraph summary
 
-### Informants
+### Informants and following
 
-(Chapter Three)
-
-
+Mostly focuses on the question of how to find informants and how to access and utilize their knowledge.
 
 ### Methods
 
