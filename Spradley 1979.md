@@ -10,7 +10,7 @@ Spradley, J. P. (1979). *The Ethnographic Interview*. Fort Worth: Harcourt Brace
 
 ### Informants and following
 
-Mostly focuses on the question of how to find informants and how to access and utilize their knowledge.
+Mostly focuses on the question of how to find informants and how to access and utilize their knowledge. Including stuff about what language to use, taking notes, creating a journal, etc.
 
 ### Methods
 
