@@ -19,7 +19,7 @@ Mostly focuses on the question of how to find informants and how to access and u
 ### Theories
 
 ### Conferences, courses etc.
-* [[Qualitative Methods 2020]]
+* [[Qualitative Methods (2020)]]
 
 ### Previous literature/influences
 
