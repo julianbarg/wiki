@@ -4,7 +4,7 @@
 
 ## Citation
 
-Maanen, J. Van. (1979). The Fact of Fiction in Organizational Ethnography. *Administrative Science Quarterly*, 24(4), 539. [[https://doi.org/10.2307/2392360]]
+Van Maanen, J. (1979). The Fact of Fiction in Organizational Ethnography. *Administrative Science Quarterly*, 24(4), 539. [[https://doi.org/10.2307/2392360]]
 
 ## One-paragraph summary
 
