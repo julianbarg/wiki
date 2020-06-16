@@ -82,3 +82,7 @@ Card technique--grab some illustrative card, ask personal question--"which one r
 What goes in your field notes--e.g., take condensed notes in the field, try to complete within 24 hours. E.g., notes on a napkin, that evoke memories. Organize it though--what do I need to organize, what do I not need but still keep.
 
 Field journal--field notes are your data, in the field journal you do memoing. You take notes on the theories you want to build. Writing down the connections you see.
+
+## Session 4
+
+* [[Pratt 2008]]
