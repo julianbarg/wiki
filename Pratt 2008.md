@@ -27,7 +27,7 @@ Pratt, M. G. (2008). Fitting oval pegs into round holes: Tensions in evaluating 
 
 ## Resources
 
-[[resources/pratt_2008_fig_1.png|alt=Figure 1|, frame, width=600px]]
+[[resources/pratt_2008_fig_1.png|alt=Figure 1|, frame, width=45000px]]
 
 ## One-page summary
 
