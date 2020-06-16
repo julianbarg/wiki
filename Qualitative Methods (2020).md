@@ -66,3 +66,9 @@ Work--location-dependent memory. So--in the workplace, private conference room i
 
 * [[Spradley 1979]]
 * [[Van Maanen 1979]]
+
+Asking questions--silence is valuable--people will fill it.
+
+Still take notes even when audio recording--non-verbals--e.g., questions make people uncomfortable, or what follow-up questions I want to ask.
+
+Avoid leading questions and making assumptions.
