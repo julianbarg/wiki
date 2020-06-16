@@ -72,3 +72,9 @@ Asking questions--silence is valuable--people will fill it.
 Still take notes even when audio recording--non-verbals--e.g., questions make people uncomfortable, or what follow-up questions I want to ask.
 
 Avoid leading questions and making assumptions.
+
+Power quotes vs proof quotes. Putting proof quotes into appendix.
+
+More from terms and meanings to buckets, and then discover the relationship between the buckets.
+
+Card technique--grab some illustrative card, ask personal question--"which one reminds me of your childhood?". Will get people talking. As visual prompt.
