@@ -97,4 +97,6 @@ Meta-theory of coding: (1) Find out what informants say (first-order code, provi
 
 Usually, papers have too much telling, and not enough showing.
 
-Inductive research: needs to be grounded in theory, e.g., decide to do extreme samplesp. Deductive: can be random sample
+Inductive research: needs to be grounded in theory, e.g., decide to do extreme samplesp. Deductive: can be random sample.
+
+Find somebody who has published consistently (and who's papers you like) to model your papers after.
