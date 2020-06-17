@@ -86,6 +86,7 @@ Field journal--field notes are your data, in the field journal you do memoing. Y
 ## Session 4
 
 * [[Pratt 2008]]
+* [[Van Maanen 2013]]
 
 - You should have a lot of codes. Resist creating too abstract codes right away. Try to be verbatim. Try to code every part of the interview.
 - You go into the interviews with a framework, but the framework should be fragile.
