@@ -39,6 +39,8 @@ Proof quotes are often used to show the prevalence of a point" (p. 501).
 
 [[resources/pratt_2008_fig_2.png|alt=Figure 2, frame, width=600px]]
 
+[[resources/pratt_2008_fig_3.png|alt=Figure 3, frame, width=600px]]
+
 ## One-page summary
 
 ## Important points
