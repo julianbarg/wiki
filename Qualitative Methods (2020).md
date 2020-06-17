@@ -86,3 +86,13 @@ Field journal--field notes are your data, in the field journal you do memoing. Y
 ## Session 4
 
 * [[Pratt 2008]]
+
+- You should have a lot of codes. Resist creating too abstract codes right away. Try to be verbatim. Try to code every part of the interview.
+- You go into the interviews with a framework, but the framework should be fragile.
+- Downside with coding: how to go from second order codes to theory?
+- Spradley - domain analysis/taxonomic analysis/componential analysis
+- Member checks--figure out if there is something you got wrong factually
+
+Meta-theory of coding: (1) Find out what informants say (first-order code, provisional codes). (2) Find out what the literature says (enfold theory, 2nd order codes, axial coding). (3) Tell a story (aggregate dimensions).
+
+Usually, papers have too much telling, and not enough showing.
