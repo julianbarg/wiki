@@ -25,6 +25,14 @@ Pratt, M. G. (2008). Fitting oval pegs into round holes: Tensions in evaluating 
 
 ## Concepts
 
+### Power quotes
+
+"Power quotes are those where the informant is so poetic, concise, or insightful, that the author could not do a better job of making the same point" (p. 501).
+
+### Proof quotes
+
+Proof quotes are often used to show the prevalence of a point" (p. 501).
+
 ## Resources
 
 [[resources/pratt_2008_fig_1.png|alt=Figure 1, frame, width=600px]]
