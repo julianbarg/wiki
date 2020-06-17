@@ -99,4 +99,4 @@ Usually, papers have too much telling, and not enough showing.
 
 Inductive research: needs to be grounded in theory, e.g., decide to do extreme samplesp. Deductive: can be random sample.
 
-Find somebody who has published consistently (and who's papers you like) to model your papers after.
+Find somebody who has published consistently (and who's papers you like) to model your papers after. Get feedback from a lot of people and show to quant people too if possible.
