@@ -4,7 +4,7 @@
 
 ## Citation
 
-Clarke, L. (1999). Mission Improbable. Using Fantasy Documents to Tame Disaster. Chicago: The University of Chicago Press. Retrieved from https://press.uchicago.edu/ucp/books/book/chicago/M/bo3645893.html
+Clarke, L. (1999). Mission Improbable. Using Fantasy Documents to Tame Disaster. Chicago: The University of Chicago Press. Retrieved from [[https://press.uchicago.edu/ucp/books/book/chicago/M/bo3645893.html]]
 
 ## One-paragraph summary
 
