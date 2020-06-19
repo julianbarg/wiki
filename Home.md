@@ -25,6 +25,7 @@
 
 ## Conference & seminar series notes
 * [[NOTES]]
+* [[ARCS 2020]]
 
 ## Conference Submissions
 * [[EGOS 2020]]
