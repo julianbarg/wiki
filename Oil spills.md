@@ -4,6 +4,10 @@
 
 * [[Spill template|Pipeline spill entry]]
 
+## News
+
+* [[Pipeline news]]
+
 ## Titles
 
 * Better, faster, cleaner?
