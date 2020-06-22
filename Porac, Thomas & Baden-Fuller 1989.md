@@ -3,7 +3,7 @@
 [[_TOC_]]
 
 ## Citation
-Porac, J. F., Thomas, H., & Baden‐Fuller, C. (1989). Competitive Groups As Cognitive Communities: the Case of Scottish Knitwear Manufacturers. Journal of Management Studies, 26(4), 397–416. [[https://doi.org/10.1111/j.1467-6486.1989.tb00736.x]]
+Porac, J. F., Thomas, H., & Baden‐Fuller, C. (1989). Competitive Groups As Cognitive Communities: the Case of Scottish Knitwear Manufacturers. *Journal of Management Studies*, 26(4), 397–416. [[https://doi.org/10.1111/j.1467-6486.1989.tb00736.x]]
 
 ## Related to
 
