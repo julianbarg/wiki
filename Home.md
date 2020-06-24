@@ -12,7 +12,7 @@
 * [[Qualitative Methods (2020)]]
 
 ## Phenomena
-* [[Oil spills]]
+* [[Pipeline spills]]
 
 ## Material
 * [[Comps Preparation]]
