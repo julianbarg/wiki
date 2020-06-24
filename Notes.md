@@ -33,3 +33,11 @@ Reaction to Foucault from the perspective of pipeline spills.
 Qualitative summary of what I have learned from pipeline spills. Also provides a sketch of the postmodern perspective on learning, the fundamental question behind that. Includes a number of "graphs" as Cameron calls them.
 
 * [[https://julianbarg.github.io/spills/drafts/entry_2020-05-18/main.pdf]]
+
+## April 2020
+
+###
+
+Proposal to AOM ONE PhD Student Consortium. Presents ideas both for organizational learning and empirical work.
+
+* [[https://julianbarg.github.io/proposals/aom_one_consortium_2020/main.pdf]]
