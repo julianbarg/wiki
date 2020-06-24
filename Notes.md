@@ -1,3 +1,5 @@
+[[_TOC_]]
+
 ## June 2020
 
 ### New conceptualization of organizational learning
