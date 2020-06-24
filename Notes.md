@@ -1,5 +1,11 @@
 ## June 2020
 
+### New conceptualization of organizational learning
+
+Building on Argote, Cyert and March. Sketch for the first chapter of my dissertation.
+
+* [[https://julianbarg.github.io/spills/drafts/entry_2020-06-01/main.pdf]]
+
 ### Messy world
 
 Why to look at pipeline spills and everything irregular
