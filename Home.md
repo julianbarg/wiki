@@ -39,6 +39,7 @@
 * [[Pace 2019]]
 * [[Pipeline safety learning]]
 * [[Timeline]]
+* [[Notes]]
 
 ## Other
 * [[Agenda]]
