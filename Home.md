@@ -34,6 +34,7 @@
 * [[Ivey PhD Research Series 2020]]
 
 ## Projects
+* [[Thesis proposal]]
 * [[Thesis]]
 * [[Pace 2019]]
 * [[Pipeline safety learning]]
