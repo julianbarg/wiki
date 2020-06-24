@@ -25,3 +25,11 @@ How are environmental pollution events translated into success? An important exh
 Reaction to Foucault from the perspective of pipeline spills.
 
 * [[https://julianbarg.github.io/notes_by_topic/foucault_pipelines/main.pdf]]
+
+## May 2020
+
+### Better, faster, cleaner?
+
+Qualitative summary of what I have learned from pipeline spills. Also provides a sketch of the postmodern perspective on learning, the fundamental question behind that. Includes a number of "graphs" as Cameron calls them.
+
+* [[https://julianbarg.github.io/spills/drafts/entry_2020-05-18/main.pdf]]
