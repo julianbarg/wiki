@@ -1,6 +1,6 @@
 [[_TOC_]]
 
-Back to [[Oil spills]].
+Back to [[Pipeline spills]].
 
 ## Incident image
 
