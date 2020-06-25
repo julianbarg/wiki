@@ -37,6 +37,10 @@ How internal factors determine perception of (acceptable) risk.
 
 Discussion of whether or not OGS was aware of the danger present in the State Office Building (SOB) that was to be cleaned after a fire. Answer--probably not initially; lower organizational levels were aware of the toxic chemical compound, but decisions makers had no way of knowing that it was present in the soot that was being cleaned up. Two other factors are that (1) responsibility or right of the involved organizations to deal with the incident are non-obvious (garbage can model), and (2) from a medical and scientific perspective, the facts were quite unclear. Clarke rejects the use of a rational model of decision making (or the callous-bureaucracy theory) to analyze this case.
 
+### Chapter 3
+
+Explains the politics of which agencies got involved. Which actors should or should not have been involved is not immediately obvious--Clarke lists 11 organizations that could have gotten involved, but did not. The remaining three organizations then negotiated solutions. The other organizations that did not get involved represent a repository for alternative solutions.
+
 ## Important points
 
 ## Reactions
