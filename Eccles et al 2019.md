@@ -8,7 +8,7 @@ Eccles, R. G., Lee, L.-E., & Stroehle, J. C. (2019). The Social Origins of ESG: 
 
 ## One-paragraph summary
 
-ESG indicators are mutually inconsistent. That is because of the social construction process of the metrics. But authors contrast this with reactivity axiom and performativity--our creation shape the world, too.
+ESG indicators do not offer aggregate scores--those are constructed by researchers. This construction of aggregate scores is a process of social construction that should be made explicit. ESG indicators are mutually inconsistent. That is because of the social construction process of the metrics. But authors contrast this with reactivity axiom and performativity--our creation shape the world, too.
 
 ### Methods
 
