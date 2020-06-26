@@ -45,6 +45,10 @@ Explains the politics of which agencies got involved. Which actors should or sho
 
 Juxtaposes the theory of how decisions on assuming risks are made with the actual decision making process. The document that was eventually produced to open the garage seems to have been produced with that purpose in mind--despite the fact that relatively little was known about the involved chemicals and their interactions at the time. How can formal risk assessment be carried out in an area full of unknowns? An official not in favor of the decision to open the garage had to be removed to enable this decision to come to fruition. An important driving force of consulting experts was to reduce liability. Acceptable levels of the chemicals were not defined before testing (the actors were hoping for unambiguous results). Defining those acceptable levels then was a political process.
 
+### Chapter 5: Organizing Medical Surveillance
+
+Describes how medical surveillance was constructed in an interorganizational context. Once the DOH took control of the situation--the important resources (see resource-based view)--it defined procedures. The procedures are not below the initial expectations, but DOH employees did not believe in the dangers of the substances, which probably explains this outcome.
+
 ## Important points
 
 ## Reactions
