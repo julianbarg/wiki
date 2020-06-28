@@ -9,6 +9,7 @@
 * [[Contingency Theory]]
 * [[Dynamic Capabilities]]*
 * [[Evolutionary Theory]]*
+* [[Garbage Can]]
 * [[Institutional Theory]]*
 * [[Logics]]
 * [[Organizational Ecology]]*
