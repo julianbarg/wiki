@@ -68,5 +68,7 @@ Citizens were concerned with the building's risks. They, too, had no rational mo
 
 * "Implicit in all these pronouncements was the unfailing faith that the SOB could be cleaned, that it *must* be cleaned and reopened, and that the notion of taking the building apart and carting it away was ludicrous" (p. 133, emphasis in original).
 * "I am suggesting that a process of commitment to a course of action occurred, wherein promises made or implied without knowing how those promises would be filfilled. If organizations say loudly enough and long enough that they are going to do something, they can create a situation in which that action *must* follow their proclamations" (p. 136, emphasis in original).
+* Intentionally misleading public presentations (p. 170).
+* "[F]ormal risk assessment [...] were not generated until after* the key decisions had been reached" (p. 171, emphasis in original).
 
 ## Reactions
