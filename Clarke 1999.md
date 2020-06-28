@@ -49,6 +49,10 @@ Juxtaposes the theory of how decisions on assuming risks are made with the actua
 
 Describes how medical surveillance was constructed in an interorganizational context. Once the DOH took control of the situation--the important resources (see resource-based view)--it defined procedures. The procedures are not below the initial expectations, but DOH employees did not believe in the dangers of the substances, which probably explains this outcome.
 
+### Chapter 6: Organizing Decontamination
+
+Laying out the plan to "tire out" the public and scientific community. Disillusion has given way to a management approach that seeks to bring the debate to an end by not engaging its counterparts, since a final answer cannot be found.
+
 ## Important points
 
 ## Reactions
