@@ -51,8 +51,13 @@ Describes how medical surveillance was constructed in an interorganizational con
 
 ### Chapter 6: Organizing Decontamination
 
-Laying out the plan to "tire out" the public and scientific community. Disillusion has given way to a management approach that seeks to bring the debate to an end by not engaging its counterparts, since a final answer cannot be found.
+Laying out the plan to "tire out" the public and scientific community. Disillusion has given way to a management approach that seeks to bring the debate to an end by not engaging its counterparts, since a final answer cannot be found. Why the action (of decontamination) had to be carried out? Clarke argues that there is escalation of commitment (p. 136).
+
+Overall, this is how a solution came to be: the process was streamlined through the creation of a dedicated agency (VERSAR). Before the many voices with diverging interests prevented the emergence of a consensus. That new entitity then pushed the process through by preventing public debate and artificially limiting the number of options to be discussed by experts. (Maybe that was because some options were considered to be unreasonable and not to be considered by VERSAR? Malice is not necessarily the reason.)
 
 ## Important points
+
+* "Implicit in all these pronouncements was the unfailing faith that the SOB could be cleaned, that it *must* be cleaned and reopened, and that the notion of taking the building apart and carting it away was ludicrous" (p. 133, emphasis in original).
+* "I am suggesting that a process of commitment to a course of action occurred, wherein promises made or implied without knowing how those promises would be filfilled. If organizations say loudly enough and long enough that they are going to do something, they can create a situation in which that action *must* follow their proclamations" (p. 136, emphasis in original).
 
 ## Reactions
