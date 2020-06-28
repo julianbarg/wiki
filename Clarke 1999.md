@@ -55,6 +55,15 @@ Laying out the plan to "tire out" the public and scientific community. Disillusi
 
 Overall, this is how a solution came to be: the process was streamlined through the creation of a dedicated agency (VERSAR). Before the many voices with diverging interests prevented the emergence of a consensus. That new entitity then pushed the process through by preventing public debate and artificially limiting the number of options to be discussed by experts. (Maybe that was because some options were considered to be unreasonable and not to be considered by VERSAR? Malice is not necessarily the reason.)
 
+### Chapter 7: The Exposed
+
+Challenging the notion of operator error.
+
+
+### Chapter 8: The Exposed
+
+Citizens were concerned with the building's risks. They, too, had no rational model of risk. But importantly, their concerns were driven by being personally affected, which influences the perception of risk in a meaningful way. But alas, they were lacking the power to enforce their perception of risk.
+
 ## Important points
 
 * "Implicit in all these pronouncements was the unfailing faith that the SOB could be cleaned, that it *must* be cleaned and reopened, and that the notion of taking the building apart and carting it away was ludicrous" (p. 133, emphasis in original).
