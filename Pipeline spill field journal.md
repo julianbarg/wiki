@@ -1,8 +1,10 @@
+[[_TOC_]]
+
 ## 2020
 
 ### June
 
-### June 28
+#### Sunday, June 28
 
 * [[Oil change international|http://priceofoil.org/]]
 
