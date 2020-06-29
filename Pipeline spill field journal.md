@@ -6,7 +6,21 @@
 
 ---
 
-#### Sunday, June 28
+#### Mon, June 29
+
+---
+
+Report seems to suggest that rail is safer than pipeline:
+
+* [[https://fas.org/sgp/crs/misc/R43390.pdf]]
+
+Often quoted report by Fraser institute suggests it is less safe, but that is based only on one outlier.
+
+* [[https://www.fraserinstitute.org/sites/default/files/safety-in-the-transportation-of-oil-and-gas-pipelines-or-rail-rev2.pdf]]
+
+---
+
+#### Sun, June 28
 
 ---
 
