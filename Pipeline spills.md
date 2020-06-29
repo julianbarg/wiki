@@ -8,6 +8,10 @@
 
 * [[Pipeline news]]
 
+## Sources
+
+* [[http://priceofoil.org/]]
+
 ## Titles
 
 * Better, faster, cleaner?
