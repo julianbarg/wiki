@@ -26,8 +26,6 @@
 
 ## Chapter-by-chapter summary
 
-### Chapter 10: Power Shifts
-
 ## Important points
 
 ## Reactions
@@ -36,3 +34,4 @@
 
 * Sun oil company speech emphasizing country, capitalism and faith side by side (p. 417).
 * One reason for (objectively unwarranted) capital investment into oil boring in Israel seems to be that it attracted the religious type (p. 434).
+* T
