@@ -18,6 +18,10 @@ Often quoted report by Fraser institute suggests it is less safe, but that is ba
 
 * [[https://www.fraserinstitute.org/sites/default/files/safety-in-the-transportation-of-oil-and-gas-pipelines-or-rail-rev2.pdf]]
 
+This is by the American Petroleum Institut (API)--not comparing, but good data. Also showing absence of trend.
+
+* [[https://www.api.org/environment-health-and-safety/clean-water/oil-spill-prevention-and-response/~/media/93371EDFB94C4B4D9C6BBC766F0C4A40.ashx]]
+
 ---
 
 #### Sun, June 28
