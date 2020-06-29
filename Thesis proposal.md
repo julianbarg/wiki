@@ -38,4 +38,6 @@
 
 #### What would theory say? Why is theory flawed?
 
-#### Choice and outcomes in qualitative data.
+#### Choice and outcomes in qualitative data
+
+* E.g., how a perception of a major incident was avoided where the attention was not there.
