@@ -14,5 +14,6 @@
 
 ### Other papers
 * [[Lutz 1982]]
+* [[Weick 1976]]
 
 ## One-page summary
