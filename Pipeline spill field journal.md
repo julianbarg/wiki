@@ -10,9 +10,14 @@
 
 ---
 
-Report seems to suggest that rail is safer than pipeline:
+Summary: Rail seems to spill less, but leads to more injuries. Also, more GHG emissions from rail, but in the grand scheme of things (oil industry) it probably does not make too much of a difference.
+
+* [[http://pstrust.org/rail-vs-pipelines/]]
+
+Reports seems to suggest that rail is safer than pipeline:
 
 * [[https://fas.org/sgp/crs/misc/R43390.pdf]]
+* [[http://pstrust.org/wp-content/uploads/2013/12/Intl-Canada-RailAssoc-Oliver_Wyman-Crude_Oil_Transp_Comparing_Safety_Pipelines_Railways-201512.pdf]]
 
 Often quoted report by Fraser institute suggests it is less safe, but that is based only on one outlier.
 
