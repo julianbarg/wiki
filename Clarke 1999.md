@@ -64,6 +64,10 @@ Challenging the notion of operator error.
 
 Citizens were concerned with the building's risks. They, too, had no rational model of risk. But importantly, their concerns were driven by being personally affected, which influences the perception of risk in a meaningful way. But alas, they were lacking the power to enforce their perception of risk.
 
+### Chapter 9: Organizing Risk
+
+Arguing a lot of stuff, but amongst many points: describes groups of organizations as garbage cans, though pushing back against the garbage can theory for the purpose of describing an individual organization. Last section lays out that organizations "are the final arbiters of hazard".
+
 ## Important points
 
 * "Implicit in all these pronouncements was the unfailing faith that the SOB could be cleaned, that it *must* be cleaned and reopened, and that the notion of taking the building apart and carting it away was ludicrous" (p. 133, emphasis in original).
