@@ -31,3 +31,11 @@
 * Need for sustainability in the industry
 * Push for technology by the industry
 * Continued occurance of spills
+
+### Sections
+
+#### Who is learning--who is not?
+
+#### What would theory say? Why is theory flawed?
+
+####
