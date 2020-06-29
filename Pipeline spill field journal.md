@@ -13,3 +13,5 @@ Shale gas "never made money".
 Shale peaked without making money.
 
 * [[https://www2.deloitte.com/us/en/pages/energy-and-resources/articles/covid-19-implications-for-us-shale-industry.html]]
+
+--Is the oil industry completely fraudulent but allowed to do so because it operates under the vail of modernism?
