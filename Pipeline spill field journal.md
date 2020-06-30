@@ -6,6 +6,16 @@
 
 ---
 
+#### Tue, June 30
+
+---
+
+Oil spill tech is primitive, no good.
+
+* [[https://spectrum.ieee.org/energy/fossil-fuels/why-oilspill-tech-is-so-primitive-and-how-one-man-is-trying-to-fix-it]]
+
+---
+
 #### Mon, June 29
 
 ---
