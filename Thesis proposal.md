@@ -30,7 +30,7 @@
 ### Hook
 * Need for sustainability in the industry
 * Push for technology by the industry
-* Continued occurance of spills
+* Continued occurrence of spills
 
 ### Sections
 
