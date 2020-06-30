@@ -60,10 +60,17 @@
 * This process is not one of continuous progression. Of the following points, do not cover everything in introduction--communicate the spirit!
         * One can learn the same routine multiple times if there is enough time between it--i.e., inbetween, organizations learn that the routine is not needed, and drop it
         * If an organization was to maintain every routine it has ever learned, it would quickly be succumbed by overhead
-        * There may exist alternative states though--radically different ways of organizing--that fulfull very different sets of goals (March 1999). For instance, US vs. Japanese rail network
+        * There may exist alternative states or though--radically different regimes--that fulfill very different sets of goals (March 1999). For instance, US vs. Japanese rail network
 
 5. What are the implications of that?
-* est
+* For learning:
+        * Importance of difference between specific progress (NTSB reports) vs. overall progress--looking at the data to discover
+        * If progress is not made on an issue, goal-setting can be a solution
+        * Looking at postmodern approaches in sociology for inspiration
+* For sustainability:
+        * Hoping for technological progression alone to solve our problems is unreasonable
+        * If certain problems cannot be resolved, easier solutions should be preferred
+        * If progress is to be made on an issue, goal-setting is a crucial process. Analyzing and resolving specific issues can be a cat-and-mouse game. Goals that lead to systemic changes can make a difference, but may require high upfront cost and offer no success guarantee (again, Japanese rail network; for pipelines: responding to every alarm might be prohibitively expensive--and startup processes are dangerous, too!)
 
 #### Who is learning--who is not?
 
