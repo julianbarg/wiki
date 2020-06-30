@@ -47,11 +47,14 @@
 * Engineers can rightfully point to technological improvements that have been made
 * To explain why pipelines are still unsafe requires some more work
 
-3. Why pipelines are still unsafe, despite learning taking place
+3. Why are pipelines still unsafe, despite learning taking place?
 * (In it's current state) organizational learning addresses very specific problems
 * Organizational learning, in general, is conceptualized in a wrong fashion
 
-4. How should we conceptualize learning
+4. How should we conceptualize learning?
+* The "traditional" conceptualization of learning is simplistic
+* Many things are meshed in there, many of which do not constitute learning as we would think about it
+* Rather than a learning curve, there is a transition from state to state taking place
 
 #### Who is learning--who is not?
 
