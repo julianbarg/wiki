@@ -55,6 +55,8 @@
 * The "traditional" conceptualization of learning is simplistic
 * Many things are meshed in there, many of which do not constitute learning as we would think about it
 * Rather than a learning curve, there is a transition from state to state taking place
+* A small number of specific goals determines what states an organization strives toward (or if a change of state is seeked)
+* When we talk about pipeline spills, learning (at least over the last 30 years) is taking place in response to specific exogenous demands (that are reactions to spills that have taken place)
 
 #### Who is learning--who is not?
 
