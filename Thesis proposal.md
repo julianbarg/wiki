@@ -41,8 +41,17 @@
 * The engineers have convincing technological solutions
 * If you claim "the next spill will come"–that is definitively true (but is it also not very profound)
 
-2. But how does this thing actually work?
-* test
+2. But how do we approach this thing?
+* There is reason to believe that pipelines would improve
+* There is reason to believe that pipelines would not improve
+* Engineers can rightfully point to technological improvements that have been made
+* To explain why pipelines are still unsafe requires some more work
+
+3. Why pipelines are still unsafe, despite learning taking place
+* (In it's current state) organizational learning addresses very specific problems
+* Organizational learning, in general, is conceptualized in a wrong fashion
+
+4. How should we conceptualize learning
 
 #### Who is learning--who is not?
 
