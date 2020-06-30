@@ -37,7 +37,6 @@
 #### Introduction
 
 1. Set up the basic conflict–engineers vs. activists. Who is wrong?
-
 * The engineers have convincing technological solutions
 * If you claim "the next spill will come"–that is definitively true (but is it also not very profound)
 
