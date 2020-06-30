@@ -57,7 +57,7 @@
         * The change in state is not instantaneous, thus giving the impression of curves--but really it is a qualitative change (here, pushing against the notion of "better")
 * A small number of specific goals determines what states an organization strives toward (or if a change of state is seeked)
 * When we talk about pipeline spills, learning (at least over the last 30 years) is taking place in response to specific exogenous demands (that are reactions to spills that have taken place)
-* This process is not one of continuous progression. Of the following points, do not cover everything in introduction--communicate the spirit!
+* This process is not one of accumulating knowledge. Of the following points, do not cover everything in introduction--communicate the spirit!
         * One can learn the same routine multiple times if there is enough time between it--i.e., inbetween, organizations learn that the routine is not needed, and drop it
         * If an organization was to maintain every routine it has ever learned, it would quickly be succumbed by overhead
         * There may exist alternative states or though--radically different regimes--that fulfill very different sets of goals (March 1999). For instance, US vs. Japanese rail network
@@ -72,10 +72,20 @@
         * If certain problems cannot be resolved, easier solutions should be preferred
         * If progress is to be made on an issue, goal-setting is a crucial process. Analyzing and resolving specific issues can be a cat-and-mouse game. Goals that lead to systemic changes can make a difference, but may require high upfront cost and offer no success guarantee (again, Japanese rail network; for pipelines: responding to every alarm might be prohibitively expensive--and startup processes are dangerous, too!)
 
-#### Who is learning--who is not?
+#### First paper: learning occurs only in specific cases
+
+Using the quantitative data, show that at large, learning does not occur. Using subgroups or specific types of incident, show that learning occurs in specific areas.
 
 #### What would theory say? Why is theory flawed?
 
 #### Choice and outcomes in qualitative data
 
 * E.g., how a perception of a major incident was avoided where the attention was not there.
+
+#### Conclusion
+
+* Same as introduction #5--implications?
+
+##### What I am excluding
+
+* How failures/disasters get normalized (i.e., fieldwork)
