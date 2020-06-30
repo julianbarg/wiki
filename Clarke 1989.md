@@ -1,10 +1,10 @@
-**Mission Improbable. Using Fantasy Documents to Tame Disaster**
+**Acceptable Risk? Making Decisions in a Toxic Environment**
 
 [[_TOC_]]
 
 ## Citation
 
-Clarke, L. (1999). Mission Improbable. Using Fantasy Documents to Tame Disaster. Chicago: The University of Chicago Press. Retrieved from [[https://press.uchicago.edu/ucp/books/book/chicago/M/bo3645893.html]]
+Clarke, L. (1989). *Acceptable Risk? Making Decisions in a Toxic Environment*. Berkeley: University of California Press.
 
 ## One-paragraph summary
 
