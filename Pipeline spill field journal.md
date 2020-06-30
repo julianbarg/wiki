@@ -14,6 +14,14 @@ Oil spill tech is primitive, no good.
 
 * [[https://spectrum.ieee.org/energy/fossil-fuels/why-oilspill-tech-is-so-primitive-and-how-one-man-is-trying-to-fix-it]]
 
+Trans Mountain spill in Canada. Indigenous community speaking out.
+
+* [[https://www.commondreams.org/news/2020/06/15/why-we-continue-fight-indigenous-leaders-outraged-trans-mountain-pipeline-spills]]
+
+Directional drilling, pollution of aquifer in New Jersay.
+
+* [[https://www.nj.com/burlington/2020/06/work-halted-on-natural-gas-pipeline-after-drilling-sludge-damages-nj-couples-house.html]]
+
 ---
 
 #### Mon, June 29
