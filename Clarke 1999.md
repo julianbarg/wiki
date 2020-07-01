@@ -36,6 +36,10 @@ Clarke, L. (1999). *Mission Improbable. Using Fantasy Documents to Tame Disaster
 
 Some examples of excercises and how they expose the flaws of fantasy documents. "[Fantasy documents" are tested against reality only rarely" (p. 30). "An important part of the story I want to tell has to do with how people and organizations become so certain they know what the future will entail" (p. 40). "The fantasies can lead people working within high-risk orgnaizations to be overconfident that their procedures are strong enough to prevent system breakdown; and they can lead people outside organizations to believe promises that their interests are protected" (p. 42).
 
+### Chapter 3: Planning and the C-Shibboleths
+
+Communication, cooperation, coordination. "Often enough, planning and success *do not* coincide, but are loosely connected or even decoupled" (p. 57).
+
 ## Important points
 
 ## Reactions
