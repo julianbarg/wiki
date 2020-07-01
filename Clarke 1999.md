@@ -38,7 +38,7 @@ Some examples of excercises and how they expose the flaws of fantasy documents. 
 
 ### Chapter 3: Planning and the C-Shibboleths
 
-Communication, cooperation, coordination. "Often enough, planning and success *do not* coincide, but are loosely connected or even decoupled" (p. 57).
+Communication, cooperation, coordination. "Often enough, planning and success *do not* coincide, but are loosely connected or even decoupled" (p. 57; emphasis in original). Important keyword: worst case scenario. "[C]orrespondence between plans and successful response is often illusory. That correspondence is often more something we'd *like* to believe is there than something real. For to admit the observe--that planning may have little to do with successful evacuation--is unnerving at best and at worst undermines the main supporting beam of Western rationalism: control based on expert knowledge" (pp. 68f; emphasis in original).
 
 ## Important points
 
