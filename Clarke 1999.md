@@ -40,6 +40,10 @@ Some examples of excercises and how they expose the flaws of fantasy documents. 
 
 Communication, cooperation, coordination. "Often enough, planning and success *do not* coincide, but are loosely connected or even decoupled" (p. 57; emphasis in original). Important keyword: worst case scenario. "[C]orrespondence between plans and successful response is often illusory. That correspondence is often more something we'd *like* to believe is there than something real. For to admit the observe--that planning may have little to do with successful evacuation--is unnerving at best and at worst undermines the main supporting beam of Western rationalism: control based on expert knowledge" (pp. 68f; emphasis in original).
 
+### Chapter 4: Apparent Affinities
+
+We have to have plans, because it would be unthinkable just to respond "we cannot plan for that" (p. 71). Instead, organizations reach for affinities and try to turn them into God-terms that are accepted by outsiders (and insiders) without questioning (p. 73). The plan for Alaska oil recovery was to recover 95% of oil spilled (p. 79).
+
 ## Important points
 
 ## Reactions
