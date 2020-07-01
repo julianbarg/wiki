@@ -42,7 +42,7 @@ Communication, cooperation, coordination. "Often enough, planning and success *d
 
 ### Chapter 4: Apparent Affinities
 
-We have to have plans, because it would be unthinkable just to respond "we cannot plan for that" (p. 71). Instead, organizations reach for affinities and try to turn them into God-terms that are accepted by outsiders (and insiders) without questioning (p. 73). The plan for Alaska oil recovery was to recover 95% of oil spilled (p. 79).
+We have to have plans, because it would be unthinkable just to respond "we cannot plan for that" (p. 71). Instead, organizations reach for affinities and try to turn them into God-terms that are accepted by outsiders (and insiders) without questioning (p. 73). The plan for Alaska oil recovery was to recover 95% of oil spilled (p. 79), based on ideal conditions and a smaller spill. The plan for the Long Island nuclear reactor war to create an affinity to natural disasters (p. 88). Organizations also wield these affinities by creating symbols for the problem at hand out of other events, thus gaining symbolic control of the challenge (p. 99).
 
 ## Important points
 
