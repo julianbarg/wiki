@@ -54,6 +54,10 @@ In the case of civil defense, there is a very similar phenomenon to what I am st
 
 The most important battles however were carried out leading up to the decision of who would be respected as an expert (pp. 134f).
 
+### Chapter 6: Organizations, Symbols, Publics
+
+It is possible that the involved organizations don't even know they are misconstruing the truth (p. 141).
+
 ## Important points
 
 * Nuclear "raid" excercise in 1955--nobody reacts (p. 121).
