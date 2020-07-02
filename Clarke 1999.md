@@ -8,6 +8,8 @@ Clarke, L. (1999). *Mission Improbable. Using Fantasy Documents to Tame Disaster
 
 ## One-paragraph summary
 
+The plans for responding to an oil spill in Alaska were never written with an actual emergency response in mind. Rather, they were rhetorical devices, to convince other organizations of the viability of the pipeline. However, then these plans collided with reality.
+
 ### Methods
 
 ## Related to
@@ -48,7 +50,7 @@ We have to have plans, because it would be unthinkable just to respond "we canno
 
 Conflict over defining what is "normal". To make a successful claim, one needs to prove expertise, not validity (since validity in this case cannot be proven). Also describes regulatory capture. And describes the same process of split view as I have (p. 11).
 
-In the case of civil defense, there is a very similar phenomenon to what I am studying. The organization, in this case part of the state, needed to convince the public and other organization (on the local level) of their plans, because their cooperation was necessary. They created fantasy documents, under the banner of dual-hazards planning. This caused the launch of FEMA, the original organizaztion ceased to exist. Did they start to believe in their own fantasy documents (pp. 124f).
+In the case of civil defense, there is a very similar phenomenon to what I am studying. The organization, in this case part of the state, needed to convince the public and other organization (on the local level) of their plans, because their cooperation was necessary. They created fantasy documents, under the banner of dual-hazards planning. This caused the launch of FEMA, the original organizaztion ceased to exist. Did they start to believe in their own fantasy documents (pp. 124f). A specific strategy is not only to produce the esoteric knowledge (or the appearance thereof), but to also find a way to challenge others' expertise in the area (p. 129).
 
 ## Important points
 
