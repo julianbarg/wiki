@@ -56,15 +56,19 @@ The most important battles however were carried out leading up to the decision o
 
 ### Chapter 6: Organizations, Symbols, Publics
 
-It is possible that the involved organizations don't even know they are misconstruing the truth (p. 141). "[T]he chasm between what officials do and what they say comes from their need or desire to protect their interests, shielding what they are really up to from outside scrutiny" (p. 145). The purpose of politicised language is to gain support. "In other words, action organizations actually produce useful things but political organizations produce rhetoric, in response to outside pressures" (p. 146). Clarke challenges the assessment of organizational efforts as conspiracy theories however. The process of coming up with fantasy document-type rhetorics must not be centrally planned, but rather emerge through an organizational process (p. 146). Weick's concept of enactment is one avenue to explain the process.
+It is possible that the involved organizations don't even know they are misconstruing the truth (p. 141). "[T]he chasm between what officials do and what they say comes from their need or desire to protect their interests, shielding what they are really up to from outside scrutiny" (p. 145). The purpose of politicised language is to gain support. "In other words, action organizations actually produce useful things but political organizations produce rhetoric, in response to outside pressures" (p. 146). Clarke challenges the assessment of organizational efforts as conspiracy theories however. The process of coming up with fantasy document-type rhetorics must not be centrally planned, but rather emerge through an organizational process (p. 146). Weick's concept of enactment is one avenue to explain the process. Later he raises the point that risk assessment is inherently political (under conditions of uncertainty)--therefore, experts are also political actors, and to say that they are just neutral assessors or risk is untrue (p. 158).
 
 ## Important points
 
 * Nuclear "raid" excercise in 1955--nobody reacts (p. 121).
 * "Beliving in the plans was part of believing in their jobs" (p. 142).
+* "There is an imperative of action attached to managerial positions: if leaders do not convince others that they are leading, or trying to lead, their environments are likely to select them out" (p. 151).
+* "The problem is that failures and accidents aren't special" (p. 152).
+* Expertise has come to be seen as inherently *good* in post-industrial societies that emphasize the importance of knowledge (p. 157).
 
 ## Reactions
 
 * If we had serious discussions, only about what we can really have experience of, we will be more likely to actually address issues. That includes forsaking the notion of real control over unknowns (p. 132).
 * I find it difficult to draw the difference between planning for nuclear war, and the extrapolations that are routinely done in quantitative work in our area (p. 133).
 * It is conceivable that the operator of the nuclear power station is actually convinced of her own hypothesis--that the populace will follow the evacuation plan in the case of a real emergency. Maybe here I disagree with Clarke?
+* So experts predict--and Clarke's criticism comes into play because they predict the unpredictable (Chapter 6). But what if what happens is entirely predictable, and yet experts still refuse to reign in it? As is my case of onshore pipeline spills.
