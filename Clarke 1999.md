@@ -58,6 +58,10 @@ The most important battles however were carried out leading up to the decision o
 
 It is possible that the involved organizations don't even know they are misconstruing the truth (p. 141). "[T]he chasm between what officials do and what they say comes from their need or desire to protect their interests, shielding what they are really up to from outside scrutiny" (p. 145). The purpose of politicised language is to gain support. "In other words, action organizations actually produce useful things but political organizations produce rhetoric, in response to outside pressures" (p. 146). Clarke challenges the assessment of organizational efforts as conspiracy theories however. The process of coming up with fantasy document-type rhetorics must not be centrally planned, but rather emerge through an organizational process (p. 146). Weick's concept of enactment is one avenue to explain the process. Later he raises the point that risk assessment is inherently political (under conditions of uncertainty)--therefore, experts are also political actors, and to say that they are just neutral assessors or risk is untrue (p. 158).
 
+Basically later arguing that social structure leads to assuming risk (pp. 164f).
+
+"To admit you can't do a thing to contain huge amounts of oil on open waters leads to a discussion about safer technology, conservation, and alternative energy sources" (p. 178).
+
 ## Important points
 
 * Nuclear "raid" excercise in 1955--nobody reacts (p. 121).
@@ -67,6 +71,7 @@ It is possible that the involved organizations don't even know they are misconst
 * Expertise has come to be seen as inherently *good* in post-industrial societies that emphasize the importance of knowledge (p. 157).
 * "For neoclassical economics, when people don't act in accordance with the theory economists are more likely to conclude that something is wrong with the people than the theory" (p. 162).
 * Arguing about actual, applied experience being necessary for developing successful new technology (p. 163).
+* If fantasy documents make us feel at ease, they increase the risk (p. 167).
 
 ## Reactions
 
