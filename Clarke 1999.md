@@ -52,10 +52,13 @@ Conflict over defining what is "normal". To make a successful claim, one needs t
 
 In the case of civil defense, there is a very similar phenomenon to what I am studying. The organization, in this case part of the state, needed to convince the public and other organization (on the local level) of their plans, because their cooperation was necessary. They created fantasy documents, under the banner of dual-hazards planning. This caused the launch of FEMA, the original organizaztion ceased to exist. Did they start to believe in their own fantasy documents (pp. 124f). A specific strategy is not only to produce the esoteric knowledge (or the appearance thereof), but to also find a way to challenge others' expertise in the area (p. 129). Clarke claims that there is very little actual data in the fantasy documents. In the case of oil spills, existing regulations "could be referred to as authoritative knowledge" (p. 130)--even though actual real-life experience with spill of the relevant category did not exist at that time.
 
+The most important battles however were carried out leading up to the decision of who would be respected as an expert (pp. 134f).
+
 ## Important points
 
 * Nuclear "raid" excercise in 1955--nobody reacts (p. 121).
 
 ## Reactions
 
-* If we had serious discussions, only about what we can really have experience of, we will be more likely to actually address issues. That includes forsaking the notion of real control over unknowns (p. 132)..
+* If we had serious discussions, only about what we can really have experience of, we will be more likely to actually address issues. That includes forsaking the notion of real control over unknowns (p. 132).
+* I find it difficult to draw the difference between planning for nuclear war, and the extrapolations that are routinely done in quantitative work in our area (p. 133).
