@@ -46,7 +46,9 @@ We have to have plans, because it would be unthinkable just to respond "we canno
 
 ### Chapter 5: Authority and Audience in Accepting Risk
 
-Conflict over defining what is "normal". To make a successful claim, one needs to prove expertise, not validity (since validity in this case cannot be proven). Also describes regulatory capture. And describes the same process of split view as I have (p. 11). 
+Conflict over defining what is "normal". To make a successful claim, one needs to prove expertise, not validity (since validity in this case cannot be proven). Also describes regulatory capture. And describes the same process of split view as I have (p. 11).
+
+In the case of civil defense, there is a very similar phenomenon to what I am studying. The organization, in this case part of the state, needed to convince the public and other organization (on the local level) of their plans, because their cooperation was necessary. They created fantasy documents, under the banner of dual-hazards planning. This caused the launch of FEMA, the original organizaztion ceased to exist. Did they start to believe in their own fantasy documents (pp. 124f).
 
 ## Important points
 
