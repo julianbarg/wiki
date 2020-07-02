@@ -65,6 +65,7 @@ It is possible that the involved organizations don't even know they are misconst
 * "There is an imperative of action attached to managerial positions: if leaders do not convince others that they are leading, or trying to lead, their environments are likely to select them out" (p. 151).
 * "The problem is that failures and accidents aren't special" (p. 152).
 * Expertise has come to be seen as inherently *good* in post-industrial societies that emphasize the importance of knowledge (p. 157).
+* "For neoclassical economics, when people don't act in accordance with the theory economists are more likely to conclude that something is wrong with the people than the theory" (p. 162).
 
 ## Reactions
 
