@@ -66,6 +66,7 @@ It is possible that the involved organizations don't even know they are misconst
 * "The problem is that failures and accidents aren't special" (p. 152).
 * Expertise has come to be seen as inherently *good* in post-industrial societies that emphasize the importance of knowledge (p. 157).
 * "For neoclassical economics, when people don't act in accordance with the theory economists are more likely to conclude that something is wrong with the people than the theory" (p. 162).
+* Arguing about actual, applied experience being necessary for developing successful new technology (p. 163).
 
 ## Reactions
 
@@ -73,3 +74,4 @@ It is possible that the involved organizations don't even know they are misconst
 * I find it difficult to draw the difference between planning for nuclear war, and the extrapolations that are routinely done in quantitative work in our area (p. 133).
 * It is conceivable that the operator of the nuclear power station is actually convinced of her own hypothesis--that the populace will follow the evacuation plan in the case of a real emergency. Maybe here I disagree with Clarke?
 * So experts predict--and Clarke's criticism comes into play because they predict the unpredictable (Chapter 6). But what if what happens is entirely predictable, and yet experts still refuse to reign in it? As is my case of onshore pipeline spills.
+* Do I really want to say that organizations should not operate steam engines, or that the development of steam engines was a mistake (p. 163)?
