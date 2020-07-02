@@ -57,3 +57,5 @@ In the case of civil defense, there is a very similar phenomenon to what I am st
 * Nuclear "raid" excercise in 1955--nobody reacts (p. 121).
 
 ## Reactions
+
+* If we had serious discussions, only about what we can really have experience of, we will be more likely to actually address issues. That includes forsaking the notion of real control over unknowns.
