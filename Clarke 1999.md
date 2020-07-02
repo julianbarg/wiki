@@ -58,4 +58,4 @@ In the case of civil defense, there is a very similar phenomenon to what I am st
 
 ## Reactions
 
-* If we had serious discussions, only about what we can really have experience of, we will be more likely to actually address issues. That includes forsaking the notion of real control over unknowns.
+* If we had serious discussions, only about what we can really have experience of, we will be more likely to actually address issues. That includes forsaking the notion of real control over unknowns (p. 132)..
