@@ -60,7 +60,7 @@ It is possible that the involved organizations don't even know they are misconst
 
 Basically later arguing that social structure leads to assuming risk (pp. 164f).
 
-"To admit you can't do a thing to contain huge amounts of oil on open waters leads to a discussion about safer technology, conservation, and alternative energy sources" (p. 178). Also making important point about democratic forces being inefficient--but safe. But we will probably never learn that lesson (p. 169). And "fantasy documents are moments of self-deception" (p. 169)--there we got it. In some instances I disagree though--if the pipelin operator did not belief the scenario was possible--she knowingly played politics.
+"To admit you can't do a thing to contain huge amounts of oil on open waters leads to a discussion about safer technology, conservation, and alternative energy sources" (p. 178). Also making important point about democratic forces being inefficient--but safe. But we will probably never learn that lesson (p. 169). And "fantasy documents are moments of self-deception" (p. 169)--there we got it. In some instances I disagree though: if the pipelin operator did not belief the scenario was possible--she knowingly played politics.
 
 ## Important points
 
