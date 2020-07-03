@@ -62,6 +62,8 @@ Basically later arguing that social structure leads to assuming risk (pp. 164f).
 
 "To admit you can't do a thing to contain huge amounts of oil on open waters leads to a discussion about safer technology, conservation, and alternative energy sources" (p. 178). Also making important point about democratic forces being inefficient--but safe. But we will probably never learn that lesson (p. 169). And "fantasy documents are moments of self-deception" (p. 169)--there we got it. In some instances I disagree though: if the pipelin operator did not belief the scenario was possible--she knowingly played politics.
 
+If fantasy documents make us feel at ease, they increase the risk (p. 167).
+
 ## Important points
 
 * Nuclear "raid" excercise in 1955--nobody reacts (p. 121).
@@ -71,7 +73,6 @@ Basically later arguing that social structure leads to assuming risk (pp. 164f).
 * Expertise has come to be seen as inherently *good* in post-industrial societies that emphasize the importance of knowledge (p. 157).
 * "For neoclassical economics, when people don't act in accordance with the theory economists are more likely to conclude that something is wrong with the people than the theory" (p. 162).
 * Arguing about actual, applied experience being necessary for developing successful new technology (p. 163).
-* If fantasy documents make us feel at ease, they increase the risk (p. 167).
 
 ## Reactions
 
