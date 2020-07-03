@@ -74,7 +74,15 @@
 
 #### First paper: learning is more specific than previously assumed
 
-Using the quantitative data to show that learning is a more specific process than previously assumed. Learning can hardly be decomposed, 
+Using quantitative data, show that learning is a more specific process than previously assumed. 
+
+1. Existing theory would suggest that the pipeline industry, gathering experience with SCADA systems and smart pigs, should be able to continuously drive down instances & scope of pipeline spills.
+2. But even pipeline spills are complex (more complex than previously assumed) and highly individual--almost no two spill are alike. Sweeping solutions do not apply, instead, lessons learned are highly specific.
+3. 
+
+
+
+Using the quantitative data to show that learning is a more specific process than previously assumed. Learning can hardly be decomposed, it is one process where multiple things happen at once. If some organizations do not make those changes, others cannot pick and choose. Using qualitative data, show how specific measures are introduced to solve specific problems.
 
 Using the quantitative data, show that at large, learning does not occur. Using subgroups or specific types of incident, show that learning occurs in specific areas.
 
