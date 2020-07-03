@@ -92,7 +92,7 @@ Could I do #4 with subgroups?
 
 2. Explore learning as laid out in BTOF research stream
 
-3. Pick some good (qualitative) example of learning as 
+3. Pick some good (qualitative) example of learning as different states rather than curve 
 * Introduction of robots in assembly lines--revolution not evolution!
 * Technological and management choices
 * CPUs--how generations give off the impressions of curves
@@ -110,12 +110,9 @@ How does technology feed into ceremonial learning?
 
 Maybe a more refined version of fantasy documents? And of reliability/validity story?
 
-
 What is it that I saw in my data that I really want other people to see?
 * My qualitative data shows why there is no progress
 * I have to argue that intention does not matter (then, I don't  need data that shows true intention)
-
-
 
 * E.g., how a perception of a major incident was avoided where the attention was not there.
 
