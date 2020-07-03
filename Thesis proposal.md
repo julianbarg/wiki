@@ -72,7 +72,7 @@
         * If certain problems cannot be resolved, easier solutions should be preferred
         * If progress is to be made on an issue, goal-setting is a crucial process. Analyzing and resolving specific issues can be a cat-and-mouse game. Goals that lead to systemic changes can make a difference, but may require high upfront cost and offer no success guarantee (again, Japanese rail network; for pipelines: responding to every alarm might be prohibitively expensive--and startup processes are dangerous, too!)
 
-#### First paper: learning is more specific than previously assumed
+#### First chapter: learning is more specific than previously assumed
 
 Using quantitative data, show that learning is a more specific process than previously assumed. 
 
@@ -86,7 +86,7 @@ Using quantitative data, show that learning is a more specific process than prev
 
 Could I do #4 with subgroups?
 
-#### What would theory say? Why is theory flawed?
+#### Second chapter: What would theory say? Why is theory flawed?
 
 1. Explore knowledge-based learning literature, roughly following Argote (1999)
 
