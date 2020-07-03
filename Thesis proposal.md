@@ -13,7 +13,7 @@
 ## Layout
 
 ### Title
-* Moving Past Modernistic Assmuptions
+* Moving Past Modernistic Assumptions
 * Learning to Clean Yourself?
 * How Long to Wait for Them to Clean Up Their Act?
 
