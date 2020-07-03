@@ -103,7 +103,7 @@ Could I do #4 with subgroups?
 * Understand why despite clear technological progress, many of our problems and limitations are still not addressed
 * Explain why despite technological progress, organizations can fall behind what they were capable of before
 
-#### How to talk about issues without addressing the problems (qual)
+#### Third chapter: How to talk about issues without addressing the problems (qual)
 
 
 Choice and outcomes in qualitative data
