@@ -2,6 +2,22 @@
 
 ## 2020
 
+### July
+
+---
+
+#### Fri, July 3
+
+---
+
+Oil industry bankruptcies, bc Corona + Saudi Arabia-Russia price war = low oil price:
+
+* [[http://www.economo.co.uk/chronology-of-the-bankruptcies-of-american-oil-and-gas-companies/]]
+
+Summary of supreme court cases on pipelines.
+
+* [[https://www.axios.com/supreme-court-pipelines-natural-gas-23546e7f-1b42-4de6-9a5b-4049a9a9ca39.html]]
+
 ### June
 
 ---
