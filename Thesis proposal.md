@@ -80,6 +80,8 @@
 
 *RQ*: The industry has the most formidable technology, why hasn't the technology accomplished what it set out to do?
 
+*Literature*: Complex systems (Perrow)
+
 1. Show examples of the technology that is used in the pipeline industry and how they address certain issues
 
 2. Show how pipeline spills are still prevalent, despire these historic breakthroughs
@@ -155,3 +157,4 @@ When is it approapriate to forgo the belief that technology will eventually reso
 * Acceptable risk kind of story--rail used as justification for pipeline (and even that is questionable).
 * Power?
 * Feedback that pipeline operators receive--technology responses sufficient to satisfy regulator.
+* Seemingly simple systems also being complex.
