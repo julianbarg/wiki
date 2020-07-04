@@ -76,9 +76,9 @@
 
 #### First chapter: learning is more specific than previously assumed
 
-**Function**: through data, show the limitation of learning. 
+*Function*: through data, show the limitation of learning. 
 
-**RQ**: The industry has the most formidable technology, why hasn't the technology accomplished what it set out to do?
+*RQ*: The industry has the most formidable technology, why hasn't the technology accomplished what it set out to do?
 
 1. Show examples of the technology that is used in the pipeline industry and how they address certain issues
 2. Show how pipeline spills are still prevalent, despire these historic breakthroughs
