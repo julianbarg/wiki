@@ -81,19 +81,31 @@
 *RQ*: The industry has the most formidable technology, why hasn't the technology accomplished what it set out to do?
 
 1. Show examples of the technology that is used in the pipeline industry and how they address certain issues
+
 2. Show how pipeline spills are still prevalent, despire these historic breakthroughs
+
 3. Using a few incidents, show the heterogeneity of spills
 * Almost no two spills are alike
 * The technology does not get at the specific problems, it is too universal, inapplicable
+
 4. As a result, instances of spills reduce the subsequent occurence of similar spills
+
 5. But because spills are so heterogenous, the overall incidence of spills is not significantly reduced
 * Does new technology maybe lead to new kinds of problems? Then, continuous new creation of technology would also create new problems
 * But the fundamental workings of pipelines are barely touched upon
+
 6. Overall: consider this to apply to a broad range of contexts, especially those where task diversity is high. Less so in industrial production, maybe between generations/specifications of products though
+
 7. Putting into question our general perception of progress. Technological innovation does not necessarily touch on problems, the scope of lessons learned is (depending on the context) much smaller than believed.
 * Especially if there could be forces working in the other direction
 
-#### Second chapter: What would theory say? Why is theory flawed?
+8. As a side question: Why don't we just get to the real question then? Power! Show Clarke's attempt to raise this discussion.
+
+#### Second chapter: What would theory say? Why is theory flawed? A qualitative view of learning.
+
+*Function*: Show that learning is not a curve, not accumulative.
+
+*Exclude*: The problems associated with power/knowledge in this specific industry.
 
 1. Explore knowledge-based learning literature, roughly following Argote (1999)
 
@@ -108,19 +120,24 @@
 * Understand why despite clear technological progress, many of our problems and limitations are still not addressed
 * Explain why despite technological progress, organizations can fall behind what they were capable of before
 
+5. Develop model
+* Include power and interests in this model?
+
 #### Third chapter: How to talk about issues without addressing the problems (qual)
 
-Choice and outcomes in qualitative data
+*Topics*: Agenda setting, regulatory capture, flawed feedback mechanism.
 
-How does technology feed into ceremonial learning?
+*RQ*: If there is a regulator, why do the problems still persist?
 
-Maybe a more refined version of fantasy documents? And of reliability/validity story?
+1. 
 
-What is it that I saw in my data that I really want other people to see?
-* My qualitative data shows why there is no progress
-* I have to argue that intention does not matter (then, I don't  need data that shows true intention)
+3. Show how the learning episodes redirect learning to technology
+* Basic questions not touched upon, e.g., motivation is still the supposed better track record relative to rail.
+* Why is basic imagination mostly constrained to technological questions
 
-* E.g., how a perception of a major incident was avoided where the attention was not there.
+---
+
+When is it approapriate to forgo the belief that technology will eventually resolve our problems. When is it appropriate just to say--there will be spills. Obviously, that is a statement few are in a position to make. But it seems to be the most honest stance.
 
 #### Conclusion
 
@@ -133,3 +150,5 @@ What is it that I saw in my data that I really want other people to see?
 * Oil industry not being profitable in the first place. Esp. tax credits for unsuccessful drills & shale gas & environmental damages.
 * Directional drillings solving some problems, but leading to new kinds of pollution of acquifiers.
 * Acceptable risk kind of story--rail used as justification for pipeline (and even that is questionable).
+* Power?
+* Feedback that pipeline operators receive--technology responses sufficient to satisfy regulator.
