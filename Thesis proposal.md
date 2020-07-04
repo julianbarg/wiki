@@ -76,6 +76,18 @@
 
 #### First chapter: learning is more specific than previously assumed
 
+**Function**: through data, show the limitation of learning. 
+
+**RQ**: The industry has the most formidable technology, why hasn't the technology accomplished what it set out to do?
+
+1. Show examples of the technology that is used in the pipeline industry and how they address certain issues
+2. 
+
+
+
+
+
+
 Using quantitative data, show that learning is a more specific process than previously assumed. 
 
 1. Existing theory would suggest that the pipeline industry, gathering experience with SCADA systems and smart pigs, should be able to continuously drive down instances & scope of pipeline spills.
@@ -124,6 +136,7 @@ What is it that I saw in my data that I really want other people to see?
 ##### What I am excluding
 
 * How failures/disasters get normalized (i.e., fieldwork).
-* Pipeline industry not employing highly specialized graduates that might be available. Technology not used by experts, but by the cheapest that are arguably still somehow qualified?
+* Pipeline industry not employing highly specialized graduates that might be available. Technology not operated by experts, but by the cheapest that are arguably still somehow qualified?
 * Oil industry not being profitable in the first place. Esp. tax credits for unsuccessful drills & shale gas & environmental damages.
 * Directional drillings solving some problems, but leading to new kinds of pollution of acquifiers.
+* Acceptable risk kind of story--rail used as justification for pipeline (and even that is questionable).
