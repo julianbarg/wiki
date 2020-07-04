@@ -158,3 +158,5 @@ When is it approapriate to forgo the belief that technology will eventually reso
 * Power?
 * Feedback that pipeline operators receive--technology responses sufficient to satisfy regulator.
 * Seemingly simple systems also being complex.
+* 
+#### What am I excluding that I wish I could talk about
