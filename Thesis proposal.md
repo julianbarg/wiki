@@ -129,7 +129,9 @@
 
 *RQ*: If there is a regulator, why do the problems still persist?
 
-1. 
+1. There are regular population-level channels for learning (PHMSA, NTSB, API, etc.)
+
+2. Yet, the onslaught of oil spills continues--even from new pipelines
 
 3. Show how the learning episodes redirect learning to technology
 * Basic questions not touched upon, e.g., motivation is still the supposed better track record relative to rail.
