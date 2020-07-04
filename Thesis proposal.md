@@ -134,6 +134,7 @@
 2. Yet, the onslaught of oil spills continues--even from new pipelines
 
 3. Show how the learning episodes redirect learning to technology
+* Missing the big picture
 * Basic questions not touched upon, e.g., motivation is still the supposed better track record relative to rail.
 * Why is basic imagination mostly constrained to technological questions
 
