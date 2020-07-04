@@ -55,7 +55,7 @@
 4. How should we conceptualize learning?
 * The "traditional" conceptualization of learning is simplistic
 * Many things are meshed in there, many of which do not constitute learninge as we would think about it (such as capital investment--we are conflating two things if we include that)
-* Rather than a learning curve, there is a transition from state to state taking place
+* Rather than a learning curve, there is a transition from state (/Gestalt?) to state taking place
         * The change in state is not instantaneous, thus giving the impression of curves--but really it is a qualitative change (here, pushing against the notion of "better")
 * A small number of specific goals determines what states an organization strives toward (or if a change of state is seeked)
 * When we talk about pipeline spills, learning (at least over the last 30 years) is taking place in response to specific exogenous demands (that are reactions to spills that have taken place)
