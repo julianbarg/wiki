@@ -8,6 +8,8 @@ Hardy, C., & Maguire, S. (2020). Organizations, Risk Translation, and the Ecolog
 
 ## One-paragraph summary
 
+Exploring the process of how in a discursive approach to risk, notions of risks are attached to a novel risk that has not had such association before. Zooming out and analysising how the activities of different organizations (in different countries) interact with each other. Finally, the newly gained insights need to be translated into more familiar artifacts, in this context reputational, regulatory, and operational risks.
+
 ### Methods
 
 ## Related to
