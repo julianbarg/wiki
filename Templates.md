@@ -1,3 +1,5 @@
 * [[Literature entry]]
 * [[Theory entry]]
 * [[Pipeline spill entry]]
+* [[Latex template]]
+    * [[https://github.com/julianbarg/latex_templates/blob/master/note/main.tex]]
