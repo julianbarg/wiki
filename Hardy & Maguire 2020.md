@@ -14,12 +14,15 @@ Hardy, C., & Maguire, S. (2020). Organizations, Risk Translation, and the Ecolog
 
 ### Theories
 * [[Risk]]
+* [[Wicked problems]]
+* [[Grand challenges]]
 
 ### Conferences, courses etc.
 
 ### Previous literature/influences
 * [[Beck 1992]]
 * [[Beck 2006]]
+* [[Giddens 1999]]
 
 ### Projects
 
