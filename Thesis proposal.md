@@ -105,7 +105,6 @@ Could I do #4 with subgroups?
 
 #### Third chapter: How to talk about issues without addressing the problems (qual)
 
-
 Choice and outcomes in qualitative data
 
 How does technology feed into ceremonial learning?
