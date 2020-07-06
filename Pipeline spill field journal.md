@@ -13,6 +13,9 @@
 1. Flaws in pipeline leak detection systems (2012)
 * [[https://www.nytimes.com./2012/12/22/us/study-finds-flaws-in-pipeline-leak-detection-systems.html]]
 
+2. Dakota Access Pipeline shut down by indigenous people in court due to lack of Environmental Impact Statement.
+* [[https://www.cnbc.com/2020/07/06/court-orders-dakota-access-pipeline-to-shut-down.html]]
+
 ---
 
 #### Sun, July 5
