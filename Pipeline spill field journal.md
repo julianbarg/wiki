@@ -16,6 +16,9 @@
 2. Dakota Access Pipeline shut down by indigenous people in court due to lack of Environmental Impact Statement.
 * [[https://www.cnbc.com/2020/07/06/court-orders-dakota-access-pipeline-to-shut-down.html]]
 
+3. Bloomberg on why fracking has never been profitable--oversupply!
+* [[https://youtu.be/jFWHxZpF9rc]]
+
 ---
 
 #### Sun, July 5
