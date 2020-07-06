@@ -6,6 +6,15 @@
 
 ---
 
+#### Mon, July 6
+
+---
+
+1. Flaws in pipeline leak detection systems (2012)
+* [[https://www.nytimes.com./2012/12/22/us/study-finds-flaws-in-pipeline-leak-detection-systems.html]]
+
+---
+
 #### Sun, July 5
 
 ---
