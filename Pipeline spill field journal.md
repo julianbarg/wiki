@@ -6,10 +6,15 @@
 
 ---
 
+#### Sun, July 5
+
+---
+
 1. Pipeline spills undercounted (2003)
 * [[https://web.archive.org/web/20031121141403/http://www.statesman.com/specialreports/content/specialreports/pipelines/22pipemain.html]]
 
----
+2. Dominion Energy divesting pipeline business, Berkshire Hathaway is buyer. Dominion (& partner) also killing major upcoming $1 billion pipeline extension.
+* [[https://ca.finance.yahoo.com/news/berkshire-hathaway-buys-dominion-gas-191958947.html]]
 
 ---
 
