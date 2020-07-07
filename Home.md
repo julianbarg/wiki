@@ -48,6 +48,10 @@
 * [[Timeline]]
 * [[Notes]]
 
+## Journals
+* [[Pipeline spill field journal]]]]
+* [[Chapter 1 journal]]
+
 ## Other
 * [[Agenda]]
 * [[Ideas/Notes|Ideas]]
