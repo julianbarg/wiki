@@ -6,6 +6,14 @@
 
 ---
 
+#### Tue, July 7
+
+---
+
+1. "almost an absence of regulation". 2001 Article about PHMSA
+
+---
+
 #### Mon, July 6
 
 ---
