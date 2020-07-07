@@ -10,7 +10,7 @@
 
 ---
 
-1. "almost an absence of regulation". 2001 Article about PHMSA
+1. "almost an absence of regulation". 2001 Article about PHMSA.
 * [[https://web.archive.org/web/20030809111046/http://www.statesman.com/specialreports/content/specialreports/pipelines/22pipemain.html]]
 
 ---
