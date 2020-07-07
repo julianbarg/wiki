@@ -40,7 +40,7 @@ The learning literature is very diverse and difficult to navigate. Knowledge or 
 * "Moving members from one organizational unit to another is also a mechanism for transferring knowledge. 
 * Similarly, knowledge can be embedded in tools, and moving tools from one unit to another is a mechanism for transferring that knowledge.
 * Tools can aid learning, for example, by helping to identify patterns in data. 
-* Task sequences or routines can also be knowledge repositories and serve as knowledge transfer mechanisms" (ibid. 1125; points and line breaks by this author). 
+* Task sequences or routines can also be knowledge repositories and serve as knowledge transfer mechanisms" (ibid. 1125). 
 
 In other words, Argote and Miron-Spektor advocate for an analysis of the active context that enable the processes of knowledge creation, transfer, etc. With regard to the latent context, Argote and Miron-Spektor provide the following examples:
 
