@@ -49,7 +49,7 @@
 * [[Notes]]
 
 ## Journals
-* [[Pipeline spill field journal]]]]
+* [[Pipeline spill field journal]]
 * [[Chapter 1 journal]]
 
 ## Other
