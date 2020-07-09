@@ -16,6 +16,7 @@
 ### Seminal works
 * [[Omenn 2006]]
 * [[Ferraro et al 2015]]
+* [[George et al 2015]]
 
 ### Literature reviews
 
