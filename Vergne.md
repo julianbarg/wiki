@@ -9,6 +9,10 @@
 
 Mixed methods study on stigma and disapproval, category research.
 
+## Notes on structure
+
+Relatively short introduction (~1200 words). Literature review to develop two hypotheses, with justification for mixed methods. Qualitative methods section (interviews) first, then quantitative methods section. Results focuses on quantitative results, relatively short discussion section bringing it together, with no results section.
+
 ### Methods
 
 ## Related to
