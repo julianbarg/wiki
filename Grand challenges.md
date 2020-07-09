@@ -21,6 +21,7 @@
 ### Literature reviews
 
 ### Other papers
+* [[Rockström et al 2009]]
 * [[Eisenhardt et al 106]]
 * [[George et al 2016]]
 * [[Olsen et al 2016]]
