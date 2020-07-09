@@ -6,6 +6,8 @@
 
 \## Related to
 
+\### Courses
+
 \### Theories
 
 \### Seminal works
