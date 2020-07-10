@@ -8,6 +8,8 @@ George, G., Schillebeeckx, S. J. D., & Liak, T. L. (2015). The Management of Nat
 
 ## One-paragraph summary
 
+Giving a brief overview of resource-based view, just to find that this view does not analyse natural resources much. Delves into the risks of resource scarcity, including giving some overview of some empirical work that discussed the results of resource scarcity.
+
 "[I]n the past two decades, attention to corporate social/ environmental responsibility and to regulatory and institutional aspects of the natural environment has risen, but this increasing attention has not been accompanied by a stronger focus on natural resource in- puts or throughputs inproduction and social processes."
 
 ### Methods
