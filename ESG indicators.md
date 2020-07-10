@@ -12,15 +12,15 @@ ESG indicators are socially constructed. Our findings depend on our assumptions.
 ### Theories
 
 ### Seminal works
+* [[Chatterji et al 2016]]
+* [[Eccles, Lee & Stroehle 2019]]
 
 ### Literature reviews
 
 ### Other papers
 * [[Chatterji et al 2009]]
-* [[Chatterji et al 2016]]
 * [[Delmas et al 2013]]
 * [[Doh et al 2010]]
-* [[Eccles et al 2019]]
 * [[Kotsantonis & Serafeim 2019]]
 * [[Montiel & Delgado-Ceballos 2014]]
 * [[Orlitzky 2011]]
