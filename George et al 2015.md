@@ -8,7 +8,7 @@ George, G., Schillebeeckx, S. J. D., & Liak, T. L. (2015). The Management of Nat
 
 ## One-paragraph summary
 
-"[I]n the past two decades, attention to corporate social/ environmental responsibility and to regulatory and institutional aspects of the natural environment has risen, but this increasing attention has not been ac- companied by a stronger focus on natural resource in- puts or throughputs inproduction and social processes."
+"[I]n the past two decades, attention to corporate social/ environmental responsibility and to regulatory and institutional aspects of the natural environment has risen, but this increasing attention has not been accompanied by a stronger focus on natural resource in- puts or throughputs inproduction and social processes."
 
 ### Methods
 
