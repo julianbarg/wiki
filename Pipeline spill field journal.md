@@ -10,7 +10,7 @@
 
 ---
 
-1. In-depth look at the economic collapse of the Permian Basin. Many insights into the employees, their lifestyle, etc.
+1. In-depth look at the economic collapse of the Permian Basin. Many insights into the employees, their lifestyle, etc. Some interesting quantitative data.
 * [[https://www.wsj.com/articles/this-is-what-it-looks-like-when-a-texas-oil-boom-busts-11594440031]]
 
 ---
