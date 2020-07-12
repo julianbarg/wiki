@@ -6,6 +6,18 @@
 
 ---
 
+#### Sun, July 12
+
+---
+
+1. Book about indigenous protest against Dakota Access Pipeline, and its historic roots
+* Our History Is the Future: Standing Rock Versus the Dakota Access Pipeline, and the Long Tradition of Indigenous Resistance
+
+2. Why hasn't pipelien protest turned violent yet?
+* How to Blow Up a Pipeline
+
+---
+
 #### Sat, July 11
 
 ---
