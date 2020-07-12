@@ -6,6 +6,15 @@
 
 ---
 
+#### Sat, July 11
+
+---
+
+1. In-depth look at the economic collapse of the Permian Basin. Many insights into the employees, their lifestyle, etc.
+* [[https://www.wsj.com/articles/this-is-what-it-looks-like-when-a-texas-oil-boom-busts-11594440031]]
+
+---
+
 #### Tue, July 7
 
 ---
