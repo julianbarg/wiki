@@ -50,6 +50,7 @@
 
 ## Journals
 * [[Pipeline spill field journal]]
+* [[Literature journal]]
 * [[Chapter 1 journal]]
 
 ## Other
