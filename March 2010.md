@@ -30,7 +30,7 @@ March, J. G. (2010). *The Ambiguities of Experience*. Cornell University Press.
 
 ### Chapter 1: The Persuit of Intelligence
 
-Two different types of intelligence: adaptive intelligence and interpretative intelligence.
+Two different types of intelligence: adaptive intelligence and interpretative intelligence. Primary challenge is not individual bias but "in the nature of experience" (p. 13, see also title of book).
 
 ## Important points
 
