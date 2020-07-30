@@ -6,6 +6,15 @@
 
 ---
 
+#### Thu, July 30
+
+---
+
+1. $187 mio trespassing charge
+* [[https://www.indianz.com/News/2020/07/13/bureau-of-indian-affairs-orders-pipeline.asp]]
+
+---
+
 #### Sun, July 12
 
 ---
