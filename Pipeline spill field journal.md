@@ -22,6 +22,8 @@
 * [[https://oilprice.com/Latest-Energy-News/World-News/Oil-Gas-Methane-Leaks-Responsible-For-Rise-In-Emissions.html]]
 6. "No One Is Owning Up to Releasing Cloud of Methane in Florida"
 * [[https://www.bloomberg.com/news/articles/2020-07-27/no-one-is-owning-up-to-releasing-cloud-of-methane-in-florida]]
+7. "Once Canada's oil relief valve, rail shipping grinds to near halt"
+* [[https://www.reuters.com/article/us-global-oil-canada-railways-analysis-idUSKCN24T2E1]]
 
 ---
 
