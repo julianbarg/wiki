@@ -18,6 +18,9 @@
 * [[https://theconversation.com/a-20-000-tonne-oil-spill-is-contaminating-the-arctic-it-could-take-decades-to-clean-up-141264]]
 4. "Dakota Access Pipeline Sage Stalls Oil Production Recovery In The Bakken"--on July 6 a judge ruled for DAPL to be shut down by August 5, though this decision was temporarily reversed a week later. At no point was the pipeline shut down.
 * [[https://oilprice.com/Latest-Energy-News/World-News/Dakota-Access-Pipeline-Saga-Stalls-Oil-Production-Recovery-In-The-Bakken.html]]
+5. "Oil & Gas Methane Leaks Responsible For Rise In Emissions"
+* [[https://oilprice.com/Latest-Energy-News/World-News/Oil-Gas-Methane-Leaks-Responsible-For-Rise-In-Emissions.html]]
+6. 
 
 ---
 
