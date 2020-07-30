@@ -43,3 +43,4 @@ Two types of learning: high-intellect and low-intellect. Three types
 ## Important points
 
 ## Reactions
+* (Reg. bandit problems, p. 19) maybe, as a society, we have not sampled enough different technologies.
