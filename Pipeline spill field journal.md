@@ -14,7 +14,7 @@
 * [[https://www.indianz.com/News/2020/07/13/bureau-of-indian-affairs-orders-pipeline.asp]]
 2. "Wind Power Wins, Pipelines Implode"
 * [[https://cleantechnica.com/2020/07/12/whoosh-wind-power-wins-pipelines-implode-in-fossil-fuel-week-from-hell/]]
-3. Large Russian Artktic oil spill
+3. Large Russian Arctic oil spill
 * [[https://theconversation.com/a-20-000-tonne-oil-spill-is-contaminating-the-arctic-it-could-take-decades-to-clean-up-141264]]
 
 ---
