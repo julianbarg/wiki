@@ -20,7 +20,8 @@
 * [[https://oilprice.com/Latest-Energy-News/World-News/Dakota-Access-Pipeline-Saga-Stalls-Oil-Production-Recovery-In-The-Bakken.html]]
 5. "Oil & Gas Methane Leaks Responsible For Rise In Emissions"
 * [[https://oilprice.com/Latest-Energy-News/World-News/Oil-Gas-Methane-Leaks-Responsible-For-Rise-In-Emissions.html]]
-6. 
+6. "No One Is Owning Up to Releasing Cloud of Methane in Florida"
+* [[https://www.bloomberg.com/news/articles/2020-07-27/no-one-is-owning-up-to-releasing-cloud-of-methane-in-florida]]
 
 ---
 
