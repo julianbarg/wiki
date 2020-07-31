@@ -8,7 +8,7 @@ Bingham, C. B., & Eisenhardt, K. M. (2011). Rational Heuristics: The ‘Simple R
 
 ## One-paragraph summary
 
-Observing how organizations construct increasingly complex, yet efficient, heuristics.
+Observing how organizations construct increasingly complex, yet efficient, heuristics. Drawing a distinction between routines and heuristics.
 
 ### Methods
 
