@@ -10,7 +10,7 @@
 
 ---
 
-1. Academic categorization of failure prediction for pipelines
+1. Academic categorization of failure prediction for pipelines. Problem of the existing literature: piecemeal approach approach, only predicting specific kinds of failure (e.g., corrosion, or mechanical), and impacts (individual, societal, monetary).
 * [[Zakikhani et al 2020]]
 
 ---
