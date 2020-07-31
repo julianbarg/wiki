@@ -6,6 +6,15 @@
 
 ---
 
+#### Fri, July 31
+
+---
+
+1. Academic categorization of failure prediction for pipelines
+* [[Zakikhani et al 2020]]
+
+---
+
 #### Thu, July 30
 
 ---
