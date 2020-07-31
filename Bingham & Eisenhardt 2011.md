@@ -8,7 +8,7 @@ Bingham, C. B., & Eisenhardt, K. M. (2011). Rational Heuristics: The ‘Simple R
 
 ## One-paragraph summary
 
-Observing how organizations construct increasingly complex, yet efficient, heuristics. Drawing a distinction between routines and heuristics.
+Observing how organizations construct increasingly complex, yet efficient, heuristics. Drawing a distinction between routines and heuristics. Heuristics, while idiosyncratic, share a common structure (i.e., seleciton, procedural, temporal, and priority; pp. 1457f). Heuristics "effectively proxy for complex, correlated information" (p. 1458), whereas information-intensive, analytical approaches "tend to 'overfit'" (p. 1459).
 
 ### Methods
 * [[Mixed methods]]
@@ -36,3 +36,4 @@ Observing how organizations construct increasingly complex, yet efficient, heuri
 
 ## Reactions
 * Calling the *knowledge-based approach* to learning the *organizational knowledge* literature (p. 1438). And calling the *behavioral approach* the *organizational routines* literature. That's useful for me. But at the same time, I am not sure I agree with the second one. I am not sure that is e.g., what Levitt and March (1988) is all about.
+* Are we just justifying our own tendency to make judgement calls when confronted with a problem? To try to focus on "what's important", in a subjective manner? On the other hand, when to rigidly following a schematic, people miss what's important? Vague rules can capture that better?
