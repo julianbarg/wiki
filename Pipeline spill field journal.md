@@ -12,6 +12,8 @@
 
 1. Academic categorization of failure prediction for pipelines. Problem of the existing literature: piecemeal approach approach, only predicting specific kinds of failure (e.g., corrosion, or mechanical), and impacts (individual, societal, monetary).
 * [[Zakikhani et al 2020]]
+2. The parts of any pipelien integrity program: (1) Inline inspection tools (ILI), data-driven and model-based methods, and risk-based management.
+* [[Xie & Tian 2018]]
 
 ---
 
