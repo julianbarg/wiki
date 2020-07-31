@@ -34,4 +34,4 @@ Observing how organizations construct increasingly complex, yet efficient, heuri
 ## Important points
 
 ## Reactions
-* Calling the *knowledge-based approach* to learning the *organizational knowledge* literature.
+* Calling the *knowledge-based approach* to learning the *organizational knowledge* literature (p. 1438).
