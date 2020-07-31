@@ -8,7 +8,7 @@ Bingham, C. B., & Eisenhardt, K. M. (2011). Rational Heuristics: The ‘Simple R
 
 ## One-paragraph summary
 
-Observing how organizations construct increasingly complex, yet efficient, heuristics. Drawing a distinction between routines and heuristics. Heuristics, while idiosyncratic, share a common structure (i.e., seleciton, procedural, temporal, and priority; pp. 1457f). Heuristics "effectively proxy for complex, correlated information" (p. 1458), whereas information-intensive, analytical approaches "tend to 'overfit'" (p. 1459).
+Observing how organizations construct increasingly complex, yet efficient, heuristics. Drawing a distinction between routines and heuristics. Heuristics, while idiosyncratic, share a common structure (i.e., seleciton, procedural, temporal, and priority; pp. 1457f). Heuristics "effectively proxy for complex, correlated information" (p. 1458), whereas information-intensive, analytical approaches "tend to 'overfit'" (p. 1459). Very much focussing on cognition of executives though, not on organization-wide knowledge that I am interested in.
 
 ### Methods
 * [[Mixed methods]]
