@@ -34,4 +34,4 @@ Observing how organizations construct increasingly complex, yet efficient, heuri
 ## Important points
 
 ## Reactions
-* Calling the *knowledge-based approach* to learning the *organizational knowledge* literature (p. 1438). And calling the *behavioral approach* the *organizational routines* literature.
+* Calling the *knowledge-based approach* to learning the *organizational knowledge* literature (p. 1438). And calling the *behavioral approach* the *organizational routines* literature. That's useful for me. But at the same time, I am not sure I agree with the second one.
