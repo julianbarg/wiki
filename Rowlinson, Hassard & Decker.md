@@ -31,5 +31,6 @@ The authors are concerned that org theorists subordinate narrative construction 
 ## One-page summary
 
 ## Important points
+* Challenging the notion that interview data is more reliable than archival data (p.255). The researcher should be cautious, regardless whether dealing with interviews or archival data.
 
 ## Reactions
