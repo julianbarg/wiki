@@ -22,7 +22,6 @@ Part of: [[Organizational Theory]]
 
 ### Literature reviews
 * [[Argote & Miron-Spektor 2011]]
-* [[Bingham & Eisenhardt 2011]]
 * [[Argote 2013]]
 * [[Dutton & Thomas 1984]]
 * [[Easterby-Smith Crossan and Nicolini 2000]]
@@ -34,10 +33,12 @@ Part of: [[Organizational Theory]]
 
 ### Other papers
 * [[Baum & Dahlin 2007]]
+* [[Bingham & Eisenhardt 2011]]
 * [[Joskow & Rozanski 1979]]
 * [[Madsen 2009]]
 * [[Maslach et al 2018]]
 * [[Rerup & Zbaracki 2019]]
+* [[Starbuck, Barnett & Baumard 2008]]
 
 ## Special issues
 * Organization Science Volume 2, Issue 1 (February 1991)
@@ -80,9 +81,9 @@ I am looking for a theory that is not deterministic, but also not fatalistic. On
 
 #### Population level
 * [[Anderson 1999]]
-* [[Hoffman and Ocasio 2001]]
-* [[Miner and Anderson 1999]]
-* [[Miner and Anderson 1999b]]
+* [[Hoffman & Ocasio 2001]]
+* [[Miner & Anderson 1999]]
+* [[Miner & Anderson 1999b]]
 
 #### Across levels
 *[[Carroll 1998]]
@@ -93,7 +94,7 @@ I am looking for a theory that is not deterministic, but also not fatalistic. On
 * [[Sullivan 2010]]
 
 #### Chemical industry
-* [[Hoffman and Ocasio 2001]]
+* [[Hoffman & Ocasio 2001]]
 
 #### Education
 * [[Rura-Polley 1999]]
