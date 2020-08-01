@@ -8,7 +8,7 @@ Rowlinson, M., Hassard, J., & Decker, S. (2014). Research Strategies for Organiz
 
 ## One-paragraph summary
 
-The authors are concerned that org theorists subordinate narrative construction to analysis, value the ontology of history while neglecting the implications of historical epistemology. The authors hold that as an alternative to the ontological view, "it could be said that 'history matters' epistemologically for understanding how the past can be known or represented" (p. 252).
+The authors are concerned that org theorists subordinate narrative construction to analysis, value the ontology of history while neglecting the implications of historical epistemology. The authors hold that as an alternative to the ontological view, "it could be said that 'history matters' epistemologically for understanding how the past can be known or represented" (p. 252). The authors also associate an emphasis on readily available narrative themselves ("singular events [as] stepping-stones toward the development of generalizable theories", p. 253), with an overt shirt from structure to agency, with "great man" theory (pp. 252f). Further, capturing the past in the structure of a narrative means imposing that narrative on the history, which does not have a structure by itself.
 
 ### Methods
 
