@@ -31,3 +31,4 @@ Learning
 ## Important points
 
 ## Reactions
+* How would organizations even detect lack of success? All subunits are obliged to justify their existence and their actions. These are the machines that produce justification for continuance, constantly, non-stop.
