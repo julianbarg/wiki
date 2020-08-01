@@ -8,7 +8,7 @@ Weick, K. E. (1991). The Nontraditional Quality of Organizational Learning. *Org
 
 ## One-paragraph summary
 
-Organizations serve to provide the same output under conditions of diverging input--stability.
+Organizations serve to provide the same output under conditions of diverging input--stability. Two approaches to learning. (1) See where input is stable, learning might happen there. (2) Focus on knowledge.
 
 ### Methods
 
