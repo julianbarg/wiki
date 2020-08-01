@@ -32,5 +32,6 @@ The authors are concerned that org theorists subordinate narrative construction 
 
 ## Important points
 * Challenging the notion that interview data is more reliable than archival data (p.255). The researcher should be cautious, regardless whether dealing with interviews or archival data.
+* "Historians therefore have a strong prefreence for 'nonintentional evidence,' by which they mean 'anything remaining from the past that was not made with the intention of revealing the past to us, but simply emerged as part of normal life'" (pp. 256f).
 
 ## Reactions
