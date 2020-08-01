@@ -36,3 +36,4 @@ Differentiating between cognitive and noncognitive learning. Cognitive learning 
 ## Reactions
 * How would organizations even detect lack of success? All subunits are obliged to justify their existence and their actions. These are the machines that produce justification for continuance, constantly, non-stop.
 * Maybe strategic learning is flawed, but learning with regard to technologies could still work?
+* A simple concern: repeating behavior that leads to failure--certainly, that is not a smart thing to do.
