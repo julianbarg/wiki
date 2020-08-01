@@ -6,7 +6,7 @@
 
 ## One-paragraph summary
 
-Differentiating between cognitive and noncognitive learning
+Differentiating between cognitive and noncognitive learning. Cognitive learning relies on correct mental maps that guide organizational action. Noncognitive learning occurs as a result of performance feedback from the environment. Noncognitive learning can later entail cognitive learning. The authors conclude that inferences are as likely to be helpful as they are likely to lead to negative results. There is a weak relationship between organizational behavior and success, a more important factor is peers' behavior.
 
 ### Methods
 
