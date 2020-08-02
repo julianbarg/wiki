@@ -8,7 +8,7 @@ Argote, L., Beckman, S. L., & Epple, D. (1990). The Persistence and Transfer of 
 
 ## One-paragraph summary
 
-When there is a 
+When there is a break in production, organizational knowledge depreciate. Organizations cannot expect to continue production at the same efficiency after a disruption. The authors also suggest that organizations only benefit from others' previous cumulative production at the start of their operations, not continually after that.
 
 ### Methods
 
