@@ -34,3 +34,4 @@ When there is a
 
 ## Reactions
 * I would take this study to just signify organizational inertia.
+* At least the study might suggest that capital investment is not as important as I thought it would be.
