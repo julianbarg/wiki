@@ -6,6 +6,15 @@
 
 ---
 
+#### Sun, July 02
+
+---
+
+1. Workplace safety is costly, not offset by cost of incurring fines.
+* [[Pagell et al 2020]]
+
+---
+
 #### Fri, July 31
 
 ---
