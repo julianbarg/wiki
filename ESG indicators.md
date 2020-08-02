@@ -18,7 +18,7 @@ ESG indicators are socially constructed. Our findings depend on our assumptions.
 ### Literature reviews
 
 ### Other papers
-* [[Carroll, Primo & Richter]]
+* [[Carroll, Primo & Richter 2016]]
 * [[Chatterji et al 2009]]
 * [[Delmas et al 2013]]
 * [[Doh et al 2010]]
