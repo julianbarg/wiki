@@ -8,6 +8,8 @@ Fiol, C. M., & Lyles, M. A. (1985). Organizational Learning. *The Academy of Man
 
 ## One-paragraph summary
 
+Also raises *cognitive development* vs. *behavior development*.
+
 ### Methods
 
 ## Related to
