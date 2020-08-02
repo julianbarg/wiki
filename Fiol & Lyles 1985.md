@@ -8,6 +8,8 @@ Fiol, C. M., & Lyles, M. A. (1985). Organizational Learning. *The Academy of Man
 
 ## One-paragraph summary
 
+Distinguishing between adaption and learning. This dichotomy recognizes that organizations can be making adjustments, as a response to internal or external changes, withot the use of cognition on any level.
+
 Also raises *cognitive development* vs. *behavior development*.
 
 ### Methods
