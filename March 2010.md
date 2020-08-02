@@ -40,6 +40,10 @@ Two different types of intelligence: adaptive intelligence and interpretative in
 
 Two types of learning: high-intellect and low-intellect. Three types
 
+### Chapter 3: Learning through Stories and Models
+
+Organizations are masterful storytellers. Which also implies that we should not buy into narratives of observations that feed into learning.
+
 ## Important points
 
 ## Reactions
