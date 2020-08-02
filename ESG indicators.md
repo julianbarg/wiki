@@ -4,7 +4,7 @@
 
 ## One-paragraph summary
 
-ESG indicators are socially constructed. Our findings depend on our assumptions. We need to make these assumptions explicit.
+ESG indicators are socially constructed. Our findings depend on our assumptions. We need to make these assumptions explicit. 
 
 ## Related to
 * [[Pipeline spills]]
