@@ -48,3 +48,4 @@ Organizations are masterful storytellers. Which also implies that we should not 
 
 ## Reactions
 * (Reg. bandit problems, p. 19) maybe, as a society, we have not sampled enough different technologies.
+* Chapter 3: obvious parallels to criticism of "heroid figures" ([[Rowlinson, Hassard & Decker 2014]])
