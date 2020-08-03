@@ -42,7 +42,7 @@ Two types of learning: high-intellect and low-intellect. Three types
 
 ### Chapter 3: Learning through Stories and Models
 
-Organizations are masterful storytellers. Which also implies that we should not buy into narratives of observations that feed into learning. Also implying that the study of creating narratives is relevant? Compare [[Rowlinson, Hassard & Decker 2014]].
+Organizations are masterful storytellers. Which also implies that we should not buy into narratives of observations that feed into learning. Also implying that the study of creating narratives is relevant? Compare [[Rowlinson, Hassard & Decker 2014]]. Four mythic themes in organizations: rationality, hierarchy, individual leader significance, and historical efficiency. 
 
 ## Important points
 
