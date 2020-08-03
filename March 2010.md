@@ -50,4 +50,5 @@ Organizations are masterful storytellers. Which also implies that we should not 
 
 ## Reactions
 * (Reg. bandit problems, p. 19) maybe, as a society, we have not sampled enough different technologies.
-* Chapter 3: obvious parallels to criticism of "heroid figures" ([[Rowlinson, Hassard & Decker 2014]])
+* Chapter 3: obvious parallels to criticism of "heroid figures" ([[Rowlinson, Hassard & Decker 2014]]).
+* Now that I am thinking about it--organizations have this incredible ability to implement even things that a cynic would easily dismiss as stupid in a minute. Could that be the source of novelty (p. 84)?
