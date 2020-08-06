@@ -8,7 +8,7 @@ Lyon, T. P., & Montgomery, A. W. (2015). The Means and End of Greenwash. *Organi
 
 ## One-paragraph summary
 
-There are different theories that could explain greenwashing. Organizational theory suggests that decoupling could be a mechanis. Signaling or marketing could be a motivation. The literature on greenwashing has identified three drivers of greenwashing: the external (Table 4), organizational, and individal level.
+There are different theories that could explain greenwashing. Organizational theory suggests that decoupling could be a mechanis. Signaling or marketing could be a motivation. The literature on greenwashing has identified three drivers of greenwashing: the external ([[Table 4|Lyon & Montgomery 2015.md#table-4-drivers-of-corporate-greenwashing]]), organizational, and individal level.
 
 ### Methods
 
