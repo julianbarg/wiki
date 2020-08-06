@@ -28,6 +28,10 @@ There are different theories that could explain greenwashing. Organizational the
 
 ## Resources
 
+### Table 4: Drivers of Corporate Greenwashing
+
+[[resources/lyon_montgomery_2015_table_4.png|frame, alt=Table 4, width=700px]]
+
 ## One-page summary
 
 ## Important points
