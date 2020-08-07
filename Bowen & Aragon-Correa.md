@@ -15,6 +15,7 @@ There is a difference between greenwashing and symbolic corporate environmentali
 ## Related to
 
 ### Theories
+* [[Greenwashing]]
 
 ### Conferences, courses etc.
 
