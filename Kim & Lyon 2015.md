@@ -14,6 +14,7 @@ Brownwashing is a thing. Organizations might disguise their ESG-related activiti
 ## Related to
 
 ### Theories
+* [[Greenwashing]]
 
 ### Conferences, courses etc.
 
