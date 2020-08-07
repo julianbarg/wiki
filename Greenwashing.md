@@ -14,7 +14,7 @@
 * [[Kim & Lyon 2015]]
 
 ### Literature reviews
-* [[Delmas & Byrbano 2011]]
+* [[Delmas & Burbano 2011]]
 * [[Lyon & Montgomery 2015]]
 
 ### Other papers
