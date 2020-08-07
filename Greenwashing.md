@@ -11,12 +11,13 @@
 ### Theories
 
 ### Seminal works
-* [[Kim & Lyon 2015]]
+* [[Delmas & Burbano 2011]]
 
 ### Literature reviews
-* [[Delmas & Burbano 2011]]
 * [[Lyon & Montgomery 2015]]
 
 ### Other papers
+* [[Bowen & Aragon-Correa]]
+* [[Kim & Lyon 2015]]
 
 ## One-page summary
