@@ -11,6 +11,7 @@
 ### Theories
 
 ### Seminal works
+* [[Kim & Lyon 2015]]
 
 ### Literature reviews
 * [[Lyon & Montgomery 2015]]
