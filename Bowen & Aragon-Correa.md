@@ -1,6 +1,6 @@
 **Greenwashing in Corporate Environmentalism Research and Practice: The Importance of What We Say and Do**
 
-[[ _TOC_]]
+[[_TOC_]]
 
 ## Citation
 
