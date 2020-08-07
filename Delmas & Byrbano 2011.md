@@ -1,6 +1,6 @@
 **The Drivers of Greenwashing**
 
-[[ _TOC_]]
+[[_TOC_]]
 
 ## Citation
 
