@@ -19,5 +19,6 @@
 ### Other papers
 * [[Bowen & Aragon-Correa]]
 * [[Kim & Lyon 2015]]
+* [[Lyon & Montgomery 2013]]
 
 ## One-page summary
