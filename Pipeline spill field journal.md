@@ -18,9 +18,10 @@
 * [[Avidan, Etzion & Gehman 2019]]
 4. Summary of Enbridge's business practice, expansion plans, regulatory capture. E.g., one project being assessed as 2,000 separate projects to skirt need for environmental impact statement.
 * [[http://world.350.org/kishwaukee/files/2017/09/Enbridge-Over-Troubled-Water-Report.pdf]]
-5. EPA celebrating its Kalamazoo pipeline spill response.
+5. EPA celebrating its Kalamazoo river pipeline spill response.
 * [[https://www.epa.gov/enbridge-spill-michigan]]
-6. 
+6. Enbridge setteling with EPA on Kalamazoo river pipeline spill. The most important piece of that settlement is the often quoted $2+ billion pipeline replacement (other safety measures are approximated to amount to $100 million)--which stakeholders have revealed to be a farce!
+* [[https://www.enbridge.com/media-center/news/details?id=2072418]]
 
 ---
 
