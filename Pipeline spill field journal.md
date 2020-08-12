@@ -18,6 +18,9 @@
 * [[Avidan, Etzion & Gehman 2019]]
 4. Summary of Enbridge's business practice, expansion plans, regulatory capture. E.g., one project being assessed as 2,000 separate projects to skirt need for environmental impact statement.
 * [[http://world.350.org/kishwaukee/files/2017/09/Enbridge-Over-Troubled-Water-Report.pdf]]
+5. EPA celebrating its Kalamazoo pipeline spill response.
+* [[https://www.epa.gov/enbridge-spill-michigan]]
+6. 
 
 ---
 
