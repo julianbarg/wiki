@@ -14,6 +14,8 @@
 * [[https://www.youtube.com/watch?v=IAR7z76KWj8]]
 2. Initiative to prevent Enbridge to take more land under eminent domain law. Named after the 80 feet tract of land that Enbridge controls along its 300 miles long pipeline through Wisconsin.
 * [[http://80feetisenough.org/]]
+3. Oil industry preventing emergence of an informative database about fracking that could be used by stakeholders or for empirical work through deceptive "pseudo-disclosure".
+* [[Avidan, Etzion & Gehman 2019]]
 
 ---
 
