@@ -16,6 +16,8 @@
 * [[http://80feetisenough.org/]]
 3. Oil industry preventing emergence of an informative database about fracking that could be used by stakeholders or for empirical work through deceptive "pseudo-disclosure".
 * [[Avidan, Etzion & Gehman 2019]]
+4. Summary of Enbridge's business practice, expansion plans, regulatory capture. E.g., one project being assessed as 2,000 separate projects to skirt need for environmental impact statement.
+* [[http://world.350.org/kishwaukee/files/2017/09/Enbridge-Over-Troubled-Water-Report.pdf]]
 
 ---
 
