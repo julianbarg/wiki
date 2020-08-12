@@ -12,6 +12,8 @@
 
 1. Residents lay out their experience with Enbridge after the spill. Enbridge is using the money it is obliged to spend on pipeline safety to increase the pipe diameter. Residents suffer again, this time from construction work, their backyards are ripped up. Enbridge pulling all tricks it can to avoid needing new permits.
 * [[https://www.youtube.com/watch?v=IAR7z76KWj8]]
+2. Initiative to prevent Enbridge to take more land under eminent domain law. Named after the 80 feet tract of land that Enbridge controls along its 300 miles long pipeline through Wisconsin.
+* [[http://80feetisenough.org/]]
 
 ---
 
