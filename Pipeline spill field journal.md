@@ -2,11 +2,20 @@
 
 ## 2020
 
-### July
+### August
 
 ---
 
-#### Sun, July 02
+#### Wed, Aug 12
+
+---
+
+1. Residents lay out their experience with Enbridge after the spill. Enbridge is using the money it is obliged to spend on pipeline safety to increase the pipe diameter. Residents suffer again, this time from construction work, their backyards are ripped up. Enbridge pulling all tricks it can to avoid needing new permits.
+* [[https://www.youtube.com/watch?v=IAR7z76KWj8]]
+
+---
+
+#### Sun, Aug 02
 
 ---
 
@@ -14,6 +23,8 @@
 * [[Pagell et al 2020]]
 
 ---
+
+### July
 
 #### Fri, July 31
 
