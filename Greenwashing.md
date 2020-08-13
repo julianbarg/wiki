@@ -12,6 +12,7 @@
 
 ### Seminal works
 * [[Delmas & Burbano 2011]]
+* [[Marquis, Toffel & Zhou 2016]]
 
 ### Literature reviews
 * [[Lyon & Montgomery 2015]]
