@@ -12,6 +12,7 @@
 
 ### Seminal works
 * [[Delmas & Burbano 2011]]
+* [[Kim & Lyon 2015]]
 * [[Marquis, Toffel & Zhou 2016]]
 
 ### Literature reviews
@@ -19,7 +20,6 @@
 
 ### Other papers
 * [[Bowen & Aragon-Correa]]
-* [[Kim & Lyon 2015]]
 * [[Lyon & Montgomery 2013]]
 
 ## One-page summary
