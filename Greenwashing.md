@@ -20,6 +20,7 @@
 
 ### Other papers
 * [[Bowen & Aragon-Correa 2014]]
+* [[Crilly, Hansen & Zollo 2016]]
 * [[Lyon & Montgomery 2013]]
 
 ## One-page summary
