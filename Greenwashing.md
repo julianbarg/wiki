@@ -19,7 +19,7 @@
 * [[Lyon & Montgomery 2015]]
 
 ### Other papers
-* [[Bowen & Aragon-Correa]]
+* [[Bowen & Aragon-Correa 2014]]
 * [[Lyon & Montgomery 2013]]
 
 ## One-page summary
