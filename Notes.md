@@ -6,6 +6,8 @@
 * [[https://julianbarg.github.io/thesis/brief/main.pdf]]
 2. Alternative chapter 3: greenwashing in the pipeline industry
 * [[https://julianbarg.github.io/thesis/ch_3/alt_proposal/main.pdf]]
+3. Extended abstract--complete
+* [[https://julianbarg.github.io/thesis/extended_abstract/main.pdf]]
 
 ## June 2020
 
