@@ -22,5 +22,6 @@
 * [[Bowen & Aragon-Correa 2014]]
 * [[Crilly, Hansen & Zollo 2016]]
 * [[Lyon & Montgomery 2013]]
+* [[Laufer 2003]]
 
 ## One-page summary
