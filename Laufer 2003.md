@@ -15,6 +15,7 @@ Corporate social and environmental reporting is geared toward "maximiz[ing] the 
 ## Related to
 
 ### Theories
+* [[Greenwashing]]
 
 ### Conferences, courses etc.
 
