@@ -8,7 +8,7 @@ Laufer, W. S. (2003). Social Accountability and Corporate Greenwashing. *Journal
 
 ## One-paragraph summary
 
-Corporate social and environmental reporting is geared toward "maximiz[ing] the perception of legitimzacy"
+Corporate social and environmental reporting is geared toward "maximiz[ing] the perception of legitimacy" (p. 253). Gives examples of greenwashing, and why the finance industry fails to detect it.
 
 ### Methods
 
