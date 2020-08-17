@@ -8,11 +8,14 @@ Lyon, T. P., & Maxwell, J. W. (2011). Greenwash: Corporate Environmental Disclos
 
 ## One-paragraph summary
 
+Economic model of greenwashing as a "persuasion game". Companies maximize profit through selective disclosure.
+
 ### Methods
 
 ## Related to
 
 ### Theories
+* [[Greenwashing]]
 
 ### Conferences, courses etc.
 
@@ -29,5 +32,6 @@ Lyon, T. P., & Maxwell, J. W. (2011). Greenwash: Corporate Environmental Disclos
 ## One-page summary
 
 ## Important points
+* Regardings the definition of greenwashing: "the typical concerns raised by activists are that companies present positive information out of context in a way that could be misleading to individuals who lack background information about the company’s full portfolio of activities" (p. 8).
 
 ## Reactions
