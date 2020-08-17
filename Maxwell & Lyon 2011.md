@@ -10,6 +10,8 @@ Lyon, T. P., & Maxwell, J. W. (2011). Greenwash: Corporate Environmental Disclos
 
 Economic model of greenwashing as a "persuasion game". Companies maximize profit through selective disclosure. To accomplish this, authors use working definition: "*selective disclosure of positive information about a company’s environmental or social performance, without full disclosure of negative information on these dimensions, so as to create an overly positive corporate image*" (italics in original, p. 9). When *r*, the probability that an activity has a positive environmental outcome, is moderate, the firm will consider greenwashing. When *r* is high, the firm does not gain much from disclosing a positive outcome (since this outcome is expected), and when *r* is low, the firm does not gain much from hiding the negative outcome. Also, unsurprisingly, the likelihood of selective disclosure shrinks as the penalty for greenwashing increases. This can pose a problem when managers themselves are not certain about the environmental impacts of their action. When success is uncertain, managers will tend to "clam up" and abstain from environmental disclosure altogether, rather than take the risk of being accused of greenwashing.
 
+Interesting short sidenote: what this is saying is that the expectation on a firm impacts its likelihood to disclose. If youre image is already bad--you got nothing to lose!
+
 ### Methods
 
 ## Related to
