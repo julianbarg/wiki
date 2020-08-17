@@ -12,6 +12,7 @@
 
 ### Seminal works
 * [[Delmas & Burbano 2011]]
+* [[Fabrizio & Kim 2019]]
 * [[Kim & Lyon 2015]]
 * [[Marquis, Toffel & Zhou 2016]]
 * [[Maxwell & Lyon 2011]]
