@@ -14,6 +14,7 @@
 * [[Delmas & Burbano 2011]]
 * [[Kim & Lyon 2015]]
 * [[Marquis, Toffel & Zhou 2016]]
+* [[Maxwell & Lyon 2011]]
 
 ### Literature reviews
 * [[Lyon & Montgomery 2015]]
