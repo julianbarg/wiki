@@ -15,6 +15,7 @@ Voicing aspirations as a way to raise CSR visions. When is it hope though, when 
 ## Related to
 
 ### Theories
+* [[Greenwashing]]
 
 ### Conferences, courses etc.
 
