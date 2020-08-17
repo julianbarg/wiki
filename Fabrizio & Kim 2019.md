@@ -8,6 +8,8 @@ Fabrizio, K. R., & Kim, E.-H. (2019). Reluctant Disclosure and Transparency: Evi
 
 ## One-paragraph summary
 
+Language as a means to obfuscate.
+
 ### Methods
 
 ## Related to
