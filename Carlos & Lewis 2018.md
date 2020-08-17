@@ -8,11 +8,14 @@ Carlos, W. C., & Lewis, B. W. (2018). Strategic Silence: Withholding Certificati
 
 ## One-paragraph summary
 
+
+
 ### Methods
 
 ## Related to
 
 ### Theories
+* [[Greenwashing]]
 
 ### Conferences, courses etc.
 
