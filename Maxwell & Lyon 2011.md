@@ -8,7 +8,7 @@ Lyon, T. P., & Maxwell, J. W. (2011). Greenwash: Corporate Environmental Disclos
 
 ## One-paragraph summary
 
-Economic model of greenwashing as a "persuasion game". Companies maximize profit through selective disclosure.
+Economic model of greenwashing as a "persuasion game". Companies maximize profit through selective disclosure. To accomplish this, authors use working definition: "*selective disclosure of positive information about a company’s environmental or social performance, without full disclosure of negative information on these dimensions, so as to create an overly positive corporate image*" (italics in original, p. 9).
 
 ### Methods
 
