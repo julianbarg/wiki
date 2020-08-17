@@ -22,6 +22,7 @@
 
 ### Other papers
 * [[Bowen & Aragon-Correa 2014]]
+* [[Carlos & Lewis 2018]]
 * [[Crilly, Hansen & Zollo 2016]]
 * [[Lyon & Montgomery 2013]]
 * [[Laufer 2003]]
