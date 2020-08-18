@@ -15,6 +15,7 @@ Constructing a variable on *selective disclosure magnitude*, representing how mu
 ## Related to
 
 ### Theories
+* [[Greenwashing]]
 
 ### Conferences, courses etc.
 
