@@ -6,6 +6,15 @@
 
 ---
 
+#### Wed, Aug 26
+
+---
+
+1. API and AOPL laying out their plan to influence public opinion (on page 24).
+* [[https://www.api.org/~/media/APIWebsite/oil-and-natural-gas/primers/2018-API_AOPL-Annual-Pipeline-Safety-Report.pdf]]
+
+---
+
 #### Wed, Aug 12
 
 ---
