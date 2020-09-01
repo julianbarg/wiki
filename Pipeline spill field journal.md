@@ -12,6 +12,8 @@
 
 1. Risk from very small holes in pipelines
 * [[https://www.nrdc.org/experts/anthony-swift/keystone-xl-tar-sands-pipeline-leak-detection-system-would-have-likely-missed]]
+2. Dangers of pipeline construction--high death rate.
+* [[https://psmag.com/magazine/death-on-the-dakota-access]]
 
 ### August
 
