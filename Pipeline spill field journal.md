@@ -2,6 +2,17 @@
 
 ## 2020
 
+### September
+
+---
+
+#### Tue, Sep 1
+
+---
+
+1. Risk from very small holes in pipelines
+* [[https://www.nrdc.org/experts/anthony-swift/keystone-xl-tar-sands-pipeline-leak-detection-system-would-have-likely-missed]]
+
 ### August
 
 ---
