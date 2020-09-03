@@ -24,6 +24,8 @@
 * [[https://www.cnbc.com/2020/08/19/why-warren-buffett-is-betting-on-pipelines-evern-as-climate-fears-rise.html]]
 7. Hurricane Laura shutting down natural gas offshore pipelines.
 * [[https://www.pipeline-journal.net/news/hurricane-laura-wreaks-havoc-gulf-mexico-gas-pipelines]]
+8. Law enforcement "neutralizing" suspicious package near pipeline in Texas.
+* [[https://www.reuters.com/article/kinder-morgan-pipeline-suspend-idUSL1N2FY2FN]]
 
 ---
 
