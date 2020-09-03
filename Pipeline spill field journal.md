@@ -16,6 +16,8 @@
 * [[https://oilprice.com/Latest-Energy-News/World-News/Appeals-Court-Dakota-Access-Oil-Pipeline-Can-Remain-Open.html]]
 3. The Verge raising the issue of pipelines being abandoned.
 * [[https://www.theverge.com/platform/amp/21356423/oil-gas-pipelines-abandoned-enbridge-line-3]]
+4. A critical news site about the oil industry, addressing for instance wrongdoings of the API.
+* [[https://www.drillednews.com/]]
 
 ---
 
