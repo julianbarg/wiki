@@ -20,6 +20,8 @@
 * [[https://www.drillednews.com/]]
 5. BP pledges to cut oil and gas production by 40%.
 * [[https://insideclimatenews.org/news/04082020/bp-oil-and-gas-production-climate-change]]
+6. Warren Buffett investing in pipelines amidst uncertainty about pipeline projects. He may be hoping for lower "supply" of new pipelines.
+* [[https://www.cnbc.com/2020/08/19/why-warren-buffett-is-betting-on-pipelines-evern-as-climate-fears-rise.html]]
 
 ---
 
