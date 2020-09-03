@@ -56,6 +56,7 @@ Pushes against the notion that organizations (or individuals) posses a complete 
 
 * "At least at first blush, it appears that novelty survives not because it offers selective advantage within specifiable adaptive mechanisms but because those mechanisms are actually quite inefficient instuments of improvement and thusinefficient in eliminating the instruments of novelty" (p. 84).
 * "[E]xperience is less a source of adaptive improvement than a stimulant to a fundamental human activity--the creation and decoration of irrelevant understanding" (p. 118).
+* March discussing a theor of knowledge decay in section "The survival mechanism of novely".
 
 ## Reactions
 * (Reg. bandit problems, p. 19) maybe, as a society, we have not sampled enough different technologies.
