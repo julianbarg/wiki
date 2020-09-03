@@ -18,6 +18,8 @@
 * [[https://www.theverge.com/platform/amp/21356423/oil-gas-pipelines-abandoned-enbridge-line-3]]
 4. A critical news site about the oil industry, addressing for instance wrongdoings of the API.
 * [[https://www.drillednews.com/]]
+5. BP pledges to cut oil and gas production by 40%.
+* [[https://insideclimatenews.org/news/04082020/bp-oil-and-gas-production-climate-change]]
 
 ---
 
