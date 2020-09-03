@@ -12,6 +12,8 @@
 
 1. Fracking companies going bankrupt, not having enough reserves for proper clean-up.
 * [[https://www.nytimes.com/2020/07/12/climate/oil-fracking-bankruptcy-methane-executive-pay.html]]
+2. DAPL staying open after all, not shut down by court for insufficient environmental impact assessment.
+* [[https://oilprice.com/Latest-Energy-News/World-News/Appeals-Court-Dakota-Access-Oil-Pipeline-Can-Remain-Open.html]]
 
 ---
 
