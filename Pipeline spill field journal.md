@@ -14,6 +14,8 @@
 * [[https://www.nytimes.com/2020/07/12/climate/oil-fracking-bankruptcy-methane-executive-pay.html]]
 2. DAPL staying open after all, not shut down by court for insufficient environmental impact assessment.
 * [[https://oilprice.com/Latest-Energy-News/World-News/Appeals-Court-Dakota-Access-Oil-Pipeline-Can-Remain-Open.html]]
+3. The Verge raising the issue of pipelines being abandoned.
+* [[https://www.theverge.com/platform/amp/21356423/oil-gas-pipelines-abandoned-enbridge-line-3]]
 
 ---
 
