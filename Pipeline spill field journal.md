@@ -6,6 +6,15 @@
 
 ---
 
+#### Thu, Sep 3
+
+---
+
+1. Fracking companies going bankrupt, not having enough reserves for proper clean-up.
+* [[https://www.nytimes.com/2020/07/12/climate/oil-fracking-bankruptcy-methane-executive-pay.html]]
+
+---
+
 #### Tue, Sep 1
 
 ---
