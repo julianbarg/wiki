@@ -8,6 +8,8 @@ George, G., Howard-Grenville, J., Joshi, A., & Tihanyi, L. (2016). Understanding
 
 ## One-paragraph summary
 
+Turn research into actionable insights for relevant problems.
+
 ### Methods
 
 ## Related to
