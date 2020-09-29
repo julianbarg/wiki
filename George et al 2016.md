@@ -8,7 +8,7 @@ George, G., Howard-Grenville, J., Joshi, A., & Tihanyi, L. (2016). Understanding
 
 ## One-paragraph summary
 
-Turn research into actionable insights for relevant problems.
+Turn research into actionable insights for relevant problems. Reason: in most cases, businesses need to be mobilized to make impact.
 
 ### Methods
 
