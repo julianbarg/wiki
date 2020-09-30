@@ -8,7 +8,7 @@ Weick, K. E., Sutcliffe, K. M., & Obstfeld, D. (2005). Organizing and the Proces
 
 ## One-paragraph summary
 
-Not rational decision making, but sensemakin runs organizations. Individuals in organizations bracket observations from the constant flow of information and create labels. This "creates" events in retrospect. Sensemaking occurs when action is taken. In organizations, communication is central to sensemaking.
+Not rational decision making, but sensemakin runs organizations. Individuals in organizations bracket observations from the constant flow of information and create labels. This "creates" events in retrospect. Sensemaking occurs when action is taken. In organizations, communication is central to sensemaking. There is also enacted environments in here.
 
 ### Methods
 
