@@ -28,6 +28,8 @@ Not rational decision making, but sensemakin runs organizations. Individuals in 
 
 ## Resources
 
+[[resources/weick_et_al_2005_fig_1.png]]
+
 ## One-page summary
 
 ## Important points
