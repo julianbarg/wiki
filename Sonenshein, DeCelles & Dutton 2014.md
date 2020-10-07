@@ -8,7 +8,7 @@ Sonenshein, S., DeCelles, K. A., & Dutton, J. E. (2014). It’s Not Easy Being G
 
 ## One-paragraph summary
 
-
+Within suppoerts of the climate change issue, there are different groups. Those confident in their knowledge and action on climate are more likely to take action and voice opinions, whereas self-critics who doubt the sufficiency of their own action and knowledge are less likely. Self-equivocators (high self-assets and high self-doubts) were slightly more likely than self-critics to take action and voice opinions than self-critics, but not statistically significantly so. Thus it seems that knowledge on climate change alone is the determining factor of action.
 
 ### Methods
 
