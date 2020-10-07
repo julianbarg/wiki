@@ -8,7 +8,13 @@ Sonenshein, S., DeCelles, K. A., & Dutton, J. E. (2014). It’s Not Easy Being G
 
 ## One-paragraph summary
 
+
+
 ### Methods
+
+* Mixed methods
+    * Semi-structured interviews, inductive approach
+    * Concealed observation
 
 ## Related to
 
