@@ -14,7 +14,7 @@ Within suppoerts of the climate change issue, there are different groups. Those 
 
 * Mixed methods
     * Semi-structured interviews, inductive approach
-    * Concealed observation
+    * Concealed observation (experiment)
 
 ## Related to
 
