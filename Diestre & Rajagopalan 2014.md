@@ -13,6 +13,8 @@ Diestre, L., & Rajagopalan, N. (2014). Toward an Input-Based Perspective on Cate
 ## Related to
 
 ### Theories
+* [[Categories]]
+* [[Spillover effects]]
 
 ### Conferences, courses etc.
 
