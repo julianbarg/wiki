@@ -8,7 +8,7 @@ Vakili, K., & McGahan, A. M. (2016). Health Care’s Grand Challenge: Stimulatin
 
 ## One-paragraph summary
 
-Do intellectual property protections increase research on diseases?
+Do intellectual property protections increase research on diseases? Research is responsive to an increased prevalence in higher income countries. But for neglected diseases, there is also a response to the introduction of property protection in low income countries. Overall, the introduction of property protections seems to bolster research.
 
 ### Methods
 
