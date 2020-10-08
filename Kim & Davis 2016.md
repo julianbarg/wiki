@@ -8,7 +8,7 @@ Kim, Y. H., & Davis, G. F. (2016). Challenges for Global Supply Chain Sustainabi
 
 ## One-paragraph summary
 
-Status quo, but no information on trajectory.
+Kim and Davis research what companies are likely to eliminate conflict minerals from their supply chains. Only 1% of companies in their sample have. They find that complexity of firm structure significantly reduces the likelihood that firms can figure out ("beyond reasonable doubt") whether they have eliminated conflict minerals from their supply chain. EU firms are more likely than US firms to have eliminated conflict minerals from their supply chains. Since the study is cross-sectional and not longitudinal, we only get an idea of the status quo, but not of the trajectory (i.e., whether there is any movement).
 
 ### Methods
 
