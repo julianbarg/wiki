@@ -26,4 +26,7 @@
 * [[George et al 2016]]
 * [[Olsen et al 2016]]
 
+### AMJ special issue 2016
+* [[Kim & Davis 2016]]
+
 ## One-page summary
