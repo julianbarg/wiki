@@ -15,6 +15,7 @@ Kim and Davis research what companies are likely to eliminate conflict minerals 
 ## Related to
 
 ### Theories
+* [[Grand challenges]]
 
 ### Conferences, courses etc.
 
