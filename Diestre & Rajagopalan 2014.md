@@ -31,5 +31,6 @@ Diestre, L., & Rajagopalan, N. (2014). Toward an Input-Based Perspective on Cate
 ## One-page summary
 
 ## Important points
+* "Second, firms might proactively take action to reduce the level of punishment received from investors after the accident, such as by removing the dangerous input from their manufacturing processes.""
 
 ## Reactions
