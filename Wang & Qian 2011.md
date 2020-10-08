@@ -8,6 +8,8 @@ Wang, H., & Qian, C. (2011). Corporate Philanthropy and Corporate Financial Perf
 
 ## One-paragraph summary
 
+Chinese firms can increase their financial valuation through philantrophic giving. Through marketing, and by using philanthropic giving to improve their reputation in new markets, corporations can bolster this effect.
+
 ### Methods
 
 ## Related to
