@@ -28,5 +28,6 @@
 
 ### AMJ special issue 2016
 * [[Kim & Davis 2016]]
+* [[Vakili & McGahan 2017]]
 
 ## One-page summary
