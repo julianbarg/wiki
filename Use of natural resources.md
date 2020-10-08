@@ -17,7 +17,7 @@
 * [[George et al 2015]]
 
 ### Other papers
-* [[Sonenshein, DeCelles & Dutton 2014]]
 * [[Diestre & Rajagopalan 2014]]
+* [[Sonenshein, DeCelles & Dutton 2014]]
 
 ## One-page summary
