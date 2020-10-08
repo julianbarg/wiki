@@ -7,6 +7,7 @@
 
 ## Theories
 * [[Risk]]
+* [[Use of natural resource]]
 
 ## Courses
 * [[Business Strategy I (2018)|Business Strategy I 2018]]
