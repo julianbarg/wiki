@@ -15,6 +15,7 @@ Nonprofits tackle income inequality on the local level, but they compete for res
 ## Related to
 
 ### Theories
+* [[Grand challenges]]
 
 ### Conferences, courses etc.
 
