@@ -8,7 +8,7 @@ Strategy scholarship, because of its traditional focus on profitibility as an ou
 
 
 
-Variance decomposition might be an empirical strategy. If its just correlation, and not causation, that is still a meaningful outcome, we just need to be wise with how to use that knowledge.
+Variance decomposition might be an empirical strategy. If its just correlation, and not causation, that is still a meaningful outcome, we just need to be wise with how to use that knowledge. E.g., if private companies generally do worse because they are bigger--if we obtain their overall profiles (similar to fsqca), that is still helpful.
 
 ### Interdisciplinary theories
 
