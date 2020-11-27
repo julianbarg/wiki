@@ -1,5 +1,11 @@
 * [[Books & articles]]
 
+## Projects
+* [[Old projects]]
+* [[Theory on Environmental Sustainability of the Organization]]
+* [[Thesis]]
+* [[Notes]]
+
 ## Topic Areas
 * [[Organizational Theory]]
 * [[Methods]]
@@ -41,14 +47,6 @@
 
 ## Conference Talks
 * [[Ivey PhD Research Series 2020]]
-
-## Projects
-* [[Old projects]]
-
-## Projects
-* [[Theory on Environmental Sustainability of the Organization]]
-* [[Thesis]]
-* [[Notes]]
 
 ## Journals
 * [[Pipeline spill field journal]]
