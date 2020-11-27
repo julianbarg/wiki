@@ -1,9 +1,10 @@
-
 ## Disconnect between theories
 
-Systemic problem, intermediate empirical Tresearch
+Systemic problem, but empirical research & theories of limited scale.
 
-## Problems
+## Description
+
+Strategy scholarship, because of its traditional focus on profitibility as an outcome, generally features a narrow scope of very strict, econometric research. The standards for publishing in the area is generally high, because of a general (justified) concern regarding the selection on the dependent variable. For instance, variance decomposition.
 
 ### Interdisciplinary theories
 
