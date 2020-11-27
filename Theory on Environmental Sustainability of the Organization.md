@@ -4,7 +4,11 @@ Systemic problem, but empirical research & theories of limited scale.
 
 ## Description
 
-Strategy scholarship, because of its traditional focus on profitibility as an outcome, generally features a narrow scope of very strict, econometric research. The standards for publishing in the area is generally high, because of a general (justified) concern regarding the selection on the dependent variable. For instance, variance decomposition.
+Strategy scholarship, because of its traditional focus on profitibility as an outcome, generally features a narrow scope of very strict, econometric research. The standards for publishing in the area is generally high, because of a general (justified) concern regarding the selection on the dependent variable. 
+
+
+
+Variance decomposition might be an empirical strategy. If its just correlation, and not causation, that is still a meaningful outcome, we just need to be wise with how to use that knowledge.
 
 ### Interdisciplinary theories
 
