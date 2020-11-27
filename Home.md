@@ -43,11 +43,11 @@
 * [[Ivey PhD Research Series 2020]]
 
 ## Projects
-* [[Thesis proposal]]
+* [[Old projects]]
+
+## Projects
+* [[Theory on Environmental Sustainability of the Organization]]
 * [[Thesis]]
-* [[Pace 2019]]
-* [[Pipeline safety learning]]
-* [[Timeline]]
 * [[Notes]]
 
 ## Journals
