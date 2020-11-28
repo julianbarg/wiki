@@ -15,8 +15,10 @@ There are limits to the carrying capacity of our planet. Overstepping those boun
 ### Theories
 
 ### Seminal works
-* [[@Scheffer2001|Scheffer et al 2001]]
+* @Scheffer2001
 * @Rockstrom2009a
+* @Rockstrom2009b
+* @Biermann2020
 
 ### Literature reviews
 
