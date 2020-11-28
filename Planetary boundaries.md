@@ -1,4 +1,8 @@
-[[ _TOC_]]
+---
+bibliography: 'bibliography.bib'
+---
+
+[[_TOC_]]
 
 ## One-paragraph summary
 
