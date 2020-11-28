@@ -30,3 +30,4 @@ Variance decomposition might be an empirical strategy. If its just correlation, 
 ## Literatures
 * [[Planetary boundaries]]
 * [[Radical theory]] (Bobby Banerjee)
+* [[Extant empirical papers]]
