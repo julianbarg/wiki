@@ -1,8 +1,3 @@
----
-bibliography: 'bibliography.bib'
-csl: 'apa.csl'
----
-
 ## Disconnect between theories
 
 Systemic problem, but empirical research & theories of limited scale.
