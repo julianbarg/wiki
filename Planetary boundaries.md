@@ -22,3 +22,5 @@ There are limits to the carrying capacity of our planet. Overstepping those boun
 ### Other papers
 
 ## One-page summary
+
+## Bibliography
