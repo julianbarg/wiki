@@ -1,5 +1,6 @@
 ---
 bibliography: 'bibliography.bib'
+csl: 'apa.csl'
 ---
 
 ## Disconnect between theories
