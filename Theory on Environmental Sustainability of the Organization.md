@@ -1,3 +1,7 @@
+---
+bibliography: 'bibliography.bib'
+---
+
 ## Disconnect between theories
 
 Systemic problem, but empirical research & theories of limited scale.
