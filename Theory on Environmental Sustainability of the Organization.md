@@ -23,5 +23,5 @@ Variance decomposition might be an empirical strategy. If its just correlation, 
 3. Explain why current model fails
 
 ## Literatures
-* Planetary boundaries
-* Radical theory (Bobby Banerjee)
+* [[Planetary boundaries]]
+* [[Radical theory]] (Bobby Banerjee)
