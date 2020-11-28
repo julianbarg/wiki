@@ -1,6 +1,5 @@
 ---
 bibliography: 'bibliography.bib'
-csl: 'apa.csl'
 ---
 
 [[_TOC_]]
@@ -16,7 +15,7 @@ There are limits to the carrying capacity of our planet. Overstepping those boun
 ### Theories
 
 ### Seminal works
-* [@Scheffer2001]
+* @Scheffer2001
 
 ### Literature reviews
 
