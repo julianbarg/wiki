@@ -1,6 +1,5 @@
 ---
 bibliography: 'bibliography.bib'
-csl: 'apa.csl'
 ---
 
 ## Disconnect between theories
@@ -26,6 +25,12 @@ Variance decomposition might be an empirical strategy. If its just correlation, 
 1. Theories on environmental carrying capacity
 2. Explain how environmental sustainability could come about (high barrier)
 3. Explain why current model fails
+
+## Learning from other disciplines
+
+* Specific types of organizations instead of generalized models
+* Industry trends rather than universal trends
+* Hot spots rather than universal observations
 
 ## Literatures
 * [[Planetary boundaries]]
