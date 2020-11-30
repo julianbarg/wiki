@@ -31,6 +31,7 @@ Variance decomposition might be an empirical strategy. If its just correlation, 
 * Specific types of organizations instead of generalized models
 * Industry trends rather than universal trends
 * Hot spots rather than universal observations
+* Focus on description of problems or reality rather than solutions 
 
 ## Literatures
 * [[Planetary boundaries]]
