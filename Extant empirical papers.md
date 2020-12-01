@@ -1,5 +1,5 @@
 ---
-bibliography: '..\library.bib'
+bibliography: 'library.bib'
 ---
 
 ## Nature Climate Change
