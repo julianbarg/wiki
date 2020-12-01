@@ -9,6 +9,7 @@ bibliography: 'bibliography.bib'
 * @Camilleri2019
 * @Dietz2018
 * @Makov2016
+* @Palmer2020
 * @Xu2020
 * @Zhang2019
 
