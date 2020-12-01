@@ -1,5 +1,5 @@
 ---
-bibliography: 'bibliography.bib'
+bibliography: 'library.bib'
 ---
 
 [[_TOC_]]
