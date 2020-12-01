@@ -33,6 +33,7 @@ Variance decomposition might be an empirical strategy. If its just correlation, 
 * Hot spots rather than universal observations
 * Focus on description of problems or reality rather than solutions 
 * Articles that fit with the extant meta-narrative (IPCC)
+* Articles that treat the organization as the subject, rather than the actor
 
 ## Literatures
 * [[Planetary boundaries]]
