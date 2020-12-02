@@ -27,6 +27,7 @@ bibliography: 'library.bib'
 
 ## Nature Climate Change _Research Highlights_
 
+* @Brulle2018
 * **@Wright2017**
 * **@Rekker2019**
 * @Shapiro2018a
