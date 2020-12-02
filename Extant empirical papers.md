@@ -16,6 +16,7 @@ bibliography: 'library.bib'
 ## Nature Sustainability
 
 * @Aminpour2020
+* @Battiston2017
 * @Makov2016
 * @Masuda2018
 * @Ockenfels2020
