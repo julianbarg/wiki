@@ -33,6 +33,7 @@ bibliography: 'library.bib'
 
 ---
 
+**boldface**: Busines journal
 \*: Not an article (letter, analysis, etc.)
 
 ## Bibliography
