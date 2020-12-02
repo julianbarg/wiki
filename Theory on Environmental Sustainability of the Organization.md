@@ -1,5 +1,5 @@
 ---
-bibliography: '../library.bib'
+bibliography: 'library.bib'
 ---
 
 ## Disconnect between theories
@@ -34,6 +34,7 @@ Variance decomposition might be an empirical strategy. If its just correlation, 
 * Focus on description of problems or reality rather than solutions 
 * Articles that fit with the extant meta-narrative (IPCC)
 * Articles that treat the organization as the subject, rather than the actor
+* More letters/research notes
 
 ## Literatures
 * [[Planetary boundaries]]
