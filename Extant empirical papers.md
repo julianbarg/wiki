@@ -27,6 +27,8 @@ bibliography: 'library.bib'
 
 ## Nature Climate Change _Research Highlights_
 
+* **@Wright2017**
+
 ---
 
 \*: Not an article (letter, analysis, etc.)
