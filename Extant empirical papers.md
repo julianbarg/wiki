@@ -17,6 +17,7 @@ bibliography: 'library.bib'
 
 * @Aminpour2020
 * @Battiston2017
+* @Karpf2018
 * @Makov2016
 * @Masuda2018
 * @Ockenfels2020
