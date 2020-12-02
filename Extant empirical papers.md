@@ -28,6 +28,8 @@ bibliography: 'library.bib'
 ## Nature Climate Change _Research Highlights_
 
 * **@Wright2017**
+* **@Rekker2019**
+* @Shapiro2018a
 
 ---
 
