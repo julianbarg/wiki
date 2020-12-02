@@ -2,7 +2,6 @@
 bibliography: 'library.bib'
 ---
 
-@Masuda2018
 
 ## Nature Climate Change
 
@@ -18,6 +17,7 @@ bibliography: 'library.bib'
 
 * @Aminpour2020
 * @Makov2016
+* @Masuda2018
 * @Ockenfels2020
 * @Xu2020*
 
