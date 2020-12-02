@@ -9,7 +9,7 @@ bibliography: 'library.bib'
 * @Boudet2020
 * **@Camilleri2019**
 * @Dietz2018*
-* @Makov2016
+* @Makov2016*
 * @Palmer2020
 * @Zhang2019
 
@@ -18,7 +18,6 @@ bibliography: 'library.bib'
 * @Aminpour2020
 * @Battiston2017
 * @Karpf2018
-* @Makov2016*
 * @Masuda2018
 * @Meemken2019*
 * @Ockenfels2020
