@@ -8,7 +8,6 @@ bibliography: 'library.bib'
 * @Bechtel2020
 * @Boudet2020
 * @Camilleri2019
-* @Dietz2018
 * @Makov2016
 * @Palmer2020
 * @Zhang2019
@@ -16,6 +15,7 @@ bibliography: 'library.bib'
 ## Nature Sustainability
 
 * @Aminpour2020
+* @Dietz2018*
 * @Makov2016
 * @Masuda2018
 * @Ockenfels2020
