@@ -23,4 +23,8 @@ bibliography: 'library.bib'
 * @Palmer2020
 * @Xu2020*
 
+---
+
+\*: Not an article (letter, analysis, etc.)
+
 ## Bibliography
