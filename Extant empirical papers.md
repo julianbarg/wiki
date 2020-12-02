@@ -19,6 +19,7 @@ bibliography: 'library.bib'
 * @Makov2016
 * @Masuda2018
 * @Ockenfels2020
+* @Palmer2020
 * @Xu2020*
 
 ## Bibliography
