@@ -7,7 +7,7 @@ bibliography: 'library.bib'
 
 * @Bechtel2020
 * @Boudet2020
-* **@Camilleri2019**
+* @Camilleri2019
 * @Dietz2018*
 * @Makov2016
 * @Palmer2020
