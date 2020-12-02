@@ -25,6 +25,8 @@ bibliography: 'library.bib'
 * @Palmer2020
 * @Xu2020*
 
+## Nature Climate Change _Research Highlights_
+
 ---
 
 \*: Not an article (letter, analysis, etc.)
