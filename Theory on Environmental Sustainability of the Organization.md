@@ -2,7 +2,7 @@
 bibliography: 'library.bib'
 ---
 
-What does it mean to be orthodox.
+What does it mean to be orthodox?
 
 ## Disconnect between theories
 
