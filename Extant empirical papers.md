@@ -31,7 +31,7 @@ bibliography: 'library.bib'
 * @Hermwille2019
 * @King2017
 * @Koontz2018
-* @Pailler2018\
+* @Pailler2018
 * **@Wright2017**
 * **@Rekker2019**
 * @Shapiro2018a
