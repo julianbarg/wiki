@@ -10,7 +10,6 @@ bibliography: 'library.bib'
 * **@Camilleri2019**
 * @Dietz2018*
 * @Makov2016*
-* @Palmer2020
 * @Zhang2019
 
 ## Nature Sustainability
@@ -33,6 +32,7 @@ bibliography: 'library.bib'
 * @King2017
 * @Koontz2018
 * @Pailler2018
+* @Palmer2020
 * **@Wright2017**
 * **@Rekker2019**
 * @Shapiro2018a
