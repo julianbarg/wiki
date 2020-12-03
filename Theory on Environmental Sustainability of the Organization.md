@@ -36,6 +36,7 @@ Variance decomposition might be an empirical strategy. If its just correlation, 
 * Articles that treat the organization as the subject, rather than the actor
 * More letters/research notes
 * More foundational, phenomenon-driven research
+* Maybe look for the big effect sizes? Quantify the obvious? It may still be surprising to some? Ask colleagues for their expectations?
 
 ## Literatures
 * [[Planetary boundaries]]
