@@ -20,7 +20,6 @@ bibliography: 'library.bib'
 * @Masuda2018
 * @Meemken2019*
 * @Ockenfels2020
-* @Palmer2020
 * @Xu2020*
 
 ## Nature Climate Change _Research Highlights_
