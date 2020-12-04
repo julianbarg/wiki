@@ -40,6 +40,7 @@ Variance decomposition might be an empirical strategy. If its just correlation, 
 * More foundational, phenomenon-driven research
 * Maybe look for the big effect sizes? Quantify the obvious? It may still be surprising to some? Ask colleagues for their expectations?
 * Research industries, rather than just organizations
+* Phenomena: research the important phenomenon that is related to your area of interest, then determine the theoretical implications
 
 ## Literatures
 * [[Planetary boundaries]]
