@@ -1,5 +1,3 @@
-* [[Books & articles]]
-
 ## Projects
 * [[Old projects]]
 * [[Theory on Environmental Sustainability of the Organization]]
