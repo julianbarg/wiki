@@ -4,9 +4,8 @@ bibliography: 'library.bib'
 **@Aronczyk2019**
 
 * Rutgers University--Communication
-* Researching EnviroConn
+* Researching EnviroConn 1989-1997
 * 13 interviews, archival material
-* 1989-1997
 
 ## One-sentence summary
 
