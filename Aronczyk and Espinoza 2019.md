@@ -2,4 +2,4 @@
 bibliography: 'library.bib'
 ---
 
-**@Aronczyk 2019**
+@Aronczyk 2019
