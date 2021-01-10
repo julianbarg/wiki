@@ -3,7 +3,7 @@ bibliography: 'library.bib'
 display_metadata: false
 ---
 
-# @ Hermwille2019
+# @Hermwille2019
 
 _Back to [[Barg & Zbaracki]]_
 
