@@ -3,6 +3,7 @@ bibliography: 'library.bib'
 display_metadata: false
 ---
 # @Bechtel2020
+*Back to [[Barg & Zbaracki]]*
 
 * Survey
 * 10,075 respondents in four countries
