@@ -20,6 +20,6 @@ display_metadata: false
 * [[Ockenfels, Werner & Edenhofer 2020]]--Pricing externalities and moral behaviour
 
 ### Recommended in _Research Highlights_
-* [[Aronczyk and Espinoza 2019]]--Sustainable communication: green PR and the export of corporate environmentalism, 1989–1997
-* [[Gupta and Mason 2016]]--Disclosing or obscuring? The politics of transparency in global climate governance
+* [[Aronczyk & Espinoza 2019]]--Sustainable communication: green PR and the export of corporate environmentalism, 1989–1997
+* [[Gupta & Mason 2016]]--Disclosing or obscuring? The politics of transparency in global climate governance
 * [[Hermwille & Sanderink 2019]]--
