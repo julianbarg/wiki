@@ -16,7 +16,8 @@ display_metadata: false
 ### _Nature Sustainability_
 * [[Aminpour et al 2020]]--Wisdom of stakeholder crowds in complex social–ecological systems
 * [[Battiston et al 2017]]--A climate stress-test of the financial system
-* [[Masuda et al 2018]]--
+* [[Masuda et al 2018]]--Innovation diffusion within large environmental NGOs through informal network agents
+* [[Ockenfels, Werner & Edenhofer 2020]]--
 
 ### Recommended in _Research Highlights_
 * [[Aronczyk and Espinoza 2019]]--Sustainable communication: green PR and the export of corporate environmentalism, 1989–1997
