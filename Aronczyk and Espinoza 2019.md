@@ -4,6 +4,8 @@ display_metadata: false
 ---
 # @Aronczyk2019
 
+*Back to [[Barg & Zbaracki]]*
+
 * Rutgers University--Communication
 * Researching EnviroConn 1989-1997
 * 13 interviews, archival material
