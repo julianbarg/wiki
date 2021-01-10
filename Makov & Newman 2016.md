@@ -4,6 +4,9 @@ display_metadata: false
 ---
 
 # @Makov2016
+
+*Back to [[Barg & Zbaracki]]*
+
 * 4 online experiments with ~100-500 participants
 * Yale
 
