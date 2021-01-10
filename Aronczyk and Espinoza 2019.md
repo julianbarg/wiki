@@ -2,7 +2,7 @@
 bibliography: 'library.bib'
 display_metadata: false
 ---
-**@Aronczyk2019**
+# @Aronczyk2019
 
 * Rutgers University--Communication
 * Researching EnviroConn 1989-1997
