@@ -2,10 +2,9 @@
 bibliography: 'library.bib'
 display_metadata: false
 ---
+# @Ockenfels2020
 
 _Back to [[Barg & Zbaracki]]_
-
-# @Ockenfels2020
 
 * University of Cologne
 * Classroom experiment
