@@ -10,7 +10,8 @@ display_metadata: false
 * [[Boudet et al 2020]]--Event attribution and partisanship shape local discussion of climate change after extreme weather
 * [[Camilleri et al 2019]]--Consumers underestimate the emissions associated with food but are aided by labels
 * [[Dietz et al 2018]]--An assessment of climate action by high-carbon global corporations
-* [[Makov & Newman 2016]]--
+* [[Makov & Newman 2016]]--Economic gains stimulate negative evaluations of corporate sustainability initiatives
+* [[Zhang et al 2019]]--
 
 ### Recommended in _Research Highlights_
 * [[Aronczyk and Espinoza 2019]]--Sustainable communication: green PR and the export of corporate environmentalism, 1989–1997
