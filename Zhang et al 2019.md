@@ -5,6 +5,8 @@ display_metadata: false
 
 # @Zhang2019
 
+*Back to [[Barg & Zbaracki]]*
+
 * Tsingua University
 * [[Fixed effect regression]]
 * 400 companies in Bejiing & Hubei
