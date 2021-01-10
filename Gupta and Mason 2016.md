@@ -12,6 +12,6 @@ _Back to [[Barg & Zbaracki]]_
 
 ## One-sentence summary
 
-
+The authors argue that the "wrong" interests have taken control of carbon disclosure projects, counteracting the goal of effective emission reduction.
 
 ---
