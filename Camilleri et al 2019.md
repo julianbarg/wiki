@@ -1,3 +1,7 @@
+---
+bibliography: 'library.bib'
+display_metadata: false
+---
 # @Camilleri2019
 
 ## One-sentence summary
