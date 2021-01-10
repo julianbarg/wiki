@@ -1,5 +1,8 @@
 ---
 bibliography: 'library.bib'
+output: 
+  md_document:
+    preserve_yaml: false
 ---
 
 ## Literature
