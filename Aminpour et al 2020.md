@@ -10,4 +10,6 @@ _Back to [[Barg & Zbaracki]]_
 
 ## One-sentence summary
 
+Mental models of stakeholders can approximate that of experts fairly well.
+
 ---
