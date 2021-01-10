@@ -13,6 +13,6 @@ _Back to [[Barg & Zbaracki]]_
 
 ## One-sentence summary
 
-A price frame is much more effective in pollution abatement than
+A price frame is much more effective in pollution abatement than a CO2 auction. The price frame induces moral behavior, and participants may choose to forgo the potential profit from their emission reductions.
 
 ---
