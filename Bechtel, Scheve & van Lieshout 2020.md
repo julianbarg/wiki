@@ -3,6 +3,7 @@ bibliography: 'library.bib'
 display_metadata: false
 ---
 # @Bechtel2020
+
 *Back to [[Barg & Zbaracki]]*
 
 * Survey
