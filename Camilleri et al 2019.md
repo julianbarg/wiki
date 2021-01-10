@@ -4,6 +4,9 @@ display_metadata: false
 ---
 # @Camilleri2019
 
+* Business schools faculty
+* Survey/experiment with ~500/120 participants
+
 *Back to [[Barg & Zbaracki]]*
 
 ## One-sentence summary
