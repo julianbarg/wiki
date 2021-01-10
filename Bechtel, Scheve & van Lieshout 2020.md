@@ -5,7 +5,7 @@ display_metadata: false
 # @Bechtel2020
 
 * Survey
-* 10,075 respondents
+* 10,075 respondents in four countries
 
 ## One-sentence summary
 
