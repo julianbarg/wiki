@@ -21,4 +21,5 @@ display_metadata: false
 
 ### Recommended in _Research Highlights_
 * [[Aronczyk and Espinoza 2019]]--Sustainable communication: green PR and the export of corporate environmentalism, 1989–1997
-* [[Gupta and Mason 2016]]--
+* [[Gupta and Mason 2016]]--Disclosing or obscuring? The politics of transparency in global climate governance
+* [[Hermwille & Sanderink 2019]]--
