@@ -4,6 +4,8 @@ display_metadata: false
 ---
 # @Boudet2020
 
+*Back to [[Barg & Zbaracki]]*
+
 * [[fsQCA]]
 * 15 extreme weather events; 4,610 news articles, 164 interviews
 
