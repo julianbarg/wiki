@@ -5,6 +5,8 @@ display_metadata: false
 
 # @Dietz2018
 
+*Back to [[Barg & Zbaracki]]*
+
 * London School of Economics and Political Science
 * 138 companies in 7 high-emitting industries
 
