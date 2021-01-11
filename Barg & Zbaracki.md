@@ -23,5 +23,5 @@ display_metadata: false
 * [[Aronczyk & Espinoza 2019]]--Sustainable communication: green PR and the export of corporate environmentalism, 1989–1997
 * [[Gupta & Mason 2016]]--Disclosing or obscuring? The politics of transparency in global climate governance
 * [[Hermwille & Sanderink 2019]]--Make fossil fuels great again? The paris agreement, trump, and the us fossil fuel industry
-* [[King and van den Bergh 2017]]--Worktime Reduction as a Solution to Climate Change: Five Scenarios Compared for the UK
+* [[King & van den Bergh 2017]]--Worktime Reduction as a Solution to Climate Change: Five Scenarios Compared for the UK
 
