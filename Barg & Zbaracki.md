@@ -5,6 +5,9 @@ display_metadata: false
 
 ## Literature
 
+### Constructivism/Ecology
+* [[Latour 1998]]
+
 ### _Nature Climate Change_
 * [[Bechtel, Scheve & van Lieshout 2020]]--Constant carbon pricing increases support for climate action compared to ramping up costs over time
 * [[Boudet et al 2020]]--Event attribution and partisanship shape local discussion of climate change after extreme weather
