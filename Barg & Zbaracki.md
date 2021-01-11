@@ -28,4 +28,4 @@ display_metadata: false
 * [[Pailler 2018]]--Re-election incentives and deforestation cycles in the Brazilian Amazon
 * [[Wright & Nyberg 2017]]--An Inconvenient Truth: How Organizations Translate Climate Change into Business as Usual
 * [[Rekker, Humphrey & O'Brien 2019]]--Do Sustainability Rating Schemes Capture Climate Goals?
-* [[Shapiro & Walker 2018]]--
+* [[Shapiro & Walker 2018]]--Why Is Pollution from US Manufacturing Declining? The Roles of Environmental Regulation, Productivity, and Trade
