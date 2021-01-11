@@ -13,3 +13,5 @@ _Back to [[Barg & Zbaracki]]_
 ## One-sentence summary
 
 Climate action rating schemes do not capture the data one would need to assess progress toward a below-2-degrees climate change goal. The rating schemes scores on climate change are also inconsistent with each other.
+
+---
