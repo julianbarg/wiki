@@ -44,3 +44,5 @@ Use the language of sustainability/viabilidity to illustrate reliability/validit
 * [[Wright & Nyberg 2017]]--An Inconvenient Truth: How Organizations Translate Climate Change into Business as Usual
 * [[Rekker, Humphrey & O'Brien 2019]]--Do Sustainability Rating Schemes Capture Climate Goals?
 * [[Shapiro & Walker 2018]]--Why Is Pollution from US Manufacturing Declining? The Roles of Environmental Regulation, Productivity, and Trade
+
+---
