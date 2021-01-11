@@ -25,3 +25,4 @@ display_metadata: false
 * [[Hermwille & Sanderink 2019]]--Make fossil fuels great again? The paris agreement, trump, and the us fossil fuel industry
 * [[King & van den Bergh 2017]]--Worktime Reduction as a Solution to Climate Change: Five Scenarios Compared for the UK
 * [[Koontz & Thomas 2018]]--Use of science in collaborative environmental management: Evidence from local watershed partnerships in the Puget Sound
+* [[Pailler 2018]]--
