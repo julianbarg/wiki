@@ -3,6 +3,12 @@ bibliography: 'library.bib'
 display_metadata: false
 ---
 
+## Realibility/Validity
+
+|Author|Validity|Reliability|
+| --- | --- | --- |
+|@Latour1998| - | - |
+
 ## Literature
 
 ### Constructivism/Ecology
