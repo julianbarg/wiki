@@ -26,4 +26,4 @@ display_metadata: false
 * [[King & van den Bergh 2017]]--Worktime Reduction as a Solution to Climate Change: Five Scenarios Compared for the UK
 * [[Koontz & Thomas 2018]]--Use of science in collaborative environmental management: Evidence from local watershed partnerships in the Puget Sound
 * [[Pailler 2018]]--Re-election incentives and deforestation cycles in the Brazilian Amazon
-* [[Wright & Nyberg 2017]]--
+* [[Wright & Nyberg 2017]]--An Inconvenient Truth: How Organizations Translate Climate Change into Business as Usual
