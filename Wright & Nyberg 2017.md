@@ -13,3 +13,5 @@ _Back to [[Barg & Zbaracki]]_
 ## One-sentence summary
 
 Companies trying to tackle climate change in Australia start out with a vague notion and bold plans. Before long, it is translated into rhetorics only, without big changes to the business.
+
+---
