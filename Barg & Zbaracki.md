@@ -7,7 +7,7 @@ display_metadata: false
 
 ### Constructivism/Ecology
 * [[Latour 1998]]--To Modernise or Ecologise? That Is the Question. Will Political Ecology Pass away?
-* [[Netwon 2002]]
+* [[Netwon 2002]]--Creating the New Ecological Order? Elias and Actor-Network Theory
 
 ### _Nature Climate Change_
 * [[Bechtel, Scheve & van Lieshout 2020]]--Constant carbon pricing increases support for climate action compared to ramping up costs over time
