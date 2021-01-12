@@ -3,11 +3,11 @@ bibliography: 'library.bib'
 display_metadata: false
 ---
 
+[[_TOC_]]
+
+## Related pages
+
 * [[Barg & Zbaracki--elevator pitch]]
-
-## Sustainability/Viability
-
-Use the language of sustainability/viabilidity to illustrate reliability/validity to another audience. Operating a coal power plant may not be sustainable in the long term, but for now it is viable--there are coal power plants being operated right now. That is because the operators rely on reliable knowledge. Valid knowledge might tell us that it is a bad idea, but politics and the broader population would not disagree or stop the operation of those plants.
 
 ## Realibility/Validity
 
@@ -50,5 +50,9 @@ Use the language of sustainability/viabilidity to illustrate reliability/validit
 * [[Wright & Nyberg 2017]]--An Inconvenient Truth: How Organizations Translate Climate Change into Business as Usual
 * [[Rekker, Humphrey & O'Brien 2019]]--Do Sustainability Rating Schemes Capture Climate Goals?
 * [[Shapiro & Walker 2018]]--Why Is Pollution from US Manufacturing Declining? The Roles of Environmental Regulation, Productivity, and Trade
+
+## Sustainability/Viability
+
+Use the language of sustainability/viabilidity to illustrate reliability/validity to another audience. Operating a coal power plant may not be sustainable in the long term, but for now it is viable--there are coal power plants being operated right now. That is because the operators rely on reliable knowledge. Valid knowledge might tell us that it is a bad idea, but politics and the broader population would not disagree or stop the operation of those plants.
 
 ---
