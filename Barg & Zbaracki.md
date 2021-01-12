@@ -12,7 +12,7 @@ Use the language of sustainability/viabilidity to illustrate reliability/validit
 |Author|Validity|Reliability|
 | --- | --- | --- |
 |@Latour1998| - | - |
-|@| - | - |
+|@Netwon| - | Concerned with "networks that support or impede greening processes" (p. 525) |
 
 ## Literature
 
