@@ -14,6 +14,10 @@ Use the language of sustainability/viabilidity to illustrate reliability/validit
 |@Latour1998| - | - |
 |@Newton2002| - | Concerned with "networks that support or impede greening processes" (p. 525) |
 
+|   | Low validity | High validity
+|---|:---:|:---:|
+|High reliability|   |   |
+|Low reliability|   |   |
 ## Literature
 
 ### Constructivism/Ecology
