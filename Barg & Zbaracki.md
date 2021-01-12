@@ -10,7 +10,7 @@ Use the language of sustainability/viabilidity to illustrate reliability/validit
 ## Realibility/Validity
 
 |Author|Validity|Reliability|
-| --- | --- | --- |
+| --- |:---:|:---:|
 |@Latour1998| - | - |
 |@Newton2002| - | Concerned with "networks that support or impede greening processes" (p. 525) |
 
