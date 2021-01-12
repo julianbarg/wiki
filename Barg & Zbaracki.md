@@ -16,8 +16,8 @@ Use the language of sustainability/viabilidity to illustrate reliability/validit
 
 |   | Low validity | High validity
 |---|:---:|:---:|
-|High reliability|   |   |
-|Low reliability|   |   |
+|**High reliability**|   |   |
+|**Low reliability**|   |   |
 ## Literature
 
 ### Constructivism/Ecology
