@@ -17,4 +17,8 @@ This paper introduces the concepts of [[reliability & validity]] by applying the
 ## Extensions
 * [[Sustainability/validity|Barg & Zbaracki#sustainability-viability]]
 
+## Notes
+
+* "Nobody cares how bad you want to protect the environment"
+
 ---
