@@ -20,7 +20,8 @@ display_metadata: false
 |---|:---:|:---:|
 |**High reliability**|   |   |
 |**Low reliability**|   |   |
-## Literature
+
+## Literatures
 
 ### Constructivism/Ecology
 * [[Latour 1998]]--To Modernise or Ecologise? That Is the Question. Will Political Ecology Pass away?
