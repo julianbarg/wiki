@@ -14,7 +14,6 @@ display_metadata: false
 
 A PR agency creates its form of knowledge and its take on the issue is now at the core of modern corporate sustainability.
 
-
 ## Definitions
 
 ### [[Epistemic community]]
