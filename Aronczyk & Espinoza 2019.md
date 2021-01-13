@@ -18,7 +18,7 @@ A PR agency creates its form of knowledge and its take on the issue is now at th
 
 ### [[Epistemic community]]
 
-Self-structured groups sharing professional expertise, beliefs andcommon ojectives for influencing public policy [@Haas2016].
+Self-structured groups sharing professional expertise, beliefs and common ojectives for influencing public policy [@Haas2016].
 
 
 
