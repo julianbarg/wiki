@@ -24,6 +24,7 @@ display_metadata: false
 ## Literatures
 
 ### Constructivism/Ecology
+* [[Dawes 1980]]--Social Dilemmas
 * [[Purser, Park & Montuori 1995]]--
 * [[Latour 1998]]--To Modernise or Ecologise? That Is the Question. Will Political Ecology Pass away?
 * [[Netwon 2002]]--Creating the New Ecological Order? Elias and Actor-Network Theory
