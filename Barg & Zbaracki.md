@@ -24,7 +24,7 @@ display_metadata: false
 ## Literatures
 
 ### Constructivism/Ecology
-* [[Catton & Dunlap 1978]]--
+* [[Catton & Dunlap 1978]]--Environmental Sociology : A New Paradig
 * [[Catton & Dunlap 1980]]--Environmental Sociology : A New Paradig
 * [[Dawes 1980]]--Social Dilemmas
 * [[Purser, Park & Montuori 1995]]--
