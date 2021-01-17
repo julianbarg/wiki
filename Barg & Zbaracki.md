@@ -24,8 +24,8 @@ display_metadata: false
 ## Literatures
 
 ### Constructivism/Ecology
-* [[Catton and Dunlap 1978]]--
-* [[Catton and Dunlap 1980]]--Environmental Sociology : A New Paradig
+* [[Catton & Dunlap 1978]]--
+* [[Catton & Dunlap 1980]]--Environmental Sociology : A New Paradig
 * [[Dawes 1980]]--Social Dilemmas
 * [[Purser, Park & Montuori 1995]]--
 * [[Latour 1998]]--To Modernise or Ecologise? That Is the Question. Will Political Ecology Pass away?
