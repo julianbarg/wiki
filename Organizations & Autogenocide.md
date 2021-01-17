@@ -1,0 +1,1 @@
+Use the term autogenocide to provoke. Back up with consequences of environmental desctruction. Argue that only organizations offer the abstraction necessary for carrying out such task.
