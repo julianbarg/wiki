@@ -27,8 +27,8 @@ display_metadata: false
 * [[Catton & Dunlap 1978]]--Environmental Sociology: A New Paradig
 * [[Catton & Dunlap 1980]]--A New Ecological Paradigm for Post-Exuberant Sociology
 * [[Dawes 1980]]--Social Dilemmas
-* [[Shrivastavan 1994]]--
-* [[Purser, Park & Montuori 1995]]--
+* [[Shrivastavan 1994]]--CASTRATED Environment: GREENING Organizational Studies
+* [[Purser, Park & Montuori 1995]]--Limits to Anthropocentrism: Toward an Ecocentric Organization Paradigm?
 * [[Latour 1998]]--To Modernise or Ecologise? That Is the Question. Will Political Ecology Pass away?
 * [[Netwon 2002]]--Creating the New Ecological Order? Elias and Actor-Network Theory
 
