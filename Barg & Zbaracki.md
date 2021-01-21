@@ -23,7 +23,7 @@ display_metadata: false
 
 ## Literatures
 
-### Constructivism/Ecology
+### [[Constructivism & Ecology]]
 * [[Catton & Dunlap 1978]]--Environmental Sociology: A New Paradig
 * [[Catton & Dunlap 1980]]--A New Ecological Paradigm for Post-Exuberant Sociology
 * [[Dawes 1980]]--Social Dilemmas
