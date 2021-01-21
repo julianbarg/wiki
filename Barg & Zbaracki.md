@@ -31,6 +31,7 @@ display_metadata: false
 * [[Purser, Park & Montuori 1995]]--Limits to Anthropocentrism: Toward an Ecocentric Organization Paradigm?
 * [[Latour 1998]]--To Modernise or Ecologise? That Is the Question. Will Political Ecology Pass away?
 * [[Netwon 2002]]--Creating the New Ecological Order? Elias and Actor-Network Theory
+* [[Latour 2004]]--
 * [[Cockerill et al 2017]]
 
 ### _Nature Climate Change_
