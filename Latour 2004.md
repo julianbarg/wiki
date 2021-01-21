@@ -3,6 +3,8 @@ bibliography: 'library.bib'
 display_metadata: false
 ---
 
+# @Latour2004
+
 _Back to [[Barg & Zbaracki]]_
 
 * Somewhat of a follow-up to [[Latour 1998]]
