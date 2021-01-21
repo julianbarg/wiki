@@ -31,8 +31,8 @@ display_metadata: false
 * [[Purser, Park & Montuori 1995]]--Limits to Anthropocentrism: Toward an Ecocentric Organization Paradigm?
 * [[Latour 1998]]--To Modernise or Ecologise? That Is the Question. Will Political Ecology Pass away?
 * [[Netwon 2002]]--Creating the New Ecological Order? Elias and Actor-Network Theory
-* [[Latour 2004]]--
-* [[Cockerill et al 2017]]
+* [[Latour 2004]]--Why Has Critique Run out of Steam? From Matters of Fact to Matters of Concern.
+* [[Cockerill et al 2017]]--
 
 ### _Nature Climate Change_
 * [[Bechtel, Scheve & van Lieshout 2020]]--Constant carbon pricing increases support for climate action compared to ramping up costs over time
