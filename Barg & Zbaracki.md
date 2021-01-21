@@ -9,7 +9,7 @@ display_metadata: false
 
 * [[Barg & Zbaracki--elevator pitch]]
 
-## [[Realibility/Validity]]
+## [[Realibility & Validity]]
 
 |Author|Validity|Reliability|
 | --- |:---:|:---:|
