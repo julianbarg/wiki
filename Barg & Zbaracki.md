@@ -32,7 +32,7 @@ display_metadata: false
 * [[Latour 1998]]--To Modernise or Ecologise? That Is the Question. Will Political Ecology Pass away?
 * [[Netwon 2002]]--Creating the New Ecological Order? Elias and Actor-Network Theory
 * [[Latour 2004]]--Why Has Critique Run out of Steam? From Matters of Fact to Matters of Concern.
-* [[Cockerill et al 2017]]--
+* [[Cockerill et al 2017]]--Environmental Realism. Challenging Solutions
 
 ### _Nature Climate Change_
 * [[Bechtel, Scheve & van Lieshout 2020]]--Constant carbon pricing increases support for climate action compared to ramping up costs over time
