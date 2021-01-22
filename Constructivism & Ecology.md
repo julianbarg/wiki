@@ -11,4 +11,4 @@ This page provides a collection of literature that broadly falls within the fiel
 
 These authors have a background in environmental science and are about the research-practice gap. They see that sciene has very little bearing on the work routines of practitioners.
 
-* @Cockerill2017--[[(link)|Cockerill et al 2017]]
+* @Cockerill2017--[[Environmental Realism. Challenging Solutions|Cockerill et al 2017]]
