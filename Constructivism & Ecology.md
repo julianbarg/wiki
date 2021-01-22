@@ -13,5 +13,6 @@ These authors have a background in environmental science and are about the resea
 
 * @Cockerill2017--[[Environmental Realism. Challenging Solutions|Cockerill et al 2017]]
 * @Rochford1991--[[Coping with "Natural" Hazards as Stressors|Rochford & Blocker 1991]]
+* @Willott2004--[[Restoring nature, without mosquitoes?|Willott 2004]]
 
 ---
