@@ -7,6 +7,8 @@ display_metadata: false
 
 _Back to [[Barg & Zbaracki]]_
 
+* Temple University, political science
+
 ## One-sentence summary
 
 Voters blame politicians for the severity of extreme weather events. Those hit harder are more likely to vote against an incumbent mayor.
