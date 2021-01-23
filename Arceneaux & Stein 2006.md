@@ -5,8 +5,7 @@ display_metadata: false
 
 # @Arceneaux2006
 
-_Back to [[Barg & Zbaracki]]_
-_Back to [[Constructivism & Ecology]]_
+_Back to [[Barg & Zbaracki]], [[Constructivism & Ecology]]_
 
 * Temple University, political science
 
