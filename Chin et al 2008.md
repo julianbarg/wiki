@@ -11,6 +11,6 @@ _Back to [[Barg & Zbaracki]], [[Constructivism & Ecology]]_
 
 ## One-sentence summary
 
-Wood in rivers is good for the local ecosystem, but the local populace will believe that the environment needs improvement. This article is one of the first of a dicourse in environmental science on the importance of stakeholders and public policy. The authors emphasize in particular that clearing rivers from wood over a prolonged period of time leads to a public perception that natural rivers do not have wood in them.
+Wood in rivers is good for the local ecosystem, but the local populace will believe that the environment needs improvement. This article is one of the first of a dicourse in environmental science on the importance of stakeholders and public policy. The authors emphasize in particular that clearing rivers from wood over a prolonged period of time leads to a public perception that natural rivers do not have wood in them. There are differences between countries in these effects--in Germany, Sweden, and Oregon (USA) they are somewhat inverted.
 
 ---
