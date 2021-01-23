@@ -7,6 +7,8 @@ display_metadata: false
 
 _Back to [[Barg & Zbaracki]]_
 
+_Back to [[Constructivism & Ecology]]_
+
 * Biology, Duke University
 * 37,000 river restauration projects ([[https://web.archive.org/web/20090422152409/http://www.restoringrivers.org/newsite/nbii.html]])
 * 317 interviews
