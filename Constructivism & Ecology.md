@@ -4,6 +4,7 @@ display_metadata: false
 ---
 
 _Back to [[Barg & Zbaracki]]_
+_Back to [[Constructivism & Ecology]]_
 
 This page provides a collection of literature that broadly falls within the fields of constructivism and sustainability.
 
