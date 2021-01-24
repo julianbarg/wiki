@@ -3,8 +3,7 @@ bibliography: 'library.bib'
 display_metadata: false
 ---
 
-_Back to [[Barg & Zbaracki]]_
-_Back to [[Constructivism & Ecology]]_
+_Back to [[Barg & Zbaracki]], [[Constructivism & Ecology]]_
 
 This page provides a collection of literature that broadly falls within the fields of constructivism and sustainability.
 
@@ -26,7 +25,9 @@ These authors have a background in environmental science and are about the resea
 * @Wachinger2013--[[The Risk Perception Paradox-Implications for Governance and Communication of Natural Hazards|Wachinger et al 2013]]
 * @Willott2004--[[Restoring nature, without mosquitoes?|Willott 2004]]
 
-## Sociology stream
+## Sociology stream ([[Environmental Sociology]])
+
+This stream develops the ideas that are later picked up by the organizational theory stream. Latour goes off on what is somewhat of a tangent. An important first question in [[Environmental Sociology]] was whether it is at all "allowed" for sociologists to talk about the environment, because it was thought at first as not falling into the realm of society.
 
 * @Catton1978--[[Environmental Sociology: A New Paradig|Catton & Dunlap 1978]]
 * @Dawes1980--[[Social Dilemmas|Dawes 1980]]
@@ -34,8 +35,10 @@ These authors have a background in environmental science and are about the resea
 * @Finger1994--[[From Knowledge to Action? Exploring the Relationships Between Environmental Experiences, Learning, and Behavior|Finger 1994]]
 * @Latour1998--[[To Modernise or Ecologise? That Is the Question. Will Political Ecology Pass away?|Latour 1998]]
 * @Latour2004--[[Why Has Critique Run out of Steam? From Matters of Fact to Matters of Concern|Latour 2004]]
-
+ 
 ## Organizational theory stream
+
+Picking up the debate where [[Environmental Sociology]] left off. [[Banerjee 2003]] arguably adds something to the debate when he explains that other authors get it the wrong way around when they argue that stewardship of the environment should depend on whether the needs of society are met. Still, it is essentially a debate about what our priorities should be. The most substantial bit is the relational approach that pops up again and again [e.g., @]
 
 * @Shrivastava1994--[[CASTRATED Environment: GREENING Organizational Studies|Shrivastava 1994]]
 * @Gladwin1995--[[Shifting Paradigms for Sustainable Development: Implications for Management Theory and Research|Gladwin, Kennelly & Krause 1995]]
