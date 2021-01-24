@@ -11,15 +11,15 @@ display_metadata: false
 
 ## [[Realibility & Validity]]
 
-|Author|Validity|Reliability|
-| --- |:---:|:---:|
-|@Latour1998| - | - |
-|@Newton2002| - | Concerned with "networks that support or impede greening processes" (p. 525) |
+<!--|Author|Validity|Reliability|-->
+<!--| --- |:---:|:---:|-->
+<!--|@Latour1998| - | - |-->
+<!--|@Newton2002| - | Concerned with "networks that support or impede greening processes" (p. 525) |-->
 
-|   | Low validity | High validity
-|---|:---:|:---:|
-|**High reliability**|   |   |
-|**Low reliability**|   |   |
+<!--|   | Low validity | High validity-->
+<!--|---|:---:|:---:|-->
+<!--|**High reliability**|   |   |-->
+<!--|**Low reliability**|   |   |-->
 
 ## Literatures
 
