@@ -26,4 +26,13 @@ These authors have a background in environmental science and are about the resea
 * @Wachinger2013--[[The Risk Perception Paradox-Implications for Governance and Communication of Natural Hazards|Wachinger et al 2013]]
 * @Willott2004--[[Restoring nature, without mosquitoes?|Willott 2004]]
 
+## Sociology stream
+
+* @Catton1978--[[Environmental Sociology: A New Paradig|Catton & Dunlap 1978]]
+* @Dawes1980--[[Social Dilemmas|Dawes 1980]]
+* @Catton1980--[[A New Ecological Paradigm for Post-Exuberant Sociology|Catton & Dunlap 1980]]
+* @Finger1994--[[From Knowledge to Action? Exploring the Relationships Between Environmental Experiences, Learning, and Behavior|Finger 1994]]
+* @Latour1998--[[To Modernise or Ecologise? That Is the Question. Will Political Ecology Pass away?|Latour 1998]]
+* @Latour2004--[[Why Has Critique Run out of Steam? From Matters of Fact to Matters of Concern|Latour 2004]]
+
 ---
