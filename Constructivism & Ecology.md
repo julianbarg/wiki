@@ -30,7 +30,7 @@ These authors have a background in environmental science and are about the resea
 
 * @Catton1978--[[Environmental Sociology: A New Paradig|Catton & Dunlap 1978]]
 * @Dawes1980--[[Social Dilemmas|Dawes 1980]]
-* @Catton1980--[[A New Ecological Paradigm for Post-Exuberant Sociology|Catton & Dunlap 1980]]
+* **->** @Catton1980--[[A New Ecological Paradigm for Post-Exuberant Sociology|Catton & Dunlap 1980]]
 * @Finger1994--[[From Knowledge to Action? Exploring the Relationships Between Environmental Experiences, Learning, and Behavior|Finger 1994]]
 * @Latour1998--[[To Modernise or Ecologise? That Is the Question. Will Political Ecology Pass away?|Latour 1998]]
 * @Latour2004--[[Why Has Critique Run out of Steam? From Matters of Fact to Matters of Concern|Latour 2004]]
@@ -39,13 +39,13 @@ These authors have a background in environmental science and are about the resea
 
 * @Shrivastava1994--[[CASTRATED Environment: GREENING Organizational Studies|Shrivastava 1994]]
 * @Gladwin1995--[[Shifting Paradigms for Sustainable Development: Implications for Management Theory and Research|Gladwin, Kennelly & Krause 1995]]
-* @Purser1995--[[Limits to Anthropocentrism: Toward an Ecocentric Organization Paradigm?|Purser, Park & Montuori 1995]]
+* **->** @Purser1995--[[Limits to Anthropocentrism: Toward an Ecocentric Organization Paradigm?|Purser, Park & Montuori 1995]]
 * @Levy1997--[[Environmental Management as Political Sustainability|Levy 1997]]
 * @Srikantia1997--[[Isomorphism in Organization and Management Theory|Srikantia & Bilimoria 1997]]
-* @Newton2002--[[Creating the New Ecological Order? Elias and Actor-Network Theory|Newton 2002]]
+* **->** @Newton2002--[[Creating the New Ecological Order? Elias and Actor-Network Theory|Newton 2002]]
 * @Springett2003--[[Business conceptions of sustainable development: a perspective from critical theory|Springett2003]]
 * @Banerjee2003--[[Who Sustains Whose Development? Sustainable Development and the Reinvention of Nature|Banerjee 2003]]
-* @Hoffman2015--[[Institutional Theory and the Natural Environment: Research in (and on) the Anthropocene|Hoffman & Jennings 2015]]
+* **->** @Hoffman2015--[[Institutional Theory and the Natural Environment: Research in (and on) the Anthropocene|Hoffman & Jennings 2015]]
 * @Heikkurinen2019--[[Managing the Anthropocene: Relational Agency and Power to Respect Planetary Boundaries|Heikkurinen et al 2019]]
 * @Ergene2020--[[(Un)Sustainability and Organization Studies: Towards a Radical Engagement|Ergene, Banerjee & Hoffman 2020]]
 
