@@ -35,4 +35,8 @@ These authors have a background in environmental science and are about the resea
 * @Latour1998--[[To Modernise or Ecologise? That Is the Question. Will Political Ecology Pass away?|Latour 1998]]
 * @Latour2004--[[Why Has Critique Run out of Steam? From Matters of Fact to Matters of Concern|Latour 2004]]
 
+## Organizational theory stream
+
+* @Shrivastava1995--[[CASTRATED Environment: GREENING Organizational Studies|Shrivastava 1994]]
+
 ---
