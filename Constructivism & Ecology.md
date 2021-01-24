@@ -46,6 +46,7 @@ Picking up the debate where [[Environmental Sociology]] left off. [[Banerjee 200
 * @Gladwin1995--[[Shifting Paradigms for Sustainable Development: Implications for Management Theory and Research|Gladwin, Kennelly & Krause 1995]]
 * :arrow_right: @Purser1995--[[Limits to Anthropocentrism: Toward an Ecocentric Organization Paradigm?|Purser, Park & Montuori 1995]]
 * @Levy1997--[[Environmental Management as Political Sustainability|Levy 1997]]
+* @Newton1997--[[Green Business: Technicist Kitsch?|Newton 1997]]
 * @Srikantia1997--[[Isomorphism in Organization and Management Theory|Srikantia & Bilimoria 1997]]
 * :arrow_right: @Newton2002--[[Creating the New Ecological Order? Elias and Actor-Network Theory|Newton 2002]]
 * @Springett2003--[[Business conceptions of sustainable development: a perspective from critical theory|Springett2003]]
