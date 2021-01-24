@@ -5,6 +5,8 @@ display_metadata: false
 
 _Back to [[Barg & Zbaracki]], [[Constructivism & Ecology]]_
 
+[[_TOC_]]
+
 This page provides a collection of literature that broadly falls within the fields of constructivism and sustainability.
 
 ## Environmental science stream
@@ -53,3 +55,5 @@ Picking up the debate where [[Environmental Sociology]] left off. [[Banerjee 200
 * @Ergene2020--[[(Un)Sustainability and Organization Studies: Towards a Radical Engagement|Ergene, Banerjee & Hoffman 2020]]
 
 ---
+
+## References
