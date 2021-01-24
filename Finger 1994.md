@@ -13,4 +13,6 @@ _Back to [[Barg & Zbaracki]]_
 
 ## One-sentence summary
 
-The survey reveals that _life-experience_ rather than concrete knowledge predicts pro-environmental behavior. Fear leads to individuals wanting to obtain more knowledge. "There  is  indeed  little  causal  relationship between  environmental  value  orientations,  awareness,  concern,  information  and knowledge  acquisition  on  the  one  hand,  and  behavior  on  the  other" [Finger1994].
+The survey reveals that _life-experience_ rather than concrete knowledge predicts pro-environmental behavior. Fear leads to individuals wanting to obtain more knowledge. "There  is  indeed  little  causal  relationship between  environmental  value  orientations,  awareness,  concern,  information  and knowledge  acquisition  on  the  one  hand,  and  behavior  on  the  other" [@Finger1994].
+
+---
