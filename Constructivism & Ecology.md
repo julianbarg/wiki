@@ -37,6 +37,6 @@ These authors have a background in environmental science and are about the resea
 
 ## Organizational theory stream
 
-* @Shrivastava1995--[[CASTRATED Environment: GREENING Organizational Studies|Shrivastava 1994]]
+* @Shrivastava1994--[[CASTRATED Environment: GREENING Organizational Studies|Shrivastava 1994]]
 
 ---
