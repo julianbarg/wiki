@@ -54,6 +54,10 @@ Picking up the debate where [[Environmental Sociology]] left off. [[Banerjee 200
 * @Heikkurinen2019--[[Managing the Anthropocene: Relational Agency and Power to Respect Planetary Boundaries|Heikkurinen et al 2019]]
 * @Ergene2020--[[(Un)Sustainability and Organization Studies: Towards a Radical Engagement|Ergene, Banerjee & Hoffman 2020]]
 
+## Other
+
+* @Uzzell2000--[[The Psycho-Spatial Dimensino of Global Environmental Problems|Uzzell 2000]]
+
 ---
 
 ## References
