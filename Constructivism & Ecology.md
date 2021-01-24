@@ -40,5 +40,7 @@ These authors have a background in environmental science and are about the resea
 * @Shrivastava1994--[[CASTRATED Environment: GREENING Organizational Studies|Shrivastava 1994]]
 * @Gladwin1995--[[Shifting Paradigms for Sustainable Development: Implications for Management Theory and Research|Gladwin, Kennelly & Krause 1995]]
 * @Purser1995--[[Limits to Anthropocentrism: Toward an Ecocentric Organization Paradigm?|Purser, Park & Montuori 1995]]
+* @Levy1997--[[Environmental Management as Political Sustainability|Levy 1997]]
+* @Srikantia1997--[[Isomorphism in Organization and Management Theory|Srikantia & Bilimoria 1997]]
 
 ---
