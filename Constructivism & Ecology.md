@@ -42,5 +42,11 @@ These authors have a background in environmental science and are about the resea
 * @Purser1995--[[Limits to Anthropocentrism: Toward an Ecocentric Organization Paradigm?|Purser, Park & Montuori 1995]]
 * @Levy1997--[[Environmental Management as Political Sustainability|Levy 1997]]
 * @Srikantia1997--[[Isomorphism in Organization and Management Theory|Srikantia & Bilimoria 1997]]
+* @Newton2002--[[Creating the New Ecological Order? Elias and Actor-Network Theory|Newton 2002]]
+* @Springett2003--[[Business conceptions of sustainable development: a perspective from critical theory|Springett2003]]
+* @Banerjee2003--[[Who Sustains Whose Development? Sustainable Development and the Reinvention of Nature|Banerjee 2003]]
+* @Hoffman2015--[[Institutional Theory and the Natural Environment: Research in (and on) the Anthropocene|Hoffman & Jennings 2015]]
+* @Heikkurinen2019--[[Managing the Anthropocene: Relational Agency and Power to Respect Planetary Boundaries|Heikkurinen et al 2019]]
+* @Ergene2020--[[(Un)Sustainability and Organization Studies: Towards a Radical Engagement|Ergene, Banerjee & Hoffman 2020]]
 
 ---
