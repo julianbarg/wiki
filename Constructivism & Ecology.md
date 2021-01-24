@@ -21,7 +21,7 @@ These authors have a background in environmental science and are about the resea
 * @Junker2008--[[Aesthetic preferences versus ecological objectives in river restorations|Junker & Buchecker 2008]]
 * @Kellens2013--[[Perception and Communication of Flood Risks: A Systematic Review of Empirical Research|Kellens, Terpstra & De Maeyer 2013]]
 * @ODonnell2008--[[Evaluating Success Criteria and Project Monitoring in River Enhancement Within an Adaptive Management Framework|O'Donnell & Galat 2008]]
-* **->** @Pinter2005--[[ENVIRONMENT: One Step Forward, Two Steps Back on U.S. Floodplains|Pinter 2005]]
+* :heart: @Pinter2005--[[ENVIRONMENT: One Step Forward, Two Steps Back on U.S. Floodplains|Pinter 2005]]
 * @Rochford1991--[[Coping with "Natural" Hazards as Stressors. The Predictors of Activism in a Flood Disaster|Rochford & Blocker 1991]]
 * @Wachinger2013--[[The Risk Perception Paradox-Implications for Governance and Communication of Natural Hazards|Wachinger et al 2013]]
 * @Willott2004--[[Restoring nature, without mosquitoes?|Willott 2004]]
