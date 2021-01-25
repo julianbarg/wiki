@@ -3,7 +3,7 @@ bibliography: 'library.bib'
 display_metadata: false
 ---
 
-# @Newton 2002
+# @Newton2002
 
 _Back to [[Barg & Zbaracki]], [[Constructivism & Ecology]]_
 
