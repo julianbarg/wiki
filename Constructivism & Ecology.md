@@ -40,7 +40,7 @@ This stream develops the ideas that are later picked up by the organizational th
  
 ## Organizational theory stream
 
-Picking up the debate where [[Environmental Sociology]] left off. [[Banerjee 2003]] arguably adds something to the debate when he explains that other authors get it the wrong way around when they argue that stewardship of the environment should depend on whether the needs of society are met. Still, it is essentially a debate about what our priorities should be. The most substantial bit is the relational approach that pops up again and again [e.g., @Newton2002; @Heikkurinen2019; @Ergene2020].
+Picking up the debate where [[Environmental Sociology]] left off. [[Banerjee 2003]] arguably adds something to the debate when he explains that other authors get it the wrong way around when they argue that stewardship of the environment should depend on whether the needs of society are met. Still, it is essentially a debate about what our priorities should be. The most substantial bit is the relational approach that pops up again and again [e.g., @Newton2002; @Heikkurinen2019; @Ergene2020]. The literature also has a decidedly critical substream, represented e.g., by @Newton2002 or @Milne2006.
 
 * @Shrivastava1994--[[CASTRATED Environment: GREENING Organizational Studies|Shrivastava 1994]]
 * @Gladwin1995--[[Shifting Paradigms for Sustainable Development: Implications for Management Theory and Research|Gladwin, Kennelly & Krause 1995]]
@@ -51,6 +51,7 @@ Picking up the debate where [[Environmental Sociology]] left off. [[Banerjee 200
 * :arrow_right: @Newton2002--[[Creating the New Ecological Order? Elias and Actor-Network Theory|Newton 2002]]
 * @Springett2003--[[Business conceptions of sustainable development: a perspective from critical theory|Springett2003]]
 * @Banerjee2003--[[Who Sustains Whose Development? Sustainable Development and the Reinvention of Nature|Banerjee 2003]]
+* @Milne2006--[[Creating Adventures in Wonderland: The Journey Metaphor and Environmental Sustainability|Milne 2006]]
 * :arrow_right: @Hoffman2015--[[Institutional Theory and the Natural Environment: Research in (and on) the Anthropocene|Hoffman & Jennings 2015]]
 * @Heikkurinen2019--[[Managing the Anthropocene: Relational Agency and Power to Respect Planetary Boundaries|Heikkurinen et al 2019]]
 * @Ergene2020--[[(Un)Sustainability and Organization Studies: Towards a Radical Engagement|Ergene, Banerjee & Hoffman 2020]]
