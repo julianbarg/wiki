@@ -61,6 +61,6 @@ display_metadata: false
 
 ## Sustainability/Viability
 
-Use the language of sustainability/viabilidity to illustrate reliability/validity to another audience. Operating a coal power plant may not be sustainable in the long term, but for now it is viable--there are coal power plants being operated right now. That is because the operators rely on reliable knowledge. Valid knowledge might tell us that it is a bad idea, but politics and the broader population would not disagree or stop the operation of those plants.
+Use the language of sustainability/viabilidity [@Springett2003] to illustrate reliability/validity to another audience. Operating a coal power plant may not be sustainable in the long term, but for now it is viable--there are coal power plants being operated right now. That is because the operators rely on reliable knowledge. Valid knowledge might tell us that it is a bad idea, but politics and the broader population would not disagree or stop the operation of those plants.
 
 ---
