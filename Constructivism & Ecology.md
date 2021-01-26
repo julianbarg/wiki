@@ -58,6 +58,7 @@ Picking up the debate where [[Environmental Sociology]] left off. [[Banerjee 200
 
 ## Other
 
+* @Boisot2010--[[Integrating Modernist and Postmodernist Perspectives on Organizations: A Complexity Science Bridge|Boisot 2010]]
 * @Uzzell2000--[[The Psycho-Spatial Dimensino of Global Environmental Problems|Uzzell 2000]]
 
 ---
