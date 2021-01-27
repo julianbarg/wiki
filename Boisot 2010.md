@@ -5,7 +5,7 @@ display_metadata: false
 
 # @Boisot2010
 
-_Back to [[Barg & Zbaracki]]_
+_Back to [[Barg & Zbaracki]], [[Constructivism & Ecology]]_
 
 ## One-paragraph summary
 
