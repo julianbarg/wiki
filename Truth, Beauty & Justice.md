@@ -11,4 +11,12 @@ display_metadata: false
 * @Schabram2017--[[Negotiating the Challenges of a Calling: Emotion and Enacted Sensemaking in Animal Shelter Work|Schabram & Maitlis 2017]]
     * Figure 3.
 
+## Justice--Sociology
+
+* @Sandel2009
+* @Fraser1988
+* @Lyotard1984
+* @Seidman2017x
+* @Sovacool2016
+
 ---
