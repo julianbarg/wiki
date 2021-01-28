@@ -11,6 +11,7 @@ display_metadata: false
 * @Smith2019--[[Bowing before Dual Gods: How Structured Flexibility Sustains Organizational Hybridity|Smith & Besharov 2019]]
 * @Greve2010--[[Organizations Gone Wild: The Causes, Processes, and Consequences of Organizational Misconduct|Greve, Palmer & Pozner 2010]]
 * @Berrone2016--[[Understanding Community Dynamics in the Study of Grand Challenges: How Nonprofits, Institutional Actors, and the Community Fabric Interact to Influence Income Inequality|Berrone et al 2016]]
+* @Cobb2017--[[These Unequal States: Corporate Organization and Income Inequality in the United States|Cobb & Stevens 2017]]
 * @Martin2016--[[Echoes of Our Upbringing: How Growing Up Wealthy or Poor Relates to Narcissism, Leader Behavior, and Leader Effectiveness|Martin, Cote & Woodruff 2016]]
 
 ## Beauty
