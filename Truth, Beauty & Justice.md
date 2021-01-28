@@ -20,3 +20,5 @@ display_metadata: false
 * @Sovacool2016--[[Energy decisions reframed as justice and ethical concerns|Sovacool 2016]]
 
 ---
+
+## References
