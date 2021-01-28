@@ -10,6 +10,7 @@ display_metadata: false
 * @Ashforth2014--[[Functions of Dysfunction: Managing the Dynamics of an Organizational Duality in a Natural Food Cooperative|Ashforth & Reingen 2014]]
 * @Smith2019--[[Bowing before Dual Gods: How Structured Flexibility Sustains Organizational Hybridity|Smith & Besharov 2019]]
 * @Greve2010--[[Organizations Gone Wild: The Causes, Processes, and Consequences of Organizational Misconduct|Greve, Palmer & Pozner 2010]]
+* @Plowman2007--[[Radical Change Accidentally: The Emergence and Amplification of Small Change|Plowman et al 2007]]
 * @Berrone2016--[[Understanding Community Dynamics in the Study of Grand Challenges: How Nonprofits, Institutional Actors, and the Community Fabric Interact to Influence Income Inequality|Berrone et al 2016]]
 * @Cobb2017--[[These Unequal States: Corporate Organization and Income Inequality in the United States|Cobb & Stevens 2017]]
 * @Martin2016--[[Echoes of Our Upbringing: How Growing Up Wealthy or Poor Relates to Narcissism, Leader Behavior, and Leader Effectiveness|Martin, Cote & Woodruff 2016]]
