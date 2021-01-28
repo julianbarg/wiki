@@ -10,7 +10,7 @@ display_metadata: false
     * Figure 2.
 * @Schabram2017--[[Negotiating the Challenges of a Calling: Emotion and Enacted Sensemaking in Animal Shelter Work|Schabram & Maitlis 2017]]
     * Figure 3.
-* @Camillieri2019--[[Consumers underestimate the emissions associated with food but are aided by labels|Camillieri et al 2019]]
+* @Camilleri2019--[[Consumers underestimate the emissions associated with food but are aided by labels|Camillieri et al 2019]]
     * Fig 1. & Fig 2.
 
 ## Justice--Sociology
