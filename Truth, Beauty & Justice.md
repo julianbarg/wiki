@@ -9,6 +9,8 @@ display_metadata: false
 * @Banerjee2008--[[Necrocapitalism|Banerjee 2008]]
 * @Ashforth2014--[[Functions of Dysfunction: Managing the Dynamics of an Organizational Duality in a Natural Food Cooperative|Ashforth & Reingen 2014]]
 * @Smith2019--[[Bowing before Dual Gods: How Structured Flexibility Sustains Organizational Hybridity|Smith & Besharov 2019]]
+* @Greve2010--[[Organizations Gone Wild: The Causes, Processes, and Consequences of Organizational Misconduct|Greve, Palmer & Pozner 2010]]
+* @Berrone2016--[[Understanding Community Dynamics in the Study of Grand Challenges: How Nonprofits, Institutional Actors, and the Community Fabric Interact to Influence Income Inequality|Berrone et al 2016]]
 
 ## Beauty
 
