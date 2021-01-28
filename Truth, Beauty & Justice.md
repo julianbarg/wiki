@@ -13,13 +13,21 @@ display_metadata: false
 * @Camilleri2019--[[Consumers underestimate the emissions associated with food but are aided by labels|Camillieri et al 2019]]
     * Fig 1. & Fig 2.
 
-## Justice--Sociology
+## Justice--applied
+
+* @Sovacool2016--[[Energy decisions reframed as justice and ethical concerns|Sovacool 2016]]
+* 
+
+## Justice--conceptual
 
 * @Sandel2009--[[Justice: What's the right thing to do?|Sandel 2009]]
 * @Fraser1988--[[Social Criticism without Philosophy: An Encounter between Feminism and Postmodernism|Fraser & Nicholson 1988]]
 * @Lyotard1984--[[The Postmodern Condition: A Report on Knowledge|Lyotard1984]]
 * @Seidman2017x--[[Nancy Fraser. The Case for Radical Democracy|Seidman 2017]]
-* @Sovacool2016--[[Energy decisions reframed as justice and ethical concerns|Sovacool 2016]]
+
+## Other
+
+* @Whiteman2016--[[Decoupling Rape|Whiteman & Cooper 2016]]
 
 ---
 
