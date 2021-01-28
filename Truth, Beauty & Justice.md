@@ -13,10 +13,10 @@ display_metadata: false
 
 ## Justice--Sociology
 
-* @Sandel2009
-* @Fraser1988
-* @Lyotard1984
-* @Seidman2017x
-* @Sovacool2016
+* @Sandel2009--[[Justice: What's the right thing to do?|Sandel 2009]]
+* @Fraser1988--[[Social Criticism without Philosophy: An Encounter between Feminism and Postmodernism|Fraser & Nicholson 1988]]
+* @Lyotard1984--[[The Postmodern Condition: A Report on Knowledge|Lyotard1984]]
+* @Seidman2017x--[[Nancy Fraser. The Case for Radical Democracy|Seidman 2017]]
+* @Sovacool2016--[[Energy decisions reframed as justice and ethical concerns|Sovacool 2016]]
 
 ---
