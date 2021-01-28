@@ -3,6 +3,13 @@ bibliography: 'library.bib'
 display_metadata: false
 ---
 
+## Justice--applied
+
+* @Sovacool2016--[[Energy decisions reframed as justice and ethical concerns|Sovacool 2016]]
+* @Banerjee2008--[[Necrocapitalism|Banerjee 2008]]
+* @Ashforth2014--[[Functions of Dysfunction: Managing the Dynamics of an Organizational Duality in a Natural Food Cooperative|Ashforth & Reingen 2014]]
+* @Smith2019--[[Bowing before Dual Gods: How Structured Flexibility Sustains Organizational Hybridity|Smith & Besharov 2019]]
+
 ## Beauty
 
 * @Purg2017--[[Why Art in Management Education? Questioning Meaning|Purg 2017]]
@@ -12,11 +19,6 @@ display_metadata: false
     * Figure 2.
 * @Camilleri2019--[[Consumers underestimate the emissions associated with food but are aided by labels|Camillieri et al 2019]]
     * Fig 1. & Fig 2.
-
-## Justice--applied
-
-* @Sovacool2016--[[Energy decisions reframed as justice and ethical concerns|Sovacool 2016]]
-* 
 
 ## Justice--conceptual
 
