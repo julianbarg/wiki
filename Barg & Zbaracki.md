@@ -63,4 +63,8 @@ display_metadata: false
 
 Use the language of sustainability/viabilidity [@Springett2003] to illustrate reliability/validity to another audience. Operating a coal power plant may not be sustainable in the long term, but for now it is viable--there are coal power plants being operated right now. That is because the operators rely on reliable knowledge. Valid knowledge might tell us that it is a bad idea, but politics and the broader population would not disagree or stop the operation of those plants.
 
+* Link to: @Levy1997
+* Suggested title: "Nobody cares what's sustainable: a science and technology study (SDS) on thirty years of sustainability research"
+* Compare worsening environmental conditions with stagnant discourse
+
 ---
