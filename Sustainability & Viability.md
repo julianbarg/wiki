@@ -13,5 +13,6 @@ Use the language of sustainability/viabilidity [@Springett2003] to illustrate re
     * "You're right that's not sustainable... nobody cares! Reliable and valid knowledge"
 * Compare worsening environmental conditions with stagnant discourse
 * Make link to Luhman or Habermas on viability--if it exists then it must be viable. An autopoietic system. 
+* Contrast boardroom--reliable and often self-fulfilling--with research--valid and little impact.
 
 ---
