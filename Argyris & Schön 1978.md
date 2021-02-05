@@ -1,3 +1,8 @@
+---
+bibliography: 'library.bib'
+display_metadata: false
+---
+
 **Organizational Learning: A Theory of Action Perspective**
 
 [[_TOC_]]
