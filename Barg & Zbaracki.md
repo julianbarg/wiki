@@ -61,5 +61,6 @@ display_metadata: false
 
 ## [[Sustainability & Viability]]
 
+## [[WCED]]
 
 ---
