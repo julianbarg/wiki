@@ -3,7 +3,7 @@ bibliography: 'library.bib'
 display_metadata: false
 ---
 
-# Springett2003
+# @Springett2003
 
 _Back to [[Barg & Zbaracki]]_
 
