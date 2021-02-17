@@ -16,5 +16,5 @@ display_metadata: false
 
 ## Other
 
-* [[Bansal 2010]]
+* [[Bansal 2019]]
 * [[DesJardins 2016]]
