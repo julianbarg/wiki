@@ -6,6 +6,7 @@ display_metadata: false
 ## Orthodox side
 
 * [[Bansal 2005]]
+* [[Bansal & DesJardine 2014]]
 
 ## Critical side
 
