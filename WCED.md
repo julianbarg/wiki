@@ -7,6 +7,7 @@ display_metadata: false
 
 * [[Bansal 2005]]
 * [[Bansal & DesJardine 2014]]
+* [[Slawinski and Bansal 2015]]
 
 ## Critical side
 
