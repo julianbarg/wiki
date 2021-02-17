@@ -9,4 +9,6 @@ display_metadata: false
 
 ## One-paragraph summary
 
+Sustainable development has accomplished the *development* part of the equation--the focus on equity has allowed millions of people in India and China to leave poverty. But the *sustainable* part has not been realized--"[w]e have reached David Suzuki's metaphorical 59th minute" [@Suzuki2010 via @Bansal2019].
+
 ---
