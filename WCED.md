@@ -12,7 +12,7 @@ display_metadata: false
 * [[Banerjee 2003]]
 * [[Constanza et al. 2014]]
 * [[Milne, Kearins & Walton 2006]]
-* [[Ergene]]
+* [[Ergene, Banerjee & Hoffman 2020]]
 
 ## Other
 
