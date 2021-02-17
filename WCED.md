@@ -12,7 +12,9 @@ display_metadata: false
 * [[Banerjee 2003]]
 * [[Constanza et al. 2014]]
 * [[Milne, Kearins & Walton 2006]]
+* [[Ergene]]
 
 ## Other
 
+* [[Bansal 2010]]
 * [[DesJardins 2016]]
