@@ -8,3 +8,5 @@ display_metadata: false
 * Back to [[WCED]]
 
 ## One-paragraph summary
+
+---
