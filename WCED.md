@@ -9,9 +9,11 @@ display_metadata: false
 
 ## Critical side
 
+* [[Purser, Park & Montuori 1995]]
+* [[Newton 2002]]
 * [[Banerjee 2003]]
-* [[Constanza et al. 2014]]
 * [[Milne, Kearins & Walton 2006]]
+* [[Constanza et al. 2014]]
 * [[Ergene, Banerjee & Hoffman 2020]]
 
 ## Other
