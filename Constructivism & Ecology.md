@@ -49,7 +49,7 @@ Picking up the debate where [[Environmental Sociology]] left off. [[Banerjee 200
 * @Newton1997--[[Green Business: Technicist Kitsch?|Newton 1997]]
 * @Srikantia1997--[[Isomorphism in Organization and Management Theory|Srikantia & Bilimoria 1997]]
 * :arrow_right: @Newton2002--[[Creating the New Ecological Order? Elias and Actor-Network Theory|Newton 2002]]
-* @Springett2003--[[Business conceptions of sustainable development: a perspective from critical theory|Springett2003]]
+* @Springett2003--[[Business conceptions of sustainable development: a perspective from critical theory|Springett 2003]]
 * @Banerjee2003--[[Who Sustains Whose Development? Sustainable Development and the Reinvention of Nature|Banerjee 2003]]
 * @Milne2006--[[Creating Adventures in Wonderland: The Journey Metaphor and Environmental Sustainability|Milne, Kearins & Walton 2006]]
 * :arrow_right: @Boiral2007--[[Corporate Greening Through ISO 14001: A Rational Myth?|Boiral 2007]]
