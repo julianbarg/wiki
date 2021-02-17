@@ -10,8 +10,8 @@ display_metadata: false
 ## Critical side
 
 * [[Purser, Park & Montuori 1995]]
-* [[Newton 2002]]
 * [[Banerjee 2003]]
+* [[Springett 2003]]
 * [[Milne, Kearins & Walton 2006]]
 * [[Constanza et al. 2014]]
 * [[Ergene, Banerjee & Hoffman 2020]]
@@ -20,3 +20,4 @@ display_metadata: false
 
 * [[Bansal 2019]]
 * [[DesJardins 2016]]
+* [[Newton 2002]]
