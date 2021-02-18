@@ -5,6 +5,7 @@ display_metadata: false
 
 ## Orthodox side
 
+* [[Hart 1995]]
 * [[Bansal 2005]]
 * [[Bansal & DesJardine 2014]]
 * [[Slawinski and Bansal 2015]]
