@@ -5,7 +5,7 @@ display_metadata: false
 
 ## Orthodox side
 
-* [[Hart 1995]]
+* @Hart1995b--[[A Natural-Resource-Based View of the Firm|Hart 1995]]
 * [[Bansal 2005]]
 * [[Bansal & DesJardine 2014]]
 * [[Slawinski and Bansal 2015]]
@@ -24,3 +24,5 @@ display_metadata: false
 * [[Bansal 2019]]
 * [[DesJardins 2016]]
 * [[Newton 2002]]
+
+---
