@@ -1,6 +1,6 @@
 ---
 bibliography: 'library.bib'
-display-metadata: false
+display_metadata: false
 ---
 
 [[_TOC_]]
