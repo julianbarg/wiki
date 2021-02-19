@@ -25,7 +25,7 @@ display_metadata: false
 
 ## Other
 
-* @Bansal2019--[[Sustainable Development in an Age of Disruption|Bansal 2019]]
+* @Bansal2019a--[[Sustainable Development in an Age of Disruption|Bansal 2019]]
 * @DesJardins2016--[[Is it Time to Jump off the Sustainability Bandwagon?|DesJardins 2016]]
 * @Newton2002--[[Creating the New Ecological Order? Elias and Actor-Network Theory|Newton 2002]]
 
