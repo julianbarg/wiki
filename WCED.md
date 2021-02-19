@@ -9,6 +9,7 @@ display_metadata: false
 * @Bansal2002--[[The corporate challenges of sustainable development|Bansal 2002]]
 * @Bansal2005--[[Evolving Sustainably: A Longitudinal Study of Corporate Sustainable Development|Bansal 2005]]
 * @Bansal2014--[[Business Sustainability: It Is about Time|Bansal & DesJardine 2014]]
+* @Hahn2014--[[Cognitive Frames in Corporate Sustainability: Managerial Sensemaking with Paradoxical and Business Case Frames|Hahn et al 2014]]
 * @Slawinski2015--[[Short on Time: Intertemporal Tensions in Business Sustainability|Slawinski and Bansal 2015]]
 * @Kim2019--[[No Time Like the Present: How a Present Time Perspective Can Foster Sustainable Development|Kim, Bansal & Haugh 2019]]
 
