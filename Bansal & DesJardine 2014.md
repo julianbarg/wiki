@@ -1,7 +1,6 @@
 ---
 bibliography: 'library.bib'
 display-metadata: false
-
 ---
 
 [[_TOC_]]
