@@ -1,4 +1,8 @@
-**Bansal and DesJardine 2014 - Business Sustainability: It Is about Time**
+---
+bibliography: 'library.bib'
+display-metadata: false
+
+---
 
 [[_TOC_]]
 
