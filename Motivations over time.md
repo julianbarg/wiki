@@ -42,8 +42,6 @@ display_metadata: false
 > 
 > [@Ergene2020, p. 3]
 
-## Corporate Sustainability Trending
-
 ## (Recent) Societal Backlash
 
 ### @Purser1995
