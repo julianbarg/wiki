@@ -3,6 +3,8 @@ bibliography: 'library.bib'
 display_metadata: false
 ---
 
+[[_TOC_]]
+
 ## Environmental Crisis
 
 ### @Shrivastava1994
