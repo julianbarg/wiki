@@ -95,7 +95,7 @@ most widely used sustainability investing guide. Similar to the Global100, the G
 ## Case Studies of Sustainable Companies
 
 * Something from @Hart1995, p. 998f.
-* Something from @Bansal2002
+* Something from @Bansal2002.
 
 ## (Recent) Societal Backlash
 
