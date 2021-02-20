@@ -58,6 +58,12 @@ Maybe, (some) corporations have always (never) been seriously looking at the env
 > 
 > [@Milne2006, p. 802]
 
+### @Montiel2014
+
+> It is almost impossible to browse a company’s website or its official reports without finding references to “sustainability” or “sustainable development.” This has not always been the case. The past few years have brought an exponential increase in references to corporate sustainability (CS) and sustainable strategies. Business schools worldwide now hire professors in CS and most large companies hire employees to fill sustainability positions.
+>
+> [@Montiel2014, p.113]
+
 ## (Recent) Societal Backlash
 
 ### @Purser1995
