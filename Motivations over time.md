@@ -22,7 +22,7 @@ display_metadata: false
 
 ### @Ergene2020
 
-> While some studies on the natural environment in management can be traced back to the beginning of the modern environmental movement in the 1970s (i.e., Gladwin & Welles, 1976), the topic did not become an object of significant research interest until the early 1990s with the first efforts to build a research community among management scholars (e.g., the Greening of Industry Network in 1989 and the Organizations and the Natural Environment special interest group of the Academy of Management in 1994, later to become a division in 2007) and the creation of academic journals dedicated to the interface between managerial action and environmental protection (e.g., Organization & Environment which was created in 1987 from its predecessor Industrial Crisis Quarterly, and Business Strategy and the Environment in 1991.
+> While some studies on the natural environment in management can be traced back to the beginning of the modern environmental movement in the 1970s (i.e., Gladwin & Welles, 1976), the topic did not become an object of significant research interest until the early 1990s with the first efforts to build a research community among management scholars (e.g., the Greening of Industry Network in 1989 and the Organizations and the Natural Environment special interest group of the Academy of Management in 1994, later to become a division in 2007) and the creation of academic journals dedicated to the interface between managerial action and environmental protection (e.g., Organization & Environment which was created in 1987 from its predecessor Industrial Crisis Quarterly, and Business Strategy and the Environment in 1991. [sic]
 > 
 > [@Ergene2020, p. 3]
 
