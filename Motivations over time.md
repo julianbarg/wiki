@@ -50,6 +50,14 @@ Maybe, (some) corporations have always (never) been seriously looking at the env
 > 
 > [@Ergene2020, p. 3]
 
+## Corporate Sustainability Trending
+
+### @Milne2006
+
+> Business interest in the concept of sustainability appears to be increasing worldwide as evidenced through the emergence of various dedicated business associations, award schemes, reports and discussion documents on the implications of sustainability for business, as well as numerous environmental, management and accountancy consultancies positioning to offer businesses services connected with sustainability.
+> 
+> [@Milne2006, p. 802]
+
 ## (Recent) Societal Backlash
 
 ### @Purser1995
