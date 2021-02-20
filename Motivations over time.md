@@ -26,9 +26,9 @@ display_metadata: false
 
 ## (Recent) Renaissance of Green Thought
 
-###
+### @Levy1997
 
-> 
+> A growing number of business schools are offering EM [Environmental Management] courses and specilizations, and a variety of texts is now available specifically designed for such courses (Birchard, 1994; Buchholz, 1993; Friedman, 1993; Stead & Stead, 1996). New journals and conferences herald the awakening of academic interest in the field of EM. The more theoretical EM literature attempts to identify and describe paradigms of management according to their orientation toward the natural environment (Clair, Milliman, & Whelan, 1996; Egri & Pinfield, 1996; Purser et al., 1995; Rasanen, Merilainen, & Lovio, 1995). This literature generally critiques traditional management for being mechanistic and anthropocentric and for ignoring environmental constraints and externalities, then proceeds to describe and advocate new paradigms of management that incorporate ecological awareness to various degrees.
 
 ### @Ergene2020
 
