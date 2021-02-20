@@ -36,7 +36,7 @@ display_metadata: false
 > 
 > [@Ergene2020, p. 3]
 
-## Corporate Action
+## Corporate Sustainability Trending
 
 ## Why?
 
