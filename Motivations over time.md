@@ -26,11 +26,11 @@ Maybe, (some) corporations have always (never) been seriously looking at the env
 > 
 > [@Bansal2002, p. 122]
 
-### @Bansal2019
+### @Bansal2019a
 
 > When writing this Guidepost, three news stories broke within 2 weeks. First, the Intergovernmental Panel on Climate Change said that the Earth is warming much faster than expected, so the planet may warm by 1.5°C by 2030—only 11 years after this Guidepost will be published (IPCC, 2018). Presently, the Earth is only one degree above pre‐industrial levels, but the frequency and span of wildfires, floods, and persistent droughts are causing havoc and taking human lives. Second, an article in Nature reported that the ocean has warmed 60 percent more than what was predicted by the worst estimate of the Intergovernmental Panel on Climate Change (Resplandy et al., 2018). Third, and maybe the most visual and profound, the World Wildlife Fund reported that 60 percent of the world’s wildlife had been wiped out from 1970 to 2014 (WWF, 2018).
 > 
-> [@Bansal2019, p. 8]
+> [@Bansal2019a, p. 8]
 
 ## (Recent) Renaissance of Green Thought
 
