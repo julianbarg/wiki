@@ -30,6 +30,12 @@ display_metadata: false
 
 > A growing number of business schools are offering EM [Environmental Management] courses and specilizations, and a variety of texts is now available specifically designed for such courses (Birchard, 1994; Buchholz, 1993; Friedman, 1993; Stead & Stead, 1996). New journals and conferences herald the awakening of academic interest in the field of EM. The more theoretical EM literature attempts to identify and describe paradigms of management according to their orientation toward the natural environment (Clair, Milliman, & Whelan, 1996; Egri & Pinfield, 1996; Purser et al., 1995; Rasanen, Merilainen, & Lovio, 1995). This literature generally critiques traditional management for being mechanistic and anthropocentric and for ignoring environmental constraints and externalities, then proceeds to describe and advocate new paradigms of management that incorporate ecological awareness to various degrees.
 
+### @Banerjee2003
+
+> In recent years there has been a minor explosion of articles dealing with corporate greening in the management literature. Much of this literature attempts to incorporate current notions of sustainable development into corporate strategy (see, for example, the 2000 special issue on the management of organizations in the natural environment in the Academy of Management Journal, the 1995 special issue on ecologically sustainable organizations in the Academy of Management Review, or the 1992 special issue on strategic management of the environment in Long Range Planning) and discusses the emergence of corporate environmentalism and organizational processes of environmental management (Banerjee 2001b; Crane 2000; Fineman 1996).
+> 
+> [@Banerjee2003, p. 161]
+
 ### @Ergene2020
 
 > While some studies on the natural environment in management can be traced back to the beginning of the modern environmental movement in the 1970s (i.e., Gladwin & Welles, 1976), the topic did not become an object of significant research interest until the early 1990s with the first efforts to build a research community among management scholars (e.g., the Greening of Industry Network in 1989 and the Organizations and the Natural Environment special interest group of the Academy of Management in 1994, later to become a division in 2007) and the creation of academic journals dedicated to the interface between managerial action and environmental protection (e.g., Organization & Environment which was created in 1987 from its predecessor Industrial Crisis Quarterly, and Business Strategy and the Environment in 1991. [sic]
