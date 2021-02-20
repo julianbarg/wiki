@@ -38,6 +38,14 @@ display_metadata: false
 
 ## Corporate Sustainability Trending
 
+## (Recent) Societal Backlash
+
+### @Purser1995
+
+> Over the course of three decades, modern organizations have been the target of escalating criticism from environmentalists (Carson, 1962; Commoner, 1990; Devall & Sessions, 1985; McKibben, 1989; Orr, 1992; Rozak, 1979). Industry continues to face a media backlash that has heightened public concern over toxic wastes, exposures to environmental disasters and pollution, loss of biodiversity, ozone depletion, and greenhouse warming.
+> 
+> [@Purser1995, p. 1053]
+
 ## Why?
 
 Some might have the notion that now something is really happening with regard to climate change. That is probably not the case, as the above quotes show.
