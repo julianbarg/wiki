@@ -72,4 +72,12 @@ Maybe, (some) corporations have always (never) been seriously looking at the env
 > 
 > [@Purser1995, p. 1053]
 
+## Contradition
+
+### @Whiteman2013
+
+> Management research on corporate sustainability faces a paradox: on the one hand, sustainability is no longer a fringe topic and corporations routinely invest in eco-efficiency measures. On the other hand, data from ecological analyses indicate a worsening, and in some cases, alarming state of affairs.
+>
+> [@Whiteman2013, p. 307]
+
 ---
