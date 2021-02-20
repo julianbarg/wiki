@@ -67,6 +67,12 @@ on a global scale.
 
 ## Corporate Sustainability Trending
 
+### @Hart1995
+
+> During the past decade there has been tremendous pressure for firms to minimize or eliminate emissions, effluents, and waste from their operations. In 1986, for example, the Superfund Amendments and Reauthorization Act (SARA) was passed in the United States, requiring that companies publicly disclose their emission levels of some 300 toxic or hazardous chemicals through what has become known as the toxic release inventory (TRI). Managers now understood the extent of their firms' impact on the environment and recognized that pollution stems from inefficient use of material and human resources. Indeed, the first year that the TRI was used (1988) revealed that U.S. companies alone emitted 10.4 billion pounds of toxic materials to the environment. This sobering realization caused management in the most affected industries-petrochemicals, pulp and paper, automotive, and electronics-to fundamentally rethink its approach to pollution abatement. In fact, since the late 1980s, a focus on emissions reduction and pollution abatement has swept industrial operations worldwide (Smart, 1992).
+> 
+> [@Hart1995, p. 992]
+
 ### @Milne2006
 
 > Business interest in the concept of sustainability appears to be increasing worldwide as evidenced through the emergence of various dedicated business associations, award schemes, reports and discussion documents on the implications of sustainability for business, as well as numerous environmental, management and accountancy consultancies positioning to offer businesses services connected with sustainability.
