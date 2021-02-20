@@ -48,6 +48,6 @@ display_metadata: false
 
 ## Why?
 
-Some might have the notion that now something is really happening with regard to climate change. That is probably not the case, as the above quotes show.
+Some might have the notion that now something is really happening with regard to climate change. That is probably not the case, as the above quotes show. Document a wrong sense of progress. Motivate concrete research rather than the "big debates".
 
 ---
