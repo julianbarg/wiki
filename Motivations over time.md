@@ -19,6 +19,15 @@ Maybe, (some) corporations have always (never) been seriously looking at the env
 > 
 > [@Shrivastava1994, p.706]
 
+### @Hart1995
+
+> [A]ir and water pollution, toxic emissions, chemical spills, and industrial accidents have created regional environmental and public health crises for thousands of communities around the world (Brown, Kane, & Roodman, 1994; Shrivastava, 1987). The composition of the atmosphere has been altered more in the past 100 years-through fossil-fuel use, agricultural practices, and deforestation-than in the previous 18,000 (Graedel & Crutzen, 1989). Climate changes, which might produce both rising ocean levels and further desertification, could threaten the very fabric of human civilization as we know it (Schneider, 1989). The world's 18 major fisheries already have reached or exceeded maximum sustained yield levels (Brown & Kane, 1994). If current consumption rates continue, all virgin tropical forests will be gone within 50 years, with a consequent loss of 50 percent or more of the world's species (Wilson, 1989). [...]
+> 
+> In short, the scale and scope of human activity have accelerated
+during the past 40 years to the point where they are now having impacts
+on a global scale.
+> 
+> [@Hart1995, p. 990]
 
 ### @Bansal2002
 
