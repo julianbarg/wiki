@@ -70,6 +70,13 @@ Maybe, (some) corporations have always (never) been seriously looking at the env
 >
 > [@Montiel2014, p.113]
 
+### @DesJardins2016
+
+> Almost 30 years after the Brundtland Report, “sustainable” is regularly used today to modify an innumerable range of distinct and diverse activities, ranging from agriculture and architecture to zoning and zoos. [...] Sustainability has become ubiquitous within business, with virtually every division including management, marketing, investing, accounting, strategy, and operations developing sustainable models and practices. It is difficult to find a major corporation that does not issue an annual sustainability report; by one account 95% of the Global 250 issue annual sustainability reports. Cottage industries have arisen in such areas as sustainability consulting, ranking, investing and measurement. Major consulting firms including Ernst and Young, Deloitte, Accenture, PwC, and KPMG, and countless advocacy groups and NGOs, have created significant business ventures in sustainability consulting, advising businesses on how to become more sustainable. Forbes magazine, in conjunction with Global Knights Capital, publishes an annual ranking of the top 100 sustainable firms, the “Global100.” Virtually every brokerage and investment firm offers a sustainable portfolio, with the Dow Jones Sustainability Index perhaps the
+most widely used sustainability investing guide. Similar to the Global100, the Global Reporting Initiative (GRI) has created a sustainability measurement and assessment tool that is widely used by business and NGOs throughout the world. Another well-known major benchmarking framework is the “triple bottom line” (TBL), now widely cited in management literature and in sustainability consulting.
+> 
+> [@DesJardins2016, p. 118]
+
 ## (Recent) Societal Backlash
 
 ### @Purser1995
