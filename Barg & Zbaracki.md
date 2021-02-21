@@ -65,4 +65,6 @@ display_metadata: false
 
 ## [[Motivations over time]]
 
+## [[Research Stance on Corporation & Environment]]
+
 ---
