@@ -8,3 +8,5 @@ display_metadata: false
 |@Hart1995||Temporary role only (p. 991)|
 
 ---
+
+## References
