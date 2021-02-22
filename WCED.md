@@ -10,6 +10,7 @@ display_metadata: false
 * @Bansal2002--[[The corporate challenges of sustainable development|Bansal 2002]]
 * @Hart2003--[[Creating Sustainable Value|Hart & Milstein 2003]]
 * @Bansal2005--[[Evolving Sustainably: A Longitudinal Study of Corporate Sustainable Development|Bansal 2005]]
+* @Hernandez2012--[[Toward an Understanding of the Psychology of Stewardship|Hernandez 2012]]
 * @Bansal2014--[[Business Sustainability: It Is about Time|Bansal & DesJardine 2014]]
 * @Hahn2014--[[Cognitive Frames in Corporate Sustainability: Managerial Sensemaking with Paradoxical and Business Case Frames|Hahn et al 2014]]
 * @Slawinski2015--[[Short on Time: Intertemporal Tensions in Business Sustainability|Slawinski and Bansal 2015]]
