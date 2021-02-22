@@ -26,6 +26,7 @@ display_metadata: false
 * @Banerjee2003--[[Who Sustains Whose Development? Sustainable Development and the Reinvention of Nature|Banerjee 2003]]
 * @Springett2003--[[Business conceptions of sustainable development: a perspective from critical theory|Springett 2003]]
 * @Milne2006--[[Creating Adventures in Wonderland: The Journey Metaphor and Environmental Sustainability|Milne, Kearins & Walton 2006]]
+* @Banerjee2011--[[Embedding Sustainability Across the Organization: A Critical Perspective|Banerjee 2011]]
 * @Constanza2014--[[Principles and Objectives of Ecological Economics|Constanza et al. 2014]]
 * @Hoffman2015--[[Institutional Theory and the Natural Environment: Research in (and on) the Anthropocene|Hoffman and Jennings 2015]]
 * @Ergene2020--[[(Un)Sustainability and Organization Studies: Towards a Radical Engagement|Ergene, Banerjee & Hoffman 2020]]
