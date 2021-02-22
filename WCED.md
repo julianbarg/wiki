@@ -11,6 +11,7 @@ display_metadata: false
 * @Bansal2014--[[Business Sustainability: It Is about Time|Bansal & DesJardine 2014]]
 * @Hahn2014--[[Cognitive Frames in Corporate Sustainability: Managerial Sensemaking with Paradoxical and Business Case Frames|Hahn et al 2014]]
 * @Slawinski2015--[[Short on Time: Intertemporal Tensions in Business Sustainability|Slawinski and Bansal 2015]]
+* @Ortiz-de-Mandojana2016-[[The Long-term Benefits of Organizational Resilience through Sustainable Business Practices|Ortiz-de-Mandojana & Bansal 2016]]
 * @Kim2019--[[No Time Like the Present: How a Present Time Perspective Can Foster Sustainable Development|Kim, Bansal & Haugh 2019]]
 
 ## Critical side
