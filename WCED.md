@@ -20,6 +20,7 @@ display_metadata: false
 ## Critical side
 
 * @Purser1995--[[Limits to Anthropocentrism: Toward an Ecocentric Organization Paradigm?|Purser, Park & Montuori 1995]]
+* @Shrivastava1995--[[The Role of Corporations in Achieving Ecological Sustainability|Shrivastava 1995]]
 * @Banerjee2003--[[Who Sustains Whose Development? Sustainable Development and the Reinvention of Nature|Banerjee 2003]]
 * @Springett2003--[[Business conceptions of sustainable development: a perspective from critical theory|Springett 2003]]
 * @Milne2006--[[Creating Adventures in Wonderland: The Journey Metaphor and Environmental Sustainability|Milne, Kearins & Walton 2006]]
