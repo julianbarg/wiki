@@ -8,6 +8,7 @@ display_metadata: false
 * @Hart1995b--[[A Natural-Resource-Based View of the Firm|Hart 1995]]
 * @Klassen1999--[[The Impact of Environmental Technologies on Manufacturing Performance|Klassen & Whybark 1999]]
 * @Bansal2002--[[The corporate challenges of sustainable development|Bansal 2002]]
+* @Hart2003--[[Creating Sustainable Value|Hart & Milstein 2003]]
 * @Bansal2005--[[Evolving Sustainably: A Longitudinal Study of Corporate Sustainable Development|Bansal 2005]]
 * @Bansal2014--[[Business Sustainability: It Is about Time|Bansal & DesJardine 2014]]
 * @Hahn2014--[[Cognitive Frames in Corporate Sustainability: Managerial Sensemaking with Paradoxical and Business Case Frames|Hahn et al 2014]]
