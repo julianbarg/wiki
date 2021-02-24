@@ -6,3 +6,7 @@ display_metadata: false
 # @Zimmerman1994
 
 ## Notes
+
+---
+
+## References
