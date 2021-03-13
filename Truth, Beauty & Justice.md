@@ -30,7 +30,7 @@ display_metadata: false
 * @Sandel2009--[[Justice: What's the right thing to do?|Sandel 2009]]
 * @Fraser1988--[[Social Criticism without Philosophy: An Encounter between Feminism and Postmodernism|Fraser & Nicholson 1988]]
 * @Lyotard1984--[[The Postmodern Condition: A Report on Knowledge|Lyotard1984]]
-* @Seidman2017x--[[Nancy Fraser. The Case for Radical Democracy|Seidman 2017]]
+* @Seidman2017f--[[Nancy Fraser. The Case for Radical Democracy|Seidman 2017]]
 
 ## Other
 
