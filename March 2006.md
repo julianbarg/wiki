@@ -10,6 +10,6 @@ display_metadata: false
 Contrasting the ideals of rational redicion making and the observed limits to rationality. First part, showing how common rational models are and some common critique. Second part, introducing feedback-based adaption.
 
 ## Notes
-* Follows the same structure as [test](Levinthal %26 March 1993.md)
+* Follows the same structure as [[Levinthal and March 1993]] and [[March, Sproull & Tamuz 1991]]
 
 ---
