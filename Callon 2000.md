@@ -7,6 +7,6 @@ display_metadata: false
 
 ## One-sentence summary
 
-Calling for a social history of economics, both of its theory, and its practice as well as their dialectic.
+Calling for a social history of economics, both of its theory, and its practice as well as their dialectic relationship.
 
 ---
