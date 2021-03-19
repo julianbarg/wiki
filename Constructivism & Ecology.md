@@ -54,6 +54,7 @@ Picking up the debate where [[Environmental Sociology]] left off. [[Banerjee 200
 * @Milne2006--[[Creating Adventures in Wonderland: The Journey Metaphor and Environmental Sustainability|Milne, Kearins & Walton 2006]]
 * :arrow_right: @Boiral2007--[[Corporate Greening Through ISO 14001: A Rational Myth?|Boiral 2007]]
 * :arrow_right: @Hoffman2015--[[Institutional Theory and the Natural Environment: Research in (and on) the Anthropocene|Hoffman & Jennings 2015]]
+* :new: @Heikkurinen2016--[[Organising in the Anthropocene: an ontological outline for ecocentric theorising|Heikkurinen et al 2016]]
 * @Heikkurinen2019--[[Managing the Anthropocene: Relational Agency and Power to Respect Planetary Boundaries|Heikkurinen et al 2019]]
 * @Ergene2020--[[(Un)Sustainability and Organization Studies: Towards a Radical Engagement|Ergene, Banerjee & Hoffman 2020]]
 
