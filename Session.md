@@ -9,3 +9,5 @@ display_metadata: false
 * @Pailler2018--[[Re-election incentives and deforestation cycles in the Brazilian Amazon|Pailler 2018]]
 * @Whiteman2018--[[Poles Apart: The Arctic & Management Studies|Whiteman & Yumashev 2018]]
 * @Wright2017--[[An Inconvenient Truth: How Organizations Translate Climate Change into Business as Usual|Wright & Nyberg 2017]]
+
+---
