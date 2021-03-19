@@ -15,6 +15,6 @@ There is little agreement on what theory is, and trying to define it often creat
 * "Diagrams Are Not Theory [...]. [D]iagrams and figures should be considered as stage props rather than the performance itself" (p. 376).
 * "Hypotheses (or Predictions) Are Not Theory [...]. They serve as a crucial bridge between theory and data [...]. Hypotheses do not (and should not) contain logigal arguments" (pp. 376f).
 
-What theory does is explain the underlying processes of observed events. But there is also an argument to be made for a moratorium on theory, and a focus on "more descriptive narratives" (p. 378). The authors also display a concern about "hypocritical writing[, where] [t]heory is crafted around the data".
+What theory does is explain the underlying processes of observed events. But there is also an argument to be made for a moratorium on theory, and a focus on "more descriptive narratives" (p. 378). The authors also display a concern about "hypocritical writing[, where] [t]heory is crafted around the data". In the end, the authors suggest that "if a theory is particularly interesting, the standards used to evaluate how well it is tested or grounded need to be relaxed, not strengthened" (p. 382). For qualitative papers on the other hand the relationship is reversed to some degree "with theory emphasized too much and data not emphasized enough" (pp. 283f).
 
 ---
