@@ -7,6 +7,6 @@ display_metadata: false
 
 ## One-paragraph summary
 
-Management research is uniquely positioned to contribute to climate mitigation. But so far, the research in this intersection is negligible. Wright and Nyberg (re-)introduce the physical challenge. They then argue that lack of relevant research is not due to lag but neglect. Next, they introduce the concept of denial--very useful!
+Management research is uniquely positioned to contribute to climate mitigation. But so far, the research in this intersection is negligible. Wright and Nyberg (re-)introduce the physical challenge. They then argue that lack of relevant research is not due to lag but neglect. In that context, they introduce the concept of denial--very useful! Next, they rehash the debate between environmental management and ecocentrism, very poignant.
 
 ---
