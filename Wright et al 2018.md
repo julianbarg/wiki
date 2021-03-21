@@ -1,6 +1,6 @@
 ---
 bibliography: 'library.bib'
-display_metadata: true
+display_metadata: false
 ---
 
 # @Wright2018
