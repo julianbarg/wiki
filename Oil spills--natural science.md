@@ -7,7 +7,7 @@ display_metadata: false
 
 * @Atlas2011
 * @Almeda2013
-* @Fitpatrick2015
+* @Fitzpatrick2015
 * @Bruederle2019
 * Barron2020
 
