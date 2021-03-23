@@ -8,5 +8,6 @@
 * Studies focus on animal _survival_, what about other dangers, e.g., damage to DNA
 * Risk from spilled oil to acuifers
 * What do you think, are some/most of your collegues more/less critical of oil spills?
+* Lack of sufficient sorbent materials in emergency situations (e.g., Kalamazoo)
 * "potential risks of acute and chronic toxic effects on benthic organisms and possibly less biodegradation once the oil is deposited" (Fitzpatrick et al. 2015)--vis a vis benefits of dispersion
     * Ethical implications of enhancing physical dispersion
