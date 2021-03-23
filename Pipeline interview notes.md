@@ -2,6 +2,7 @@
 
 * "When I read some of the studies on oil spills, I get the impression that in the long-term, these events are not too concerning..."?
 * Interaction of oil spills with other stressors, such as fertilizer runoff
+    * Aparently leads to reduced biodegradation of hydrocarbons ([[Atlas & Hazen 2011]])
 * Impact of increased availability of foodstuff on the prevalence of oil degrading bacteria
     * Potential adverse impacts, compare fertilizer runoff
     * Food chain impacts
