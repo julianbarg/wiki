@@ -1,5 +1,6 @@
 ## Expert interview
 
+* "When I read some of the studies on oil spills, I get the impression that in the long-term, these events are not too concerning..."?
 * Risk from spilled oil to acuifers
 * Impact of increased availability of foodstuff on the prevalence of oil degrading bacteria
     * Potential adverse impacts, compare fertilizer runoff
