@@ -98,7 +98,7 @@
 
 ---
 
-1. '$187 mio trespassing charge
+1. \\\$187 mio trespassing charge
 * [[https://www.indianz.com/News/2020/07/13/bureau-of-indian-affairs-orders-pipeline.asp]]
 2. "Wind Power Wins, Pipelines Implode"
 * [[https://cleantechnica.com/2020/07/12/whoosh-wind-power-wins-pipelines-implode-in-fossil-fuel-week-from-hell/]]
