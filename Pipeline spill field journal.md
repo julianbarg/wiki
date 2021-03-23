@@ -65,7 +65,7 @@
 * [[http://world.350.org/kishwaukee/files/2017/09/Enbridge-Over-Troubled-Water-Report.pdf]]
 5. EPA celebrating its Kalamazoo river pipeline spill response.
 * [[https://www.epa.gov/enbridge-spill-michigan]]
-6. Enbridge setteling with EPA on Kalamazoo river pipeline spill. The most important piece of that settlement is the often quoted $2+ billion pipeline replacement (other safety measures are approximated to amount to $100 million)--which stakeholders have revealed to be a farce!
+6. Enbridge setteling with EPA on Kalamazoo river pipeline spill. The most important piece of that settlement is the often quoted \$2+ billion pipeline replacement (other safety measures are approximated to amount to \$100 million)--which stakeholders have revealed to be a farce!
 * [[https://www.enbridge.com/media-center/news/details?id=2072418]]
 7. Line 6B citizens blog. A block by residents on their experience with Enbridge, updated all through 2020.
 * [[http://grangehallpress.com/Enbridgeblog/]]
