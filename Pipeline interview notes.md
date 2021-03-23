@@ -4,3 +4,4 @@
 * Impact of increased availability of foodstuff on the prevalence of oil degrading bacteria
     * Potential adverse impacts, compare fertilizer runoff
     * Food chain impacts
+* Ethical implications of enhancing physical dispersion
