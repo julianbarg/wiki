@@ -11,7 +11,7 @@ Researching desinstitutionalizatin. For that purpose drawing on "translation met
 
 In summary, @Maguire2009 make a dual claim--that we can both read a discourse to understand what is going on, and that really we need to look at actors translation of text to see what is going on.
 
-In the paper, Rachel Carson (author of the book _Silent Spring_ which triggered a debate on DDT) is described as an outsider to the discourse on DDT, and the paper addressed the question of how outsiders can push for deinstitutionalization. But is she really an outsider? She has a science background, aspired to do a PhD, and certainly had learned a thing or two on chemistry during her studies of biology. She would be in command of the language of science, regarless of the fact that she chose the medium of a book that addresses the general public. Maybe @Maguire2009 applied a more narrow debate of institutional discourse than I would have chosen intuitively.
+In the paper, Rachel Carson (author of the book _Silent Spring_ which triggered a debate on DDT) is described as an outsider to the discourse on DDT, and the paper addressed the question of how outsiders can push for deinstitutionalization. But is she really an outsider? She has a science background, aspired to do a PhD, and certainly had learned a thing or two on chemistry during her studies of biology. She would be in command of the language of science, regarless of the fact that she chose the medium of a book that addresses the general public. Maybe @Maguire2009 applied a more narrow definition of institutional discourse than I would have chosen intuitively.
 
 ## Notes
 
