@@ -13,6 +13,8 @@ In summary, @Maguire2009 make a dual claim--that we can both read a discourse to
 
 In the paper, Rachel Carson (author of the book _Silent Spring_ which triggered a debate on DDT) is described as an outsider to the discourse on DDT, and the paper addressed the question of how outsiders can push for deinstitutionalization. But is she really an outsider? She has a science background, aspired to do a PhD, and certainly had learned a thing or two on chemistry during her studies of biology. She would be in command of the language of science, regarless of the fact that she chose the medium of a book that addresses the general public. Maybe @Maguire2009 applied a more narrow definition of institutional discourse than I would have chosen intuitively.
 
+Toward the end, @Maguire2009 introduce the concept of defensive institutional work.
+
 ## Notes
 
 * Outside deinstitutionalization is hoped to help with the radical change needed with regard to climate change (p. 148).
