@@ -29,10 +29,13 @@ The conclusion brings up some interesting facts. There is still some support for
 
 [[resources/maguire_hardy_2009_2.png|frame]]
 
-### T
+### Regulatory action
 
-[[resources/maguire_hardy_2009_2.png|frame]]
+[[resources/maguire_hardy_2009_3.png|frame]]
 
+### Industry pushback
+
+[[resources/maguire_hardy_2009_4.png|frame]]
 
 ## Notes
 
