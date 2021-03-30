@@ -19,6 +19,21 @@ In the discussion section, @Maguire2009 introduce the concept of defensive insti
 
 The conclusion brings up some interesting facts. There is still some support for DDT--as a form of malaria control. An interesting indicator with regards to modelling--choice of action based on pre-existing goals and preferences. The discourse of DDT cannot be resolved by either deciding on a primacy of nature or human health--both are indefensible subject positions. Only a study of the specific context--considering the environmental impacts of e.g., widely spraying DDT on cotton or spraying the inside of houses for malaria control--can accomplish that purpose. And the "progress" we currently experience based supposedly on greater maximes such as Rachel Carson's (justified) apocalyptical vision should not be taken for granted where there is still the potential for new, "more important" concerns to emerge and put into question past decisions. Only an understanding of history and context can--but such understanding cannot be assumed to be stable.
 
+## Timelines
+
+### Major events timeline
+
+[[resources/maguire_hardy_2009_1.png|frame]]
+
+### Textbooks and government reports
+
+[[resources/maguire_hardy_2009_2.png|frame]]
+
+### T
+
+[[resources/maguire_hardy_2009_2.png|frame]]
+
+
 ## Notes
 
 * Outside deinstitutionalization is hoped to help with the radical change needed with regard to climate change (p. 148).
