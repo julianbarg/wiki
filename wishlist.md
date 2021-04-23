@@ -1,2 +1,2 @@
-- https://www.games-workshop.com/en-CA/Imperial-Guard-Cadians-5-models-2017
+- [[https://www.games-workshop.com/en-CA/Imperial-Guard-Cadians-5-models-2017]]
 - Thinkpad P51
