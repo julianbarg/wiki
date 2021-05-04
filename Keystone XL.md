@@ -6,7 +6,8 @@
     * Stop investigating: [[https://puc.sd.gov/commission/dockets/HydrocarbonPipeline/2014/HP14-001/draexhibits/114.pdf]]
     
 * Montana
-    * Bold Nebraska petition: [[https://boldnebraska.org/keystone-xl-water-permit-tele-public-hearings-how-to-testify]]/[[https://actionnetwork.org/petitions/tell-the-army-corps-and-nebraska-dept-of-environment-energy-no-keystone-xl-pipeline]]
+    * Bold Nebraska petition: [[https://boldnebraska.org/keystone-xl-water-permit-tele-public-hearings-how-to-testify]]
+        * [[https://actionnetwork.org/petitions/tell-the-army-corps-and-nebraska-dept-of-environment-energy-no-keystone-xl-pipeline]]
     
 * Nebraska
     * DEQ public comments & documents: [[https://ecmp.nebraska.gov/deq-seis/]] 
