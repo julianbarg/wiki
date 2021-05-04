@@ -13,5 +13,6 @@
 * Nebraska
     * DEQ public comments & documents: [[https://ecmp.nebraska.gov/deq-seis/]] 
     * Docket: [[https://deq.mt.gov/DEQAdmin/mfs/keystonexl/keystonexlcomprehensive]]
+    * Conservative newspaper changes its mind: [[https://journalstar.com/opinion/editorial/editorial-1-24-nebraskas-better-off-without-keystone-xl/article_cf1c7861-25f0-57d1-b9af-8c2dbdd41eb3.html]]
     
 * [[Keystone XL contacts]]
