@@ -5,4 +5,4 @@
     * Energy and environment: nane.soennichsen@statista.com
 * Indigenous Environmental Network:
     * Joye Braun--joye@ienearth.org ([[https://www.ienearth.org/contact-us/]])
-* Dennis McConaghy--was at Ivey!
+* TransCanada's Dennis McConaghy--was at Ivey!
