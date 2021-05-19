@@ -1,3 +1,8 @@
+---
+bibliography: library.bib
+show_metadata: false
+---
+
 **Greenwashing**
 
 [[_TOC_]]
