@@ -1,6 +1,6 @@
 ---
 bibliography: library.bib
-show-metadata: false
+display_metadata: false
 ---
 
 **Greenwashing**
