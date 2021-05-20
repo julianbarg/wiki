@@ -17,6 +17,10 @@ table:nth-of-type(1) {
 table:nth-of-type(1) th:nth-of-type(2) {
     width:10%;
 }
+
+table:nth-of-type(1) th:nth-of-type(3) {
+    width:10%;
+}
 </style>
 
 | Article   | Journal | Group      | Type              | Phenomenon             | Summary |
