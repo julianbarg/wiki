@@ -15,11 +15,13 @@ table:nth-of-type(1) {
     width:100%;
 }
 table:nth-of-type(1) th:nth-of-type(2) {
-    width:10%;
+    width:8%;
 }
-
 table:nth-of-type(1) th:nth-of-type(3) {
-    width:10%;
+    width:8%;
+}
+table:nth-of-type(1) th:nth-of-type(4) {
+    width:8%;
 }
 </style>
 
