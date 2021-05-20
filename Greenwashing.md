@@ -12,6 +12,9 @@ There are two streams of literature. Some articles study greenwashing as a pheno
 | Article   | Journal | Group      | Type       | Phenomenon | Summary |
 | --------- | ------- | ---------- | ---------- | ---------- | ------- |
 | @Lyon2015 | O&E     | Umbrella   | Lit review | -          |         |
+| @Lyon2011 | JEMS    | 
+
+*[JEMS]: Journal of Economics & Management Strategy
 
 ---
 
