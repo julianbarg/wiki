@@ -12,7 +12,7 @@ There are two streams of literature. Some articles study greenwashing as a pheno
 | ----------- | ---     | -----------                | ---              | ---               | ---                    |     ------------------------ |
 | @Lyon2011   | JEMS    | [[Lyon & Maxwell 2011]]    | Theory           | Economic modeling | Information disclosure | Greenwashing by rational actors |
 | @Lyon2015   | O&E     | [[Lyon & Montgomery 2015]] | Umbrella         | Lit review        | Broad--disinformation  |        Rational perspective is well-defined, but literature is manifold |
-| @Delmas     | CMR     | [[Delmas & Burbano 2011]]  |
+| @Delmas2011 | CMR     | [[Delmas & Burbano 2011]]  |
 
 *[JEMS]: Journal of Economics & Management Strategy
 
