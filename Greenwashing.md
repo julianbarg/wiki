@@ -36,7 +36,8 @@ Some papers in this section do not use the term greenwashing.
 
 | Article         | Journal | Group             | Type              | Phenomenon                     |  Summary |
 | --------------- |:---:    |:---:              |:---:              |:------------:                  | ------------------------ |
-| @Du2015         | JBE     | Phenomenon        | Quant             | Greenwashing uncovered         |                          Markets react negatie to greenwashing ranking.|
+| @Du2015         | JBE     | Phenomenon        | Quant             | Greenwashing uncovered         |                          Markets react negatie to greenwashing ranking. |
+| @Lyon2013       | JBE     | Theory            | Theory            | Media & Greenwashing           | Theorizing that new media will decrease incidences of greenwashing. |
 | @Parguel2011    | JBE     | Phenomenon        | Experiment        | Consumer perception            |                          ESG ratings can influence consumer perception. |
 | @Laufer2003     | JBE     | Phenomenon        | Theory            | Green finance                  |                       Greenwashing in _accounting_ literature. |
 
