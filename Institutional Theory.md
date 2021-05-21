@@ -12,11 +12,11 @@ Part of: [[Orgaizational Theory]]
 
 ## Key references
 
-| Article       | Berger & Luckmann     | Weber                 | Meyer and Rowan       | Giddens (1979)        | 
+| Article       | Berger & Luckmann     | Weber                 | Meyer and Rowan       | Giddens (1979)        | DiMaggio and Powel
 | ---           | ---                   | ---                   | ---                   | ---                   |
-| @Meyer1977    | :heavy_check_mark:    | :heavy_check_mark:    | :white_circle:        | :x:                   |
-| @DiMaggio1983 | :heavy_check_mark:    | :heavy_check_mark:    |                       | :heavy_check_mark:    |
-| @Maguire2009  | :x:                   | :x:                   | :x:                   |
+| @Meyer1977    | :heavy_check_mark:    | :heavy_check_mark:    | :white_circle:        | :white_circle:        |
+| @DiMaggio1983 | :heavy_check_mark:    | :heavy_check_mark:    | :white_circle:        | :heavy_check_mark:    |
+| @Maguire2009  | :x:                   | :x:                   | :x:                   | :x:                   |
 
 <!--[[_TOC_]]
 
