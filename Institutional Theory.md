@@ -14,8 +14,8 @@ Part of: [[Orgaizational Theory]]
 
 | Article       | Berger & Luckmann     | Weber                 | Giddens (1979)        |
 | ---           | ---                   | ---                   | ---                   |
-| @Meyer1977    | :o:    | :heavy_check_mark:    | :heavy_check_mark:    |
-| @DiMaggio1983 | :o:    | :heavy_check_mark:    | 
+| @Meyer1977    | :heavy_check_mark:    | :heavy_check_mark:    | :heavy_check_mark:    |
+| @DiMaggio1983 | :check_mark:    | :heavy_check_mark:    | 
 
 <!--[[_TOC_]]
 
