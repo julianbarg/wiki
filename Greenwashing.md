@@ -19,6 +19,7 @@ Some papers in this section do not use the term greenwashing.
 | @Fabrizio2019   | Org Science | Phenomenon    | Quant             | Linguistic obfuscation         | Companies hide bad news in complexity |
 | @Carlos2018     | ASQ     | Phenomenon        | Quant             | Withholding certification status |                    Companies withhold certification status to avoid hypocrisy. |                      
 | @Crilly2016     | AMJ     | Phenomenon        | Quant             | Language                       |                  Greenwashers use different language, less precies language than implementors. |
+| @Hawn2016       | SMJ     | Phenomenon        | Quant             | CSR, substantiality & market value |
 | @Marquis2016    | Org Science | Phenomenon    | Quant             | Selective disclosure           |                  External pressure and symbolic compliance. |
 | @Kim2015        | Org Science | Theory        | Quant             | Brownwashing                   |                  Motivations for false communication, including brownwashing. |
 | @Lyon2011       | JEMS    | Theory            | Economic modeling | Information disclosure         |                   Greenwashing by _rational_ actors. |
