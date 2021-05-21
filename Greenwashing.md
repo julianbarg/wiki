@@ -21,6 +21,8 @@ There are two streams of literature. Some articles study greenwashing as a pheno
 
 ## Some observations
 
+* @Laufer2003 and @Ramus2005 are highly cited likely because they were first, not because of depth.
+
 ---
 
 ## References
