@@ -5,7 +5,7 @@ bibliography: library.bib
 Part of: [[Orgaizational Theory]]
 
 | Article       | Journal       | Theory                            | Method                | Conclusion    |
-| ---           | :---:         | :---:                             | :---:                 | :---:         |
+| ---           | :---:         | :---:                             | :---:                 | :--------------------:         |
 | @Maguire2009  | AMJ           | Institutional Theory, discourse   | Discourse analysis    | Because of Carson, DDT was deinstitutionalized, but some meaning was lost in translation. |
 
 <!--[[_TOC_]]
