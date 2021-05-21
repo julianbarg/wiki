@@ -10,7 +10,8 @@ There are two streams of literature. Some articles study greenwashing as a pheno
 
 | Article         | Journal | Group             | Type              | Phenomenon                     |  Summary |
 | --------------- |:---:    |:---:              |:---:              |:------------:                  | ------------------------ |
-| @Torelli2020    | BSE     | Experiment        | Quant             | Signaling & perception         |                      Greenwashing is distinctive to consumers at different levels. |
+| @Szabo2020      | BSE     | Phenomenon        | Quant             | Marketing stuff                |                      Some complex individual perception stuff. |
+| @Torelli2020    | BSE     | Phenomenon        | Quant             | Signaling & perception         |                      Greenwashing is distinctive to consumers at different levels. |
 | @Seele2017      | BSE     | Theory            | Theory paper      | Signaling & perception         |                      Almost a discovery of discourse.|
 | @Du2015         | JBE     | Phenomenon        | Quant             | Greenwashing uncovered         |                          Markets react negatie to greenwashing ranking.|
 | @Lyon2015       | O&E     | Umbrella          | Lit review        | Broad--disinformation          |                       Rational perspective is well-defined, but literature is manifold. |
