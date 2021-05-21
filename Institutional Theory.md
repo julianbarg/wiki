@@ -4,16 +4,18 @@ bibliography: library.bib
 
 Part of: [[Orgaizational Theory]]
 
-| Article       | Journal       | Theory                            | Phenomenon            | Method                | Conclusion      |
-| ----          | :---:         | :---:                             | ---                   | :---:                 | :----------:    |
-| @Maguire2009  | AMJ           | Institutional theory, discourse   | Deinstutionalization  | Discourse analysis    | Because of Carson, DDT was deinstitutionalized, but some meaning was lost in translation. |
-| @Meyer1977    | AJS           | New institutional theory          | 
+| Article       | Journal       | Theory                            | Phenomenon                        | Method                | Conclusion      |
+| ----          | :---:         | :---:                             | ---                               | :---:                 | :----------:    |
+| @Maguire2009  | AMJ           | Institutional theory, discourse   | Deinstutionalization              | Discourse analysis    | Because of Carson, DDT was deinstitutionalized, but some meaning was lost in translation. |
+| @Meyer1977    | AJS           | New institutional theory          | Rationalizing institutional myths | Theory                |
+| @DiMaggio1983 | ASR           | 
 
 ## Key references
 
-| Article       | Berger & Luckmann     |
-| ---           | ---                   |
-| @Meyer1977    | :heavy_check_mark:    |
+| Article       | Berger & Luckmann     | Weber                 |
+| ---           | ---                   | ---                   |
+| @Meyer1977    | :heavy_check_mark:    | :heavy_check_mark:    |
+| @DiMaggio1983 | :heavy_check_mark:    | :heavy_check_mark:    |
 
 <!--[[_TOC_]]
 
