@@ -15,7 +15,7 @@ There are two streams of literature. Some articles study greenwashing as a pheno
 | @Fabrizio2019   | Org Science | Phenomenon    | Quant             | Linguistic obfuscation         | Companies hide bad news in complexity |
 | @Seele2017      | BSE     | Theory            | Theory paper      | Signaling & perception         |                      Almost a discovery of discourse.|
 | @Du2015         | JBE     | Phenomenon        | Quant             | Greenwashing uncovered         |                          Markets react negatie to greenwashing ranking.|
-| @Kim2015        | Org Science |
+| @Kim2015        | Org Science | Theory        | Quant             | Brownwashing
 | @Lyon2015       | O&E     | Umbrella          | Lit review        | Broad--disinformation          |                       Rational perspective is well-defined, but literature is manifold. |
 | @Bowen2014      | O&E     | Theory            | Editorial         | Symbolic management            |                  Symbolic management is not the same as lying, but ineffective! |
 | @Lyon2011       | JEMS    | Theory            | Economic modeling | Information disclosure         |                   Greenwashing by _rational_ actors. |
