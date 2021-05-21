@@ -1,3 +1,7 @@
+---
+bibliography: library.bib
+---
+
 Part of: [[Orgaizational Theory]]
 
 | Article       | Journal       | Theory                            | Method                | Conclusion    |
