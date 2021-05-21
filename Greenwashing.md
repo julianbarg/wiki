@@ -17,6 +17,9 @@ There are two streams of literature. Some articles study greenwashing as a pheno
 | @Ramus2005    | B&S     |                   | Quant             | Policy implementation (survey) | 
 
 *[JEMS]: Journal of Economics & Management Strategy
+*[B&S]: Business & Society
+
+## Some observations
 
 ---
 
