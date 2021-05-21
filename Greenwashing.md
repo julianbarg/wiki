@@ -12,7 +12,7 @@ There are two streams of literature. Some articles study greenwashing as a pheno
 
 ### Non-sustainability business journals
 
-Some papers in this section do not make references to greenwashing.
+Some papers in this section do not use the term greenwashing.
 
 | Article         | Journal | Group             | Type              | Phenomenon                     |  Summary |
 | --------------- |:---:    |:---:              |:---:              |:------------:                  | ------------------------ |
