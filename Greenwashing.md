@@ -19,9 +19,9 @@ There are two streams of literature. Some articles study greenwashing as a pheno
 | @Ramus2005      | B&S     | Phenomenon        | Quant             | Policy implementation (survey) |                        Do companies implement the policies they announce? |
 | @Laufer2003     | JBE     | Phenomenon        | Theory            | Green finance                  |                       Greenwashing in _accounting_ literature. |
 
-*[BSE]: Business Strategy and the Environment
-*[B&S]: Business & Society
-*[JEMS]: Journal of Economics & Management Strategy
+* *[BSE]: Business Strategy and the Environment
+* *[B&S]: Business & Society
+* *[JEMS]: Journal of Economics & Management Strategy
 
 ## Some observations
 
