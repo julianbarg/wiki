@@ -5,7 +5,7 @@ bibliography: library.bib
 Part of: [[Orgaizational Theory]]
 
 | Article       | Journal       | Theory                            | Phenomenon                        | Method                | Conclusion      |
-| ----          | :---:         | :---:                             | ---                               | :---:                 | :----------:    |
+| ----          | :---:         | :---:                             | ---                               | :---:                 | ---------------  |
 | @Maguire2009  | AMJ           | Institutional theory, discourse   | Deinstutionalization              | Discourse analysis    | Because of Carson, DDT was deinstitutionalized, but some meaning was lost in translation. |
 | @Meyer1977    | AJS           | New institutional theory          | Rationalizing institutional myths | Theory                |
 | @DiMaggio1983 | ASR           | 
