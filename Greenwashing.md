@@ -13,7 +13,7 @@ There are two streams of literature. Some articles study greenwashing as a pheno
 | @Szabo2020      | BSE     | Phenomenon        | Quant             | _Marketing_ stuff              |                      Some complex individual perception stuff. |
 | @Torelli2020    | BSE     | Phenomenon        | Quant             | Signaling & perception         |                      Greenwashing is distinctive to _consumers_ at different levels. |
 | @Fabrizio2019   | Org Science | Phenomenon    | Quant             | Linguistic obfuscation         | Companies hide bad news in complexity |
-| @Carlos2018     | ASQ     | Phenomenon        | Quant             | Withholding certificication status |                      
+| @Carlos2018     | ASQ     | Phenomenon        | Quant             | Withholding certification status |                    Companies withhold certification status to avoid hypocrisy. |                      
 | @Seele2017      | BSE     | Theory            | Theory paper      | Signaling & perception         |                      Almost a discovery of discourse.|
 | @Marquis2016    | Org Science | Phenomenon    | Quant             | Selective disclosure           | External pressure and symbolic compliance. |
 | @Du2015         | JBE     | Phenomenon        | Quant             | Greenwashing uncovered         |                          Markets react negatie to greenwashing ranking.|
