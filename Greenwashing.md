@@ -25,14 +25,14 @@ Some papers in this section do not use the term greenwashing. A lot of quantitat
 | @Lyon2011       | JEMS    | Theory            | Economic modeling | Information disclosure         |                   Greenwashing by _rational_ actors. |
 | @Delmas2011     | CMR     | Phenomenon        | Theory paper      | External & internal drivers    |                       Causes of greenwashing at internal, org & individual level. |
 
-### O&E
+### Organization & Environment
 
 | Article         | Journal | Group             | Type              | Phenomenon                     |  Summary |
 | --------------- |:---:    |:---:              |:---:              |:------------:                  | ------------------------ |
 | @Lyon2015       | O&E     | Umbrella          | Lit review        | Broad--disinformation          |                       Rational perspective is well-defined, but literature is manifold. |
 | @Bowen2014      | O&E     | Theory            | Editorial         | Symbolic management            |                  Symbolic management is not the same as lying, but ineffective! |
 
-### JBE
+### Journal of Business Ethics
 
 Articles in this journal are mostly in the marketing space.
 
