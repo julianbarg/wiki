@@ -10,11 +10,11 @@ There are two streams of literature. Some articles study greenwashing as a pheno
 
 | Article         | Journal | Group             | Type              | Phenomenon                     |  Summary |
 | --------------- |:---:    |:---:              |:---:              |:------------:                  | ------------------------ |
-| @Torelli2020    | BSE     | Experiment        | Quant             | Signaling & perception         |                      Greenwashing is distinctive at different levels. |
+| @Torelli2020    | BSE     | Experiment        | Quant             | Signaling & perception         |                      Greenwashing is distinctive to consumers at different levels. |
 | @Seele2017      | BSE     | Theory            | Theory paper      | Signaling & perception         |                      Almost a discovery of discourse.|
 | @Du2015         | JBE     | Phenomenon        | Quant             | Greenwashing uncovered         |                          Markets react negatie to greenwashing ranking.|
 | @Lyon2015       | O&E     | Umbrella          | Lit review        | Broad--disinformation          |                       Rational perspective is well-defined, but literature is manifold. |
-| @Bowen2014      | O&E     | Theory            | Editorial         | Symbolic management            | Symbolic management is not the same as lying, but ineffective! |
+| @Bowen2014      | O&E     | Theory            | Editorial         | Symbolic management            |                  Symbolic management is not the same as lying, but ineffective! |
 | @Lyon2011       | JEMS    | Theory            | Economic modeling | Information disclosure         |                   Greenwashing by _rational_ actors. |
 | @Delmas2011     | CMR     | Phenomenon        | Theory paper      | External & internal drivers    |                       Causes of greenwashing at internal, org & individual level. |
 | @Parguel2011    | JBE     | Phenomenon        | Experiment        | Consumer perception            |                          ESG ratings can influence consumer perception. |
