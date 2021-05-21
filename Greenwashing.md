@@ -12,6 +12,8 @@ There are two streams of literature. Some articles study greenwashing as a pheno
 
 ### Non-sustainability business journals
 
+Some papers in this section do not make references to greenwashing.
+
 | Article         | Journal | Group             | Type              | Phenomenon                     |  Summary |
 | --------------- |:---:    |:---:              |:---:              |:------------:                  | ------------------------ |
 | @Fabrizio2019   | Org Science | Phenomenon    | Quant             | Linguistic obfuscation         | Companies hide bad news in complexity |
