@@ -12,7 +12,7 @@ There are two streams of literature. Some articles study greenwashing as a pheno
 
 ### Non-sustainability business journals
 
-Some papers in this section do not use the term greenwashing.
+Some papers in this section do not use the term greenwashing. A lot of quantitative papers and a lot of attention to brownwashing. Not much points of contact with my work.
 
 | Article         | Journal | Group             | Type              | Phenomenon                     |  Summary |
 | --------------- |:---:    |:---:              |:---:              |:------------:                  | ------------------------ |
@@ -34,6 +34,8 @@ Some papers in this section do not use the term greenwashing.
 
 ### JBE
 
+Articles in this journal are mostly in the marketing space.
+
 | Article         | Journal | Group             | Type              | Phenomenon                     |  Summary |
 | --------------- |:---:    |:---:              |:---:              |:------------:                  | ------------------------ |
 | @Du2015         | JBE     | Phenomenon        | Quant             | Greenwashing uncovered         |                          Markets react negatie to greenwashing ranking. |
@@ -42,6 +44,8 @@ Some papers in this section do not use the term greenwashing.
 | @Laufer2003     | JBE     | Phenomenon        | Theory            | Green finance                  |                       Greenwashing in _accounting_ literature. |
 
 ### Other
+
+These are less rigorous, but some may be receiving attention because they are topical.
 
 | Article         | Journal | Group             | Type              | Phenomenon                     |  Summary |
 | --------------- |:---:    |:---:              |:---:              |:------------:                  | ------------------------ |
