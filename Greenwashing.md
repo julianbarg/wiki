@@ -10,6 +10,7 @@ There are two streams of literature. Some articles study greenwashing as a pheno
 
 | Article         | Journal | Group             | Type              | Phenomenon                     |  Summary |
 | --------------- |:---:    |:---:              |:---:              |:------------:                  | ------------------------ |
+| @Seele2017      | BSE     | Theory            | 
 | @Du2015         | JBE     | Phenomenon        | Quant             | Greenwashing uncovered         |                          Markets react negatie to greenwashing ranking.|
 | @Lyon2015       | O&E     | Umbrella          | Lit review        | Broad--disinformation          |                       Rational perspective is well-defined, but literature is manifold. |
 | @Lyon2011       | JEMS    | Theory            | Economic modeling | Information disclosure         |                   Greenwashing by _rational_ actors. |
@@ -18,8 +19,9 @@ There are two streams of literature. Some articles study greenwashing as a pheno
 | @Ramus2005      | B&S     | Phenomenon        | Quant             | Policy implementation (survey) |                        Do companies implement the policies they announce? |
 | @Laufer2003     | JBE     | Phenomenon        | Theory            | Green finance                  |                       Greenwashing in _accounting_ literature. |
 
-*[JEMS]: Journal of Economics & Management Strategy
+*[BSE]: Business Strategy and the Environment
 *[B&S]: Business & Society
+*[JEMS]: Journal of Economics & Management Strategy
 
 ## Some observations
 
