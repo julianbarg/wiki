@@ -12,10 +12,10 @@ Part of: [[Orgaizational Theory]]
 
 ## Key references
 
-| Article       | Berger & Luckmann     | Weber                 |
-| ---           | ---                   | ---                   |
-| @Meyer1977    | :heavy_check_mark:    | :heavy_check_mark:    |
-| @DiMaggio1983 | :heavy_check_mark:    | :heavy_check_mark:    |
+| Article       | Berger & Luckmann     | Weber                 | Giddens (1979)        |
+| ---           | ---                   | ---                   | ---                   |
+| @Meyer1977    | :o:    | :heavy_check_mark:    | :heavy_check_mark:    |
+| @DiMaggio1983 | :o:    | :heavy_check_mark:    | 
 
 <!--[[_TOC_]]
 
