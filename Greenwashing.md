@@ -47,6 +47,7 @@ Some papers in this section do not use the term greenwashing.
 | --------------- |:---:    |:---:              |:---:              |:------------:                  | ------------------------ |
 | @Szabo2020      | BSE     | Phenomenon        | Quant             | _Marketing_ stuff              |                      Some complex individual perception stuff. |
 | @Torelli2020    | BSE     | Phenomenon        | Quant             | Signaling & perception         |                      Greenwashing is distinctive to _consumers_ at different levels. |
+| @Testa2018      | BSE     | Phenomenon        | Quant             | Greenwashing & financial performance | Greenwashing does not pay, penalty on brownwashing. |
 | @Seele2017      | BSE     | Theory            | Theory paper      | Signaling & perception         |                      Almost a discovery of discourse.|
 | @Ramus2005      | B&S     | Phenomenon        | Quant             | Policy implementation (survey) |                        Do companies implement the policies they announce? |
 
