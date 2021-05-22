@@ -11,14 +11,15 @@ Part of: [[Orgaizational Theory]]
 | @Berger1966   | Knowledge, social constructivism, epistemology, reality. |    |
 | @Meyer1977    | Rationality, formal rules, legitimacy, rationalized rituals, institutional environment.   |   |
 | @DiMaggio1983 | Organizational homogeneity, isomorphism--coercive, mimetic, normative.    | Uncertainty--causes mimetic pressure.   |
+| @Zbaracki1994 | Rhetoric  |
 
 ## Article attributes
 
 | Article       | Journal       | Theory                            | Phenomenon                        | Method                | Conclusion      |
 | ----          | :---:         | :---:                             | ---                               | :---:                 | ---------------  |
 | @Maguire2009  | AMJ           | Institutional theory, discourse   | Deinstutionalization              | Discourse analysis    | Because of Carson, DDT was deinstitutionalized, but some meaning was lost in translation. |
-| @Meyer1977    | AJS           | New institutional theory          | Rationalizing institutional myths | Theory                |
-| @DiMaggio1983 | ASR           | 
+| @Meyer1977    | AJS           | New institutional theory          | Rationalizing institutional myths | Theory |
+| @DiMaggio1983 | ASR           | New institutional theory          | Isomorphic pressure               | Theory |
 
 ## Key references
 
