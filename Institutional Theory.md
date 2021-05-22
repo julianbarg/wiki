@@ -4,6 +4,16 @@ bibliography: library.bib
 
 Part of: [[Orgaizational Theory]]
 
+## Main ideas
+
+| Article       | Key concepts  |
+| ---           | ---           |
+| @Berger1966   | Knowledge, social constructivism, epistemology, reality. |
+| @Meyer1977    | Rationality, formal rules, legitimacy, rationalized rituals.  | 
+| @DiMaggio1983 | Organizational homogeneity, isomorphism, 
+
+## Article attributes
+
 | Article       | Journal       | Theory                            | Phenomenon                        | Method                | Conclusion      |
 | ----          | :---:         | :---:                             | ---                               | :---:                 | ---------------  |
 | @Maguire2009  | AMJ           | Institutional theory, discourse   | Deinstutionalization              | Discourse analysis    | Because of Carson, DDT was deinstitutionalized, but some meaning was lost in translation. |
@@ -13,7 +23,7 @@ Part of: [[Orgaizational Theory]]
 ## Key references
 
 | Article       | Berger & Luckmann     | Weber                 | Meyer and Rowan       | Giddens (1979)        | DiMaggio and Powel |
-| ---           | ---                   | ---                   | ---                   | ---                   | --- |
+| ---           | :-:                   | :-:                   | :-:                   | :-:                   | :-: |
 | @Meyer1977    | :heavy_check_mark:    | :heavy_check_mark:    | :white_circle:        | :white_circle:        | :white_circle:  |
 | @DiMaggio1983 | :heavy_check_mark:    | :heavy_check_mark:    | :white_circle:        | :heavy_check_mark:    | :white_circle:  |
 | @Maguire2009  | :x:                   | :x:                   | :x:                   | :x:                   | :x:       |
