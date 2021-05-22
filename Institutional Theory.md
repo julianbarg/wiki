@@ -7,10 +7,10 @@ Part of: [[Orgaizational Theory]]
 ## Main ideas
 
 | Article       | Key concepts  | Secondary concepts    |
-| ---        | ------        | ---                   |
+| ---           | ------        | ---                   |
 | @Berger1966   | Knowledge, social constructivism, epistemology, reality. |    |
 | @Meyer1977    | Rationality, formal rules, legitimacy, rationalized rituals, institutional environment.   |   |
-| @DiMaggio1983 | Organizational homogeneity, isomorphism--coercive, mimetic, normative.    | Uncertainty   |
+| @DiMaggio1983 | Organizational homogeneity, isomorphism--coercive, mimetic, normative.    | Uncertainty--causes mimetic pressure.   |
 
 ## Article attributes
 
