@@ -8,10 +8,11 @@ Part of: [[Orgaizational Theory]]
 
 | Article       | Key concepts  | Secondary concepts    |
 | ---           | ------        | ---                   |
-| @Berger1966   | Knowledge, social constructivism, epistemology, reality. |    |
-| @Meyer1977    | Rationality, formal rules, legitimacy, rationalized rituals, institutional environment.   |   |
+| @Berger1966   | Knowledge, social constructivism, epistemology, reality.                                      |   |
+| @Meyer1977    | Rationality, formal rules, legitimacy, rationalized rituals, institutional environment.       |   |
 | @DiMaggio1983 | Organizational homogeneity, isomorphism--coercive, mimetic, normative.    | Uncertainty--causes mimetic pressure.   |
-| @Zbaracki1998 | Rhetorics, discourse, legitimation (and deligitimation), rationality, "province of meaning". | "[R]hetorics as a stream of discourse" (p. 609). |
+| @Zbaracki1998 | Rhetorics, discourse, legitimation (and deligitimation), rationality, "province of meaning".  | "[R]hetorics as a stream of discourse" (p. 609). |
+| @Maguire2009  | Discourse, deinstitutionalization, radical change, "translation", power/knowledge relations, actor-network theory   | 
 
 ## Article attributes
 
