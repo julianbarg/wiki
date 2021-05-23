@@ -26,8 +26,7 @@ Part of: [[Orgaizational Theory]]
 
 | Article       | Weber             | Berger & Luckmann | Meyer and Rowan   | @Giddens1979      | @Dimaggio1983     |   @Latour1986         | Foucault              |
 | ---           | :-:               | :-:               | :-:               | :-:               | :-:               |           :-:            | :-:               |
-| @Meyer1977    | :heavy_check_mark:| :heavy_check_mark:| :white_circle:    | :white_circle:    | :white_circle:    |
-:white_circle:      | :x:                   |
+| @Meyer1977    | :heavy_check_mark:| :heavy_check_mark:| :white_circle:    | :white_circle:    | :white_circle:    |   r4:white_circle:      | :x:                   |
 | @DiMaggio1983 | :heavy_check_mark:| :heavy_check_mark:| :white_circle:    | :heavy_check_mark:| :white_circle:    | :white_circle:      | :x:                   |
 | @Zbaracki1994 | :x:               | :heavy_check_mark:| :heavy_check_mark:| :x:               | :heavy_check_mark:|
 :x:                 | :x:                   |
