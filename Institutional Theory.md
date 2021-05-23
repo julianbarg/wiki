@@ -23,7 +23,7 @@ Part of: [[Orgaizational Theory]]
 
 ## References
 
-| Article       | Weber                 | Berger & Luckmann     | Meyer and Rowan       | Giddens (1979)        | DiMaggio and Powel |
+| Article       | Weber                 | Berger & Luckmann     | Meyer and Rowan       | Giddens (1979)        | DiMaggio and Powell  |
 | ---           | :-:                   | :-:                   | :-:                   | :-:                   | :-: |
 | @Meyer1977    | :heavy_check_mark:    | :heavy_check_mark:    | :white_circle:        | :white_circle:        | :white_circle:  |
 | @DiMaggio1983 | :heavy_check_mark:    | :heavy_check_mark:    | :white_circle:        | :heavy_check_mark:    | :white_circle:  |
