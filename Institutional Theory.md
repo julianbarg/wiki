@@ -40,6 +40,7 @@ Suddaby notes the commonly heroic or "hypermascular" nature of institutional ent
 | @Zbaracki1994 | :x:               | :heavy_check_mark:| :heavy_check_mark:| :x:               | :heavy_check_mark:|           :x:                 | :x:                  | :white_circle:    |
 | @Maguire2009  | :x:               | :x:               | :x:               | :x:               | :x:               | :heavy_check_mark:  | :heavy_check_mark:    | :white_circle:    |
 | @Suddaby2017* | :x:               | :heavy_check_mark:| :x:               | :x:               | :x:               |           :x:                | :heavy_check_mark:**  | :heavy_check_mark:|
+|@Montgomery2020| :x:               | :heavy_check_mark:| :x:               | :x:               | :x:               |           :x:                | :x:                   | :heavy_check_mark:|
 
 \* Legitimacy as process section
 
