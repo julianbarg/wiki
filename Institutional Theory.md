@@ -28,8 +28,11 @@ Part of: [[Orgaizational Theory]]
 | ---           | :-:               | :-:               | :-:               | :-:               | :-:               |           :-:            | :-:               |
 | @Meyer1977    | :heavy_check_mark:| :heavy_check_mark:| :white_circle:    | :white_circle:    | :white_circle:    |   :white_circle:      | :x:                   |
 | @DiMaggio1983 | :heavy_check_mark:| :heavy_check_mark:| :white_circle:    | :heavy_check_mark:| :white_circle:    | :white_circle:      | :x:                   |
-| @Zbaracki1994 | :x:               | :heavy_check_mark:| :heavy_check_mark:| :x:               | :heavy_check_mark:|           :x:                 | :x:                   |
+| @Zbaracki1994 | :x:               | :heavy_check_mark:| :heavy_check_mark:| :x:               | :heavy_check_mark:|           :x:                 | :x:                  |
 | @Maguire2009  | :x:               | :x:               | :x:               | :x:               | :x:               | :heavy_check_mark:  | :heavy_check_mark:    |
+| @Suddaby2017* |
+
+* Legitimacy as process section
 
 <!--[[_TOC_]]
 
