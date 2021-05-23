@@ -32,7 +32,7 @@ Part of: [[Orgaizational Theory]]
 | @Maguire2009  | :x:               | :x:               | :x:               | :x:               | :x:               | :heavy_check_mark:  | :heavy_check_mark:    |
 | @Suddaby2017* |
 
-* Legitimacy as process section
+\* Legitimacy as process section
 
 <!--[[_TOC_]]
 
