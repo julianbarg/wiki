@@ -16,7 +16,7 @@ Part of: [[Orgaizational Theory]]
 ## Article attributes
 
 | Article       | Journal       | Theory                            | Phenomenon                        | Method                | Conclusion      |
-| -------       | :---:         | :----:                            | ----                              | :----:                 | -----------------  |
+| -------       | :---:         | :-----:                           | -----                             | :----:                 | -------------------  |
 | @Meyer1977    | AJS           | New institutional theory          | Rationalizing institutional myths | Theory |
 | @DiMaggio1983 | ASR           | New institutional theory          | Isomorphic pressure               | Theory |
 | @Zbaracki1998 | ASQ           | Institutional forces              | TQM                               | Case studies  | When TQM is institutionalized in organizations--shaped and socially constructed--technical elements are lost. |
