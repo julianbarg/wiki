@@ -24,7 +24,7 @@ Part of: [[Orgaizational Theory]]
 
 ## References
 
-| Article       | Weber             | Berger & Luckmann | Meyer and Rowan   | @Giddens1979      | @Dimaggio1983     |   @Latour1986         | Foucault              |
+| Article       | Weber             | Berger & Luckmann | Meyer and Rowan   | @Giddens1979      | @DiMaggio1983     |   @Latour1984         | Foucault              |
 | ---           | :-:               | :-:               | :-:               | :-:               | :-:               |           :-:            | :-:               |
 | @Meyer1977    | :heavy_check_mark:| :heavy_check_mark:| :white_circle:    | :white_circle:    | :white_circle:    |   :white_circle:      | :x:                   |
 | @DiMaggio1983 | :heavy_check_mark:| :heavy_check_mark:| :white_circle:    | :heavy_check_mark:| :white_circle:    | :white_circle:      | :x:                   |
