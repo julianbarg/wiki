@@ -13,6 +13,7 @@ Part of: [[Orgaizational Theory]]
 | @DiMaggio1983 | Organizational homogeneity, isomorphism--coercive, mimetic, normative.                        |  Uncertainty--causes mimetic pressure.   |
 | @Zbaracki1998 | Rhetorics, discourse, legitimation (and deligitimation), rationality, "province of meaning".  | "[R]hetorics as a stream of discourse" (p. 609). |
 | @Maguire2009  | Discourse, deinstitutionalization, radical change, "translation", power/knowledge relations, actor-network theory. | Transformation of problematizations as actors read and interpret texts.   | 
+| @Hoffman2015  |
 | @Suddaby2017  | Legitimacy, legitimation, process, non-essentialist, translation, discourse, theorization.    | 
 
 ### Note on Suddaby
@@ -33,12 +34,13 @@ Suddaby notes the commonly heroic or "hypermascular" nature of institutional ent
 
 ## References
 
-| Article       | Weber             | Berger & Luckmann | Meyer and Rowan   | @Giddens1979      | @DiMaggio1983     |   @Latour1984         | Foucault              | @Maguire2009      |
+| Article       | Weber             | Berger & Luckmann | Meyer and Rowan   | @Giddens1979      | @DiMaggio1983     |           @Latour1984        | Foucault              | @Maguire2009      |
 | ----          | :-:               | :-:               | :-:               | :-:               | :-:               |           :-:                | :-:                   | :-:               |
 | @Meyer1977    | :heavy_check_mark:| :heavy_check_mark:| :white_circle:    | :white_circle:    | :white_circle:    |   :white_circle:      | :x:                   | :white_circle:    |
 | @DiMaggio1983 | :heavy_check_mark:| :heavy_check_mark:| :white_circle:    | :heavy_check_mark:| :white_circle:    | :white_circle:      | :x:                   | :white_circle:    |
 | @Zbaracki1994 | :x:               | :heavy_check_mark:| :heavy_check_mark:| :x:               | :heavy_check_mark:|           :x:                 | :x:                  | :white_circle:    |
 | @Maguire2009  | :x:               | :x:               | :x:               | :x:               | :x:               | :heavy_check_mark:  | :heavy_check_mark:    | :white_circle:    |
+| @Hoffman2015  | :heavy_check_mark:| :x:               | :heavy_check_mark:| :x:               | :heavy_check_mark:|           :x:                | :heavy_check_mark:    | :heavy_check_mark:|
 | @Suddaby2017* | :x:               | :heavy_check_mark:| :x:               | :x:               | :x:               |           :x:                | :heavy_check_mark:**  | :heavy_check_mark:|
 |@Montgomery2020| :x:               | :heavy_check_mark:| :x:               | :x:               | :x:               |           :x:                | :x:                   | :heavy_check_mark:|
 
