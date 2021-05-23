@@ -12,7 +12,7 @@ Part of: [[Orgaizational Theory]]
 | @Meyer1977    | Rationality, formal rules, legitimacy, rationalized rituals, institutional environment.       |   |
 | @DiMaggio1983 | Organizational homogeneity, isomorphism--coercive, mimetic, normative.    | Uncertainty--causes mimetic pressure.   |
 | @Zbaracki1998 | Rhetorics, discourse, legitimation (and deligitimation), rationality, "province of meaning".  | "[R]hetorics as a stream of discourse" (p. 609). |
-| @Maguire2009  | Discourse, deinstitutionalization, radical change, "translation", power/knowledge relations, actor-network theory   | 
+| @Maguire2009  | Discourse, deinstitutionalization, radical change, "translation", power/knowledge relations, actor-network theory. | Transformation of problematizations as actors read and interpret texts.   | 
 
 ## Article attributes
 
