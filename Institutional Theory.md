@@ -11,7 +11,7 @@ Part of: [[Orgaizational Theory]]
 | @Berger1966   | Knowledge, social constructivism, epistemology, reality. |    |
 | @Meyer1977    | Rationality, formal rules, legitimacy, rationalized rituals, institutional environment.   |   |
 | @DiMaggio1983 | Organizational homogeneity, isomorphism--coercive, mimetic, normative.    | Uncertainty--causes mimetic pressure.   |
-| @Zbaracki1998 | Rhetorics, discourse, 
+| @Zbaracki1998 | Rhetorics, discourse, legitimation (and deligitimation), rationality, "province of meaning". | "[R]hetorics as a stream of discourse" (p. 609). |
 
 ## Article attributes
 
