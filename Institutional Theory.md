@@ -33,6 +33,7 @@ Part of: [[Orgaizational Theory]]
 | @Suddaby2017* | :x:               | :heavy_check_mark:| :x:               | :x:               | :x:               |                              | :heavy_check_mark:**
 
 \* Legitimacy as process section
+
 \*\* In the conclusion
 
 <!--[[_TOC_]]
