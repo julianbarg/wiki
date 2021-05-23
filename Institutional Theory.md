@@ -24,12 +24,13 @@ Part of: [[Orgaizational Theory]]
 
 ## References
 
-| Article       | Weber                 | Berger & Luckmann     | Meyer and Rowan       | Giddens (1979)        | DiMaggio and Powell  |
-| ---           | :-:                   | :-:                   | :-:                   | :-:                   | :-: |
-| @Meyer1977    | :heavy_check_mark:    | :heavy_check_mark:    | :white_circle:        | :white_circle:        | :white_circle:  |
-| @DiMaggio1983 | :heavy_check_mark:    | :heavy_check_mark:    | :white_circle:        | :heavy_check_mark:    | :white_circle:  |
-| @Zbaracki1994 | :x:                   | :heavy_check_mark:    | :heavy_check_mark:    | :x:                   | :heavy_check_mark: |
-| @Maguire2009  | :x:                   | :x:                   | :x:                   | :x:                   | :x:       |
+| Article       | Weber             | Berger & Luckmann | Meyer and Rowan   | @Giddens1979      | @Dimaggio1983     |   @Latour1986 |
+
+| ---           | :-:               | :-:               | :-:               | :-:               | :-:               |
+| @Meyer1977    | :heavy_check_mark:| :heavy_check_mark:| :white_circle:    | :white_circle:    | :white_circle:    |
+| @DiMaggio1983 | :heavy_check_mark:| :heavy_check_mark:| :white_circle:    | :heavy_check_mark:| :white_circle:    |
+| @Zbaracki1994 | :x:               | :heavy_check_mark:| :heavy_check_mark:| :x:               | :heavy_check_mark:|
+| @Maguire2009  | :x:               | :x:               | :x:               | :x:               | :x:               |
 
 <!--[[_TOC_]]
 
