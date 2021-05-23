@@ -30,9 +30,10 @@ Part of: [[Orgaizational Theory]]
 | @DiMaggio1983 | :heavy_check_mark:| :heavy_check_mark:| :white_circle:    | :heavy_check_mark:| :white_circle:    | :white_circle:      | :x:                   |
 | @Zbaracki1994 | :x:               | :heavy_check_mark:| :heavy_check_mark:| :x:               | :heavy_check_mark:|           :x:                 | :x:                  |
 | @Maguire2009  | :x:               | :x:               | :x:               | :x:               | :x:               | :heavy_check_mark:  | :heavy_check_mark:    |
-| @Suddaby2017* |
+| @Suddaby2017* | :x:               | :heavy_check_mark:| :x:               | :x:               | :x:               |                              | :heavy_check_mark:**
 
 \* Legitimacy as process section
+\*\* In the conclusion
 
 <!--[[_TOC_]]
 
