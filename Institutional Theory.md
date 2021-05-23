@@ -17,7 +17,7 @@ Part of: [[Orgaizational Theory]]
 
 ### Note on Suddaby
 
-Suddaby notes the commonly heroic or "hypermascular" nature of institutional entrepreneurs. That is because legitimacy-as-a-process studies often focus on one side of the discourse. For instance, @Maguire2009's
+Suddaby notes the commonly heroic or "hypermascular" nature of institutional entrepreneurs. That is because legitimacy-as-a-process studies often focus on one side of the discourse. For instance, @Maguire2009 focus mostly on the translation process, while attention to theorization by Carlson, and interactive processes, is relatively flat. That might be an opportunity for me because the point I am trying to make is exactly that deinstitutionalization is an interactive process with multiple paticipants--a messy process!
 
 ## Article attributes
 
