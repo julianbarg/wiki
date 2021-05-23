@@ -11,7 +11,7 @@ Part of: [[Orgaizational Theory]]
 | @Berger1966   | Knowledge, social constructivism, epistemology, reality. |    |
 | @Meyer1977    | Rationality, formal rules, legitimacy, rationalized rituals, institutional environment.   |   |
 | @DiMaggio1983 | Organizational homogeneity, isomorphism--coercive, mimetic, normative.    | Uncertainty--causes mimetic pressure.   |
-| @Zbaracki1994 | Rhetoric  |
+| @Zbaracki1998 | Rhetorics, discourse, 
 
 ## Article attributes
 
@@ -21,12 +21,13 @@ Part of: [[Orgaizational Theory]]
 | @DiMaggio1983 | ASR           | New institutional theory          | Isomorphic pressure               | Theory |
 | @Maguire2009  | AMJ           | Institutional theory, discourse   | Deinstutionalization              | Discourse analysis    | Because of Carson, DDT was deinstitutionalized, but some meaning was lost in translation. |
 
-## Key references
+## References
 
-| Article       | Berger & Luckmann     | Weber                 | Meyer and Rowan       | Giddens (1979)        | DiMaggio and Powel |
+| Article       | Weber                 | Berger & Luckmann     | Meyer and Rowan       | Giddens (1979)        | DiMaggio and Powel |
 | ---           | :-:                   | :-:                   | :-:                   | :-:                   | :-: |
 | @Meyer1977    | :heavy_check_mark:    | :heavy_check_mark:    | :white_circle:        | :white_circle:        | :white_circle:  |
 | @DiMaggio1983 | :heavy_check_mark:    | :heavy_check_mark:    | :white_circle:        | :heavy_check_mark:    | :white_circle:  |
+| @Zbaracki1994 | :x:                   | :heavy_check_mark:    | :heavy_check_mark:    | :x:                   | :heavy_check_mark: |
 | @Maguire2009  | :x:                   | :x:                   | :x:                   | :x:                   | :x:       |
 
 <!--[[_TOC_]]
