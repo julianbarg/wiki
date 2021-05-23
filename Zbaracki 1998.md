@@ -14,8 +14,8 @@ Zbaracki, M. J. (1994). The Rhetoric and Reality of Total Quality Management. Ad
 * [[Organizational Theory 2017]]
 
 ### Previous literature
-* [[DiMaggio and Powell 1983]]
-* [[Meyer and Rowan 1977]]
+* [[DiMaggio & Powell 1983]]
+* [[Meyer & Rowan 1977]]
 
 ## One-page summary
 
