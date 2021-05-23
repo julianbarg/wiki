@@ -33,13 +33,13 @@ Suddaby notes the commonly heroic or "hypermascular" nature of institutional ent
 
 ## References
 
-| Article       | Weber             | Berger & Luckmann | Meyer and Rowan   | @Giddens1979      | @DiMaggio1983     |   @Latour1984         | Foucault              |
-| ----          | :-:               | :-:               | :-:               | :-:               | :-:               |           :-:            | :-:               |
-| @Meyer1977    | :heavy_check_mark:| :heavy_check_mark:| :white_circle:    | :white_circle:    | :white_circle:    |   :white_circle:      | :x:                   |
-| @DiMaggio1983 | :heavy_check_mark:| :heavy_check_mark:| :white_circle:    | :heavy_check_mark:| :white_circle:    | :white_circle:      | :x:                   |
-| @Zbaracki1994 | :x:               | :heavy_check_mark:| :heavy_check_mark:| :x:               | :heavy_check_mark:|           :x:                 | :x:                  |
-| @Maguire2009  | :x:               | :x:               | :x:               | :x:               | :x:               | :heavy_check_mark:  | :heavy_check_mark:    |
-| @Suddaby2017* | :x:               | :heavy_check_mark:| :x:               | :x:               | :x:               |           :x:                | :heavy_check_mark:**  |
+| Article       | Weber             | Berger & Luckmann | Meyer and Rowan   | @Giddens1979      | @DiMaggio1983     |   @Latour1984         | Foucault              | @Maguire2009      |
+| ----          | :-:               | :-:               | :-:               | :-:               | :-:               |           :-:                | :-:                   | :-:               |
+| @Meyer1977    | :heavy_check_mark:| :heavy_check_mark:| :white_circle:    | :white_circle:    | :white_circle:    |   :white_circle:      | :x:                   | :white_circle:    |
+| @DiMaggio1983 | :heavy_check_mark:| :heavy_check_mark:| :white_circle:    | :heavy_check_mark:| :white_circle:    | :white_circle:      | :x:                   | :white_circle:    |
+| @Zbaracki1994 | :x:               | :heavy_check_mark:| :heavy_check_mark:| :x:               | :heavy_check_mark:|           :x:                 | :x:                  | :white_circle:    |
+| @Maguire2009  | :x:               | :x:               | :x:               | :x:               | :x:               | :heavy_check_mark:  | :heavy_check_mark:    | :white_circle:    |
+| @Suddaby2017* | :x:               | :heavy_check_mark:| :x:               | :x:               | :x:               |           :x:                | :heavy_check_mark:**  | :heavy_check_mark:|
 
 \* Legitimacy as process section
 
