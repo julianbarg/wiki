@@ -6,22 +6,30 @@ Part of: [[Orgaizational Theory]]
 
 ## Main ideas
 
-| Article       | Key concepts  | Secondary concepts    |
-| ---           | -------       | -----                 |
-| @Berger1966   | Knowledge, social constructivism, epistemology, reality.                                      |   |
-| @Meyer1977    | Rationality, formal rules, legitimacy, rationalized rituals, institutional environment.       |   |
-| @DiMaggio1983 | Organizational homogeneity, isomorphism--coercive, mimetic, normative.    | Uncertainty--causes mimetic pressure.   |
+| Article       | Key concepts                                                                  | Secondary concepts    |
+| ---           | -------                                                                                       | ----- |
+| @Berger1966   | Knowledge, social constructivism, epistemology, reality.                                      |       |
+| @Meyer1977    | Rationality, formal rules, legitimacy, rationalized rituals, institutional environment.       |       |
+| @DiMaggio1983 | Organizational homogeneity, isomorphism--coercive, mimetic, normative.                        |  Uncertainty--causes mimetic pressure.   |
 | @Zbaracki1998 | Rhetorics, discourse, legitimation (and deligitimation), rationality, "province of meaning".  | "[R]hetorics as a stream of discourse" (p. 609). |
 | @Maguire2009  | Discourse, deinstitutionalization, radical change, "translation", power/knowledge relations, actor-network theory. | Transformation of problematizations as actors read and interpret texts.   | 
+| @Suddaby2017  | Legitimacy, legitimation, process, non-essentialist, translation, discourse, theorization.    | 
+
+### Note on Suddaby
+
+Suddaby notes the commonly heroic or "hypermascular" nature of institutional entrepreneurs. That is because legitimacy-as-a-process studies often focus on one side of the discourse. For instance, @Maguire2009's
 
 ## Article attributes
 
-| Article       | Journal       | Theory                            | Phenomenon                        | Method                | Conclusion      |
-| -------       | :---:         | :------:                          | -----                             | :----:                 | ----------------------  |
-| @Meyer1977    | AJS           | New institutional theory          | Rationalizing institutional myths | Theory |
-| @DiMaggio1983 | ASR           | New institutional theory          | Isomorphic pressure               | Theory |
-| @Zbaracki1998 | ASQ           | Institutional forces              | TQM                               | Case studies  | When TQM is institutionalized in organizations--shaped and socially constructed--technical elements are lost. |
-| @Maguire2009  | AMJ           | Institutional theory, discourse   | Deinstutionalization              | Discourse analysis    | Because of Carson, DDT was deinstitutionalized, but some meaning was lost in translation. |
+| Article       | Journal       | Theory                            | Phenomenon                        | Method            | Conclusion      |
+| -------       | :---:         | :------:                          | -----                             | :----:            | ----------------------  |
+| @Meyer1977    | AJS           | New institutional theory          | Rationalizing institutional myths | Theory            |
+| @DiMaggio1983 | ASR           | New institutional theory          | Isomorphic pressure               | Theory            |
+| @Zbaracki1998 | ASQ           | Institutional forces              | TQM                               | Case studies      | When TQM is institutionalized in organizations--shaped and socially constructed--technical elements are lost. |
+| @Maguire2009  | AMJ           | Institutional theory, discourse   | Deinstutionalization              | Discourse analysis| Because of Carson, DDT was deinstitutionalized, but some meaning was lost in translation. |
+| @Suddaby2017* | AMA           | Legitimacy                        | -                                 | Literature Review |
+
+\* Legitimacy as process section
 
 ## References
 
