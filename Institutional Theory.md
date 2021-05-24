@@ -24,11 +24,12 @@ Suddaby notes the commonly heroic or "hypermascular" nature of institutional ent
 
 | Article       | Journal   | Theory                            | Phenomenon                        | Method            | Conclusion      |
 | ------        | :-:       | :----:                            | ---                               | :--:              | --------------- |
-| @Meyer1977    | AJS       | New institutional theory          | Rationalizing institutional myths | Theory            |
-| @DiMaggio1983 | ASR       | New institutional theory          | Isomorphic pressure               | Theory            |
+| @Meyer1977    | AJS       | New institutional theory (IT)     | Rationalizing institutional myths | Theory            |
+| @DiMaggio1983 | ASR       | New IT                            | Isomorphic pressure               | Theory            |
+| @Jennings1995 | AMR       | IT & Ecology                      |
 | @Zbaracki1998 | ASQ       | Institutional forces              | TQM                               | Case studies      | When TQM is institutionalized in organizations--shaped and socially constructed--technical elements are lost. |
-| @Maguire2009  | AMJ       | Institutional theory, discourse   | Deinstutionalization              | Discourse analysis| Because of Carson, DDT was deinstitutionalized, but some meaning was lost in translation. |
-| @Hoffman2015  | O&E       | Institutional theory, natural env | Anthropocene                      | Theory            |
+| @Maguire2009  | AMJ       | IT, discourse                     | Deinstutionalization              | Discourse analysis| Because of Carson, DDT was deinstitutionalized, but some meaning was lost in translation. |
+| @Hoffman2015  | O&E       | IT, natural environment           | Anthropocene                      | Theory            |
 | @Suddaby2017* | AMA       | Legitimacy                        | -                                 | Literature Review |
 
 \* Legitimacy as process section
