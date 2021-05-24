@@ -36,7 +36,7 @@ Suddaby notes the commonly heroic or "hypermascular" nature of institutional ent
 
 ## References
 
-| Article       | Weber             | Berger & Luckmann | Meyer and Rowan   | @Giddens1979      | @DiMaggio1983     |           @Latour1984        | Foucault              | @Maguire2009      | others                        |
+| Article       | Weber             | Berger & Luckmann | Meyer and Rowan   | @Giddens1979      | @DiMaggio1983     |           @Latour1984        | Foucault              | @Maguire2009      | Others                        |
 | ------------- | :-:               | :-:               | :-:               | :-:               | :-:               |           :-:                | :-:                   | :-:               | ------------                  |
 | @Meyer1977    | :heavy_check_mark:| :heavy_check_mark:| :white_circle:    | :white_circle:    | :white_circle:    |   :white_circle:      | :x:                   | :white_circle:    |
 | @DiMaggio1983 | :heavy_check_mark:| :heavy_check_mark:| :white_circle:    | :heavy_check_mark:| :white_circle:    | :white_circle:      | :x:                   | :white_circle:    |
