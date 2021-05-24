@@ -45,7 +45,7 @@ Suddaby notes the commonly heroic or "hypermascular" nature of institutional ent
 | ------------- | :-:               | :-:               | :-:               | :-:               | :-:               |           :-:                | :-:                   | :-:               | ------------                  |
 | @Meyer1977    | :heavy_check_mark:| :heavy_check_mark:| :white_circle:    | :white_circle:    | :white_circle:    |   :white_circle:      | :x:                   | :white_circle:    |
 | @DiMaggio1983 | :heavy_check_mark:| :heavy_check_mark:| :white_circle:    | :heavy_check_mark:| :white_circle:    | :white_circle:      | :x:                   | :white_circle:    |
-| @Oliver1992   | :x:               | :heavy_check_mark:| :heavy_check_mark:| :x:               | :heavy_check_mark:|           :x:                | :x:                   | :white_circle:     |
+| @Oliver1992   | :x:               | :heavy_check_mark:| :heavy_check_mark:| :x:               | :heavy_check_mark:|           :x:                | :x:                   | :white_circle:     | Argyris and Schön    |
 | @Zbaracki1994 | :x:               | :heavy_check_mark:| :heavy_check_mark:| :x:               | :heavy_check_mark:|           :x:                 | :x:                  | :white_circle:    |
 | @Jennings1995 | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|           :x:                | :x:                   | :white_circle:    | Latour, Bourdieu, Habermas, Perrow |
 | @Maguire2009  | :x:               | :x:               | :x:               | :x:               | :x:               | :heavy_check_mark:  | :heavy_check_mark:    | :white_circle:    |
