@@ -27,13 +27,15 @@ Suddaby notes the commonly heroic or "hypermascular" nature of institutional ent
 | --------      | :-:       | :----:                            | ---                               | :--:              | ------------------- |
 | @Meyer1977    | AJS       | New institutional theory (IT)     | Rationalizing institutional myths | Theory            |
 | @DiMaggio1983 | ASR       | New IT                            | Isomorphic pressure               | Theory            |
-| @Jennings1995 | AMR       | IT & Ecology                      | -                                 | Theory            | IT can answer how is sustainability institutionalized, or can study deinstitutionalization. Predicts shallowness of current definition (p. 1027).   |
+| @Jennings1995 | AMR       | IT & Ecology                      | -                                 | Theory            | IT can answer how is sustainability institutionalized, or can study deinstitutionalization.** |
 | @Zbaracki1998 | ASQ       | Institutional forces              | TQM                               | Case studies      | When TQM is institutionalized in organizations--shaped and socially constructed--technical elements are lost. |
 | @Maguire2009  | AMJ       | IT, discourse                     | Deinstutionalization              | Discourse analysis| Because of Carson, DDT was deinstitutionalized, but some meaning was lost in translation. |
 | @Hoffman2015  | O&E       | IT, natural environment           | Anthropocene                      | Theory            |
 | @Suddaby2017* | AMA       | Legitimacy                        | -                                 | Literature Review |
 
 \* Legitimacy as process section
+
+\*\* @Jennings1995 unintentionally predict the shallowness of current definition of sustainability (p. 1027), does not forsee the problems associated with that (p. 1031).
 
 ## References
 
