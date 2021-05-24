@@ -26,7 +26,7 @@ Suddaby notes the commonly heroic or "hypermascular" nature of institutional ent
 | --------      | :-:       | :----:                            | ---                               | :--:              | --------------- |
 | @Meyer1977    | AJS       | New institutional theory (IT)     | Rationalizing institutional myths | Theory            |
 | @DiMaggio1983 | ASR       | New IT                            | Isomorphic pressure               | Theory            |
-| @Jennings1995 | AMR       | IT & Ecology                      | -                                 | Theory            |
+| @Jennings1995 | AMR       | IT & Ecology                      | -                                 | Theory            | IT can answer how is sustainability institutionalized, or can study deinstitutionalization. |
 | @Zbaracki1998 | ASQ       | Institutional forces              | TQM                               | Case studies      | When TQM is institutionalized in organizations--shaped and socially constructed--technical elements are lost. |
 | @Maguire2009  | AMJ       | IT, discourse                     | Deinstutionalization              | Discourse analysis| Because of Carson, DDT was deinstitutionalized, but some meaning was lost in translation. |
 | @Hoffman2015  | O&E       | IT, natural environment           | Anthropocene                      | Theory            |
