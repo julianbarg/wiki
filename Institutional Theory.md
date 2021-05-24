@@ -15,6 +15,7 @@ Part of: [[Orgaizational Theory]]
 | @Jennings1995 | Institutions, social constructivism, language, fields, GIS. | Societal fields (Bourdieu) vs. organizational fields (DiMaggio & Powell). |
 | @Zbaracki1998 | Rhetorics, discourse, legitimation (and deligitimation), rationality, "province of meaning".  | "[R]hetorics as a stream of discourse" (p. 609). |
 | @Maguire2009  | Discourse, deinstitutionalization, radical change, "translation", power/knowledge relations, actor-network theory. | Transformation of problematizations as actors read and interpret texts.   | 
+| @Wijen2014    | Means, ends
 | @Hoffman2015  |
 | @Suddaby2017  | Legitimacy, legitimation, process, non-essentialist, translation, discourse, theorization.    | 
 
@@ -32,6 +33,7 @@ Suddaby notes the commonly heroic or "hypermascular" nature of institutional ent
 | @Jennings1995 | AMR       | IT & Ecology                      | -                                 | Theory            |       IT can answer how sustainability is institutionalized, or can study deinstitutionalization.** |
 | @Zbaracki1998 | ASQ       | Institutional forces              | TQM                               | Case studies      | When TQM is institutionalized in organizations--shaped and socially constructed--technical elements are lost. |
 | @Maguire2009  | AMJ       | IT, discourse                     | Deinstutionalization              | Discourse analysis| Because of Carson, DDT was deinstitutionalized, but some meaning was lost in translation. |
+| @Wijen2014    | AMR       | 
 | @Hoffman2015  | O&E       | IT, natural environment           | Anthropocene                      | Theory            |
 | @Suddaby2017* | AMA       | Legitimacy                        | -                                 | Literature Review |
 
