@@ -23,7 +23,7 @@ Suddaby notes the commonly heroic or "hypermascular" nature of institutional ent
 ## Article attributes
 
 | Article       | Journal   | Theory                            | Phenomenon                        | Method            | Conclusion      |
-| --------      | :-:       | :----:                            | ---                               | :--:              | --------------- |
+| ------        | :-:       | :----:                            | ---                               | :--:              | --------------- |
 | @Meyer1977    | AJS       | New institutional theory          | Rationalizing institutional myths | Theory            |
 | @DiMaggio1983 | ASR       | New institutional theory          | Isomorphic pressure               | Theory            |
 | @Zbaracki1998 | ASQ       | Institutional forces              | TQM                               | Case studies      | When TQM is institutionalized in organizations--shaped and socially constructed--technical elements are lost. |
@@ -36,7 +36,7 @@ Suddaby notes the commonly heroic or "hypermascular" nature of institutional ent
 ## References
 
 | Article       | Weber             | Berger & Luckmann | Meyer and Rowan   | @Giddens1979      | @DiMaggio1983     |           @Latour1984        | Foucault              | @Maguire2009      | Latour (other)        | Bourdieu              |
-| --------      | :-:               | :-:               | :-:               | :-:               | :-:               |           :-:                | :-:                   | :-:               | :-:                   | :-:                   |
+| ---------     | :-:               | :-:               | :-:               | :-:               | :-:               |           :-:                | :-:                   | :-:               | :-:                   | :-:                   |
 | @Meyer1977    | :heavy_check_mark:| :heavy_check_mark:| :white_circle:    | :white_circle:    | :white_circle:    |   :white_circle:      | :x:                   | :white_circle:    |
 | @DiMaggio1983 | :heavy_check_mark:| :heavy_check_mark:| :white_circle:    | :heavy_check_mark:| :white_circle:    | :white_circle:      | :x:                   | :white_circle:    |
 | @Zbaracki1994 | :x:               | :heavy_check_mark:| :heavy_check_mark:| :x:               | :heavy_check_mark:|           :x:                 | :x:                  | :white_circle:    |
