@@ -23,7 +23,7 @@ Suddaby notes the commonly heroic or "hypermascular" nature of institutional ent
 ## Article attributes
 
 | Article       | Journal   | Theory                            | Phenomenon                        | Method            | Conclusion      |
-| --------      | :-:       | :----:                            | ---                               | :--:              | --------------- |
+| --------      | :-:       | :----:                            | ---                               | :--:              | ------------------- |
 | @Meyer1977    | AJS       | New institutional theory (IT)     | Rationalizing institutional myths | Theory            |
 | @DiMaggio1983 | ASR       | New IT                            | Isomorphic pressure               | Theory            |
 | @Jennings1995 | AMR       | IT & Ecology                      | -                                 | Theory            | IT can answer how is sustainability institutionalized, or can study deinstitutionalization. |
