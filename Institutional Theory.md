@@ -39,6 +39,10 @@ Suddaby notes the commonly heroic or "hypermascular" nature of institutional ent
 
 \*\* @Jennings1995 unintentionally predict the shallowness of current definition of sustainability (p. 1027), does not forsee the problems associated with that (p. 1031).
 
+### Note on Zbaracki
+
+Clarifies that actors pick up institutionalized practices because of their believe that they are rational and "work", not because they are popular.
+
 ## References
 
 | Article       | Weber             | Berger & Luckmann | Meyer and Rowan   | @Giddens1979      | @DiMaggio1983     |           @Latour1984        | Foucault              | @Maguire2009      | Others                        |
