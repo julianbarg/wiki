@@ -2,7 +2,7 @@
 bibliography: library.bib
 ---
 
-Part of: [[Orgaizational Theory]]
+Part of: [[Organizational Theory]]
 
 ## Main ideas
 
