@@ -53,6 +53,7 @@ Clarifies that actors pick up institutionalized practices because of their belie
 | @Zbaracki1994 | :x:               | :heavy_check_mark:| :heavy_check_mark:| :x:               | :heavy_check_mark:|           :x:                 | :x:                  | :white_circle:    |
 | @Jennings1995 | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:|           :x:                | :x:                   | :white_circle:    | Latour, Bourdieu, Habermas, Perrow |
 | @Maguire2009  | :x:               | :x:               | :x:               | :x:               | :x:               | :heavy_check_mark:  | :heavy_check_mark:    | :white_circle:    |
+| @Wijen2014    | :x:               | :x:               | :heavy_check_mark:| :x:               | :heavy_check_mark:|           :x:                | :x:                   | :x:               |
 | @Hoffman2015  | :heavy_check_mark:| :x:               | :heavy_check_mark:| :x:               | :heavy_check_mark:|           :x:                | :heavy_check_mark:    | :heavy_check_mark:|
 | @Suddaby2017* | :x:               | :heavy_check_mark:| :x:               | :x:               | :x:               |           :x:                | :heavy_check_mark:**  | :heavy_check_mark:|
 |@Montgomery2020| :x:               | :heavy_check_mark:| :x:               | :x:               | :x:               |           :x:                | :x:                   | :heavy_check_mark:|
