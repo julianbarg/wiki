@@ -4,6 +4,8 @@ bibliography: library.bib
 
 Part of: [[Organizational Theory]]
 
+[[_TOC_]]
+
 ## Main ideas
 
 | Article       | Key concepts                                                                  | Secondary concepts    |
