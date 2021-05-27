@@ -15,8 +15,7 @@ Article     | Journal   | Summary
 Article         |Journal    | Mechanisms                            | Summary    
 ------          |:-:        | ------                                | ------------------
 @Mohliver2019   |ASQ        | Legitimacy, networks                  | Professions help spread questionable practices--and extinguish them when illegality becomes clear!
-Briscoe2012     | ASQ       | Networks, controversy, transparency   |        
-Where it is transparent that a controversial practice is adopted, the inevitable backlash will deter others from also adopting that practice.
+@Briscoe2012     | ASQ       | Networks, controversy, transparency  | Where it is transparent that a controversial practice is adopted, the inevitable backlash will deter others from also adopting that practice.
 
 Articles        | References for mechanism
 ---             | ------
