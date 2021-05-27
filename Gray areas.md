@@ -21,6 +21,10 @@ Articles        | References for mechanism
 ---             | ------
 @Mohliver2019   | @Abrahamson1991, @Briscoe2012
 
+### Note on @Briscoe2012
+
+Suggests future work should investigate intentionality in obfuscation processes.
+
 ## Greenwashing
 
 Article     | Journal   | Summary
