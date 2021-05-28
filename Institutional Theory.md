@@ -6,6 +6,10 @@ Part of: [[Organizational Theory]]
 
 [[_TOC_]]
 
+## ToDo
+
+* @Lawrence2006
+
 ## Main ideas
 
 | Article       | Key concepts                                                                  | Secondary concepts    |
