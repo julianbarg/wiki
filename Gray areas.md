@@ -24,7 +24,7 @@ Article         | Mechanisms                                                    
 ---             | -------                                                           | ------
 @Mohliver2019   | Legitimacy, networks                                              | @Abrahamson1991, @Briscoe2012
 @Schnatterly2018| Agency                                                            | @Cressey1950
-@Crane2013      | Nieches                                                           | @Hannan1984, @DiMaggio1983
+@Crane2013      | Nieches                                                           | @Hannan1984, @DiMaggio1983, @Oliver1991
 @Briscoe2012    | Networks, controversy, transparency, learning, innovation, fields | @Rogers2003, @Levitt1988, @Fligstein1996
 @Cooke2003      | Scientific management--agency and learning I guess?!              | Chandler, Smith & Taylor
 
