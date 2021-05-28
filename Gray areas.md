@@ -12,6 +12,17 @@ Article     | Journal   | Summary
 
 ## Corporate Misconduct
 
+Article             | Journal   | Phenomenon                | Method        | Summary
+---                 | ---       | ---                       | ---           | ---------
+@Mohliver2019       | ASQ       | Stock-option Backdating   | Quant         | Professions help spread questionable practices--and extinguish them when illegality becomes clear!
+
+Article         | References for mechanism
+---             | ------
+@Mohliver2019   | @Abrahamson1991, @Briscoe2012
+@Schnatterly2018| @Cressey1950
+@Crane2013      | @Hannan1984
+@Briscoe2012    | @Rogers2003, @Levitt1988, @Fligstein1996
+
 Article             | Journal   | Mechanisms                                                        | Summary    
 ------              | :-:       | -----------                                                       | -------------------
 @Mohliver2019       | ASQ       | Legitimacy, networks                                              | Professions help spread questionable practices--and extinguish them when illegality becomes clear!
@@ -19,12 +30,7 @@ Article             | Journal   | Mechanisms                                    
 @Crane2013          | AMR       | Nieches
 @Briscoe2012        | ASQ       | Networks, controversy, transparency, learning, innovation, fields | Where it is transparent that a controversial practice is adopted, the inevitable backlash will deter others from also adopting that practice.
 
-Articles        | References for mechanism
----             | ------
-@Mohliver2019   | @Abrahamson1991, @Briscoe2012
-@Schnatterly2018| @Cressey1950
-@Crane2013      | @Hannan1984
-@Briscoe2012    | @Rogers2003, @Levitt1988, @Fligstein1996
+
 
 ### Note on @Briscoe2012
 
