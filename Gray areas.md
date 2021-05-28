@@ -13,7 +13,7 @@ Article     | Journal   | Summary
 ## Corporate Misconduct
 
 Article             | Journal   | Phenomenon                | Method        | Summary
----                 | ---       | ---                       | ---           | ---------
+---                 | :-:       | ---                       | ---           | ---------
 @Mohliver2019       | ASQ       | Stock-option Backdating   | Quant         | Professions help spread questionable practices--and extinguish them when illegality becomes clear!
 
 Article         | References for mechanism
