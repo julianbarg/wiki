@@ -21,7 +21,7 @@ Article             | Journal   | Mechanisms                                    
 Articles        | References for mechanism
 ---             | ------
 @Mohliver2019   | @Abrahamson1991, @Briscoe2012
-@Schatterly2018 | @Cressey1950
+@Schnatterly2018| @Cressey1950
 @Briscoe2012    | @Rogers2003, @Levitt1988, @Fligstein1996
 
 ### Note on @Briscoe2012
