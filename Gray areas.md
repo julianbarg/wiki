@@ -30,9 +30,10 @@ Article         | Mechanisms                                                    
 
 
 
-### Note on @Briscoe2012
+### Notes
 
-Suggests future work should investigate intentionality in obfuscation processes.
+* @Briscoe2012 suggests future work should investigate intentionality in obfuscation processes.
+* I guess @Cooke2003 somehow is the only one who takes the perpetrators serious?
 
 ## Greenwashing
 
