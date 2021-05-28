@@ -12,9 +12,12 @@ Article     | Journal   | Summary
 
 ## Corporate Misconduct
 
-Article             | Journal   | Phenomenon                | Method        | Summary
-------              | :-:       | ------                    | :----:        | ------------------
-@Mohliver2019       | ASQ       | Stock-option Backdating   | Quant         | Professions help spread questionable practices--and extinguish them when illegality becomes clear!
+Article             | Journal   | Phenomenon                                | Method        | Summary
+------              | :-:       | ------                                    | :----:        | ------------------
+@Mohliver2019       | ASQ       | Stock-option Backdating                   | Quant         | Professions help spread questionable practices--and extinguish them when illegality becomes clear!
+@Schnatterly2018    | JOM       | CEO wrongdoing                            | Theory        | CEO wrongdoing more likely to occur where there is pressure, opportunity, and rationalization (for the action).
+@Crane2013          | AMR       | Modern slavery                            | Theory        | 
+@Briscoe2012        | ASQ       | Curtailment of retiree's health benefits  | Quant         | Where it is transparent that a controversial practice is adopted, the inevitable backlash will deter others from also adopting that practice.
 
 Article         | References for mechanism
 ---             | ------
@@ -25,10 +28,10 @@ Article         | References for mechanism
 
 Article             | Journal   | Mechanisms                                                        | Summary    
 ------              | :-:       | -----------                                                       | -------------------
-@Mohliver2019       | ASQ       | Legitimacy, networks                                              | Professions help spread questionable practices--and extinguish them when illegality becomes clear!
-@Schnatterly2018    | JOM       | Agency                                                            | CEO wrongdoing more likely to occur where there is pressure, opportunity, and rationalization (for the action).
+@Mohliver2019       | ASQ       | Legitimacy, networks                                              | 
+@Schnatterly2018    | JOM       | Agency                                                            | 
 @Crane2013          | AMR       | Nieches
-@Briscoe2012        | ASQ       | Networks, controversy, transparency, learning, innovation, fields | Where it is transparent that a controversial practice is adopted, the inevitable backlash will deter others from also adopting that practice.
+@Briscoe2012        | ASQ       | Networks, controversy, transparency, learning, innovation, fields | 
 
 
 
