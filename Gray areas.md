@@ -13,7 +13,7 @@ Article     | Journal   | Summary
 ## Corporate Misconduct
 
 Article             | Journal   | Phenomenon                                | Method        | Summary
-------              | :-:       | ------                                    | :----:        | ------------------
+------              | :-:       | ------                                    | :-:           | ------------------
 @Mohliver2019       | ASQ       | Stock-option Backdating                   | Quant         | Professions help spread questionable practices--and extinguish them when illegality becomes clear!
 @Schnatterly2018    | JOM       | CEO wrongdoing                            | Theory        | CEO wrongdoing more likely to occur where there is pressure, opportunity, and rationalization (for the action).
 @Crane2013          | AMR       | Modern slavery                            | Theory        | 
