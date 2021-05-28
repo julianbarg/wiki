@@ -21,7 +21,7 @@ Article             | Journal   | Phenomenon                                | Me
 @Cooke2003          | JMS       | Slavery in 19th century US                | Historical    | Management spread through plantations as it spread through other sectors--it is interconnected!
 
 Article         | Mechanisms                                                        | References for mechanism
----             | ----                                                              | --------
+---             | -----                                                             | --------
 @Mohliver2019   | Legitimacy, networks                                              | @Abrahamson1991, @Briscoe2012
 @Schnatterly2018| Agency                                                            | @Cressey1950
 @Crane2013      | Nieches                                                           | @Hannan1984, @DiMaggio1983, @Oliver1991
