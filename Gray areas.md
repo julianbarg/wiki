@@ -24,7 +24,7 @@ Article         | Mechanisms                                                    
 ---             | -----                                                             | --------
 @Mohliver2019   | Legitimacy, networks                                              | @Abrahamson1991, @Briscoe2012
 @Schnatterly2018| Agency                                                            | @Cressey1950
-@Crane2013      | Nieches                                                           | @Hannan1984, @DiMaggio1983, @Oliver1991, @Barney1991
+@Crane2013      | Nieches, institutions, RBV                                        | @Hannan1984, @DiMaggio1983, @Oliver1991, @Barney1991
 @Briscoe2012    | Networks, controversy, transparency, learning, innovation, fields | @Rogers2003, @Levitt1988, @Fligstein1996
 @Cooke2003      | Scientific management--agency and learning I guess?!              | Chandler, Smith & Taylor
 
@@ -34,6 +34,7 @@ Article         | Mechanisms                                                    
 
 * @Briscoe2012 suggests future work should investigate intentionality in obfuscation processes.
 * I guess @Cooke2003 somehow is the only one who takes the perpetrators serious?
+* @Crane2013 uses the term "Slavery Management Capabilities"--dark, inappropriate, but maybe exactly what I need?
 
 ## Greenwashing
 
