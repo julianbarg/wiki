@@ -19,19 +19,13 @@ Article             | Journal   | Phenomenon                                | Me
 @Crane2013          | AMR       | Modern slavery                            | Theory        | 
 @Briscoe2012        | ASQ       | Curtailment of retiree's health benefits  | Quant         | Where it is transparent that a controversial practice is adopted, the inevitable backlash will deter others from also adopting that practice.
 
-Article         | References for mechanism
----             | ------
-@Mohliver2019   | @Abrahamson1991, @Briscoe2012
-@Schnatterly2018| @Cressey1950
-@Crane2013      | @Hannan1984
-@Briscoe2012    | @Rogers2003, @Levitt1988, @Fligstein1996
+Article         | Mechanisms                                                        | References for mechanism
+---             | -------                                                           | ------
+@Mohliver2019   | Legitimacy, networks                                              | @Abrahamson1991, @Briscoe2012
+@Schnatterly2018| Agency                                                            | @Cressey1950
+@Crane2013      | Nieches                                                           | @Hannan1984
+@Briscoe2012    | Networks, controversy, transparency, learning, innovation, fields | @Rogers2003, @Levitt1988, @Fligstein1996
 
-Article             | Journal   | Mechanisms                                                        | Summary    
-------              | :-:       | -----------                                                       | -------------------
-@Mohliver2019       | ASQ       | Legitimacy, networks                                              | 
-@Schnatterly2018    | JOM       | Agency                                                            | 
-@Crane2013          | AMR       | Nieches
-@Briscoe2012        | ASQ       | Networks, controversy, transparency, learning, innovation, fields | 
 
 
 
