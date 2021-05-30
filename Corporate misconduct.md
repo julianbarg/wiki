@@ -2,6 +2,8 @@
 bibliography: library.bib
 ---
 
+## Overview
+
 Article             | Journal   | Phenomenon                                | Method        | Summary
 ------              | :-:       | -------                                   | :-:           | -------------------
 @Mohliver2019       | ASQ       | Stock-option Backdating                   | Quant         | Professions help spread questionable practices--and extinguish them when illegality becomes clear!
@@ -9,6 +11,8 @@ Article             | Journal   | Phenomenon                                | Me
 @Crane2013          | AMR       | Modern slavery                            | Theory        | Arguing that it is the lack of change that let to slavery enduring into modern times.
 @Briscoe2012        | ASQ       | Curtailment of retiree's health benefits  | Quant         | Where it is transparent that a controversial practice is adopted, the inevitable backlash will deter others from also adopting that practice.
 @Cooke2003          | JMS       | Slavery in 19th century US                | Historical    | Management spread through plantations as it spread through other sectors--it is interconnected!
+
+## Mechanisms
 
 Article         | Mechanisms                                                        | References for mechanism
 ---             | -----                                                             | --------
