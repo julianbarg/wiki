@@ -4,13 +4,15 @@ bibliography: library.bib
 
 ## Sources of liminality
 
-Construct                   | Source    | Response      | Coordination  | Target    | Strategy      | Temporal 
----                         | ---       | ---           | ---           | ---       | ---           | ---
-**Regulatory capture**      | Coercive  | Manipulate    | -             | Meso      | Attack        | Preemptive
-**Inaction (successful)**   | Coercive  | Avoid/defy    | Industry      | Micro     | -             | Reactive
-**Inaction**                | Coercive  | Avoid/defy    | Organization  | Micro     | -             | Reactive
-**Climate change denial**   | Normative | Manipulate    | Sector        | Macro     | Challenge     | Preemptive
-**"Clean coal"**            | Normative | Manipulate    | Industry      | Macro     | Challenge     | Reactive
+Construct                   | Source    | Response      | Coordination      | Target    | Strategy      | Temporal 
+---                         | ---       | ---           | ---               | ---       | ---           | ---
+**Regulatory capture**      | Coercive  | Manipulate    | -                 | Meso      | Attack        | Preemptive
+**Inaction (successful)**   | Coercive  | Defy          | Industry          | Micro     | -             | Reactive
+**Inaction**                | Coercive  | Defy          | Organization      | Micro     | -             | Reactive
+**Climate change denial**   | Normative | Manipulate    | Sector            | Macro     | Challenge     | Preemptive
+**"Clean coal"**            | Normative | Manipulate    | Industry          | Macro     | Challenge     | Reactive
+**Link with religion**      | Normative | Avoid         | Industry/sector   | Macro     | Substitute    | Preemptive
+**Election contributions**  | Coervice  | Manipulate    | -                 | Meso      | Attack        | Preemptive/delay/reactive
 
 ## Levels and attributes
 
