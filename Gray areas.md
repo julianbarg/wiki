@@ -19,15 +19,14 @@ bibliography: library.bib
     * Meso: Organization in charge of enforcing the rules
         * Regulatory capture/lobbying/elections
     * Specific rules
-
-## Strategies
-
-* Challenge the science--create own research
-* Challenge the enemy coalition--donate and lobby (NRA & coal)
-* Seek alternative source of legitimacy--e.g., religion, security 
-
-
-
+* Strategies
+    * Challenge the science--create own research
+    * Challenge the enemy coalition--donate and lobby (NRA & coal)
+    * Seek alternative source of legitimacy--e.g., religion, security 
+* Temporal
+    * Preemptive
+    * Reactive
+    * Delay
 
 ## Sources of liminality
 
