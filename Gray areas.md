@@ -2,6 +2,12 @@
 bibliography: library.bib
 ---
 
+## Sources of liminality
+
+Construct           | Source    | Response      | Target    | Strategy  | Temporal 
+---                 | ---       | ---           | ---       | ---       | ---
+Regulatory capture  | Coercive  | Manipulate    | Meso      | Attack    | Preemptive
+
 ## Levels and attributes
 
 * Sources of institutional pressure [@DiMaggio1983]
@@ -21,17 +27,12 @@ bibliography: library.bib
     * Specific rules
 * Strategies
     * Challenge the science--create own research
-    * Challenge the enemy coalition--donate and lobby (NRA & coal)
-    * Seek alternative source of legitimacy--e.g., religion, security 
+    * Attack the enemy coalition--donate and lobby (NRA & coal)
+    * Substitute
+        * Seek alternative source of legitimacy--e.g., religion, security 
 * Temporal
     * Preemptive
     * Reactive
     * Delay
-
-## Sources of liminality
-
-Construct   | Definition        | References    
----         | ---               | ---
-
 
 ## References
