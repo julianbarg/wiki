@@ -4,16 +4,19 @@ bibliography: library.bib
 
 ## Sources of liminality
 
-Construct                   | Source    | Response      | Coordination      | Target    | Strategy      | Temporal 
-------                      | ---       | ---           | ---               | ---       | ---           | ---
-**Regulatory capture**      | Coercive  | Manipulate    | -                 | Meso      | Attack        | Preemptive
-**Inaction (successful)**   | Coercive  | Defy          | Industry          | Micro     | -             | Reactive
-**Inaction**                | Coercive  | Defy          | Organization      | Micro     | -             | Reactive
-**Climate change denial**   | Normative | Manipulate    | Sector            | Macro     | Challenge     | Preemptive
-**"Clean coal"**            | Normative | Manipulate    | Industry          | Macro     | Challenge     | Reactive
-**Link with religion**      | Normative | Avoid         | Industry/sector   | Macro     | Substitute    | Preemptive
-**Election contributions**  | Coervice  | Manipulate    | -                 | Meso      | Attack        | Preemptive/delay/reactive
-**Technology (1)**          | Coercive  | Compromise    | -                 | Micro     | -             | Reactive/delay
+Construct                   | Source    | Response          | Coordination      | Target    | Strategy      | Temporal 
+------                      | ---       | ---               | ---               | ---       | ---           | ---
+**Regulatory capture**      | Coercive  | Manipulate        | -                 | Meso      | Attack        | Preemptive
+**Inaction (successful)**   | Coercive  | Defy              | Industry          | Micro     | -             | Reactive
+**Inaction**                | Coercive  | Defy              | Organization      | Micro     | -             | Reactive
+**Climate change denial**   | Normative | Manipulate        | Sector            | Macro     | Challenge     | Preemptive
+**"Clean coal"**            | Normative | Manipulate        | Industry          | Macro     | Challenge     | Reactive
+**Link with religion**      | Normative | Avoid             | Industry/sector   | Macro     | Substitute    | Preemptive
+**Election contributions**  | Coervice  | Manipulate        | -                 | Meso      | Attack        | Preemptive/delay/reactive
+**Technology (1)**          | Coercive  | Compromise        | -                 | Micro     | -             | Reactive/delay
+**Technology (2)**          | Coercive  | Avoid             | -                 | Micro     | -             | Reactive
+**Industry self-regulation**| Coercive  | Avoid/compromise  | Industr           | Micro     | -             | Preemptive
+
 
 ## Levels and attributes
 
