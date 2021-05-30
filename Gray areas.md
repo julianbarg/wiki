@@ -4,9 +4,10 @@ bibliography: library.bib
 
 ## Sources of liminality
 
-Construct           | Source    | Response      | Target    | Strategy  | Temporal 
----                 | ---       | ---           | ---       | ---       | ---
-Regulatory capture  | Coercive  | Manipulate    | Meso      | Attack    | Preemptive
+Construct               | Source    | Response      | Coordination  | Target    | Strategy  | Temporal 
+---                     | ---       | ---           | ---           | ---       | ---       | ---
+*Regulatory capture*    | Coercive  | Manipulate    |               | Meso      | Attack    | Preemptive
+*Inaction (successful)* |
 
 ## Levels and attributes
 
@@ -34,5 +35,11 @@ Regulatory capture  | Coercive  | Manipulate    | Meso      | Attack    | Preemp
     * Preemptive
     * Reactive
     * Delay
+* Coordination
+    * Individual
+    * Department
+    * Organization
+    * Industry
+    * Sector
 
 ## References
