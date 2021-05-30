@@ -24,7 +24,10 @@ Construct                   | Source    | Response          | Coordination      
 **Physical violence/murder**|
 **Plant relocation**        |
 **Illegal disposal**        |
-**Legal strategy (e.g., eat cost)|
+**Legal strategy**\*        |
+**Astroturfing**            |
+
+\* E.g., calculating the cost for inevitable lawsuits
 
 ## Levels and attributes
 
