@@ -4,11 +4,11 @@ bibliography: library.bib
 
 ## Levels and attributes
 
-* Sources of institutional pressure (@DiMaggio1983)
+* Sources of institutional pressure [@DiMaggio1983]
     * Coercive
     * Mimetic
     * Normative
-* Responses (@Oliver1991)
+* Responses [@Oliver1991]
     * Acquisce
     * Compromise
     * Avoid
