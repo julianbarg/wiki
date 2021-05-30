@@ -13,7 +13,7 @@ Construct                   | Source    | Response      | Coordination      | Ta
 **"Clean coal"**            | Normative | Manipulate    | Industry          | Macro     | Challenge     | Reactive
 **Link with religion**      | Normative | Avoid         | Industry/sector   | Macro     | Substitute    | Preemptive
 **Election contributions**  | Coervice  | Manipulate    | -                 | Meso      | Attack        | Preemptive/delay/reactive
-**Technology (1)            | Coercive  | Compromise    | -                 | Micro     | -             | Reactive/delay
+**Technology (1)**          | Coercive  | Compromise    | -                 | Micro     | -             | Reactive/delay
 
 ## Levels and attributes
 
