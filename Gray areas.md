@@ -2,25 +2,23 @@
 bibliography: library.bib
 ---
 
-## Sources of institutional pressure
+## Levels and attributes
 
-* Coercive
-* Mimetic
-* Normative
-
-## Responses
-
-* Acquisce
-* Compromise
-* Avoid
-* Defy
-* Manipulate
-
-## Targets
-
-* Science/rationale
-* Organization in charge
-* Specific rules
+* Sources of institutional pressure (@DiMaggio1983)
+    * Coercive
+    * Mimetic
+    * Normative
+* Responses (@Oliver1991)
+    * Acquisce
+    * Compromise
+    * Avoid
+    * Defy
+    * Manipulate
+* Targets for responses
+    * Macro: Science/rationale
+    * Meso: Organization in charge of enforcing the rules
+        * Regulatory capture/lobbying/elections
+    * Specific rules
 
 ## Strategies
 
