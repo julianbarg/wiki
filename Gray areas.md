@@ -21,6 +21,10 @@ Construct                   | Source    | Response          | Coordination      
 **Obfuscation**             | -         | Avoid             | Organization          | Micro     | -             | Reactive/delay
 **Community contributio/cooptation**| - | Manipulate        | Organization          | Meso      | Substitute    | Preemptive
 **Standards development**   | Coercive  | Compromise        | Industry              | Micro     | Substitute    | Preempive
+**Physical violence/murder**|
+**Plant relocation**        |
+**Illegal disposal**        |
+**Legal strategy (e.g., eat cost)|
 
 ## Levels and attributes
 
