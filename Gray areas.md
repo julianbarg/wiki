@@ -5,7 +5,7 @@ bibliography: library.bib
 ## Sources of liminality
 
 Construct                   | Source    | Response      | Coordination      | Target    | Strategy      | Temporal 
----                         | ---       | ---           | ---               | ---       | ---           | ---
+------                      | ---       | ---           | ---               | ---       | ---           | ---
 **Regulatory capture**      | Coercive  | Manipulate    | -                 | Meso      | Attack        | Preemptive
 **Inaction (successful)**   | Coercive  | Defy          | Industry          | Micro     | -             | Reactive
 **Inaction**                | Coercive  | Defy          | Organization      | Micro     | -             | Reactive
