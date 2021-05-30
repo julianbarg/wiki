@@ -16,6 +16,12 @@ bibliography: library.bib
 * Defy
 * Manipulate
 
+## Targets
+
+* Science/rationale
+* Organization in charge
+* Specific rules
+
 ## Strategies
 
 * Challenge the science--create own research
