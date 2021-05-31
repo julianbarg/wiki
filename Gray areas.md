@@ -7,7 +7,7 @@ bibliography: library.bib
 Dimension   | Strategy  | Definition                                                        | Example                           | Reference(s)
 :-:         | :-:       | ---------                                                         | ------                            | ---
 Physical    | Defy      | Responding to activist legitimacy threats with physical violence  | Suppression of protests, murder   | @Estes2019
-Legal
+Legal       |
 
 ## Sources of liminality
 
