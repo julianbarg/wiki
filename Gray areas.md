@@ -2,6 +2,13 @@
 bibliography: library.bib
 ---
 
+## Strategic actions/responses
+
+Dimension   | Strategy  | Definition                                                        | Example                           | Reference(s)
+---         | ---       | ---                                                               | ---                               | ---
+Physical    | Defy      | Responding to activist legitimacy threats with physical violence  | Suppression of protests, murder   | @Estes2019
+Legal
+
 ## Sources of liminality
 
 Construct                   | Source    | Response          | Coordination          | Target    | Strategy      | Temporal 
