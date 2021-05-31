@@ -21,11 +21,12 @@ Construct                   | Source    | Response          | Coordination      
 **Obfuscation**             | -         | Avoid             | Organization          | Micro     | -             | Reactive/delay
 **Community contributio/cooptation**| - | Manipulate        | Organization          | Meso      | Substitute    | Preemptive
 **Standards development**   | Coercive  | Compromise        | Industry              | Micro     | Substitute    | Preempive
-**Physical violence/murder**|
-**Plant relocation**        |
-**Illegal disposal**        |
-**Legal strategy**\*        |
-**Astroturfing**            |
+**Physical violence/murder**| Normatic  | Defy              | -                     | Meso      | Attack        | Reactive/preemptive
+**Plant relocation**        | Coercive  | Avoid             | Organization          | Micro     | Substitute    | Reactive/preemptive
+**Illegal disposal**        | Coercive  | Avoid             | Organization          | Micro     | -             | Reactive
+**Legal strategy**\*        | Coercie   | Defy              | Organization          | Micro     | Attack        | Delay
+**Astroturfing**            | -         | Avoid             | -                     | -         | Substitute    | All
+**Outlawing activism**      | Normatic  | Manipulate        | -                     | Macro     | Attack        | Preemptive
 
 \* E.g., calculating the cost for inevitable lawsuits
 
