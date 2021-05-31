@@ -19,7 +19,7 @@ Construct                   | Source    | Response          | Coordination      
 **Ad campaigns**            | Normative | Avoid             | Organization/industry | Macro     | Attack        | Preemptive
 **Lobbying**                | Coervice  | Defy              | Organization/industry | Meso      | Attack        | Premptive/reactive
 **Obfuscation**             | -         | Avoid             | Organization          | Micro     | -             | Reactive/delay
-**Community contributio/cooptation**| - | Manipulate        | Organization          | Meso      | Substitute    | Preemptive
+**Community contribution/cooptation**| -| Manipulate        | Organization          | Meso      | Substitute    | Preemptive
 **Standards development**   | Coercive  | Compromise        | Industry              | Micro     | Substitute    | Preempive
 **Physical violence/murder**| Normatic  | Defy              | -                     | Meso      | Attack        | Reactive/preemptive
 **Plant relocation**        | Coercive  | Avoid             | Organization          | Micro     | Substitute    | Reactive/preemptive
