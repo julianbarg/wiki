@@ -11,6 +11,7 @@
 * Consumer Energy Alliance--astro turfing/think tank thing funded by the Koch brothers
 * Comments on the Keystone XL pipeline application--all 127k of them: [[https://www.regulations.gov/document/DOS-2014-0003-0001]]
 * And here are the interagency comments on Keystone XL-- [[here|https://web.archive.org/web/20190207030547/https://keystonepipeline-xl.state.gov/c75640.htm]] and [[here|https://web.archive.org/web/20190207022907/https://2012-keystonepipeline-xl.state.gov/]] for the second application
+* Finally found GIS files for pipelines: [[https://www.eia.gov/maps/layer_info-m.php]]
 
 ## 2020
 
