@@ -7,7 +7,7 @@ bibliography: library.bib
 Conflict dimension  | Temporality   | Definition                                                                                | Reference(s)
 :-:                 | :-:                   | ---------                                                                         | ------                               
 Physical            | Preemptive    | Threatening or murdering activists before they become a legitimacy threat                 | @Butt2019
-Physical            | Reactive      | Using private security or police forces to suppress a protest and intimidate protesters   | @Estes2019a
+Physical            | Reactive      | Using private security or police forces to suppress a protest and intimidate protesters   | @Estes2019a, @Humphreys2013, @Corbin2015
 Legal               | 
 Technology  | Preemptive    
 
