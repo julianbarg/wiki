@@ -8,6 +8,7 @@ Dimension   | Strategy  | Definition                                            
 :-:         | :-:       | ---------                                                         | ------                            | ------
 Physical    | Defy      | Responding to activist legitimacy threats with physical violence  | Suppression of protests, murder   | @Estes2019a, @Butt2019
 Legal       |
+Technology  | Preemptive
 
 ## Sources of liminality
 
