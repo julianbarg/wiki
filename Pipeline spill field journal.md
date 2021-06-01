@@ -1,5 +1,15 @@
 [[_TOC_]]
 
+## 2021
+
+### June
+
+---
+
+#### Tue, June 1
+
+* Consumer Energy Alliance--astro turfing/think tank thing funded by the Koch brothers
+
 ## 2020
 
 ### September
