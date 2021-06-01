@@ -4,11 +4,14 @@ bibliography: library.bib
 
 ## Strategic actions/responses
 
-Dimension   | Strategy  | Definition                                                        | Example                           | Reference(s)
-:-:         | :-:       | ---------                                                         | ------                            | ------
-Physical    | Defy      | Responding to activist legitimacy threats with physical violence  | Suppression of protests, murder   | @Estes2019a, @Butt2019
-Legal       |
-Technology  | Preemptive
+Conflict dimension  | Temporality   | Definition                                                                                | Reference(s)
+:-:                 | :-:                   | ---------                                                                         | ------                               
+Physical            | Preemptive    | Threatening or murdering activists before they become a legitimacy threat                 | @Butt2019
+Physical            | Reactive      | Using private security or police forces to suppress a protest and intimidate protesters   | @Estes2019a
+Legal               | 
+Technology  | Preemptive    
+
+Notice that for some of them the difference is only discovered ex post
 
 ## Sources of liminality
 
