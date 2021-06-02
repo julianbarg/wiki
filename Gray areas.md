@@ -5,7 +5,7 @@ bibliography: library.bib
 ## Strategic actions/responses
 
 Conflict dimension  | Temporality   | Definition                                                                                               | Reference(s)
- :-:                | :-:           | ---------                                                                                               | ------                               
+ :-:                | :-:           | ---------                                                                                               | ---------                               
 Physical            | Preemptive    | Threatening or murdering activists before they become a legitimacy threat.                               | @Butt2019
 Physical            | Reactive      | Using private security or police forces to suppress a protest and intimidate protesters.                 | @Estes2019a, @Humphreys2013, @Corbin2015 \*
 Legal               | Preemptive    | Promoting laws that make it more difficult to challenge the legitimacy of an organization.   | [[https://www.huffingtonpost.ca/entry/fossil-fuel-protest_n_602c1ff6c5b6c95056f3f6af]]
