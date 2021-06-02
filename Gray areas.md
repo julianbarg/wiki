@@ -5,7 +5,7 @@ bibliography: library.bib
 ## Strategic actions/responses
 
 Conflict dimension  | Temporality   | Definition                                                                                               | Reference(s)
- :-:                | :-:           | ---------                                                                                               | ---------                               
+ :-:                | :-:           | ------------                                                                                            | ---------                               
 Physical            | Preemptive    | Threatening or murdering activists before they become a legitimacy threat.                               | @Butt2019
 Physical            | Delay         | Delay counteraction to allow for completion of project.
 Physical            | Reactive      | Using private security or police forces to suppress a protest and intimidate protesters.                 | @Estes2019a, @Humphreys2013, @Corbin2015 \*
