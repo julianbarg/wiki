@@ -10,7 +10,8 @@ Physical            | Preemptive    | Threatening or murdering activists before 
 Physical            | Delay         | Delay counteraction to allow for completion of project.
 Physical            | Reactive      | Using private security or police forces to suppress a protest and intimidate protesters.                 | @Estes2019a, @Humphreys2013, @Corbin2015 \*
 Legal               | Preemptive    | Promoting laws that make it more difficult to challenge the legitimacy of an organization.   | [[https://www.huffingtonpost.ca/entry/fossil-fuel-protest_n_602c1ff6c5b6c95056f3f6af]]
-Legal               | Delay         | Delay regulatory action or a lawsuit until the external circumstances improve.                           | @Kirsch2020        
+Legal               | Delay         | Delay regulatory action or a lawsuit until the external circumstances improve.                           | @Kirsch2020    
+Legal               | Reactive      | Use of the legal arena to drain adversaries' resources.
 Technology          | Preemptive    
 
 \* See also: [[https://www.jbarg.net/posts/2021-03-18-privatized-police-force/]]
