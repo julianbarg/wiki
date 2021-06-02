@@ -5,7 +5,7 @@ bibliography: library.bib
 ## Strategic actions/responses
 
 Conflict dimension  | Temporality   | Definition                                                                                               | Reference(s)
- :-:                | :-:           | ------------------------------------------------------------------------------                          | ------------
+ :-:                | :-:           | -------------------------------                                                                         | ------------
 Technology          | Preemptive    | Science capture.                                                                                         | @Moodie2013
 Technology          | Delay         | "Feasibility studies" to prove that problems can be solved in the future.
 Technology          | Reactive      | Pandering to one's base with undue claims like "clean coal".
