@@ -6,7 +6,8 @@ bibliography: library.bib
 
 Conflict dimension  | Temporality   | Definition                                                                                               | Reference(s)
  :-:                | :-:           | ------------                                                                                            | ---------                               
-Technology          | Preemptive    | "Technology studies" to prove that problems can be solved in the future.
+Technology          | Preemptive    | "Science capture"
+Technology          | Delay         | "Feasibility studies" to prove that problems can be solved in the future.
 Legal               | Preemptive    | Promoting laws that make it more difficult to challenge the legitimacy of an organization.   | [[https://www.huffingtonpost.ca/entry/fossil-fuel-protest_n_602c1ff6c5b6c95056f3f6af]]
 Legal               | Delay         | Delay regulatory action or a lawsuit until the external circumstances improve.                           | @Kirsch2020    
 Legal               | Reactive      | Use of the legal arena to drain adversaries' resources.
