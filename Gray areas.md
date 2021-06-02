@@ -6,7 +6,7 @@ bibliography: library.bib
 
 Conflict dimension  | Temporality   | Definition                                                                                               | Reference(s)
  :-:                | :-:           | ------------                                                                                            | ---------                               
-Technology          | Preemptive    | "Science capture".                                                                                       | @Moodie2013
+Technology          | Preemptive    | Science capture.                                                                                         | @Moodie2013
 Technology          | Delay         | "Feasibility studies" to prove that problems can be solved in the future.
 Legal               | Preemptive    | Promoting laws that make it more difficult to challenge the legitimacy of an organization.   | [[https://www.huffingtonpost.ca/entry/fossil-fuel-protest_n_602c1ff6c5b6c95056f3f6af]]
 Legal               | Delay         | Delay regulatory action or a lawsuit until the external circumstances improve.                           | @Kirsch2020    
@@ -14,6 +14,9 @@ Legal               | Reactive      | Use of the legal arena to drain adversarie
 Physical            | Preemptive    | Threatening or murdering activists before they become a legitimacy threat.                               | @Butt2019
 Physical            | Delay         | Delay counteraction to allow for completion of project.
 Physical            | Reactive      | Using private security or police forces to suppress a protest and intimidate protesters.                 | @Estes2019a, @Humphreys2013, @Corbin2015 \*
+Community           | Preemptive    | Community contribution/cooptation--(emphasis of) tax revenue and contributions to local communities
+Community           | Delay         | Community consultation.
+Community           | Reactive      | Astroturfingt                                                                                            | @Lyon2004
 
 \* See also: [[https://www.jbarg.net/posts/2021-03-18-privatized-police-force/]]
 
