@@ -18,7 +18,8 @@ Physical            | Reactive      | Using private security or police forces to
 Community           | Preemptive    | Community contribution/cooptation--(emphasis of) tax revenue and contributions to local communities
 Community           | Delay         | Community consultation.
 Community           | Reactive      | Astroturfing                                                                                             | @Lyon2004
-Regulatory          | Preemptive    | Industry self-regulation                                                                                 | @King2000, @Lenox2003
+Regulatory          | Preemptive    | Industry self-regulation.                                                                                | @King2000, @Lenox2003
+Regulatory          | Delay         | Challenging regulations to benefit from absence of regulation for longer.
 Inaction/obfuscation|               | Deliberately avoid action to continue drawing Return on Investment on old assets.
 Sources of legitimacy|              | Draw legitimacy from another area, such as religion, or join a popular movement.                         | @Dochuk2019
 
