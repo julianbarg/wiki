@@ -16,7 +16,7 @@ Physical            | Delay         | Delay counteraction to allow for completio
 Physical            | Reactive      | Using private security or police forces to suppress a protest and intimidate protesters.                 | @Estes2019a, @Humphreys2013, @Corbin2015 \*
 Community           | Preemptive    | Community contribution/cooptation--(emphasis of) tax revenue and contributions to local communities
 Community           | Delay         | Community consultation.
-Community           | Reactive      | Astroturfingt                                                                                            | @Lyon2004
+Community           | Reactive      | Astroturfing                                                                                             | @Lyon2004
 
 \* See also: [[https://www.jbarg.net/posts/2021-03-18-privatized-police-force/]]
 
