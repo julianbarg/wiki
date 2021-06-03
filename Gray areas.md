@@ -2,10 +2,11 @@
 bibliography: library.bib
 ---
 
-\-                                  | Agency        | Unclear       | Structure
----                                 | ---           | ---           | ---
-Utilitarian                         |
-Altruistic                          |
+\-                          | Agency        | Unclear       | Structure
+---                         | ---           | ---           | ---
+**Only utilitarian**        |               |               |
+**Utilitarian & altruistic**|               |               |
+**Only altruistic**         |               |               |
 
 ## Strategic actions/responses
 
