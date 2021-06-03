@@ -2,6 +2,13 @@
 bibliography: library.bib
 ---
 
+
+Nefarious                           | -
+---                                 | ---
+Neither altruistic nor nefarious    | 
+Altruistic                          |
+\-                                  | Agentic
+
 ## Strategic actions/responses
 
 Conflict dimension  | Temporality   | Definition                                                                                               | Reference(s)
