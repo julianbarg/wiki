@@ -31,7 +31,7 @@ Notice that for some of them the difference is only discovered ex post
 ## Levels and attributes
 
 Dimension                                   | Dimensions
----                                         | ---
+---                                         | ------
 Sources of inst pressure [@DiMaggio1983]    | Coercive, mimetic, normative
 Responses [@Oliver1991]                     | Acquisce, compromise, avoid, defy, manipulate
 Targets for responses                       | Macro--science/rational, meso--organzation in charge of enforcement (e.g., regulatory capture, lobbying, elections), micro--specific rules
