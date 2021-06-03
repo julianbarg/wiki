@@ -2,12 +2,10 @@
 bibliography: library.bib
 ---
 
-
-Nefarious                           | -
----                                 | ---
-Neither altruistic nor nefarious    | 
+\-                                  | Agency        | Indetermined  | Structure
+---                                 | ---           | ---           | ---
+Nefarious                           | 
 Altruistic                          |
-\-                                  | Agentic
 
 ## Strategic actions/responses
 
