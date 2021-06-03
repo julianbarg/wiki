@@ -35,27 +35,8 @@ Dimension                                   | Dimensions
 Sources of inst pressure [@DiMaggio1983]    | Coercive, mimetic, normative
 Responses [@Oliver1991]                     | Acquisce, compromise, avoid, defy, manipulate
 Targets for responses                       | Macro--science/rational, meso--organzation in charge of enforcement (e.g., regulatory capture, lobbying, elections), micro--specific rules
-
-
-* Targets for responses
-    * Macro: Science/rationale
-    * Meso: Organization in charge of enforcing the rules
-        * Regulatory capture/lobbying/elections
-    * Micro: Specific rules
-* Strategies
-    * Challenge the science--create own research
-    * Attack the enemy coalition--donate and lobby (NRA & coal)
-    * Substitute
-        * Seek alternative source of legitimacy--e.g., religion, security 
-* Temporal
-    * Preemptive
-    * Reactive
-    * Delay
-* Coordination
-    * Individual
-    * Department
-    * Organization
-    * Industry
-    * Sector
+Strategies                                  | Challenge the science--create own research, attack the enemy coalition--donate and lobby (e.g., NRA & coal), substitute--seek alternative sources of legitimacy such as religion, security
+Temporal                                    | Preemptive, reactive, delay
+Coordination                                | Individual, department, organization, industry, sector
 
 ## References
