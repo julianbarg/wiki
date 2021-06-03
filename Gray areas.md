@@ -2,7 +2,7 @@
 bibliography: library.bib
 ---
 
-\-                                  | Agency        | Indetermined  | Structure
+\-                                  | Agency        | Unclear       | Structure
 ---                                 | ---           | ---           | ---
 Nefarious                           | 
 Altruistic                          |
