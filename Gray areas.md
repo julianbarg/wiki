@@ -4,7 +4,7 @@ bibliography: library.bib
 
 \-                                  | Agency        | Unclear       | Structure
 ---                                 | ---           | ---           | ---
-Nefarious                           | 
+Utilitarian                         |
 Altruistic                          |
 
 ## Strategic actions/responses
