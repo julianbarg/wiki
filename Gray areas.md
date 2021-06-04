@@ -4,7 +4,7 @@ bibliography: library.bib
 
 \-                          | Agency        | Unclear       | Structure
 ---                         | ---           | ---           | ---
-**Only utilitarian**        |               |               |
+**Only utilitarian**        | GGE,          |               |
 **Utilitarian & altruistic**|               |               |
 **Only altruistic**         |               |               |
 
