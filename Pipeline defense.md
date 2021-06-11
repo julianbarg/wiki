@@ -14,7 +14,7 @@ Year    | Month | Line  | Event
 </br>   | </br> | DAPL  | Police clear a camp and arrest 142 protesters. The camp is on contested private land that is claimed by the Standing Rock reservation. A second camp is maintained (Factiva NYTFEED020161028ecas0060r).
 </br>   | Nov   | DAPL  | Police forces use water cannons at below freezing temperatures, leading to the hospitalization of 17 protesters (Factiva MSP0000020161123ecbm00014).
 </br>   | </br> | DAPL  | The North Dakota governor orders the evacuation of the protest main camp because of the harsh winter conditions (Factiva WPCOM00020161129ecbt000gp).
-</br>   | </br> | DAPL  | ETP CEO Kelcy Warren says regarding the DAPL obstacles "[The attention"
+</br>   | </br> | DAPL  | ETP CEO Kelcy Warren says regarding the DAPL obstacles that the international attention supriss him "It is hard to belive. This is just a pipeline. This is a pipeline that's going to transport crude safely and economically" (Factiva WSJO000020161116ecbg00a6q).
 </br>   | </br> | DAPL  | Protesters target the banks behind DAPL, but it is a glancing blow--the banks offer no comment (Factiva NYTFEED020161107ecb70093t).
 </br>   | Dec   | DAPL  | North Dakota provides \$7 million in funding for police to secure construction of DAPL (Factiva WSJO000020161201ecc100aca).
 </br>   | </br> | DAPL  | North Dakota oil producers ship oil by rail. As a result, low oil prices threaten the ability of the states oil industry to compete with other states (Factiva NYTF000020161214ecc90000p).
