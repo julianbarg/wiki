@@ -11,7 +11,8 @@ Year    | Month | Line  | Event
 </br>   | Dec   | DAPL  | North Dakota provides \$7 million in funding for police to secure construction of DAPL (Factiva WSJO000020161201ecc100aca).
 </br>   | </br> | DAPL  | North Dakota oil producers ship oil by rail. As a result, low oil prices threaten the ability of the states oil industry to compete with other states (Factiva NYTF000020161214ecc90000p).
 2017    | Jan   | DAPL & KXL| KXL receives Presidential Permit, injunction removed on DAPL (Factiva WSJO000020170124ed1o005v6).
-</br>   | Feb   | KXL   | In anticipation of the construction of KXL, South Dakota increases penalties on trespassing. North Dakota discusses similar bills (Factiva WPCOM00020170224ed2o004sc).
+</br>   | Feb   | DAPL  | Army Corps of Engineers issues DAPL easement, in a move that former interior secretary Sally Jewell says violates its legal obligations.
+</br>   | </br> | KXL   | In anticipation of the construction of KXL, South Dakota increases penalties on trespassing. North Dakota discusses similar bills (Factiva WPCOM00020170224ed2o004sc).
 </br>   | May   | Rover | Energy Transfer Partners (ETP) disregards complaints by the Ohio Environmental Protection Agency (EPA), holding that EPA has no authority. EPA claims that ETP's goal is to finish the line as fast as possible to avoid obstacles (Factiva WPCOM00020170508ed5800439).
 </br>   | Sep   | DAPL  | The final bill for North Dakota's protest suppression efforts comes out to \$43 million (Factiva WSJO000020170929ed9t0076f).
 </br>   |Oct    | DAPL | A professor at University of North Dakota resigns after the university repeatedly a lecture series about the DAPL protests in a case of anticipatory obedience regarding potential state legislature retaliation (Factiva WPCOM00020171030edau007n1).
