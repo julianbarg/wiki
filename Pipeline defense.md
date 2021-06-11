@@ -12,6 +12,7 @@ Year    | Month | Line  | Event
 </br>   | Nov   | DAPL  | Police forces use water cannons at below freezing temperatures, leading to the hospitalization of 17 protesters (Factiva MSP0000020161123ecbm00014).
 </br>   | Dec   | DAPL  | North Dakota provides \$7 million in funding for police to secure construction of DAPL (Factiva WSJO000020161201ecc100aca).
 </br>   | </br> | DAPL  | North Dakota oil producers ship oil by rail. As a result, low oil prices threaten the ability of the states oil industry to compete with other states (Factiva NYTF000020161214ecc90000p).
+</br>   | </br> | DAPL  | Trump nominates Rex Tillerson as his secretary of state. Tillerson is at the time board member of ETP and perfectly embodies the conservative marriage of resource exploitation and Ayn Rand-style ethics.
 2017    | Jan   | DAPL & KXL| KXL receives Presidential Permit, injunction removed on DAPL (Factiva WSJO000020170124ed1o005v6).
 </br>   | Feb   | DAPL  | Army Corps of Engineers issues DAPL easement, in a move that former interior secretary Sally Jewell says violates its legal obligations (Factiva WPCOM00020170208ed28004v4).
 </br>   | </br> | KXL   | In anticipation of the construction of KXL, South Dakota increases penalties on trespassing. North Dakota discusses similar bills (Factiva WPCOM00020170224ed2o004sc).
