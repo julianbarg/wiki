@@ -12,6 +12,7 @@ Year    | Month | Line  | Event
 </br>   | Oct   | DAPL  | A letter by the tribal chairman of the Standing Rock Indian Reservation details strong-arm tactics used by local Sheriff, police, and private security, including "attack dogs, pepper spray, water hoses in freezing temperatures, and near-constant surveillance" (Factiva WSJO000020161209ecc90066a).
 </br>   | </br> | DAPL  | Police clear a camp and arrest 142 protesters. The camp is on contested private land that is claimed by the Standing Rock reservation. A second camp is maintained (Factiva NYTFEED020161028ecas0060r).
 </br>   | Nov   | DAPL  | Police forces use water cannons at below freezing temperatures, leading to the hospitalization of 17 protesters (Factiva MSP0000020161123ecbm00014).
+</br>   | </br> | DAPL  | The North Dakota governor orders the evacuation of the protest main camp because of the harsh winter conditions (Factiva WPCOM00020161129ecbt000gp).
 </br>   | Dec   | DAPL  | North Dakota provides \$7 million in funding for police to secure construction of DAPL (Factiva WSJO000020161201ecc100aca).
 </br>   | </br> | DAPL  | North Dakota oil producers ship oil by rail. As a result, low oil prices threaten the ability of the states oil industry to compete with other states (Factiva NYTF000020161214ecc90000p).
 </br>   | </br> | DAPL  | Trump nominates Rex Tillerson as his secretary of state. Tillerson is at the time board member of ETP and perfectly embodies the conservative marriage of resource exploitation and Ayn Rand-style ethics (Factiva WPCOM00020161213eccd0048v).
