@@ -15,6 +15,7 @@ Year    | Month | Line  | Event
 </br>   | Nov   | DAPL  | Police forces use water cannons at below freezing temperatures, leading to the hospitalization of 17 protesters (Factiva MSP0000020161123ecbm00014).
 </br>   | </br> | DAPL  | The North Dakota governor orders the evacuation of the protest main camp because of the harsh winter conditions (Factiva WPCOM00020161129ecbt000gp).
 </br>   | </br> | DAPL  | ETP CEO Kelcy Warren says regarding the DAPL obstacles "[The attention"
+</br>   | </br> | DAPL  | Protesters target the banks behind DAPL, but it is a glancing blow--the banks offer no comment (Factiva NYTFEED020161107ecb70093t).
 </br>   | Dec   | DAPL  | North Dakota provides \$7 million in funding for police to secure construction of DAPL (Factiva WSJO000020161201ecc100aca).
 </br>   | </br> | DAPL  | North Dakota oil producers ship oil by rail. As a result, low oil prices threaten the ability of the states oil industry to compete with other states (Factiva NYTF000020161214ecc90000p).
 </br>   | </br> | DAPL  | Trump nominates Rex Tillerson as his secretary of state. Tillerson is at the time board member of ETP and perfectly embodies the conservative marriage of resource exploitation and Ayn Rand-style ethics (Factiva WPCOM00020161213eccd0048v).
