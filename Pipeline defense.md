@@ -7,6 +7,7 @@ bibliography: library.bib
 Year    | Month | Line  | Event
 --:     | :--   | :-:   | ---------------------
 2016    |       | DAPL  | Energy Transfer Partners hires private security firm TigerSwan to police DAPL. TigerSwan notably employs former special forces soldiers and operates in Iraq and Afghanistan (Factiva J000000020170124ed1o00013). [[Later, surfaced documents detail their use of crowd control tactics|https://theintercept.com/2017/05/27/leaked-documents-reveal-security-firms-counterterrorism-tactics-at-standing-rock-to-defeat-pipeline-insurgencies/]].
+</br>   | Sep   | DAPL  | Construction crews destroy Indian cultural sites on private lands. In the folowing confrontation, six people are bitten by security dogs, and 30 are pepper-sprayed (Factiva WSJO000020160904ec940002t).
 </br>   | Oct   | DAPL  | A letter by the tribal chairman of the Standing Rock Indian Reservation details strong-arm tactics used by local Sheriff, police, and private security, including "attack dogs, pepper spray, water hoses in freezing temperatures, and near-constant surveillance" (Factiva WSJO000020161209ecc90066a).
 </br>   | </br> | DAPL  | Police clear a camp and arrest 142 protesters. The camp is on contested private land that is claimed by the Standing Rock reservation. A second camp is maintained (Factiva NYTFEED020161028ecas0060r).
 </br>   | Nov   | DAPL  | Police forces use water cannons at below freezing temperatures, leading to the hospitalization of 17 protesters (Factiva MSP0000020161123ecbm00014).
