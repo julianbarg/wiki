@@ -4,10 +4,10 @@ bibliography: library.bib
 
 ## Responses by author
 
-Author          | Journal   | Method    | Context   | Phenomenon            | Responses
----             | :-:       | :-:       | :-:       | ---                   | ------                      
-@Oliver1991     | AMR       | Theory    | --        | --                    | Acquisce, Compromise, Avoid, Defy, Manipulate
-@Elsbach1994    | Denial, Acknowledgement
+Author          | Journal   | Method    | Context           | Phenomenon                | Responses
+---             | :-:       | :-:       | :-:               | ---                       | ------                      
+@Oliver1991     | AMR       | Theory    | --                | --                        | Acquisce, Compromise, Avoid, Defy, Manipulate
+@Elsbach1994    | ASQ       | Qual      | Cattle Industry   | Institutional challenges  | Denial, Acknowledgement
 @Elsbach1998    | Accomodating, Legitimate, Intimidating, Bureacucratic
 @Arndt2000      | Impression management
 @Crane2000      | "Amoralization" (decoupling)
