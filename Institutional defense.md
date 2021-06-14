@@ -14,7 +14,8 @@ Author          | Journal       | Method    | Context                       | Ph
 @MacLean2010    | AMJ           | Qual      | Financial servicecompany      | Compliance programs               | Decoupling
 @Westphal2010   | AMJ           | Quant     | Large public companies        | Board independence                | Impression management
 @Patriotta2011  | AMJ           | Discourse | Nuclear power plant           | Operator response to incident     | Justifications
-@Sandholtz2012  | Org Studies   | 
+@Sandholtz2012  | Org Studies   | Qual      | ISO 9000                      | Certification process             | Decoupling
+
 
 ## Articles
 
