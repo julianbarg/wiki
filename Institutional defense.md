@@ -4,12 +4,14 @@ bibliography: library.bib
 
 ## Responses by author
 
-Author          | Responses
+Author          | Journal   | Method    | Context   | Phenomenon            |Responses
 ---             | ---
-@Oliver1991     | Acquisce, Compromise, Avoid, Defy, Manipulate
+@Oliver1991     | AMR       | Theory    | --        | --                    | Acquisce, Compromise, Avoid, Defy, Manipulate
 @Elsbach1994    | Denial, Acknowledgement
 @Elsbach1998    | Accomodating, Legitimate, Intimidating, Bureacucratic
-
+@Arndt2000      | Impression management
+@Crane2000      | "Amoralization" (decoupling)
+@MacLean2010    | 
 
 ## Articles
 
