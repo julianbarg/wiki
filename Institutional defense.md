@@ -4,4 +4,8 @@ bibliography: library.bib
 
 ## Articles
 
-* @Oliver 1991
+* @Oliver1991
+
+---
+
+## References
