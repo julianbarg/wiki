@@ -4,8 +4,8 @@ bibliography: library.bib
 
 ## Responses by author
 
-Author          | Journal   | Method    | Context   | Phenomenon            |Responses
----             | ---
+Author          | Journal   | Method    | Context   | Phenomenon            | Responses
+---             | :-:       | :-:       | :-:       | ---                   | ---                      
 @Oliver1991     | AMR       | Theory    | --        | --                    | Acquisce, Compromise, Avoid, Defy, Manipulate
 @Elsbach1994    | Denial, Acknowledgement
 @Elsbach1998    | Accomodating, Legitimate, Intimidating, Bureacucratic
