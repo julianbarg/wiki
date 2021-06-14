@@ -13,7 +13,7 @@ Author          | Journal   | Method    | Context                       | Phenom
 @Crane2000      | Org Sci   | Qual      | Enterprises                   | Greening                          | "Amoralization" (decoupling)
 @MacLean2010    | AMJ       | Qual      | Financial servicecompany      | Compliance programs               | Decoupling
 @Westphal2010   | AMJ       | Quant     | Large public companies        | Board independence                | Impression management
-@Patriotta      | AMJ       | Discourse | Nuclear power plantincident   |
+@Patriotta2011  | AMJ       | Discourse | Nuclear power plantincident   |
 
 ## Articles
 
