@@ -12,6 +12,9 @@ bibliography: library.bib
 * @MacLean2010
 * @Westphal2010
 * @Patriotta2011
+* @Sandholtz2012
+* @Sillince2012
+* @Zavyalova2012
 
 ---
 
