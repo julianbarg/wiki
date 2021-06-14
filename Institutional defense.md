@@ -2,6 +2,15 @@
 bibliography: library.bib
 ---
 
+## Responses by author
+
+Author          | Responses
+---             | ---
+@Oliver1991     | Acquisce, Compromise, Avoid, Defy, Manipulate
+@Elsbach1994    | Denial, Acknowledgement
+@Elsbach1998    | Accomodating, Legitimate, Intimidating, Bureacucratic
+
+
 ## Articles
 
 * @Oliver1991
@@ -19,6 +28,7 @@ bibliography: library.bib
 * @Mena2016
 * @Whiteman2016
 * @Shi2018
+* @Butt2019
 * @Cappellaro2021
 * @Rerup2021
 
