@@ -12,6 +12,7 @@ Author          | Journal       | Method    | Context                       | Ph
 @Elsbach1998    | Org Sci       | Qual      | Hospital billing              | Patient complains/inquiries                       | Accomodating, Legitimate, Intimidating, Bureacucratic
 @Arndt2000      | ASQ           | Qual      | Hospital industry             | Corporate restructuring                           | Impression management
 @Crane2000      | Org Sci       | Qual      | Enterprises                   | Greening                                          | "Amoralization" (decoupling)
+@Elsbach2003    | Other         | Theory    | Perception management                     
 @MacLean2010    | AMJ           | Qual      | Financial servicecompany      | Compliance programs                               | Decoupling
 @Westphal2010   | AMJ           | Quant     | Large public companies        | Board independence                                | Impression management
 @Patriotta2011  | AMJ           | Discourse | Nuclear power plant           | Operator response to incident                     | Justifications
