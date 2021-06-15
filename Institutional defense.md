@@ -36,14 +36,7 @@ Author          | Journal       | Method    | Context                       | Ph
 
 ## Articles
 
-* @Marquis2016
-* @Mena2016
-* @Whiteman2016
-* @Shi2018
-* @Butt2019
-* @Cappellaro2021
-* @Rerup2021
-
+* @Reuter2019
 ---
 
 ## References
