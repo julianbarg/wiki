@@ -7,7 +7,7 @@ Strategy                            | References
 Obfuscation/subversion of knowledge | @Cappellaro2021, @Rerup2021, @Mena2016
 Concealing/strategic silence        | @Roy1952, @Bernstein2012, @Cappellaro2021, @Mena2016
 Targeted silencing (murder)         | @Butt2019, @Cappellaro2021
-Terrorizing/untargeted silencing    | @Butt2019, @Cappellaro2021 @Nena2016
+Terrorizing/untargeted silencing    | @Butt2019, @Cappellaro2021 @Mena2016
 
 ## Responses by author
 
