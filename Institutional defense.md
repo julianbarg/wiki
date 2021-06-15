@@ -2,6 +2,10 @@
 bibliography: library.bib
 ---
 
+Strategy    | References
+---         | ---
+Violence    | @Butt2019, @Cappellaro2021
+
 ## Responses by author
 
 Author          | Journal       | Method    | Context                       | Phenomenon                        | Responses
