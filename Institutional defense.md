@@ -5,7 +5,7 @@ bibliography: library.bib
 ## Responses by author
 
 Author          | Journal       | Method    | Context                       | Phenomenon                        | Responses
------           | :-:           | :-:       | :-:                           | ---                               | ---------                      
+-----           | :-:           | :-:       | :--:                          | ---                               | ---------                      
 @Oliver1991     | AMR           | Theory    | --                            | --                                                | Acquisce, Compromise, Avoid, Defy, Manipulate
 @Elsbach1994    | ASQ           | Qual      | Cattle Industry               | Institutional challenges                          | Denial, Acknowledgement
 @Elsbach1998    | Org Sci       | Qual      | Hospital billing              | Patient complains/inquiries                       | Accomodating, Legitimate, Intimidating, Bureacucratic
