@@ -11,6 +11,7 @@ Obfuscation/subversion of knowledge | @Cappellaro2021, @Rerup2021, @Mena2016
 Concealing/strategic silence        | @Roy1952, @Bernstein2012, @Cappellaro2021, @Mena2016, @Whiteman2016, @Elsbach1994, @Elsbach2003
 Targeted silencing (murder)         | @Butt2019, @Cappellaro2021
 Terrorizing/untargeted silencing    | @Butt2019, @Cappellaro2021 @Mena2016
+Intimidation (terrorizing?)         | @Elsbach1998
 
 ## Responses by author
 
