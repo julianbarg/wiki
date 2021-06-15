@@ -2,16 +2,22 @@
 bibliography: library.bib
 ---
 
+## Strategic actions
+
+Many of them represent a continuum than being binary. E.g., Decoupling--ceremonial action--obfuscation.
+
 Strategy                            | References
 ---                                 | ---
-Ceremonial action (obfuscation?)    | @Zavyalova2012, @Shi2018
-Decoupling                          | @Whiteman2016, @Sandholtz2012
+Impression management (obfuscation?)| @Arndt2000, @Elsbach2003, @Westphal2010
+Ceremonial action (obfuscation?)    | @Zavyalova2012, @Shi2018, @Oliver1e991
+Decoupling (ceremonial action?)     | @Whiteman2016, @Sandholtz2012, @Oliver1991, @Crane2000, @MacLean2010
 Selective disclosure                | @Cappellaro2021, @Marquis2016, @Mena2016
 Obfuscation/subversion of knowledge | @Cappellaro2021, @Rerup2021, @Mena2016
-Concealing/strategic silence        | @Roy1952, @Bernstein2012, @Cappellaro2021, @Mena2016, @Whiteman2016, @Elsbach1994, @Elsbach2003
+Concealing/strategic silence        | @Roy1952, @Bernstein2012, @Cappellaro2021, @Mena2016, @Whiteman2016, @Elsbach1994, @Elsbach2003, @Oliver1991, Elsbach1998
 Targeted silencing (murder)         | @Butt2019, @Cappellaro2021
-Terrorizing/untargeted silencing    | @Butt2019, @Cappellaro2021 @Mena2016
-Intimidation (terrorizing?)         | @Elsbach1998
+Terrorizing/untargeted silencing    | @Butt2019, @Cappellaro2021, @Mena2016, @Oliver1991
+Manipulation                        | @Oliver1991
+Intimidation (terrorizing?)         | @Elsbach1998, @Oliver1991
 
 ## Responses by author
 
