@@ -20,7 +20,7 @@ Author          | Journal       | Method    | Context                       | Ph
 @Roy1952        | AJS           | Qual      | Manufacturing firm in US      | Productivity with & without supervision           | Concealing behavior
 @Oliver1991     | AMR           | Theory    | --                            | --                                                | Acquisce, Compromise, Avoid, Defy, Manipulate
 @Elsbach1994    | ASQ           | Qual      | Cattle Industry               | Institutional challenges                          | Denial, Acknowledgement
-@Elsbach1998    | Org Sci       | Qual      | Hospital billing              | Patient complains/inquiries                       | Accomodating, Legitimate, Intimidating, Bureacucratic
+@Elsbach1998    | Org Sci       | Qual      | Hospital billing              | Patient complains/inquiries                       | Accomodating, Legitimate, Intimidating, Bureaucratic
 @Arndt2000      | ASQ           | Qual      | Hospital industry             | Corporate restructuring                           | Impression management
 @Crane2000      | Org Sci       | Qual      | Enterprises                   | Greening                                          | "Amoralization" (decoupling)
 @Elsbach2003    | Other         | Theory    | Perception management                     
