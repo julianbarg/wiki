@@ -29,6 +29,7 @@ Author          | Journal       | Method    | Context                       | Ph
 @Whiteman2016   | AMP           | Qual      | Logging company in Guyana     | Sustainability certifications                     | Decoupling, ignoring, deflecting
 @Shi2018        | SMJ           | Quant     | American public companies     | Lead director appointment                         | Ceremonial adoption, symbolic adoption, decoupling
 @Butt2019       | Natur Sustain | Analytics | Murder of environm activists  | Resource use & murder                             | Murder; direct, structural & cultural violence; physical & psychological harm
+@Cappallaro2021 | AMJ           | Qual      | Italian Mafia                 | Strategic ambiguity                               | Protective silence, targeted & untargeted silencing, selective disclosure, obfuscating, hyperbolic disclosing, stereotyping
 
 \* This one uses the garbage can theory
 
