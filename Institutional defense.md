@@ -5,7 +5,7 @@ bibliography: library.bib
 ## Responses by author
 
 Author          | Journal       | Method    | Context                       | Phenomenon                        | Responses
------           | :-:           | :-:       | :--:                          | ---                               | ---------                      
+-----           | :-:           | :-:       | :---:                         | ---                               | ---------                      
 @Oliver1991     | AMR           | Theory    | --                            | --                                                | Acquisce, Compromise, Avoid, Defy, Manipulate
 @Elsbach1994    | ASQ           | Qual      | Cattle Industry               | Institutional challenges                          | Denial, Acknowledgement
 @Elsbach1998    | Org Sci       | Qual      | Hospital billing              | Patient complains/inquiries                       | Accomodating, Legitimate, Intimidating, Bureacucratic
@@ -19,7 +19,7 @@ Author          | Journal       | Method    | Context                       | Ph
 @Zavyalova2012  | AMJ           | Quant     | Toy companies                 | Prouct recall                                     | Ceremonial & technical actions
 @Marquis2016    | Org Sci       | Quant     | Corporations                  | Environmental damages                             | Selective disclosure
 @Mena2016       | AMJ           | Theory    | Corporations                  | Corporate irresponsiblity                         | Forgetting work--manipulate, silence, undermine
-@Whiteman       | AMP           | Qual      | Logging company in Guyana     | Sustainability certifications                     | Decoupling, ignoring, deflecting
+@Whiteman2016   | AMP           | Qual      | Logging company in Guyana     | Sustainability certifications                     | Decoupling, ignoring, deflecting
 @Shi2018        | SMJ           | Quant     | American public companies     | Lead director appointment                         | Ceremonial adoption, symbolic adoption, decoupling
 
 \* This one uses the garbage can theory
