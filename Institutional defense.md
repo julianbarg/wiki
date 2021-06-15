@@ -13,7 +13,8 @@ Author          | Journal       | Method    | Context                       | Ph
 @Crane2000      | Org Sci       | Qual      | Enterprises                   | Greening                                          | "Amoralization" (decoupling)
 @MacLean2010    | AMJ           | Qual      | Financial servicecompany      | Compliance programs                               | Decoupling
 @Westphal2010   | AMJ           | Quant     | Large public companies        | Board independence                                | Impression management
-@Patriotta2011  | AMJ           | Discourse | Nuclear power plant           | Operator response to incident                     |  Justifications
+@Patriotta2011  | AMJ           | Discourse | Nuclear power plant           | Operator response to incident                     | Justifications
+@Bernstein2012  | ASQ           | Qual      | Chinese manufacturing firm    | Productivity with and without supervision         | Concealment
 @Sandholtz2012  | Org Studies   | Qual      | ISO 9000                      | Certification process                             | Decoupling
 @Sillince2012*  | Org Sci       | Qual      | Business School               | Internationalization & certification              | Doubting, distancing, fogging, conformity, and responsiblity rhetoric
 @Zavyalova2012  | AMJ           | Quant     | Toy companies                 | Prouct recall                                     | Ceremonial & technical actions
