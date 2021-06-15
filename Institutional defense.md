@@ -7,7 +7,7 @@ bibliography: library.bib
 Many of them represent a continuum than being binary. E.g., Decoupling--ceremonial action--obfuscation.
 
 Strategy                            | Description                                       | Example   | References
----                                 | ---                                               | ---       | ---
+---                                 | -----                                             | -----     | ---------
 Impression management (obfuscation?)|                                                                                           |                                                                      | @Arndt2000, @Elsbach2003, @Westphal2010
 Ceremonial action (obfuscation?)    | Formally implementing a policy to comply with a                                           | Obtaining an ISO 9000 certification                                  | @Zavyalova2012, @Shi2018, @Oliver1991
 Decoupling (ceremonial action?)     | Coming to follow the letter, not spirit, of the law                                       | Chief sustainability officers            | @Whiteman2016, @Sandholtz2012, @Oliver1991, @Crane2000, @MacLean2010, @Shi2018
