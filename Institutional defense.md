@@ -17,13 +17,12 @@ Author          | Journal       | Method    | Context                       | Ph
 @Sandholtz2012  | Org Studies   | Qual      | ISO 9000                      | Certification process                             | Decoupling
 @Sillince2012*  | Org Sci       | Qual      | Business School               | Internationalization & certification              | Doubting, distancing, fogging, conformity, and responsiblity rhetoric
 @Zavyalova2012  | AMJ           | Quant     | Toy companies                 | Prouct recall                                     | Ceremonial & technical actions
+@Marquis2016    | Org Sci       | Quant     | Corporations                  | Environmental damages                             | Selective disclosure
 
 \* This one uses the garbage can theory
 
 ## Articles
 
-* @Sillince2012
-* @Zavyalova2012
 * @Marquis2016
 * @Mena2016
 * @Whiteman2016
