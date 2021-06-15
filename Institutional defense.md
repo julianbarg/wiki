@@ -4,7 +4,7 @@ bibliography: library.bib
 
 Strategy                            | References
 ---                                 | ---
-Decoupling                          | @Whiteman2016, @Sandoltz2012
+Decoupling                          | @Whiteman2016, @Sandholtz2012
 Selective disclosure                | @Cappellaro2021, @Marquis2016, @Mena2016
 Obfuscation/subversion of knowledge | @Cappellaro2021, @Rerup2021, @Mena2016
 Concealing/strategic silence        | @Roy1952, @Bernstein2012, @Cappellaro2021, @Mena2016, @Whiteman2016, @Elsbach1994, @Elsbach2003
