@@ -18,6 +18,9 @@ Author          | Journal       | Method    | Context                       | Ph
 @Sillince2012*  | Org Sci       | Qual      | Business School               | Internationalization & certification              | Doubting, distancing, fogging, conformity, and responsiblity rhetoric
 @Zavyalova2012  | AMJ           | Quant     | Toy companies                 | Prouct recall                                     | Ceremonial & technical actions
 @Marquis2016    | Org Sci       | Quant     | Corporations                  | Environmental damages                             | Selective disclosure
+@Mena2016       | AMJ           | Theory    | Corporations                  | Corporate irresponsiblity                         | Forgetting work--manipulate, silence, undermine
+@Whiteman       | AMP           | Qual      | Logging company in Guyana     | Decoupling, ignoring, deflecting
+@Shi2018        | SMJ           | Quant     
 
 \* This one uses the garbage can theory
 
