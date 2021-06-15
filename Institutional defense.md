@@ -16,7 +16,7 @@ Author          | Journal       | Method    | Context                       | Ph
 @Patriotta2011  | AMJ           | Discourse | Nuclear power plant           | Operator response to incident                     |  Justifications
 @Sandholtz2012  | Org Studies   | Qual      | ISO 9000                      | Certification process                             | Decoupling
 @Sillince2012*  | Org Sci       | Qual      | Business School               | Internationalization & certification              | Doubting, distancing, fogging, conformity, and responsiblity rhetoric
-@Zavyalova2012  | AMJ           | Quant     | Toy companies                 | Prouct recall
+@Zavyalova2012  | AMJ           | Quant     | Toy companies                 | Prouct recall                                     | Ceremonial & technical actions
 
 \* This one uses the garbage can theory
 
