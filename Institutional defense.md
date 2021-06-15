@@ -19,8 +19,8 @@ Author          | Journal       | Method    | Context                       | Ph
 @Zavyalova2012  | AMJ           | Quant     | Toy companies                 | Prouct recall                                     | Ceremonial & technical actions
 @Marquis2016    | Org Sci       | Quant     | Corporations                  | Environmental damages                             | Selective disclosure
 @Mena2016       | AMJ           | Theory    | Corporations                  | Corporate irresponsiblity                         | Forgetting work--manipulate, silence, undermine
-@Whiteman       | AMP           | Qual      | Logging company in Guyana     | Decoupling, ignoring, deflecting
-@Shi2018        | SMJ           | Quant     
+@Whiteman       | AMP           | Qual      | Logging company in Guyana     | Sustainability certifications                     | Decoupling, ignoring, deflecting
+@Shi2018        | SMJ           | Quant     | American public companies     | Lead director appointment                         | Ceremonial adoption, symbolic adoption, decoupling
 
 \* This one uses the garbage can theory
 
