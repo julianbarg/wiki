@@ -6,6 +6,7 @@ bibliography: library.bib
 
 Author          | Journal       | Method    | Context                       | Phenomenon                        | Responses
 ------          | :-:           | :-:       | :---:                         | ---                               | ----------                      
+@Roy1952        | AJS           | Qual      | Manufacturing firm in US      | Productivity with & without supervision           | Concealing behavior
 @Oliver1991     | AMR           | Theory    | --                            | --                                                | Acquisce, Compromise, Avoid, Defy, Manipulate
 @Elsbach1994    | ASQ           | Qual      | Cattle Industry               | Institutional challenges                          | Denial, Acknowledgement
 @Elsbach1998    | Org Sci       | Qual      | Hospital billing              | Patient complains/inquiries                       | Accomodating, Legitimate, Intimidating, Bureacucratic
@@ -14,7 +15,7 @@ Author          | Journal       | Method    | Context                       | Ph
 @MacLean2010    | AMJ           | Qual      | Financial servicecompany      | Compliance programs                               | Decoupling
 @Westphal2010   | AMJ           | Quant     | Large public companies        | Board independence                                | Impression management
 @Patriotta2011  | AMJ           | Discourse | Nuclear power plant           | Operator response to incident                     | Justifications
-@Bernstein2012  | ASQ           | Qual      | Chinese manufacturing firm    | Productivity with & without supervision         | Concealment
+@Bernstein2012  | ASQ           | Qual      | Chinese manufacturing firm    | Productivity with & without supervision           | Concealing behavior
 @Sandholtz2012  | Org Studies   | Qual      | ISO 9000                      | Certification process                             | Decoupling
 @Sillince2012*  | Org Sci       | Qual      | Business School               | Internationalization & certification              | Doubting, distancing, fogging, conformity, and responsiblity rhetoric
 @Zavyalova2012  | AMJ           | Quant     | Toy companies                 | Prouct recall                                     | Ceremonial & technical actions
