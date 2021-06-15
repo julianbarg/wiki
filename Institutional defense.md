@@ -9,7 +9,7 @@ Many of them represent a continuum than being binary. E.g., Decoupling--ceremoni
 Strategy                            | References
 ---                                 | ---
 Impression management (obfuscation?)| @Arndt2000, @Elsbach2003, @Westphal2010
-Ceremonial action (obfuscation?)    | @Zavyalova2012, @Shi2018, @Oliver1e991
+Ceremonial action (obfuscation?)    | @Zavyalova2012, @Shi2018, @Oliver1991
 Decoupling (ceremonial action?)     | @Whiteman2016, @Sandholtz2012, @Oliver1991, @Crane2000, @MacLean2010
 Selective disclosure                | @Cappellaro2021, @Marquis2016, @Mena2016
 Obfuscation/subversion of knowledge | @Cappellaro2021, @Rerup2021, @Mena2016
