@@ -21,6 +21,7 @@ Author          | Journal       | Method    | Context                       | Ph
 @Mena2016       | AMJ           | Theory    | Corporations                  | Corporate irresponsiblity                         | Forgetting work--manipulate, silence, undermine
 @Whiteman2016   | AMP           | Qual      | Logging company in Guyana     | Sustainability certifications                     | Decoupling, ignoring, deflecting
 @Shi2018        | SMJ           | Quant     | American public companies     | Lead director appointment                         | Ceremonial adoption, symbolic adoption, decoupling
+@Butt2019       | Natur Sustain | Analytics | Murder of environm activists  | Resource use & murder                             | Murder; direct, structural & cultural violence; physical & psychological harm
 
 \* This one uses the garbage can theory
 
