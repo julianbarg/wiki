@@ -15,4 +15,5 @@ Year    | Month | Day   | Place         | Body  | Agenda
 ## Details
 
 Date        | Body      | Factiva                   | Details
+---         | ---       | ---                       | ---
 2009-11-02  | SD PUC    | APRS000020091102e5b2001ve |
