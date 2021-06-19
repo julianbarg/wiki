@@ -18,7 +18,8 @@ Year    | Month | Day   | Place         | Body      | Agenda
 </br>   | Oct   | 21    | Washington    | Senate    | Debate between Clinton and Senator
 </br>   | Dec   | 30    | Lincoln, NB   | NRC       | Debate on pipeline safety, expanding legislation
 2011    | Feb   | 10    | Lincoln, NB   | NRC       | Debate on new legislation
-2011    | May   | 20    | Washington    | Congress  | Debate: does Koch benefit from KXL?
+</br>   | May   | 20    | Washington    | Congress  | Debate: does Koch benefit from KXL?
+</br>   | May   | 29    | Lincoln, NB   | CEA       | Koch-funded CEA holds public forum on KXL benefits.
 
 ## Details
 
@@ -31,4 +32,5 @@ Date        | Body      | Factiva                   | Details
 2010-10-21  | Senate    | LBA0000020101021e6al001t2 | A (republican) senator from Nebraska presses Clinton on alternative route. 
 2010-12-30  | NB NRC    | APRS000020101230e6cu001qh | Lawmakers question TransCanada safety claims, discuss expanding oversight. Touches on Kalamazoo River oil spill.
 2011-02-10  | NB NRC    | APRS000020110210e72a000ce | Nebraska Natural Resource Committee hears from affected landowners.
-2011-05-20  | Congress  | LBA0000020110520e75k001j2 | Koch influences congress and could benefit from KXL through an oil terminal.
+2011-05-20  | Congress  | LBA0000020110520e75k001j2 | Koch influences congress and could benefit from KXL through an oil terminal. Congress requests document.
+2011-05-29  | CEA       | APRS000020110528e75s002wo | Koch-funded CEA holds public forum on KXL benefits.
