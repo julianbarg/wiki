@@ -4,6 +4,8 @@ bibliograhpy: library.bib
 
 ## Abbreviations
 
+* API: American Petroleum Institute
+* dilbit: diluted bitumen
 * DOS: Department of State
 * KXL: Keystone XL
 * NRC: Natural Resource Committee
@@ -20,6 +22,7 @@ Year    | Month | Day   | Place         | Body      | Agenda
 2011    | Feb   | 10    | Lincoln, NB   | NRC       | Debate on new legislation
 </br>   | May   | 20    | Washington    | Congress  | Debate: does Koch benefit from KXL?
 </br>   | May   | 29    | Lincoln, NB   | CEA       | Koch-funded CEA holds public forum on KXL benefits.
+</br>   | June  | 16    | Washington    | Congress  | Congress debates dangers of dilbit for pipelines.
 
 ## Details
 
@@ -34,3 +37,4 @@ Date        | Body      | Factiva                   | Details
 2011-02-10  | NB NRC    | APRS000020110210e72a000ce | Nebraska Natural Resource Committee hears from affected landowners.
 2011-05-20  | Congress  | LBA0000020110520e75k001j2 | Koch influences congress and could benefit from KXL through an oil terminal. Congress requests document.
 2011-05-29  | CEA       | APRS000020110528e75s002wo | Koch-funded CEA holds public forum on KXL benefits.
+2011-06-16  | Congress  | LBA0000020110616e76g001gf | Proposed law would mandate PHSMA study. API assures dilbit safe for lines.
