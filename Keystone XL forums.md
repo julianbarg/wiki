@@ -24,6 +24,8 @@ Year    | Month | Day   | Place         | Body          | Agenda
 </br>   | May   | 29    | Lincoln, NB   | CEA           | Koch-funded CEA holds public forum on KXL benefits.
 </br>   | June  | 16    | Washington    | Congress      | Congress debates dangers of dilbit for pipelines.
 </br>   | Aug   | 30    | Washington    | White House   | Demonstration outside White House.
+</br>   | Sep   | 28    | Lincoln, NB   | ?NRC?         | Contentious hearing
+</br>   | Sep   | 29    | US            | Various       | Debate between SD governor & federal gov
 
 ## Details
 
@@ -40,3 +42,5 @@ Date        | Body          | Factiva                   | Details
 2011-05-29  | CEA           | APRS000020110528e75s002wo | Koch-funded CEA holds public forum on KXL benefits.
 2011-06-16  | Congress      | LBA0000020110616e76g001gf | Proposed law would mandate PHSMA study. API assures dilbit safe for lines.
 2011-08-30  | White House   | APRS000020110830e78u00131 | Daryl Hannah and "dozenz" are arrested.
+2011-09-28  | ?NB NRC?      | APRS000020110927e79r000h3 | "You don't give a damn about Nebraska" vs. "Reason, Not Extremism".
+2011-09-29  | Various       | APRS000020110928e79s0021e | SD governor and federal gov debate responsibility for making decision on KXL. "Are they really suggesting that the state of Nebraska can pre-empt the president of the United States when he says it's in the national interest?"
