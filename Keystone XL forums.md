@@ -14,7 +14,7 @@ bibliograhpy: library.bib
 ## Events
 
 Year    | Month | Day   | Place         | Body          | Agenda
----     | ---   | ---   | -----         | -----         | -----------------
+---     | ---   | ---   | -----         | ------        | -----------------
 2009    | Nov   | 2     | Pierre, SD    | PUC           | 
 2010    | May   |       | 6 states      | US DOS        | 19 public hearings in 6 states
 </br>   | Oct   | 21    | Washington    | Senate        | Debate between Clinton and Senator
