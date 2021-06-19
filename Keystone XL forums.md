@@ -21,7 +21,7 @@ Year    | Month | Day   | Place         | Body      | Agenda
 ## Details
 
 Date        | Body      | Factiva                   | Details
----         | ---       | ---                       | ---
+---         | ---       | ---                       | ------------
 2009-11-02  | SD PUC    | APRS000020091102e5b2001ve | First hearing on Keystone XL, consisting of prefiled testimonies by TransCanada. Landowners are represented by one lawyer, Paul Blackburn.
 2010-05-06  | US DOS    | APRS000020100506e656002cn | Three DOS hearings in Nebraska coming up.
 2010-05-12  | US DOS    | APRS000020100512e65c0000r | 19 hearings in 5 states. Includes Southern Segment and maybe parts of Keystone?
