@@ -7,6 +7,8 @@ bibliograhpy: library.bib
 * API: American Petroleum Institute
 * dilbit: diluted bitumen
 * DOS: Department of State
+* FOE: Friends of the Earth
+* FOIA: Freedom of Information Act
 * KXL: Keystone XL
 * NRC: Natural Resource Committee
 * PUC: Public Utilities Commission
@@ -25,7 +27,8 @@ Year    | Month | Day   | Place         | Body          | Agenda
 </br>   | June  | 16    | Washington    | Congress      | Congress debates dangers of dilbit for pipelines.
 </br>   | Aug   | 30    | Washington    | White House   | Demonstration outside White House.
 </br>   | Sep   | 28    | Lincoln, NB   | ?NRC?         | Contentious hearing
-</br>   | Sep   | 29    | US            | Various       | Debate between SD governor & federal gov
+</br>   | </br> | 29    | US            | Various       | Debate between SD governor & federal gov
+</br>   | Oct   | 04    | US            | Other         | FOE FOIA's emails between TransCanada and the US embassy in Ottawa
 
 ## Details
 
@@ -44,3 +47,4 @@ Date        | Body          | Factiva                   | Details
 2011-08-30  | White House   | APRS000020110830e78u00131 | Daryl Hannah and "dozenz" are arrested.
 2011-09-28  | ?NB NRC?      | APRS000020110927e79r000h3 | "You don't give a damn about Nebraska" vs. "Reason, Not Extremism".
 2011-09-29  | Various       | APRS000020110928e79s0021e | SD governor and federal gov debate responsibility for making decision on KXL. "Are they really suggesting that the state of Nebraska can pre-empt the president of the United States when he says it's in the national interest?"
+2011-10-04  | Other         | APRS000020111004e7a40029b | FOE FOIA's emails between TransCanada and the US embassy in Ottawa. [[The emails suggest a close relationship between TransCanada, an embassy staff member, and the DOS.|https://foe.org/blog/2011-10-documents-reveal-smoking-gun-regarding-state-departm/]]
