@@ -15,22 +15,22 @@ bibliograhpy: library.bib
 
 ## Events
 
-Year    | Month | Day   | Place         | Body          | Agenda
----     | ---   | ---   | -----         | ------        | -----------------
-2009    | April | "late"| South Dakota  | PUC           | SD PUC holding public hearings in Winner, Philip, and Buffalo.
-</br>   | Nov   | 2     | Pierre, SD    | PUC           | 
-2010    | May   | 3     | Billings, MT  | Unofficial    | Meeting between Montana governor and oil executives
-</br>   | May   |       | 6 states      | US DOS        | 19 public hearings in 6 states
-</br>   | Oct   | 21    | Washington    | Senate        | Debate between Clinton and Senator
-</br>   | Dec   | 30    | Lincoln, NE   | NRC           | Debate on pipeline safety, expanding legislation
-2011    | Feb   | 10    | Lincoln, NE   | NRC           | Debate on new legislation
-</br>   | May   | 20    | Washington    | Congress      | Debate: does Koch benefit from KXL?
-</br>   | May   | 29    | Lincoln, NE   | CEA           | Koch-funded CEA holds public forum on KXL benefits.
-</br>   | June  | 16    | Washington    | Congress      | Congress debates dangers of dilbit for pipelines.
-</br>   | Aug   | 30    | Washington    | White House   | Demonstration outside White House.
-</br>   | Sep   | 28    | Lincoln, NE   | ?NRC?         | Contentious hearing
-</br>   | </br> | 29    | US            | Various       | Debate between SD governor & federal gov
-</br>   | Oct   | 04    | US            | Other         | FOE FOIA's emails between TransCanada and the US embassy in Ottawa
+Year    | Month | Day       | Place         | Body          | Agenda
+---     | ---   | ---       | -----         | ------        | -----------------
+2009    | April | 27 & 28   | South Dakota  | PUC           | SD PUC holding public hearings in Winner, Philip, and Buffalo.
+</br>   | Nov   | 2         | Pierre, SD    | PUC           | 
+2010    | May   | 3         | Billings, MT  | Unofficial    | Meeting between Montana governor and oil executives
+</br>   | May   |           | 6 states      | US DOS        | 19 public hearings in 6 states
+</br>   | Oct   | 21        | Washington    | Senate        | Debate between Clinton and Senator
+</br>   | Dec   | 30        | Lincoln, NE   | NRC           | Debate on pipeline safety, expanding legislation
+2011    | Feb   | 10        | Lincoln, NE   | NRC           | Debate on new legislation
+</br>   | May   | 20        | Washington    | Congress      | Debate: does Koch benefit from KXL?
+</br>   | May   | 29        | Lincoln, NE   | CEA           | Koch-funded CEA holds public forum on KXL benefits.
+</br>   | June  | 16        | Washington    | Congress      | Congress debates dangers of dilbit for pipelines.
+</br>   | Aug   | 30        | Washington    | White House   | Demonstration outside White House.
+</br>   | Sep   | 28        | Lincoln, NE   | ?NRC?         | Contentious hearing
+</br>   | </br> | 29        | US            | Various       | Debate between SD governor & federal gov
+</br>   | Oct   | 04        | US            | Other         | FOE FOIA's emails between TransCanada and the US embassy in Ottawa
 
 ## Details
 
