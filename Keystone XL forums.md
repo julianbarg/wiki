@@ -56,3 +56,31 @@ Date        | Body          | Factiva                   | Details
 2011-09-28  | ?NE NRC?      | APRS000020110927e79r000h3 | "You don't give a damn about Nebraska" vs. "Reason, Not Extremism".
 2011-09-29  | Various       | APRS000020110928e79s0021e | SD governor and federal gov debate responsibility for making decision on KXL. "Are they really suggesting that the state of Nebraska can pre-empt the president of the United States when he says it's in the national interest?"
 2011-10-04  | Other         | APRS000020111004e7a40029b | FOE FOIA's emails between TransCanada and the US embassy in Ottawa. [[The emails suggest a close relationship between TransCanada, an embassy staff member, and the DOS.|https://foe.org/blog/2011-10-documents-reveal-smoking-gun-regarding-state-departm/]]
+
+## Organizations
+
+## Regulator
+
+* Department of Environmental Quality (Montana)
+* Federal Energy Regulatory Commission
+* Natural Resource Committee (Nebraska)
+* Public Utilities Commision (South Dakota)
+
+### Opposing
+
+* Dakota Rural Action
+* Holt-Rock County Farmers Union
+    * Lynda Buoy
+* National Wildlife Foundation
+    * Tony Iallonardo
+* Nebraska Cattlemen
+    * Jay Wolf
+
+### Supporting
+
+* Nebraska AFL-CIO 
+    * Ron Kaminski
+* Laborers International Union of North America
+* International Brotherhood of Teamsters
+* International Union of Operating Engineers
+* United Association of Journeymen and Apprentices of the Plumbing and Pipefitting Industry
