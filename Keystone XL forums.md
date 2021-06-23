@@ -70,6 +70,7 @@ Date        | Body          | Factiva                   | Details
 
 * Dakota Rural Action
     * Paul Blackburn (lawyer)
+    * John Harter
 * Friends of the Earth
     * Alex Moore
 * Holt-Rock County Farmers Union
