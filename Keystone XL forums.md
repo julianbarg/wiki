@@ -47,7 +47,8 @@ Date        | Body          | Factiva                   | Details
 2010-10-?   | NE NRC        | APRS000020101230e6cu001qh | Meeting between experts, residents, and (probably) PHSMA 
 2010-12-30  | NE NRC        | APRS000020101230e6cu001qh | Lawmakers question TransCanada safety claims, discuss expanding oversight. Touches on Kalamazoo River oil spill.
 2011-01-12  | NE            | APRS000020110112e71c001n3 | Legislature proposes newlaw to take control of pipeline construction approvals for state.
-2011-02-10  | NB NRC        | APRS000020110210e72a000ce | Nebraska Natural Resource Committee hears from affected landowners.
+2011-02-10  | NE NRC        | APRS000020110210e72a000ce | Nebraska Natural Resource Committee hears from affected landowners.
+2011-02-15  | NE NRC        | APRS000020110215e72f001fk | Bill rejected
 2011-05-20  | Congress      | LBA0000020110520e75k001j2 | Koch influences congress and could benefit from KXL through an oil terminal. Congress requests document.
 2011-05-29  | CEA           | APRS000020110528e75s002wo | Koch-funded CEA holds public forum on KXL benefits.
 2011-06-16  | Congress      | LBA0000020110616e76g001gf | Proposed law would mandate PHSMA study. API assures dilbit safe for lines.
