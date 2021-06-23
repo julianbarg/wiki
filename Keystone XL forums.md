@@ -25,6 +25,7 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   | Dec   | "Early"   | Lincoln, NE   | NRC           | Meeting between experts, residents, and PHSMA
 </br>   | Dec   | 30        | Lincoln, NE   | NRC           | Debate on pipeline safety, expanding legislation
 2011    | Jan   | 12        | Lincoln, NE   | Legislature   | Nebraska considers new pipeline legislation
+</br>   | Feb   | 10        | Lincoln, NE   | NRC           | NE NRC hears from residents regarding the bill
 </br>   | May   | 20        | Washington    | Congress      | Debate: does Koch benefit from KXL?
 </br>   | May   | 29        | Lincoln, NE   | CEA           | Koch-funded CEA holds public forum on KXL benefits.
 </br>   | June  | 16        | Washington    | Congress      | Congress debates dangers of dilbit for pipelines.
