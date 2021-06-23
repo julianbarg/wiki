@@ -69,12 +69,17 @@ Date        | Body          | Factiva                   | Details
 ### Opposing
 
 * Dakota Rural Action
+    * Paul Blackburn (lawyer)
 * Holt-Rock County Farmers Union
     * Lynda Buoy
 * National Wildlife Foundation
     * Tony Iallonardo
 * Nebraska Cattlemen
     * Jay Wolf
+* Nebraskans For Peace
+    * Mark Welsch--nfpomaha@Nebraskansforpeace.org
+* Sierra Club
+    * Angela Boag (Houston)
 
 ### Supporting
 
