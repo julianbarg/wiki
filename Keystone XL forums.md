@@ -16,7 +16,7 @@ bibliograhpy: library.bib
 ## Events
 
 Year    | Month | Day       | Place         | Body          | Agenda
----     | ---   | ---       | -----         | ------        | -----------------
+--:     | :--   | :-:       | -----         | ------        | -----------------
 2009    | April | 27&28     | South Dakota  | PUC           | SD PUC holding public hearings in Winner, Philip, and Buffalo.
 </br>   | Nov   | 2         | Pierre, SD    | PUC           | 
 2010    | May   | 3         | Billings, MT  | Unofficial    | Meeting between Montana governor and oil executives
