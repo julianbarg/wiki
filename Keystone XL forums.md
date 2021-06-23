@@ -18,15 +18,16 @@ bibliograhpy: library.bib
 Year    | Month | Day   | Place         | Body          | Agenda
 ---     | ---   | ---   | -----         | ------        | -----------------
 2009    | Nov   | 2     | Pierre, SD    | PUC           | 
-2010    | May   |       | 6 states      | US DOS        | 19 public hearings in 6 states
+2010    | May   | 3     | Billings, MT  | Unofficial    | Meeting between Montana governor and oil executives
+</br>   | May   |       | 6 states      | US DOS        | 19 public hearings in 6 states
 </br>   | Oct   | 21    | Washington    | Senate        | Debate between Clinton and Senator
-</br>   | Dec   | 30    | Lincoln, NB   | NRC           | Debate on pipeline safety, expanding legislation
-2011    | Feb   | 10    | Lincoln, NB   | NRC           | Debate on new legislation
+</br>   | Dec   | 30    | Lincoln, NE   | NRC           | Debate on pipeline safety, expanding legislation
+2011    | Feb   | 10    | Lincoln, NE   | NRC           | Debate on new legislation
 </br>   | May   | 20    | Washington    | Congress      | Debate: does Koch benefit from KXL?
-</br>   | May   | 29    | Lincoln, NB   | CEA           | Koch-funded CEA holds public forum on KXL benefits.
+</br>   | May   | 29    | Lincoln, NE   | CEA           | Koch-funded CEA holds public forum on KXL benefits.
 </br>   | June  | 16    | Washington    | Congress      | Congress debates dangers of dilbit for pipelines.
 </br>   | Aug   | 30    | Washington    | White House   | Demonstration outside White House.
-</br>   | Sep   | 28    | Lincoln, NB   | ?NRC?         | Contentious hearing
+</br>   | Sep   | 28    | Lincoln, NE   | ?NRC?         | Contentious hearing
 </br>   | </br> | 29    | US            | Various       | Debate between SD governor & federal gov
 </br>   | Oct   | 04    | US            | Other         | FOE FOIA's emails between TransCanada and the US embassy in Ottawa
 
@@ -35,6 +36,7 @@ Year    | Month | Day   | Place         | Body          | Agenda
 Date        | Body          | Factiva                   | Details
 ---         | ---           | -------                   | ----------------------
 2009-11-02  | SD PUC        | APRS000020091102e5b2001ve | First hearing on KXL, consisting of prefiled testimonies by TransCanada. Landowners are represented by one lawyer, Paul Blackburn.
+2010-03-03  | Unofficial    | APRS000020100303e633001d5 | Montana gov negotiates over pipeline access to Keystone XL in meeting with oil executives.
 2010-05-06  | US DOS        | APRS000020100506e656002cn | Three DOS hearings in Nebraska coming up.
 2010-05-12  | US DOS        | APRS000020100512e65c0000r | 19 hearings in 5 states. Includes Southern Segment and maybe parts of Keystone?
 2010-05-20  | US DOS        | APRS000020100520e65k000rt | 6 public hearings in Montana, not well-attended.
