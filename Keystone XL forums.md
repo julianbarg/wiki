@@ -86,8 +86,12 @@ Date        | Body          | Factiva                   | Details
 
 ### Supporting
 
+* Americans for Prosperity
+* Consumer Energy Alliance
+    * Elaine Crooks--elaine@consumerenergyalliance.org
 * Nebraska AFL-CIO 
     * Ron Kaminski
+* Nebraska Chamber of Commerce
 * Laborers International Union of North America
 * International Brotherhood of Teamsters
 * International Union of Operating Engineers
