@@ -70,9 +70,11 @@ Date        | Body          | Factiva                   | Details
 
 * Dakota Rural Action
     * Paul Blackburn (lawyer)
+* Friends of the Earth
+    * Alex Moore
 * Holt-Rock County Farmers Union
     * Lynda Buoy
-* National Wildlife Foundation
+* National Wildlife Federation
     * Tony Iallonardo
 * Nebraska Cattlemen
     * Jay Wolf
