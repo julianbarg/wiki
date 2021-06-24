@@ -39,6 +39,7 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   |       | 29        | US            | Various       | Debate between SD governor & federal gov
 </br>   | Oct   | 04        | US            | Other         | FOE FOIA's emails between TransCanada and the US embassy in Ottawa
 </br>   |       | 06        | Omaha, NE     | Court         | Lawsuit about begin of construction/preparation
+</br>   |       | 08        | US            | Various       | NE governor sends letter to Clinton
 </br>   |       | 10        | Washington    | DOS           | "Final" public hearing
 
 ## Details
@@ -67,6 +68,7 @@ Date        | Body          | Factiva                   | Details
 2011-10-04  | Other         | APRS000020111004e7a40029b | FOE FOIA's emails between TransCanada and the US embassy in Ottawa. [[The emails suggest a close relationship between TransCanada, an embassy staff member, and the DOS.|https://foe.org/blog/2011-10-documents-reveal-smoking-gun-regarding-state-departm/]]
 2011-10-05  | DOS           | LBA0000020111005e7a5000fb | "Final" public hearing in Washington on Oct 7
 2011-10-06  | Court         | APRS000020111006e7a6001id | Lawsuit regarding TransCanada construction preparation--moving native grasses and relocating endangered species (beetle)
+2011-10-08  | Various       | LBA0000020111008e7a80000r | Nebraska governor asks Clinton to reroute pipeline.
 
 ## People
  
