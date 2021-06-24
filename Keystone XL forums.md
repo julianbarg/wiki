@@ -99,41 +99,42 @@ PUC (SD)                            |                   |                       
 
 ### Opposing
 
-Organization                        | Name              | Contact Information   | Role              | Area
----                                 | ---               | ---                   | ---               | ---
-Center for Biological Diversity     | Noah Greenwald    |                       | Director          |   
-Dakota Rural Action                 | Paul Blackburn    |                       | Lawyer            |
-</br>                               | John Harter       |                       |                   |
-Friends of the Earth                | Alex Moore        |                       |                   |
-Greenpeace                          |                   |                       |                   |
-Holt-Rock County Farmers Union      | Lynda Buoy        |                       |                   |
-Intertribal Council on Utility Policy| Patrick Spears   |                       |                   |
-Kansas Interfaith Power & Light     | Moti Rieber       |                       | (Rabi)            |
-National Wildlife Federation        | Tony Iallonardo   |                       |                   |
-Nebraska Cattlemen                  | Jay Wolf          |                       |                   |  
-Nebraskans For Peace                | Mark Welsch       | nfpomaha@Nebraskansforpeace.org           |
-Northern Plains Pipeline Landowners Group|Terry Blevins |                       |                   |
-Occupy Denver                       |                   |                       |                   |
-Physicians for Social Responsibility|                   |                       |                   |
-Public Citizen Texas                | Trevor Lovell     | trevor.lovell@gmail.com|                  |           
-Rosebud Sioux                       | Rodney Bordeaux   |                       | Tribal Chairman   |
-Sierra Club                         | Angela Boag       |                       |                   | Houston
-</br>                               | Kat Herrera       |                       | (Intern)          |
+Organization                        | Name              | Contact Information   | Role  
+---                                 | ---               | ---                   | ---   
+Center for Biological Diversity     | Noah Greenwald    |                       | Director    
+Dakota Rural Action                 | Paul Blackburn    |                       | Lawyer
+</br>                               | John Harter       |                       |       
+Friends of the Earth                | Alex Moore        |                       |       
+Greenpeace                          |                   |                       |       
+Holt-Rock County Farmers Union      | Lynda Buoy        |                       |       
+Intertribal Council on Utility Policy| Patrick Spears   |                       |       
+Kansas Interfaith Power & Light     | Moti Rieber       |                       | (Rabi)
+National Wildlife Federation        | Tony Iallonardo   |                       |       
+Nebraska Cattlemen                  | Jay Wolf          |                       |         
+Nebraskans For Peace                | Mark Welsch       | nfpomaha@Nebraskansforpeace.org  
+Northern Plains Pipeline Landowners Group|Terry Blevins |                       |       
+Occupy Denver                       |                   |                       |       
+Physicians for Social Responsibility|                   |                       |       
+Public Citizen Texas                | Trevor Lovell     | trevor.lovell@gmail.com|                 
+Rosebud Sioux                       | Rodney Bordeaux   |                       | Tribal Chairman
+Sierra Club                         | Angela Boag       |                       | Houston  
+</br>                               | Kat Herrera       |                       | (Intern) 
 
 ### Supporting
 
-Organization                        | Name              | Contact Information   | Role              | Area
-------------                        | ------            | ---                   | ------            | ---
-Americans for Prosperity (Koch)     |                   |                       |                   |
-Black Hills Community Economic Development organization| Jim Doolittle|         | Former director   |
-Consumer Energy Alliance (Koch)     | Elaine Crooks     | elaine@consumerenergyalliance.org|        |
-Montana Association of Oil and Gas Counties| Richard Dunbar|                    |                   |
-Nebraska AFL-CIO                    | Ron Kaminski      |                       |                   |
-Nebraska Chamber of Commerce        |                   |                       |                   |
-Nebraska Petroleum Marketers and Convenience Store Association| Mark Whitehead| |                   |
-Laborers International Union of North America| Terry O'Sullivan|                | General President |
-International Brotherhood of Teamsters|               |                         |                   |
-International Union of Operating Engineers|           |                         |                   |
-Pipeliners Union 798                | David Barnett     |                       |                   |
-United Association of Journeymen and Apprentices of the Plumbing and Pipefitting Industry||         |
-Veterans for Keystone XL            | Bobby Petty       |                       |                   |
+Organization                        | Name              | Contact Information   | Role          
+------------                        | ------            | ---                   | ------        
+Americans for Prosperity (Koch)     |                   |                       |               
+Associati
+Black Hills Community Economic Development organization| Jim Doolittle|         | Former director  
+Consumer Energy Alliance (Koch)     | Elaine Crooks     | elaine@consumerenergyalliance.org|    
+Montana Association of Oil and Gas Counties| Richard Dunbar|                    |               
+Nebraska AFL-CIO                    | Ron Kaminski      |                       |               
+Nebraska Chamber of Commerce        |                   |                       |               
+Nebraska Petroleum Marketers and Convenience Store Association| Mark Whitehead| |               
+Laborers International Union of North America| Terry O'Sullivan|                | General President
+International Brotherhood of Teamsters|               |                         |               
+International Union of Operating Engineers|           |                         |               
+Pipeliners Union 798                | David Barnett     |                       |               
+United Association of Journeymen and Apprentices of the Plumbing and Pipefitting Industry||     
+Veterans for Keystone XL            | Bobby Petty       |                       |               
