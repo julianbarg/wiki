@@ -102,6 +102,8 @@ Date        | Body          | Factiva                   | Details
 * Americans for Prosperity
 * Consumer Energy Alliance
     * Elaine Crooks--elaine@consumerenergyalliance.org
+* Montana Association of Oil and Gas Counties
+    * Richard Dunbar
 * Nebraska AFL-CIO 
     * Ron Kaminski
 * Nebraska Chamber of Commerce
