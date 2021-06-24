@@ -129,6 +129,7 @@ Date        | Body          | Factiva                   | Details
 * Nebraska Petroleum Marketers and Convenience Store Association
     * Mark Whitehead
 * Laborers International Union of North America
+    * Terry O'Sullivan--General President
 * International Brotherhood of Teamsters
 * International Union of Operating Engineers
 * Pipeliners Union 798
