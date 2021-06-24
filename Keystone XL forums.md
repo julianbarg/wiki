@@ -135,6 +135,7 @@ Nebraska Petroleum Marketers and Convenience Store Association| Mark Whitehead| 
 Laborers International Union of North America| Terry O'Sullivan|                | General President
 International Brotherhood of Teamsters|               |                         |               
 International Union of Operating Engineers|           |                         |               
-Pipeliners Union 798                | David Barnett     |                       |               
+Pipeliners Union 798                | David Barnett     |                       |      
+Platte Institute for Economic Research|Andrew Black     |                       |
 United Association of Journeymen and Apprentices of the Plumbing and Pipefitting Industry||     
 Veterans for Keystone XL            | Bobby Petty       |                       |               
