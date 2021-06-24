@@ -70,68 +70,44 @@ Date        | Body          | Factiva                   | Details
 
 ## People
 
-Party       | Organization                      | Name              | Role          | Area                      | Contact Information
----         | ---                               | ---               | ---           | ---                       | ---
-TransCanada |                                   | Alex Pourbaix     | President     | Energy and oil pipelines  |
-</br>       |                                   | Andrea Jalbert    | Director      | Safety and environment    |
-</br>       |                                   | Robert Jones      | Vice President| Keystone XL project       |
-</br>       |                                   | Shawn Howard      | Spokesman     |                           |
-</br>       |                                   | Terry Cunha       | Spokesman     |                           |
-Regulator   | DEQ (MT)                          |
-</br>       | FERC (CA)                         |
-</br>       | NRC (NE)                          |
-</br>       | PUC (SD)                          |
-Opposing    | Center for Biological Diversity   | Noah Greenwald    | Director
-</br>       | Dakota Rural Action               | Paul Blackburn    | Lawyer
-</br>       |                                   | John Harter       | 
-</br>       | Friends of the Earth              | Alex Moore
-</br>       | Greenpeace                        |
-</br>       | Holt-Rock County Farmers Union    | Lynda Buoy
-</br>       | Intertribal Council on Utility Policy| Patrick Spears |
-</br>       | Kansas Interfaith Power & Light   | Moti Rieber       | (Rabi)        |
-
-
-* Intertribal Council on Utility Policy
-    * Patrick Spears
-* Kansas Interfaith Power & Light
-    * Moti Rieber
-* National Wildlife Federation
-    * Tony Iallonardo
-* Nebraska Cattlemen
-    * Jay Wolf
-* Nebraskans For Peace
-    * Mark Welsch--nfpomaha@Nebraskansforpeace.org
-* Northern Plains Pipeline Landowners Group
-    * Terry Blevins
-* Physicians for Social Responsibility
-* Public Citize Texas
-    * Trevor Lovell--trevor.lovell@gmail.com
-* Rosebud Sioux
-    * Rodney Bordeaux--Tribal Chairman
-* Sierra Club
-    * Angela Boag (Houston)
-    * Kat Herrera (Intern)
-
-### Supporting
-
-* Americans for Prosperity
-* Black Hills Community Economic Development organization
-    * Jim Doolittle (former director)
-* Consumer Energy Alliance
-    * Elaine Crooks--elaine@consumerenergyalliance.org
-* Montana Association of Oil and Gas Counties
-    * Richard Dunbar
-* Nebraska AFL-CIO 
-    * Ron Kaminski
-* Nebraska Chamber of Commerce
-* Nebraska Petroleum Marketers and Convenience Store Association
-    * Mark Whitehead
-* Laborers International Union of North America
-    * Terry O'Sullivan--General President
-* International Brotherhood of Teamsters
-* International Union of Operating Engineers
-* Pipeliners Union 798
-    * David Barnett
-* United Association of Journeymen and Apprentices of the Plumbing and Pipefitting Industry
-* Veterans for Keystone XL
-    * Bobby Petty
+Party       | Organization                      | Name              | Contact Information   | Role              | Area                      | 
+---         | ---                               | ---               | ---                   | ---               | ---
+TransCanada |                                   | Alex Pourbaix     |                       | President         | Energy and oil pipelines  
+</br>       |                                   | Andrea Jalbert    |                       | Director          | Safety and environment    
+</br>       |                                   | Robert Jones      |                       | Vice President    | Keystone XL project       
+</br>       |                                   | Shawn Howard      |                       | Spokesman         |
+</br>       |                                   | Terry Cunha       |                       | Spokesman         |
+Regulator   | DEQ (MT)                          |                   |                       |                   |
+</br>       | FERC (CA)                         |                   |                       |                   |
+</br>       | NRC (NE)                          |                   |                       |                   |
+</br>       | PUC (SD)                          |                   |                       |                   |
+Opposing    | Center for Biological Diversity   | Noah Greenwald    |                       | Director          |   
+</br>       | Dakota Rural Action               | Paul Blackburn    |                       | Lawyer            |
+</br>       |                                   | John Harter       |                       |                   |
+</br>       | Friends of the Earth              | Alex Moore        |                       |                   |
+</br>       | Greenpeace                        |                   |                       |                   |
+</br>       | Holt-Rock County Farmers Union    | Lynda Buoy        |                       |                   |
+</br>       | Intertribal Council on Utility Policy| Patrick Spears |                       |                   |
+</br>       | Kansas Interfaith Power & Light   | Moti Rieber       |                       | (Rabi)            |
+</br>       | National Wildlife Federation      | Tony Iallonardo   |                       |                   |
+</br>       | Nebraska Cattlemen                | Jay Wolf          |                       |                   |  
+</br>       | Nebraskans For Peace              | Mark Welsch       | nfpomaha@Nebraskansforpeace.org           |
+</br>       | Northern Plains Pipeline Landowners Group|Terry Blevins|                      |                   |
+</br>       | Physicians for Social Responsibility|                 |                       |                   |
+</br>       | Public Citizen Texas              | Trevor Lovell     | trevor.lovell@gmail.com|                  |           
+</br>       | Rosebud Sioux                     | Rodney Bordeaux   |                       | Tribal Chairman   |
+</br>       | Sierra Club                       | Angela Boag       |                       |                   | Houston
+</br        |                                   | Kat Herrera       |                       | (Intern)          |
+Supporting  | Americans for Prosperity (Koch)   |                   |                       |                   |
+</br>       | Black Hills Community Economic Development organization| Jim Doolittle|       | Former director   |
+</br>       | Consumer Energy Alliance (Koch)   | Elaine Crooks     | elaine@consumerenergyalliance.org|        |
+</br>       | Montana Association of Oil and Gas Counties| Richard Dunbar|                  |                   |
+</br>       | Nebraska AFL-CIO                  | Ron Kaminski      |                       |                   |
+</br>       | Nebraska Chamber of Commerce
+</br>       | Nebraska Petroleum Marketers and Convenience Store Association| Mark Whitehead||                  |
+</br>       | Laborers International Union of North America| Terry O'Sullivan|              | General President |
+</br>       | International Brotherhood of Teamsters|               |                       |                   |
+</br>       | International Union of Operating Engineers|           |                       |                   |
+</br>       | Pipeliners Union 798              | David Barnett     |                       |                   |
+</br>       | United Association of Journeymen and Apprentices of the Plumbing and Pipefitting Industry
+</br>       | Veterans for Keystone XL          | Bobby Petty       |                       |                   |
