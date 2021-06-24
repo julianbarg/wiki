@@ -62,7 +62,11 @@ Date        | Body          | Factiva                   | Details
 
 ## Organizations
 
-## Regulator
+### TransCanada
+
+* Alex Pourbaix--president of energy and oil pipelines
+
+### Regulator
 
 * Department of Environmental Quality (Montana)
 * Federal Energy Regulatory Commission
