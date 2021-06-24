@@ -32,10 +32,10 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   | June  |           | US            | DOS           | Commenting period open & >100,000 comments received.
 </br>   | Aug   | 30        | Washington    | White House   | Demonstration outside White House.
 </br>   | Sep   |           | US            | DOS           | Hearings in Montana, South Dakota, Nebraska (etc.)
-</br>   | </br> | 29        | US            | Various       | Debate between SD governor & federal gov
+</br>   |       | 29        | US            | Various       | Debate between SD governor & federal gov
 </br>   | Oct   | 04        | US            | Other         | FOE FOIA's emails between TransCanada and the US embassy in Ottawa
-</br>   | </br> | 06        | Omaha, NE     | Court         | Lawsuit about begin of construction/preparation
-</br>   | </br> | 10        | Washington    | DOS           | "Final" public hearing
+</br>   |       | 06        | Omaha, NE     | Court         | Lawsuit about begin of construction/preparation
+</br>   |       | 10        | Washington    | DOS           | "Final" public hearing
 
 ## Details
 
@@ -66,9 +66,9 @@ Date        | Body          | Factiva                   | Details
 
 ## People
 
-Party       | Organization  | Role      | Area                      | Contact Information
----         | ---           | ---       | ---                       | ---
-TransCanada |               | President | Energy and oil pipelines  |
+Party       | Organization  | Name          | Role      | Area                      | Contact Information
+---         | ---           |               | ---       | ---                       | ---
+TransCanada |               | Alex Pourbaix | President | Energy and oil pipelines  |
 
 ### TransCanada
 
