@@ -70,37 +70,27 @@ Date        | Body          | Factiva                   | Details
 
 ## People
 
-Party       | Organization  | Name              | Role          | Area                      | Contact Information
----         | ---           | ---               | ---           | ---                       | ---
-TransCanada |               | Alex Pourbaix     | President     | Energy and oil pipelines  |
-</br>       |               | Andrea Jalbert    | Director      | Safety and environment    |
-</br>       |               | Robert Jones      | Vice President| Keystone XL project       |
-</br>       |               | Shawn Howard      | Spokesman     |                           |
-</br>       |               | Terry Cunha       | Spokesman     |                           |
-Regulator   | DEQ (MT)      |
-</br>       | FERC (CA)     |
-</br>       | NRC (NE)      |
-</br>       | PUC (SD)      |
+Party       | Organization                      | Name              | Role          | Area                      | Contact Information
+---         | ---                               | ---               | ---           | ---                       | ---
+TransCanada |                                   | Alex Pourbaix     | President     | Energy and oil pipelines  |
+</br>       |                                   | Andrea Jalbert    | Director      | Safety and environment    |
+</br>       |                                   | Robert Jones      | Vice President| Keystone XL project       |
+</br>       |                                   | Shawn Howard      | Spokesman     |                           |
+</br>       |                                   | Terry Cunha       | Spokesman     |                           |
+Regulator   | DEQ (MT)                          |
+</br>       | FERC (CA)                         |
+</br>       | NRC (NE)                          |
+</br>       | PUC (SD)                          |
+Opposing    | Center for Biological Diversity   | Noah Greenwald    | Director
+</br>       | Dakota Rural Action               | Paul Blackburn    | Lawyer
+</br>       |                                   | John Harter       | 
+</br>       | Friends of the Earth              | Alex Moore
+</br>       | Greenpeace                        |
+</br>       | Holt-Rock County Farmers Union    | Lynda Buoy
+</br>       | Intertribal Council on Utility Policy| Patrick Spears |
+</br>       | Kansas Interfaith Power & Light   | Moti Rieber       | (Rabi)        |
 
-### Regulator
 
-* Department of Environmental Quality (Montana)
-* Federal Energy Regulatory Commission
-* Natural Resource Committee (Nebraska)
-* Public Utilities Commision (South Dakota)
-
-### Opposing
-
-* Center for Biological Diversity
-    * Noah Greenwald (director)
-* Dakota Rural Action
-    * Paul Blackburn (lawyer)
-    * John Harter
-* Friends of the Earth
-    * Alex Moore
-* Greenpeace
-* Holt-Rock County Farmers Union
-    * Lynda Buoy
 * Intertribal Council on Utility Policy
     * Patrick Spears
 * Kansas Interfaith Power & Light
