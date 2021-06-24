@@ -82,6 +82,8 @@ Date        | Body          | Factiva                   | Details
     * Alex Moore
 * Holt-Rock County Farmers Union
     * Lynda Buoy
+* Kansas Interfaith Power & Light
+    * Moti Rieber
 * National Wildlife Federation
     * Tony Iallonardo
 * Nebraska Cattlemen
@@ -100,9 +102,13 @@ Date        | Body          | Factiva                   | Details
 * Nebraska AFL-CIO 
     * Ron Kaminski
 * Nebraska Chamber of Commerce
+* Nebraska Petroleum Marketers and Convenience Store Association
+    * Mark Whitehead
 * Laborers International Union of North America
 * International Brotherhood of Teamsters
 * International Union of Operating Engineers
+* Pipeliners Union 798
+    * David Barnett
 * United Association of Journeymen and Apprentices of the Plumbing and Pipefitting Industry
 * Veterans for Keystone XL
     * Bobby Petty
