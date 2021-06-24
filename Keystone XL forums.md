@@ -14,6 +14,7 @@ bibliograhpy: library.bib
 * FOE: Friends of the Earth
 * FOIA: Freedom of Information Act
 * KXL: Keystone XL
+* NEB: National Energy Board (Canada)
 * NRC: Natural Resource Committee
 * PUC: Public Utilities Commission
 
@@ -96,8 +97,9 @@ Organization                        | Name              | Contact Information   
 ---                                 | ---               | ---                   | ---               | ---
 DEQ (MT)                            |                   |                       |                   |
 FERC (CA)                           |                   |                       |                   |
+NEB (CA)                            |                   |                       |                   |
 NRC (NE)                            |                   |                       |                   |
-DEQ (NE)                            |
+DEQ (NE)                            |                   |                       |                   |
 PUC (SD)                            |                   |                       |                   |
 
 ### Opposing
