@@ -104,3 +104,5 @@ Date        | Body          | Factiva                   | Details
 * International Brotherhood of Teamsters
 * International Union of Operating Engineers
 * United Association of Journeymen and Apprentices of the Plumbing and Pipefitting Industry
+* Veterans for Keystone XL
+    * Bobby Petty
