@@ -67,7 +67,7 @@ Date        | Body          | Factiva                   | Details
 ## People
 
 Party       | Organization  | Name          | Role      | Area                      | Contact Information
----         | ---           |               | ---       | ---                       | ---
+---         | ---           | ---           | ---       | ---                       | ---
 TransCanada |               | Alex Pourbaix | President | Energy and oil pipelines  |
 
 ### TransCanada
