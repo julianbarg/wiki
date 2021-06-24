@@ -92,7 +92,7 @@ PUC (SD)                            |                   |                       
 ### Opposing
 
 Organization                        | Name              | Contact Information   | Role              | Area
----                                 | ---               | ---                   | ---               | ---
+---                                 | ------            | ---                   | ---               | ---
 Center for Biological Diversity     | Noah Greenwald    |                       | Director          |   
 Dakota Rural Action                 | Paul Blackburn    |                       | Lawyer            |
 </br>                               | John Harter       |                       |                   |
