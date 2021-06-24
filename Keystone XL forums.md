@@ -125,7 +125,7 @@ Sierra Club                         | Angela Boag       |                       
 Organization                        | Name              | Contact Information   | Role          
 ------------                        | ------            | ---                   | ------        
 Americans for Prosperity (Koch)     |                   |                       |               
-Associati
+Association of Oil Pipe Lines       | Andrew Black      |                       |
 Black Hills Community Economic Development organization| Jim Doolittle|         | Former director  
 Consumer Energy Alliance (Koch)     | Elaine Crooks     | elaine@consumerenergyalliance.org|    
 Montana Association of Oil and Gas Counties| Richard Dunbar|                    |               
