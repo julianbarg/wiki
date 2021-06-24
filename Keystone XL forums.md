@@ -29,7 +29,7 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   | May   | 20        | Washington    | Congress      | Debate: does Koch benefit from KXL?
 </br>   | May   | 29        | Lincoln, NE   | CEA           | Koch-funded CEA holds public forum on KXL benefits.
 </br>   | June  | 16        | Washington    | Congress      | Congress debates dangers of dilbit for pipelines.
-</br>   | June  |           | US            | DOS           | Commenting period open & >100,000 comments received
+</br>   | June  |           | US            | DOS           | Commenting period open & >100,000 comments received.
 </br>   | Aug   | 30        | Washington    | White House   | Demonstration outside White House.
 </br>   | Sep   | 28        | Lincoln, NE   | ?NRC?         | Contentious hearing
 </br>   | </br> | 29        | US            | Various       | Debate between SD governor & federal gov
@@ -52,6 +52,7 @@ Date        | Body          | Factiva                   | Details
 2011-02-15  | NE NRC        | APRS000020110215e72f001fk | Bill rejected
 2011-05-20  | Congress      | LBA0000020110520e75k001j2 | Koch influences congress and could benefit from KXL through an oil terminal. Congress requests document.
 2011-05-29  | CEA           | APRS000020110528e75s002wo | Koch-funded CEA holds public forum on KXL benefits.
+2011-06-08  | DOS           | LBA0000020110608e76800185 | Commenting period open & >100,000 comments received.
 2011-06-16  | Congress      | LBA0000020110616e76g001gf | Proposed law would mandate PHSMA study. API assures dilbit safe for lines.
 2011-08-30  | White House   | APRS000020110830e78u00131 | Daryl Hannah and "dozenz" are arrested.
 2011-09-28  | ?NE NRC?      | APRS000020110927e79r000h3 | "You don't give a damn about Nebraska" vs. "Reason, Not Extremism".
