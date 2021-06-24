@@ -17,26 +17,31 @@ bibliograhpy: library.bib
 * NRC: Natural Resource Committee
 * PUC: Public Utilities Commission
 
-## Events
+## Forums
 
 Year    | Month | Day       | Place         | Body          | Agenda
 --:     | :--   | :-:       | -----         | ------        | -----------------
 2009    | April | 27&28     | South Dakota  | PUC           | SD PUC holding public hearings in Winner, Philip, and Buffalo.
-</br>   | Nov   | 2         | Pierre, SD    | PUC           | 
-2010    | May   | 3         | Billings, MT  | Unofficial    | Meeting between Montana governor and oil executives
-</br>   | May   |           | 6 states      | US DOS        | 19 public hearings in 6 states
-</br>   | Oct   | 21        | Washington    | Senate        | Debate between Clinton and Senator
+</br>   | Nov   | 2         | Pierre, SD    | PUC           | Hearing
+2010    | May   |           | 6 states      | US DOS        | 19 public hearings in 6 states
 </br>   | Dec   | "Early"   | Lincoln, NE   | NRC           | Meeting between experts, residents, and PHSMA
+2011    | Feb   | 10        | Lincoln, NE   | NRC           | NE NRC hears from residents regarding the bill
+</br>   | June  |           | US            | DOS           | Commenting period open & >100,000 comments received.
+</br>   | Sep   |           | US            | DOS           | Hearings in Montana, South Dakota, Nebraska (etc.)
+
+## Other events
+
+Year    | Month | Day       | Place         | Body          | Agenda
+--:     | :--   | :-:       | -----         | ------        | -----------------
+2010    | May   | 3         | Billings, MT  | Unofficial    | Meeting between Montana governor and oil executives
+</br>   | Oct   | 21        | Washington    | Senate        | Debate between Clinton and Senator
 </br>   | Dec   | 30        | Lincoln, NE   | NRC           | Debate on pipeline safety, expanding legislation
 2011    | Jan   | 12        | Lincoln, NE   | Legislature   | Nebraska considers new pipeline legislation
-</br>   | Feb   | 10        | Lincoln, NE   | NRC           | NE NRC hears from residents regarding the bill
 </br>   | May   | 20        | Washington    | Congress      | Debate: does Koch benefit from KXL?
 </br>   | May   | 29        | Lincoln, NE   | CEA           | Koch-funded CEA holds public forum on KXL benefits.
 </br>   | June  | 16        | Washington    | Congress      | Congress debates dangers of dilbit for pipelines.
-</br>   | June  |           | US            | DOS           | Commenting period open & >100,000 comments received.
 </br>   | Aug   | 30        | Washington    | White House   | Demonstration outside White House.
-</br>   | Sep   |           | US            | DOS           | Hearings in Montana, South Dakota, Nebraska (etc.)
-</br>   |       | 29        | US            | Various       | Debate between SD governor & federal gov
+</br>   | Sep   | 29        | US            | Various       | Debate between SD governor & federal gov
 </br>   | Oct   | 04        | US            | Other         | FOE FOIA's emails between TransCanada and the US embassy in Ottawa
 </br>   |       | 06        | Omaha, NE     | Court         | Lawsuit about begin of construction/preparation
 </br>   |       | 08        | US            | Various       | NE governor sends letter to Clinton
@@ -89,6 +94,7 @@ Organization                        | Name              | Contact Information   
 DEQ (MT)                            |                   |                       |                   |
 FERC (CA)                           |                   |                       |                   |
 NRC (NE)                            |                   |                       |                   |
+DEQ (NE)                            |
 PUC (SD)                            |                   |                       |                   |
 
 ### Opposing
@@ -107,6 +113,7 @@ National Wildlife Federation        | Tony Iallonardo   |                       
 Nebraska Cattlemen                  | Jay Wolf          |                       |                   |  
 Nebraskans For Peace                | Mark Welsch       | nfpomaha@Nebraskansforpeace.org           |
 Northern Plains Pipeline Landowners Group|Terry Blevins |                       |                   |
+Occupy Denver                       |                   |                       |                   |
 Physicians for Social Responsibility|                   |                       |                   |
 Public Citizen Texas                | Trevor Lovell     | trevor.lovell@gmail.com|                  |           
 Rosebud Sioux                       | Rodney Bordeaux   |                       | Tribal Chairman   |
