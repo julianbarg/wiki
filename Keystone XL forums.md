@@ -67,21 +67,24 @@ Date        | Body          | Factiva                   | Details
 * Alex Pourbaix--president of energy and oil pipelines
 * Andrea Jalbert--director of safety and environment
 * Robert Jones--Vice President, Keystone XL project
+* Terry Cunha--spokesman
 
 ### Regulator
 
 * Department of Environmental Quality (Montana)
 * Federal Energy Regulatory Commission
-* Natural Resource Committee (Nebraska)
+* Natural Resource Committee (Nebraska)b
 * Public Utilities Commision (South Dakota)
 
 ### Opposing
 
+* Center for Biological Diversity
 * Dakota Rural Action
     * Paul Blackburn (lawyer)
     * John Harter
 * Friends of the Earth
     * Alex Moore
+* Greenpeace
 * Holt-Rock County Farmers Union
     * Lynda Buoy
 * Intertribal Council on Utility Policy
@@ -96,6 +99,7 @@ Date        | Body          | Factiva                   | Details
     * Mark Welsch--nfpomaha@Nebraskansforpeace.org
 * Northern Plains Pipeline Landowners Group
     * Terry Blevins
+* Physicians for Social Responsibility
 * Public Citize Texas
     * Trevor Lovell--trevor.lovell@gmail.com
 * Rosebud Sioux
