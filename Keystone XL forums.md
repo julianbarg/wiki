@@ -55,6 +55,7 @@ Date        | Body          | Factiva                   | Details
 2011-06-08  | DOS           | LBA0000020110608e76800185 | Commenting period open & >100,000 comments received.
 2011-06-16  | Congress      | LBA0000020110616e76g001gf | Proposed law would mandate PHSMA study. API assures dilbit safe for lines.
 2011-08-30  | White House   | APRS000020110830e78u00131 | Daryl Hannah and "dozenz" are arrested.
+2011-09-26  | White House   | LBA0000020110926e79q001ef | Over 1,200 arrested in total up until now.
 2011-09-28  | ?NE NRC?      | APRS000020110927e79r000h3 | "You don't give a damn about Nebraska" vs. "Reason, Not Extremism".
 2011-09-29  | Various       | APRS000020110928e79s0021e | SD governor and federal gov debate responsibility for making decision on KXL. "Are they really suggesting that the state of Nebraska can pre-empt the president of the United States when he says it's in the national interest?"
 2011-10-04  | Other         | APRS000020111004e7a40029b | FOE FOIA's emails between TransCanada and the US embassy in Ottawa. [[The emails suggest a close relationship between TransCanada, an embassy staff member, and the DOS.|https://foe.org/blog/2011-10-documents-reveal-smoking-gun-regarding-state-departm/]]
