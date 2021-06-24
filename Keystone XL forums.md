@@ -77,8 +77,9 @@ Date        | Body          | Factiva                   | Details
 2011-10-05  | DOS           | LBA0000020111005e7a5000fb | "Final" public hearing in Washington on Oct 7
 2011-10-06  | Court         | APRS000020111006e7a6001id | Lawsuit regarding TransCanada construction preparation--moving native grasses and relocating endangered species (beetle).
 2011-10-08  | Various       | LBA0000020111008e7a80000r | Nebraska governor asks Clinton to reroute pipeline.
-2011-11-08  | NE legislature| LBA0000020111108e7b80001f | Nebraska legislature considers five laws, requiring $500 M bond, permit for eminent domain use, and rerouting. Prior, no law exists. Concern: changing law halfway through.
+2011-11-08  | NE legislature| LBA0000020111108e7b80001f | Nebraska legislature considers five laws, requiring $500 M bond, permit for eminent domain use, and rerouting. Prior, no law exists. Concern: changing law halfway through. TransCanada one week later voluntarily reroutes.
 2011-11-10  | White House   | LBA0000020111110e7ba001n8 | More protests outside White House.
+2011-11-16  | TransCanada   | APRS000020111116e7bg001hu | TransCanada agrees to reroute around Sandhills (NE).
 
 ## People
  
