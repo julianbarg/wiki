@@ -91,6 +91,8 @@ Date        | Body          | Factiva                   | Details
     * Jay Wolf
 * Nebraskans For Peace
     * Mark Welsch--nfpomaha@Nebraskansforpeace.org
+* Public Citize Texas
+    * Trevor Lovell--trevor.lovell@gmail.com
 * Sierra Club
     * Angela Boag (Houston)
     * Kat Herrera (Intern)
