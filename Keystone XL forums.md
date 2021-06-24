@@ -65,6 +65,7 @@ Date        | Body          | Factiva                   | Details
 ### TransCanada
 
 * Alex Pourbaix--president of energy and oil pipelines
+* Andrea Jalbert--director of safety and environment
 * Robert Jones--Vice President, Keystone XL project
 
 ### Regulator
@@ -83,6 +84,8 @@ Date        | Body          | Factiva                   | Details
     * Alex Moore
 * Holt-Rock County Farmers Union
     * Lynda Buoy
+* Intertribal Council on Utility Policy
+    * Patrick Spears
 * Kansas Interfaith Power & Light
     * Moti Rieber
 * National Wildlife Federation
@@ -91,8 +94,12 @@ Date        | Body          | Factiva                   | Details
     * Jay Wolf
 * Nebraskans For Peace
     * Mark Welsch--nfpomaha@Nebraskansforpeace.org
+* Northern Plains Pipeline Landowners Group
+    * Terry Blevins
 * Public Citize Texas
     * Trevor Lovell--trevor.lovell@gmail.com
+* Rosebud Sioux
+    * Rodney Bordeaux--Tribal Chairman
 * Sierra Club
     * Angela Boag (Houston)
     * Kat Herrera (Intern)
@@ -100,6 +107,8 @@ Date        | Body          | Factiva                   | Details
 ### Supporting
 
 * Americans for Prosperity
+* Black Hills Community Economic Development organization
+    * Jim Doolittle (former director)
 * Consumer Energy Alliance
     * Elaine Crooks--elaine@consumerenergyalliance.org
 * Montana Association of Oil and Gas Counties
