@@ -30,6 +30,7 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   | June  |           | US            | DOS           | Commenting period open & >100,000 comments received.
 </br>   | Sep   |           | US            | DOS           | Hearings in Montana, South Dakota, Nebraska (etc.)
 </br>   | Nov   | 8         | Lincoln, NE   | Legislature   | Public hearing on various new laws, would affect Keystone XL
+2012    | Jan   |           | Canada        | NEB           | Public hearing, 3,000 are registered.
 
 ## Other events
 
