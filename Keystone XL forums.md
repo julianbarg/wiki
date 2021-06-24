@@ -126,7 +126,8 @@ Sierra Club                         | Angela Boag       |                       
 
 Organization                        | Name              | Contact Information   | Role          
 ------------                        | ------            | ---                   | ------        
-Americans for Prosperity (Koch)     |                   |                       |               
+Americans for Prosperity (Koch)     |                   |                       |
+American Petroleum Institute        | Jack Gerard       |                       | President
 Association of Oil Pipe Lines       | Andrew Black      |                       |
 Black Hills Community Economic Development organization| Jim Doolittle|         | Former director  
 Consumer Energy Alliance (Koch)     | Elaine Crooks     | elaine@consumerenergyalliance.org|    
