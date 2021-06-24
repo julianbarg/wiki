@@ -6,8 +6,6 @@ bibliograhpy: library.bib
 
 [[_TOC_]]
 
----
-
 ## Abbreviations
 
 * API: American Petroleum Institute
