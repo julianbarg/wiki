@@ -65,6 +65,7 @@ Date        | Body          | Factiva                   | Details
 ### TransCanada
 
 * Alex Pourbaix--president of energy and oil pipelines
+* Robert Jones--Vice President, Keystone XL project
 
 ### Regulator
 
