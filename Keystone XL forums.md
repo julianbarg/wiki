@@ -88,7 +88,7 @@ Name              | Contact Information   | Role              | Area
 ---               | ---                   | ---               | ---
 Alex Pourbaix     |                       | President         | Energy and oil pipelines  
 Andrea Jalbert    |                       | Director          | Safety and environment    
-Robert Jones      |                       | Vice President    | Keystone XL project       
+Robert Jones      |                       | Vice President    | Keystone XL project, later pipelines (?)     
 Shawn Howard      |                       | Spokesman         |
 Terry Cunha       |                       | Spokesman         |
 
