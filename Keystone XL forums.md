@@ -29,6 +29,7 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   | May   | 20        | Washington    | Congress      | Debate: does Koch benefit from KXL?
 </br>   | May   | 29        | Lincoln, NE   | CEA           | Koch-funded CEA holds public forum on KXL benefits.
 </br>   | June  | 16        | Washington    | Congress      | Congress debates dangers of dilbit for pipelines.
+</br>   | June  |           | US            | DOS           | Commenting period open & >100,000 comments received
 </br>   | Aug   | 30        | Washington    | White House   | Demonstration outside White House.
 </br>   | Sep   | 28        | Lincoln, NE   | ?NRC?         | Contentious hearing
 </br>   | </br> | 29        | US            | Various       | Debate between SD governor & federal gov
