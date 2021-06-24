@@ -90,6 +90,7 @@ Date        | Body          | Factiva                   | Details
     * Mark Welsch--nfpomaha@Nebraskansforpeace.org
 * Sierra Club
     * Angela Boag (Houston)
+    * Kat Herrera (Intern)
 
 ### Supporting
 
