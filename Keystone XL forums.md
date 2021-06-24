@@ -128,6 +128,7 @@ Americans for Prosperity (Koch)     |                   |                       
 Association of Oil Pipe Lines       | Andrew Black      |                       |
 Black Hills Community Economic Development organization| Jim Doolittle|         | Former director  
 Consumer Energy Alliance (Koch)     | Elaine Crooks     | elaine@consumerenergyalliance.org|    
+</br>                               | Michael Whatley   |                       |
 Montana Association of Oil and Gas Counties| Richard Dunbar|                    |               
 Nebraska AFL-CIO                    | Ron Kaminski      |                       |               
 Nebraska Chamber of Commerce        |                   |                       |               
