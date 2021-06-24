@@ -2,7 +2,7 @@
 bibliograhpy: library.bib
 ---
 
-[_TOC_]
+[[_TOC_]]
 
 ## Abbreviations
 
