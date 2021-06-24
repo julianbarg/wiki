@@ -28,6 +28,7 @@ Year    | Month | Day       | Place         | Body          | Agenda
 2011    | Feb   | 10        | Lincoln, NE   | NRC           | NE NRC hears from residents regarding the bill
 </br>   | June  |           | US            | DOS           | Commenting period open & >100,000 comments received.
 </br>   | Sep   |           | US            | DOS           | Hearings in Montana, South Dakota, Nebraska (etc.)
+</br>   | Nov   | 8         | Lincoln, NE   | Legislature   | Public hearing on various new laws, would affect Keystone XL
 
 ## Other events
 
@@ -74,6 +75,7 @@ Date        | Body          | Factiva                   | Details
 2011-10-05  | DOS           | LBA0000020111005e7a5000fb | "Final" public hearing in Washington on Oct 7
 2011-10-06  | Court         | APRS000020111006e7a6001id | Lawsuit regarding TransCanada construction preparation--moving native grasses and relocating endangered species (beetle).
 2011-10-08  | Various       | LBA0000020111008e7a80000r | Nebraska governor asks Clinton to reroute pipeline.
+2011-11-08  | NE legislature| LBA0000020111108e7b80001f | Nebraska legislature considers taking control of process, requiring $500 M bond and rerouting. Prior, no law exists. Conern: changing law halfway through.
 
 ## People
  
