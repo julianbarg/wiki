@@ -114,7 +114,7 @@ Sierra Club                         | Angela Boag       |                       
 ### Supporting
 
 Organization                        | Name              | Contact Information   | Role              | Area
-------------                        | ---               | ---                   | ---               | ---
+------------                        | ---               | ---                   | ------            | ---
 Americans for Prosperity (Koch)     |                   |                       |                   |
 Black Hills Community Economic Development organization| Jim Doolittle|         | Former director   |
 Consumer Energy Alliance (Koch)     | Elaine Crooks     | elaine@consumerenergyalliance.org|        |
