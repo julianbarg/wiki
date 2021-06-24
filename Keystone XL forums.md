@@ -70,23 +70,23 @@ Date        | Body          | Factiva                   | Details
 
 ## People
 
-Party       | Organization  | Name          | Role      | Area                      | Contact Information
----         | ---           | ---           | ---       | ---                       | ---
-TransCanada |               | Alex Pourbaix | President | Energy and oil pipelines  |
-
-### TransCanada
-
-* Alex Pourbaix--president of energy and oil pipelines
-* Andrea Jalbert--director of safety and environment
-* Robert Jones--Vice President, Keystone XL project
-* Shawn Howard--spokesman
-* Terry Cunha--spokesman
+Party       | Organization  | Name              | Role          | Area                      | Contact Information
+---         | ---           | ---               | ---           | ---                       | ---
+TransCanada |               | Alex Pourbaix     | President     | Energy and oil pipelines  |
+</br>       |               | Andrea Jalbert    | Director      | Safety and environment    |
+</br>       |               | Robert Jones      | Vice President| Keystone XL project       |
+</br>       |               | Shawn Howard      | Spokesman     |                           |
+</br>       |               | Terry Cunha       | Spokesman     |                           |
+Regulator   | DEQ (MT)      |
+</br>       | FERC (CA)     |
+</br>       | NRC (NE)      |
+</br>       | PUC (SD)      |
 
 ### Regulator
 
 * Department of Environmental Quality (Montana)
 * Federal Energy Regulatory Commission
-* Natural Resource Committee (Nebraska)b
+* Natural Resource Committee (Nebraska)
 * Public Utilities Commision (South Dakota)
 
 ### Opposing
