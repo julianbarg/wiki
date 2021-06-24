@@ -64,7 +64,11 @@ Date        | Body          | Factiva                   | Details
 2011-10-05  | DOS           | LBA0000020111005e7a5000fb | "Final" public hearing in Washington on Oct 7
 2011-10-06  | Court         | APRS000020111006e7a6001id | Lawsuit regarding TransCanada construction preparation--moving native grasses and relocating endangered species (beetle)
 
-## Organizations
+## People
+
+Party       | Organization  | Role      | Area                      | Contact Information
+---         | ---           | ---       | ---                       | ---
+TransCanada |               | President | Energy and oil pipelines  |
 
 ### TransCanada
 
