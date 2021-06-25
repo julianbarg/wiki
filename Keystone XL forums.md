@@ -106,10 +106,11 @@ Terry Cunha       |                       | Spokesman         |
 Organization                        | Name              | Contact Information   | Role              | Area
 ---                                 | ---               | ---                   | ---               | ---
 DEQ (MT)                            |                   |                       |                   |
+DEQ (NE)                            |                   |                       |                   |
 FERC (federal)                      |                   |                       |                   |
+House of Representatives Energy and Commerce Committee| |                       |                   |
 NEB (CA)                            |                   |                       |                   |
 NRC (NE)                            |                   |                       |                   |
-DEQ (NE)                            |                   |                       |                   |
 PUC (SD)                            |                   |                       |                   |
 
 ### Opposing
