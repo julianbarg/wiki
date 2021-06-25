@@ -139,6 +139,7 @@ Kansas Interfaith Power & Light     | Moti Rieber       |                       
 National Resources Defense Council  |                   |                       |
 National Wildlife Federation        | Tony Iallonardo   |                       |       
 Nebraska Cattlemen                  | Jay Wolf          |                       |         
+Nebraska Farmer's Union             | John Hansen       |                       | President
 Nebraskans For Peace                | Mark Welsch       | nfpomaha@Nebraskansforpeace.org  
 Northern Plains Pipeline Landowners Group|Terry Blevins |                       |       
 Occupy Denver                       |                   |                       |       
