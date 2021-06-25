@@ -54,6 +54,7 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   |       | 10        | Washington    | DOS           | "Final" public hearing
 </br>   |       | 30        | Washington    | Senate        | Republicans introduce law to approve KXL
 2012    | Jan   | 18        | Washington    | White House   | Negative national interest determination issued
+2012    | Mar   | 29        | US            | Other         | AEA spends $3.6 m to attack administration on energy policy, incl KXL
 
 ## Details
 
