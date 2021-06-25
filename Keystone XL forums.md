@@ -21,6 +21,7 @@ bibliograhpy: library.bib
 * KXL: Keystone XL
 * NDEB: Nebraska Department of Environmental Quality
 * NEB: National Energy Board (Canada)
+* NPSC: Nebraska Public Service Commission
 * NRC: Natural Resource Committee
 * PUC: Public Utilities Commission
 
