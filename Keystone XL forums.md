@@ -116,6 +116,7 @@ PUC (SD)                            |                   |                       
 
 Organization                        | Name              | Contact Information   | Role  
 ---                                 | ---               | ---                   | ---   
+350.org                             |                   |                       |
 Center for Biological Diversity     | Noah Greenwald    |                       | Director    
 Dakota Rural Action                 | Paul Blackburn    |                       | Lawyer
 </br>                               | John Harter       |                       |       
