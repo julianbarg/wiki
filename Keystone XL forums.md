@@ -159,7 +159,7 @@ Greenpeace                          |                   |                       
 Holt-Rock County Farmers Union      | Lynda Buoy        |                       |       
 Intertribal Council on Utility Policy| Patrick Spears   |                       |       
 Kansas Interfaith Power & Light     | Moti Rieber       |                       | (Rabi)
-National Resources Defense Council  |                   |                       |
+National Resources Defense Council  | Danielle Droitsch |                       | Senior attorney
 National Wildlife Federation        | Joe Mendelson     |                       |
 </br>                               | Tony Iallonardo   |                       |       
 Nebraska Cattlemen                  | Jay Wolf          |                       |         
