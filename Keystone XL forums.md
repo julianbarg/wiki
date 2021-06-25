@@ -179,3 +179,4 @@ Veterans for Keystone XL            | Bobby Petty       |                       
 Organization                        | Name              | Contact Information   | Role          
 ------------                        | ------            | ---                   | ------        
 Congressional Research Service      |                   |                       |
+HDR Engineering                     |                   |                       | NE DEQ contractor
