@@ -50,6 +50,7 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   |       | 08        | US            | Various       | NE governor sends letter to Clinton
 </br>   |       | 10        | Washington    | DOS           | "Final" public hearing
 </br>   |       | 30        | Washington    | Senate        | Republicans introduce law to approve KXL
+2012    | Jan   | 18        | Washington    | White House   | Negative national interest determination issued
 
 ## Details
 
@@ -82,6 +83,8 @@ Date        | Body          | Factiva                   | Details
 2011-11-10  | White House   | LBA0000020111110e7ba001n8 | More protests outside White House.
 2011-11-16  | TransCanada   | APRS000020111116e7bg001hu | TransCanada agrees to reroute around Sandhills (NE). Possibly to speed up process/negate necessity for DOS rerouting review.
 2011-11-30  | Senate        | APRS000020111130e7bu0024m | The bill would force the president to approve KXL after 60 days unless he finds it is not in the national interest.
+2011-01-18  | White House   | APRS000020120118e81i00084 | Presidential permit denied because of "artibtrary" (Obama) deadline.
+2012-01-18  | Congress      | LBA0000020120118e81i0011x | After permit denial, Republicans vow to fight for the pipeline.
 
 ## People
  
@@ -149,4 +152,10 @@ International Union of Operating Engineers|           |                         
 Pipeliners Union 798                | David Barnett     |                       |      
 Platte Institute for Economic Research|Andrew Black     |                       |
 United Association of Journeymen and Apprentices of the Plumbing and Pipefitting Industry||     
-Veterans for Keystone XL            | Bobby Petty       |                       |               
+Veterans for Keystone XL            | Bobby Petty       |                       |       
+
+### Other
+
+Organization                        | Name              | Contact Information   | Role          
+------------                        | ------            | ---                   | ------        
+Congressional Research Service      |                   |                       |
