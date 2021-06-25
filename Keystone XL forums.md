@@ -54,7 +54,7 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   |       | 10        | Washington    | DOS           | "Final" public hearing
 </br>   |       | 30        | Washington    | Senate        | Republicans introduce law to approve KXL
 2012    | Jan   | 18        | Washington    | White House   | Negative national interest determination issued
-2012    | Mar   | 29        | US            | Other         | AEA spends $3.6 m to attack administration on energy policy, incl KXL
+2012    | Mar   | 29        | US            | Other         | AEA attack ad on administration energy policy, incl KXL
 
 ## Details
 
@@ -91,7 +91,7 @@ Date        | Body          | Factiva                   | Details
 2012-01-18  | Congress      | LBA0000020120118e81i0011x | After permit denial, Republicans vow to fight for the pipeline.
 2012-01-21  | CRS           | LBA0000020120121e81l00011 | CRS analysis suggests Congress has constitutional right to issue KXL permit.
 2012-03-08  | Various       | LBA0000020120308e8380018b | Rising energy prices put pressure on government to approve KXL.
-2012-03-29  | Other         | APRS000020120329e83t001yw | AEA attack ad blames oil prices on administration, raises $9 gas scenario.
+2012-03-29  | Other         | APRS000020120329e83t001yw | AEA attack ad blames oil prices on administration, raises $9 gas scenario, spends $3.6 m on attack ad.
 
 ## People
  
