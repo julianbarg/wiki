@@ -64,6 +64,7 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   | April | 05        | Lincoln, NE   | Legislature   | Nebraska law LB1161 requires public hearing
 </br>   | Ma    |           | US            | White House   | TransCanada resubmits application
 </br>   | Sep   | 06        | US            | API           | API launches "Vote 4 Energy" attack ad, incl KXL
+</br>   | Nov   | 15        | Washington    | White House   | Renewed protests in front of White House
 
 ## Details
 
@@ -106,6 +107,7 @@ Date        | Body          | Factiva                   | Details
 2012-05-??  | White House   | LBA0000020120906e896000uu | TransCanada resubmits application, hearing in NE now required.
 2012-09-20  | Other         | LBA0000020120920e89k00142 | Romney runs on pro-KXL platform.
 2021-12-04  | NDEQ          | APRS000020121030e8au003wz | NDEQ scheduled public hearing in Albion, NE.
+2021-12-15  | White House   | APRS000020121115e8bf002yi | Renewed protests, incl. Bold Nebraska.
 
 ### Undated
 
