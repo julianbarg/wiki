@@ -35,6 +35,7 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   | Sep   |           | US            | DOS           | Hearings in Montana, South Dakota, Nebraska (etc.)
 </br>   | Nov   | 8         | Lincoln, NE   | Legislature   | Public hearing on various new laws, would affect Keystone XL
 2012    | Jan   |           | Canada        | NEB           | Public hearing, 3,000 are registered.
+2012    | April | 27        | Lincoln, NE   | DEQ           | DEQ schedules 4 public information sessions.
 
 ## Other events
 
@@ -95,6 +96,7 @@ Date        | Body          | Factiva                   | Details
 2012-03-08  | Various       | LBA0000020120308e8380018b | Rising energy prices put pressure on government to approve KXL.
 2012-03-29  | Other         | APRS000020120329e83t001yw | AEA attack ad blames oil prices on administration, raises $9 gas scenario, spends $3.6 m on attack ad.
 2012-04-05  | NE legislature| APRS000020120405e845001q2 | Nebraska law would force TransCanada to pay for impact assessment, DEQ to hold public hearing. Approved in April.
+2012-04-27  | NE DEQ        | APRS000020120427e84r0011q | Nebraska DEQ schedules four public information sessions along KXL new route.
 
 ## People
  
