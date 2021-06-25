@@ -151,6 +151,7 @@ Center for Biological Diversity     | Noah Greenwald    |                       
 Dakota Rural Action                 | Paul Blackburn    |                       | Lawyer
 </br>                               | John Harter       |                       |       
 Domestic Energy Producers Alliance  | Harold Hamm       |                       | Founder (?)
+Energy Action Coalition             |                   |                       |
 Friends of the Earth                | Alex Moore        |                       |       
 Greenpeace                          |                   |                       |       
 Holt-Rock County Farmers Union      | Lynda Buoy        |                       |       
