@@ -118,6 +118,7 @@ PUC (SD)                            |                   |                       
 Organization                        | Name              | Contact Information   | Role  
 ---                                 | ---               | ---                   | ---   
 350.org                             | Bill McKibben     |                       | Founder
+</br>                               | Jamie Henn        |                       | Communications director                        
 Center for Biological Diversity     | Noah Greenwald    |                       | Director    
 Dakota Rural Action                 | Paul Blackburn    |                       | Lawyer
 </br>                               | John Harter       |                       |       
