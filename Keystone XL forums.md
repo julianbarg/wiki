@@ -101,7 +101,8 @@ Date        | Body          | Factiva                   | Details
 2012-03-29  | Other         | APRS000020120329e83t001yw | AEA attack ad blames oil prices on administration, raises $9 gas scenario, spends $3.6 m on attack ad.
 2012-04-05  | NE legislature| APRS000020120405e845001q2 | Nebraska law would force TransCanada to pay for impact assessment, DEQ to hold public hearing. Approved in April.
 2012-04-27  | NE DEQ        | APRS000020120427e84r0011q | Nebraska DEQ schedules four public information sessions along KXL new route.
-2012-05-??  | White House   | LBA0000020120906e896000uu | TransCanada resubmits application, which now requires hearing.
+2012-05-??  | White House   | LBA0000020120906e896000uu | TransCanada resubmits application, hearing in NE now required.
+2012-09-20  | Other         | LBA0000020120920e89k00142 | Romney runs on pro-KXL platform.
 
 ## People
  
