@@ -88,6 +88,7 @@ Date        | Body          | Factiva                   | Details
 2011-01-18  | White House   | APRS000020120118e81i00084 | Presidential permit denied because of "artibtrary" (Obama) deadline.
 2012-01-18  | Congress      | LBA0000020120118e81i0011x | After permit denial, Republicans vow to fight for the pipeline.
 2012-01-21  | CRS           | LBA0000020120121e81l00011 | CRS analysis suggests Congress has constitutional right to issue KXL permit.
+2012-03-08  | Various       | LBA0000020120308e8380018b | Rising energy prices put pressure on government to approve KXL.
 
 ## People
  
