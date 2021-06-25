@@ -58,8 +58,10 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   |       | 10        | Washington    | DOS           | "Final" public hearing
 </br>   |       | 30        | Washington    | Senate        | Republicans introduce law to approve KXL
 2012    | Jan   | 18        | Washington    | White House   | Negative national interest determination issued
-</br>   | Mar   | 29        | US            | Other         | AEA attack ad on administration energy policy, incl KXL
+</br>   | Mar   | 29        | US            | AEA           | AEA attack ad on administration energy policy, incl KXL
 </br>   | April | 05        | Lincoln, NE   | Legislature   | Nebraska law LB1161 requires public hearing
+</br>   | Ma    |           | US            | White House   | TransCanada resubmits application
+</br>   | Sep   | 06        | US            | API           | API launches "Vote 4 Energy" attack ad, incl KXL
 
 ## Details
 
@@ -99,18 +101,20 @@ Date        | Body          | Factiva                   | Details
 2012-03-29  | Other         | APRS000020120329e83t001yw | AEA attack ad blames oil prices on administration, raises $9 gas scenario, spends $3.6 m on attack ad.
 2012-04-05  | NE legislature| APRS000020120405e845001q2 | Nebraska law would force TransCanada to pay for impact assessment, DEQ to hold public hearing. Approved in April.
 2012-04-27  | NE DEQ        | APRS000020120427e84r0011q | Nebraska DEQ schedules four public information sessions along KXL new route.
+2012-05-??  | White House   | LBA0000020120906e896000uu | TransCanada resubmits application, which now requires hearing.
 
 ## People
  
 ### TransCanada
 
-Name              | Contact Information   | Role              | Area
----               | ---                   | ---               | ---
-Alex Pourbaix     |                       | President         | Energy and oil pipelines  
-Andrea Jalbert    |                       | Director          | Safety and environment    
-Robert Jones      |                       | Vice President    | Keystone XL project, later pipelines (?)     
-Shawn Howard      |                       | Spokesman         |
-Terry Cunha       |                       | Spokesman         |
+Name                | Contact Information   | Role              | Area
+---                 | ---                   | ---               | ---
+Alex Pourbaix       |                       | President         | Energy and oil pipelines  
+Andrea Jalbert      |                       | Director          | Safety and environment    
+Grady Semmens       |                       | Spokesman         |
+Robert Jones        |                       | Vice President    | Keystone XL project, later pipelines (?)     
+Shawn Howard        |                       | Spokesman         |
+Terry Cunha         |                       | Spokesman         |
 
 ### Regulator
 
@@ -131,7 +135,7 @@ Organization                        | Name              | Contact Information   
 ---                                 | ---               | ---                   | ---   
 350.org                             | Bill McKibben     |                       | Founder
 </br>                               | Jamie Henn        |                       | Communications director
-Bold Nebraska                       |                   |                       |
+Bold Nebraska                       | Jane Kleeb        |                       |
 Center for Biological Diversity     | Noah Greenwald    |                       | Director    
 Dakota Rural Action                 | Paul Blackburn    |                       | Lawyer
 </br>                               | John Harter       |                       |       
@@ -141,7 +145,8 @@ Holt-Rock County Farmers Union      | Lynda Buoy        |                       
 Intertribal Council on Utility Policy| Patrick Spears   |                       |       
 Kansas Interfaith Power & Light     | Moti Rieber       |                       | (Rabi)
 National Resources Defense Council  |                   |                       |
-National Wildlife Federation        | Tony Iallonardo   |                       |       
+National Wildlife Federation        | Joe Mendelson     |                       |
+</br>                               | Tony Iallonardo   |                       |       
 Nebraska Cattlemen                  | Jay Wolf          |                       |         
 Nebraska Farmer's Union             | John Hansen       |                       | President
 Nebraskans For Peace                | Mark Welsch       | nfpomaha@Nebraskansforpeace.org  
