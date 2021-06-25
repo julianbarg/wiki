@@ -116,7 +116,7 @@ PUC (SD)                            |                   |                       
 
 Organization                        | Name              | Contact Information   | Role  
 ---                                 | ---               | ---                   | ---   
-350.org                             |                   |                       |
+350.org                             | Bill McKibben     |                       | Founder
 Center for Biological Diversity     | Noah Greenwald    |                       | Director    
 Dakota Rural Action                 | Paul Blackburn    |                       | Lawyer
 </br>                               | John Harter       |                       |       
