@@ -12,6 +12,7 @@ bibliograhpy: library.bib
 * dilbit: diluted bitumen
 * CRS: Congressional Research Service
 * DOS: Department of State
+* FERC: Federal Energy Regulatory Commission
 * FOE: Friends of the Earth
 * FOIA: Freedom of Information Act
 * KXL: Keystone XL
@@ -105,7 +106,7 @@ Terry Cunha       |                       | Spokesman         |
 Organization                        | Name              | Contact Information   | Role              | Area
 ---                                 | ---               | ---                   | ---               | ---
 DEQ (MT)                            |                   |                       |                   |
-FERC (CA)                           |                   |                       |                   |
+FERC (federal)                      |                   |                       |                   |
 NEB (CA)                            |                   |                       |                   |
 NRC (NE)                            |                   |                       |                   |
 DEQ (NE)                            |                   |                       |                   |
