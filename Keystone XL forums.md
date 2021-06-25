@@ -30,21 +30,22 @@ bibliograhpy: library.bib
 Year    | Month | Day       | Place         | Body          | Agenda
 --:     | :--   | :-:       | -----         | ------        | -----------------
 2009    | April | 27&28     | South Dakota  | PUC           | SD PUC holding public hearings in Winner, Philip, and Buffalo.
-</br>   | Nov   | 2         | Pierre, SD    | PUC           | Hearing
+</br>   | Nov   | 02        | Pierre, SD    | PUC           | Hearing
 2010    | May   |           | 6 states      | US DOS        | 19 public hearings in 6 states
 </br>   | Dec   | "Early"   | Lincoln, NE   | NRC           | Meeting between experts, residents, and PHSMA
 2011    | Feb   | 10        | Lincoln, NE   | NRC           | NE NRC hears from residents regarding the bill
 </br>   | June  |           | US            | DOS           | Commenting period open & >100,000 comments received.
 </br>   | Sep   |           | US            | DOS           | Hearings in Montana, South Dakota, Nebraska (etc.)
-</br>   | Nov   | 8         | Lincoln, NE   | Legislature   | Public hearing on various new laws, would affect Keystone XL
+</br>   | Nov   | 08        | Lincoln, NE   | Legislature   | Public hearing on various new laws, would affect Keystone XL
 2012    | Jan   |           | Canada        | NEB           | Public hearing, 3,000 are registered.
-2012    | April | 27        | Lincoln, NE   | DEQ           | DEQ schedules 4 public information sessions.
+</br>   | April | 27        | Lincoln, NE   | NDEQ          | NDEQ schedules 4 public information sessions.
+</br>   | Dec   | 04        | Albion, NE    | NDEQ          | Public hearing
 
 ## Other events
 
 Year    | Month | Day       | Place         | Body          | Agenda
 --:     | :--   | :-:       | -----         | ------        | -----------------
-2010    | May   | 3         | Billings, MT  | Unofficial    | Meeting between Montana governor and oil executives
+2010    | May   | 03        | Billings, MT  | Unofficial    | Meeting between Montana governor and oil executives
 </br>   | Oct   | 21        | Washington    | Senate        | Debate between Clinton and Senator
 </br>   | Dec   | 30        | Lincoln, NE   | NRC           | Debate on pipeline safety, expanding legislation
 2011    | Jan   | 12        | Lincoln, NE   | Legislature   | Nebraska considers new pipeline legislation
@@ -101,10 +102,10 @@ Date        | Body          | Factiva                   | Details
 2012-03-08  | Various       | LBA0000020120308e8380018b | Rising energy prices put pressure on government to approve KXL.
 2012-03-29  | Other         | APRS000020120329e83t001yw | AEA attack ad blames oil prices on administration, raises $9 gas scenario, spends $3.6 m on attack ad.
 2012-04-05  | NE legislature| APRS000020120405e845001q2 | Nebraska law would force TransCanada to pay for impact assessment, DEQ to hold public hearing. Approved in April.
-2012-04-27  | NE DEQ        | APRS000020120427e84r0011q | Nebraska DEQ schedules four public information sessions along KXL new route.
+2012-04-27  | NDEQ          | APRS000020120427e84r0011q | Nebraska DEQ schedules four public information sessions along KXL new route.
 2012-05-??  | White House   | LBA0000020120906e896000uu | TransCanada resubmits application, hearing in NE now required.
 2012-09-20  | Other         | LBA0000020120920e89k00142 | Romney runs on pro-KXL platform.
-
+2021-12-04  | NDEQ          | APRS000020121030e8au003wz | NDEQ scheduled public hearing in Albion, NE.
 
 ### Undated
 
