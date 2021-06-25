@@ -10,6 +10,7 @@ bibliograhpy: library.bib
 
 * API: American Petroleum Institute
 * dilbit: diluted bitumen
+* CRS: Congressional Research Service
 * DOS: Department of State
 * FOE: Friends of the Earth
 * FOIA: Freedom of Information Act
@@ -85,6 +86,7 @@ Date        | Body          | Factiva                   | Details
 2011-11-30  | Senate        | APRS000020111130e7bu0024m | The bill would force the president to approve KXL after 60 days unless he finds it is not in the national interest.
 2011-01-18  | White House   | APRS000020120118e81i00084 | Presidential permit denied because of "artibtrary" (Obama) deadline.
 2012-01-18  | Congress      | LBA0000020120118e81i0011x | After permit denial, Republicans vow to fight for the pipeline.
+2012-01-21  | CRS           | LBA0000020120121e81l00011 | CRS analysis suggests Congress has constitutional right to issue KXL permit.
 
 ## People
  
