@@ -117,7 +117,7 @@ Terry Cunha       |                       | Spokesman         |
 Organization                        | Name              | Contact Information   | Role              | Area
 ---                                 | ---               | ---                   | ---               | ---
 DEQ (MT)                            |                   |                       |                   |
-DEQ (NE)                            | Mike Linder       |                       | Director          |
+NDEQ (NE)                           | Mike Linder       |                       | Director          |
 EPA (federal)                       |                   |                       |                   |  
 FERC (federal)                      |                   |                       |                   |
 House of Representatives Energy and Commerce Committee| |                       |                   |
