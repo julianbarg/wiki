@@ -45,7 +45,7 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   | May   | 20        | Washington    | Congress      | Debate: does Koch benefit from KXL?
 </br>   | May   | 29        | Lincoln, NE   | CEA           | Koch-funded CEA holds public forum on KXL benefits.
 </br>   | June  | 16        | Washington    | Congress      | Congress debates dangers of dilbit for pipelines.
-</br>   | Aug   | 30        | Washington    | White House   | Demonstration outside White House. Rekindles until Nov.
+</br>   | Aug   | 30        | Washington    | White House   | Demonstration outside White House. Rekindles until Jan.
 </br>   | Sep   | 29        | US            | Various       | Debate between SD governor & federal gov
 </br>   | Oct   | 04        | US            | Other         | FOE FOIA's emails between TransCanada and the US embassy in Ottawa
 </br>   |       | 06        | Omaha, NE     | Court         | Lawsuit about begin of construction/preparation
