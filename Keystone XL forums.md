@@ -19,6 +19,7 @@ bibliograhpy: library.bib
 * FOE: Friends of the Earth
 * FOIA: Freedom of Information Act
 * KXL: Keystone XL
+* NDEB: Nebraska Department of Environmental Quality
 * NEB: National Energy Board (Canada)
 * NRC: Natural Resource Committee
 * PUC: Public Utilities Commission
