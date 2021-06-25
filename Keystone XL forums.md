@@ -138,6 +138,7 @@ Public Citizen Texas                | Trevor Lovell     | trevor.lovell@gmail.co
 Rosebud Sioux                       | Rodney Bordeaux   |                       | Tribal Chairman
 Sierra Club                         | Angela Boag       |                       | Houston  
 </br>                               | Kat Herrera       |                       | (Intern) 
+We Texas                            | Debra Medina      |
 
 ### Supporting
 
