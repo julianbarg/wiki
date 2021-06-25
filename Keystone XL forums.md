@@ -9,6 +9,7 @@ bibliograhpy: library.bib
 ## Abbreviations
 
 * API: American Petroleum Institute
+* AEA: American Energy Alliance
 * dilbit: diluted bitumen
 * CRS: Congressional Research Service
 * DOS: Department of State
@@ -144,9 +145,10 @@ We Texas                            | Debra Medina      |
 ### Supporting
 
 Organization                        | Name              | Contact Information   | Role          
-------------                        | ------            | ---                   | ------        
-Americans for Prosperity (Koch)     |                   |                       |
+------------                        | ------            | ---                   | ------
 American Petroleum Institute        | Jack Gerard       |                       | President
+American Energy Alliance (Koch)     | Thomas Pyle       |                       | President
+Americans for Prosperity (Koch)     |                   |                       |
 Association of Oil Pipe Lines       | Andrew Black      |                       |
 Black Hills Community Economic Development organization| Jim Doolittle|         | Former director  
 Consumer Energy Alliance (Koch)     | Elaine Crooks     | elaine@consumerenergyalliance.org|    
