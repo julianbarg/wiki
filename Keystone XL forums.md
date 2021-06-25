@@ -128,6 +128,7 @@ Organization                        | Name              | Contact Information   
 ---                                 | ---               | ---                   | ---   
 350.org                             | Bill McKibben     |                       | Founder
 </br>                               | Jamie Henn        |                       | Communications director
+Bold Nebraska                       |                   |                       |
 Center for Biological Diversity     | Noah Greenwald    |                       | Director    
 Dakota Rural Action                 | Paul Blackburn    |                       | Lawyer
 </br>                               | John Harter       |                       |       
