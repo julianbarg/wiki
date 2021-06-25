@@ -14,6 +14,7 @@ bibliograhpy: library.bib
 * CRS: Congressional Research Service
 * DEQ: Department of Environmental Quality
 * DOS: Department of State
+* EPA: Environmental Protection Agency
 * FERC: Federal Energy Regulatory Commission
 * FOE: Friends of the Earth
 * FOIA: Freedom of Information Act
@@ -116,6 +117,7 @@ Organization                        | Name              | Contact Information   
 ---                                 | ---               | ---                   | ---               | ---
 DEQ (MT)                            |                   |                       |                   |
 DEQ (NE)                            | Mike Linder       |                       | Director          |
+EPA (federal)                       |                   |                       |                   |  
 FERC (federal)                      |                   |                       |                   |
 House of Representatives Energy and Commerce Committee| |                       |                   |
 NEB (CA)                            |                   |                       |                   |
