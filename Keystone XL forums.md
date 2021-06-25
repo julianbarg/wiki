@@ -10,7 +10,7 @@ bibliograhpy: library.bib
 
 * API: American Petroleum Institute
 * AEA: American Energy Alliance
-* dilbit: diluted bitumen
+* Dilbit: diluted bitumen
 * CRS: Congressional Research Service
 * DEQ: Department of Environmental Quality
 * DOS: Department of State
@@ -149,6 +149,7 @@ Organization                        | Name              | Contact Information   
 350.org                             | Bill McKibben     |                       | Founder
 </br>                               | Jamie Henn        |                       | Communications director
 Bold Nebraska                       | Jane Kleeb        |                       |
+Al Gore                             |                   |                       |
 Center for Biological Diversity     | Noah Greenwald    |                       | Director    
 Dakota Rural Action                 | Paul Blackburn    |                       | Lawyer
 </br>                               | John Harter       |                       |       
