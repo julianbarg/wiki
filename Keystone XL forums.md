@@ -104,6 +104,13 @@ Date        | Body          | Factiva                   | Details
 2012-05-??  | White House   | LBA0000020120906e896000uu | TransCanada resubmits application, hearing in NE now required.
 2012-09-20  | Other         | LBA0000020120920e89k00142 | Romney runs on pro-KXL platform.
 
+
+### Undated
+
+Body        | Factiva                   | Event
+---         | ---                       | ---
+MT governor | LBA0000020120920e89k00142 | Montana governor: approval contingent on on-ramp
+
 ## People
  
 ### TransCanada
@@ -140,6 +147,7 @@ Bold Nebraska                       | Jane Kleeb        |                       
 Center for Biological Diversity     | Noah Greenwald    |                       | Director    
 Dakota Rural Action                 | Paul Blackburn    |                       | Lawyer
 </br>                               | John Harter       |                       |       
+Domestic Energy Producers Alliance  | Harold Hamm       |                       | Founder (?)
 Friends of the Earth                | Alex Moore        |                       |       
 Greenpeace                          |                   |                       |       
 Holt-Rock County Farmers Union      | Lynda Buoy        |                       |       
@@ -189,4 +197,7 @@ Veterans for Keystone XL            | Bobby Petty       |                       
 Organization                        | Name              | Contact Information   | Role          
 ------------                        | ------            | ---                   | ------        
 Congressional Research Service      |                   |                       |
+Harold Hamm                         | -                 |                       | Opposed, then supported KXL*
 HDR Engineering                     |                   |                       | NE DEQ contractor
+
+\* LBA0000020120920e89k00142
