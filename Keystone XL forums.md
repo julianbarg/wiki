@@ -124,7 +124,7 @@ NEB (CA)                            |                   |                       
 NRC (NE)                            |                   |                       |                   |
 PUC (SD)                            |                   |                       |                   |
 
-### Opposing
+### Opponents
 
 Organization                        | Name              | Contact Information   | Role  
 ---                                 | ---               | ---                   | ---   
@@ -151,9 +151,10 @@ Public Citizen Texas                | Trevor Lovell     | trevor.lovell@gmail.co
 Rosebud Sioux                       | Rodney Bordeaux   |                       | Tribal Chairman
 Sierra Club                         | Angela Boag       |                       | Houston  
 </br>                               | Kat Herrera       |                       | (Intern) 
-We Texas                            | Debra Medina      |
+We Texas                            | Debra Medina      |                       |
+Tea Party                           | Debra Medina      |                       |
 
-### Supporting
+### Supporters
 
 Organization                        | Name              | Contact Information   | Role          
 ------------                        | ------            | ---                   | ------
