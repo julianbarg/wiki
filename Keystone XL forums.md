@@ -135,7 +135,7 @@ FERC (federal)                      |                   |                       
 House of Representatives Energy and Commerce Committee| |                       |                   |
 NDEQ (NE)                           | Mike Linder       |                       | Director          |
 NEB (CA)                            |                   |                       |                   |
-NPSC (NE)                            |                   |                       |                   |
+NPSC (NE)                           | Jerry Vap         |                       | Hearing officer   |
 NRC (NE)                            |                   |                       |                   |
 PUC (SD)                            |                   |                       |                   |
 
