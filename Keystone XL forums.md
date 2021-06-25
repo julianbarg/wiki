@@ -49,6 +49,7 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   |       | 06        | Omaha, NE     | Court         | Lawsuit about begin of construction/preparation
 </br>   |       | 08        | US            | Various       | NE governor sends letter to Clinton
 </br>   |       | 10        | Washington    | DOS           | "Final" public hearing
+</br>   |       | 30        | Washington    | Senate        | Republicans introduce law to approve KXL
 
 ## Details
 
@@ -80,6 +81,7 @@ Date        | Body          | Factiva                   | Details
 2011-11-08  | NE legislature| LBA0000020111108e7b80001f | Nebraska legislature considers five laws, requiring $500 M bond, permit for eminent domain use, and rerouting. Prior, no law exists. Concern: changing law halfway through. TransCanada one week later voluntarily reroutes.
 2011-11-10  | White House   | LBA0000020111110e7ba001n8 | More protests outside White House.
 2011-11-16  | TransCanada   | APRS000020111116e7bg001hu | TransCanada agrees to reroute around Sandhills (NE). Possibly to speed up process/negate necessity for DOS rerouting review.
+2011-11-30  | Senate        | APRS000020111130e7bu0024m | The bill would force the president to approve KXL after 60 days unless he finds it is not in the national interest.
 
 ## People
  
