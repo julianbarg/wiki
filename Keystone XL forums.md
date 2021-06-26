@@ -68,7 +68,7 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   | Sep   | 06        | US            | API           | API launches "Vote 4 Energy" attack ad, incl KXL
 </br>   | Nov   | 15        | Washington    | White House   | Renewed protests in front of White House
 2012    | Jan   | 01        | Nebraska      | Some court    | Lawsuit challenges Nebraska LB1161
-</br>   |       | 04        | Nebraska      | NDEQ          | NDEQ sends EIS to
+</br>   |       | 04        | Nebraska      | NDEQ          | NDEQ sends EIS to governor
 
 ## Details
 
@@ -113,6 +113,7 @@ Date        | Body          | Factiva                   | Details
 2012-12-04  | NDEQ          | APRS000020121030e8au003wz | NDEQ scheduled public hearing in Albion, NE.
 2012-12-15  | White House   | APRS000020121115e8bf002yi | Renewed protests, incl. Bold Nebraska.
 2013-01-01  | Nebraska court| APRS000020130101e911002mi | Lawsuit against NE new pipeline law challenges e.g, company use of eminent domain, absense of judicial review for projects.
+2013-01-4   | NDEQ          | APRS000020130104e9140029n | NDEQ report submitted to governor--without (written) recommendation. Process: NDEQ (?60 days?)--Governor (30 days)--DOS--President
 
 ### Undated
 
