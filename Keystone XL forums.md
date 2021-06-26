@@ -69,7 +69,8 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   | Nov   | 15        | Washington    | White House   | Renewed protests in front of White House
 2013    | Jan   | 01        | Nebraska      | Some court    | Lawsuit challenges Nebraska LB1161
 </br>   |       | 04        | Nebraska      | NDEQ          | NDEQ sends EIS to governor
-</br>   |       | 25        | Washngtion    | Senate        | 53 Senators send letter to President in support of KXL
+</br>   |       | 25        | Washington    | Senate        | 53 Senators send letter to President in support of KXL
+2014    | April | 22-27     | Various       | Various       | Cowboy and Indian Alliance protest against KXL
 
 ## Details
 
@@ -117,6 +118,7 @@ Date        | Body          | Factiva                   | Details
 2013-01-4   | NDEQ          | APRS000020130104e9140029n | NDEQ report submitted to governor--without (written) recommendation. Process: NDEQ (?60 days?)--Governor (30 days)--DOS--President
 2013-01-25  | Senate        | LBA0000020130125e91p0011j | 53 Senators send letter to President in support of KXL
 2013-01-30  | Senate        | APRS000020130129e91t0015i | John Kerry confirmed as Secretary of State--in charge of KXL!
+2014-04-22  | Various       |                           | Cowboy and Indian Alliance protest along the route of KXL
 
 ### Undated
 
@@ -207,7 +209,8 @@ International Brotherhood of Teamsters|                 |                       
 International Union of Operating Engineers|             |                       |               
 Pipeliners Union 798                | David Barnett     |                       |      
 Platte Institute for Economic Research|Andrew Black     |                       |
-United Association of Journeymen and Apprentices of the Plumbing and Pipefitting Industry||     
+United Association of Journeymen and Apprentices of the Plumbing and Pipefitting Industry||   
+Plumpers and Steamfitters           |                   |                       |
 Veterans for Keystone XL            | Bobby Petty       |                       |       
 
 ### Other
