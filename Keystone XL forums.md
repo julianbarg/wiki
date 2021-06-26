@@ -71,7 +71,7 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   |       | 04        | Nebraska      | NDEQ          | NDEQ sends EIS to governor
 </br>   |       | 25        | Washington    | Senate        | 53 Senators send letter to President in support of KXL
 2014    | April | 22-27     | Various       | Various       | Cowboy and Indian Alliance protest against KXL
-</br>   | Sep   | 04        | Nebraska      | Supreme court | Deciding whether LB1161 can transfer authority to gov
+</br>   | Sep   | 05        | Nebraska      | Supreme court | Deciding whether LB1161 can transfer authority to gov
 
 ## Details
 
@@ -108,7 +108,7 @@ Date        | Body          | Factiva                   | Details
 2012-01-18  | Congress      | LBA0000020120118e81i0011x | After permit denial, Republicans vow to fight for the pipeline.
 2012-01-21  | CRS           | LBA0000020120121e81l00011 | CRS analysis suggests Congress has constitutional right to issue KXL permit.
 2012-03-08  | Various       | LBA0000020120308e8380018b | Rising energy prices put pressure on government to approve KXL.
-2012-03-29  | Other         | APRS000020120329e83t001yw | AEA attack ad blames oil prices on administration, raises $9 gas scenario, spends $3.6 m on attack ad.
+2012-03-29  | Other         | APRS000020120329e83t001yw | AEA attack ad blames oil prices on administration, raises \$9 gas scenario, spends \$3.6 m on attack ad.
 2012-04-05  | NE legislature| APRS000020120405e845001q2 | Nebraska law would force TransCanada to pay for impact assessment, DEQ to hold public hearing. Approved in April.
 2012-04-27  | NDEQ          | APRS000020120427e84r0011q | Nebraska DEQ schedules four public information sessions along KXL new route.
 2012-05-??  | White House   | LBA0000020120906e896000uu | TransCanada resubmits application, hearing in NE now required.
@@ -121,7 +121,7 @@ Date        | Body          | Factiva                   | Details
 2013-01-30  | Senate        | APRS000020130129e91t0015i | John Kerry confirmed as Secretary of State--in charge of KXL!
 2014-04-22  | Various       |                           | Cowboy and Indian Alliance protest along the route of KXL
 2014-08-22  | Other         | APRS000020140821ea8l0035y | Willie Nelson & Neil Young concert against KXL in Kansas
-2014-09-04  | NE Supreme co | APRS000020140821ea8l0035y | Deciding whether LB1161 can transfer authority to gov
+2014-09-05  | NE Supreme co | LBA0000020140905ea95009je | Deciding whether LB1161 can transfer authority to gov
 
 ### Undated
 
