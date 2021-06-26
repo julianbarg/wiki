@@ -65,6 +65,7 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   | Ma    |           | US            | White House   | TransCanada resubmits application
 </br>   | Sep   | 06        | US            | API           | API launches "Vote 4 Energy" attack ad, incl KXL
 </br>   | Nov   | 15        | Washington    | White House   | Renewed protests in front of White House
+2012    | Jan   | 01        | Nebraska      | Some court    | Lawsuit challenges Nebraska LB1161
 
 ## Details
 
@@ -106,8 +107,9 @@ Date        | Body          | Factiva                   | Details
 2012-04-27  | NDEQ          | APRS000020120427e84r0011q | Nebraska DEQ schedules four public information sessions along KXL new route.
 2012-05-??  | White House   | LBA0000020120906e896000uu | TransCanada resubmits application, hearing in NE now required.
 2012-09-20  | Other         | LBA0000020120920e89k00142 | Romney runs on pro-KXL platform.
-2021-12-04  | NDEQ          | APRS000020121030e8au003wz | NDEQ scheduled public hearing in Albion, NE.
-2021-12-15  | White House   | APRS000020121115e8bf002yi | Renewed protests, incl. Bold Nebraska.
+2012-12-04  | NDEQ          | APRS000020121030e8au003wz | NDEQ scheduled public hearing in Albion, NE.
+2012-12-15  | White House   | APRS000020121115e8bf002yi | Renewed protests, incl. Bold Nebraska.
+2013-01-01  | Nebraska court| APRS000020130101e911002mi | Lawsuit against NE new pipeline law challenges e.g, company use of eminent domain, absense of judicial review for projects.
 
 ### Undated
 
@@ -190,10 +192,11 @@ Consumer Energy Alliance (Koch)     | Elaine Crooks     | elaine@consumerenergya
 Montana Association of Oil and Gas Counties| Richard Dunbar|                    |               
 Nebraska AFL-CIO                    | Ron Kaminski      |                       |               
 Nebraska Chamber of Commerce        |                   |                       |               
-Nebraska Petroleum Marketers and Convenience Store Association| Mark Whitehead| |               
+Nebraska Petroleum Marketers and Convenience Store Association| Mark Whitehead| |
+Nebraskans for Jobs and Energy Independence|            |                       |
 Laborers International Union of North America| Terry O'Sullivan|                | General President
-International Brotherhood of Teamsters|               |                         |               
-International Union of Operating Engineers|           |                         |               
+International Brotherhood of Teamsters|                 |                       |               
+International Union of Operating Engineers|             |                       |               
 Pipeliners Union 798                | David Barnett     |                       |      
 Platte Institute for Economic Research|Andrew Black     |                       |
 United Association of Journeymen and Apprentices of the Plumbing and Pipefitting Industry||     
