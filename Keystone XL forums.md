@@ -116,6 +116,7 @@ Date        | Body          | Factiva                   | Details
 2013-01-01  | Nebraska court| APRS000020130101e911002mi | Lawsuit against NE new pipeline law challenges e.g, company use of eminent domain, absense of judicial review for projects.
 2013-01-4   | NDEQ          | APRS000020130104e9140029n | NDEQ report submitted to governor--without (written) recommendation. Process: NDEQ (?60 days?)--Governor (30 days)--DOS--President
 2013-01-25  | Senate        | LBA0000020130125e91p0011j | 53 Senators send letter to President in support of KXL
+2013-01-30  | Senate        | APRS000020130129e91t0015i | John Kerry confirmed as Secretary of State--in charge of KXL!
 
 ### Undated
 
