@@ -67,7 +67,7 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   | Ma    |           | US            | White House   | TransCanada resubmits application
 </br>   | Sep   | 06        | US            | API           | API launches "Vote 4 Energy" attack ad, incl KXL
 </br>   | Nov   | 15        | Washington    | White House   | Renewed protests in front of White House
-2012    | Jan   | 01        | Nebraska      | Some court    | Lawsuit challenges Nebraska LB1161
+2013    | Jan   | 01        | Nebraska      | Some court    | Lawsuit challenges Nebraska LB1161
 </br>   |       | 04        | Nebraska      | NDEQ          | NDEQ sends EIS to governor
 </br>   |       | 25        | Washngtion    | Senate        | 53 Senators send letter to President in support of KXL
 
