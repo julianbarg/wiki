@@ -14,6 +14,8 @@ bibliograhpy: library.bib
 * CRS: Congressional Research Service
 * DEQ: Department of Environmental Quality
 * DOS: Department of State
+* EIA: Environmental Impact Assessment (process)
+* EIS: Environmental Impact Statement (document)
 * EPA: Environmental Protection Agency
 * FERC: Federal Energy Regulatory Commission
 * FOE: Friends of the Earth
@@ -66,6 +68,7 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   | Sep   | 06        | US            | API           | API launches "Vote 4 Energy" attack ad, incl KXL
 </br>   | Nov   | 15        | Washington    | White House   | Renewed protests in front of White House
 2012    | Jan   | 01        | Nebraska      | Some court    | Lawsuit challenges Nebraska LB1161
+</br>   |       | 04        | Nebraska      | NDEQ          | NDEQ sends EIS to
 
 ## Details
 
