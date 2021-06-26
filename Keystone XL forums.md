@@ -156,10 +156,11 @@ PUC (SD)                            |                   |                       
 Organization                        | Name              | Contact Information   | Role  
 ---                                 | ---               | ---                   | ---   
 350.org                             | Bill McKibben     |                       | Founder
-</br>                               | Jamie Henn        |                       | Communications director
-Bold Nebraska                       | Jane Kleeb        |                       |
+</br>                               | Jamie Henn        | jamie@350.org         | Communications director
+Bold Nebraska                       | Jane Kleeb        | jane@boldnebraska.org |
 Al Gore                             |                   |                       |
 Center for Biological Diversity     | Noah Greenwald    |                       | Director    
+Cowboy and Indian Alliance          |                   |                       |
 Dakota Rural Action                 | Paul Blackburn    |                       | Lawyer
 </br>                               | John Harter       |                       |       
 Domestic Energy Producers Alliance  | Harold Hamm       |                       | Founder (?)
