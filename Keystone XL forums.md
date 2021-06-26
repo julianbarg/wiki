@@ -70,7 +70,8 @@ Year    | Month | Day       | Place         | Body          | Agenda
 2013    | Jan   | 01        | Nebraska      | Some court    | Lawsuit challenges Nebraska LB1161
 </br>   |       | 04        | Nebraska      | NDEQ          | NDEQ sends EIS to governor
 </br>   |       | 25        | Washington    | Senate        | 53 Senators send letter to President in support of KXL
-2014    | April | 22-27     | Various       | Various       | Cowboy and Indian Alliance protest against KXL
+2014    | April | ?         | Washington    | DOS           | Suspension of review to wait for results of NE lawsuit   
+</br>   |       | 22-27     | Various       | Various       | Cowboy and Indian Alliance protest against KXL
 </br>   | Sep   | 05        | Nebraska      | Supreme court | Deciding whether LB1161 can transfer authority to gov
 
 ## Details
