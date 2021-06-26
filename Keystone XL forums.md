@@ -120,6 +120,7 @@ Date        | Body          | Factiva                   | Details
 2013-01-4   | NDEQ          | APRS000020130104e9140029n | NDEQ report submitted to governor--without (written) recommendation. Process: NDEQ (?60 days?)--Governor (30 days)--DOS--President
 2013-01-25  | Senate        | LBA0000020130125e91p0011j | 53 Senators send letter to President in support of KXL
 2013-01-30  | Senate        | APRS000020130129e91t0015i | John Kerry confirmed as Secretary of State--in charge of KXL!
+2014-04-??  | DOS           | LBA0000020140905ea9500kxk | DOS suspends its review of KXL (EIA) to wait for outcome of Nebraska lawsuit on new law LB1161.
 2014-04-22  | Various       |                           | Cowboy and Indian Alliance protest along the route of KXL
 2014-08-22  | Other         | APRS000020140821ea8l0035y | Willie Nelson & Neil Young concert against KXL in Kansas
 2014-09-05  | NE Supreme co | LBA0000020140905ea95009je | Deciding whether LB1161 can transfer authority to gov
