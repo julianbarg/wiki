@@ -1,0 +1,1 @@
+The route the protected area of the Sandhills, and offshoots or outliers that are not protected, but opponents of the route would continue claiming that some of the area that the new route crosses constitutes part of the Sandhills.
