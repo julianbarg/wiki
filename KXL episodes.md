@@ -1,0 +1,5 @@
+# Keystone XL--Idiosyncratic Episodes
+
+## Nebraska law episodes
+
+When the debate on KXL first came up, Nebraska did not have in place any project they like and--as far as I understand--use eminent domain to acquire right-of-way, since it is considered public infrastructure. For the use of eminent domain, a certain threshold in percent of the total route has to have been acuiqed--as far as I understand. For KXL, that was a problem, since unlike its bigger brother Keystone, it would run through the [[Sandhills]]. Hence, Nebraska would have no say in the approval process, for the pipeline through this region.
