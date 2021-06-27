@@ -42,6 +42,7 @@ Year    | Month | Day       | Place         | Body          | Agenda
 2012    | Jan   |           | Canada        | NEB           | Public hearing, 3,000 are registered.
 </br>   | April | 27        | Lincoln, NE   | NDEQ          | NDEQ schedules 4 public information sessions.
 </br>   | Dec   | 04        | Albion, NE    | NDEQ          | Public hearing
+2014    | Oct   | 28        | Pierre, SD    | PUC           | Registration for public hearings on re-approval.
 
 ## Other events
 
@@ -124,6 +125,7 @@ Date        | Body          | Factiva                   | Details
 2014-04-22  | Various       |                           | Cowboy and Indian Alliance protest along the route of KXL
 2014-08-22  | Other         | APRS000020140821ea8l0035y | Willie Nelson & Neil Young concert against KXL in Kansas
 2014-09-05  | NE Supreme co | LBA0000020140905ea95009je | Deciding whether LB1161 can transfer authority to gov
+2014-10-28  | SD PUC        | APRS000020141028eaas003l4 | Registration for public hearings on re-approval opens.
 
 ### Undated
 
