@@ -10,9 +10,11 @@ Aug     | 26    | State Department releases the Final Environmental Impact State
 </br>   | 31    | Governor Heineman expresses in a letter to the State Department his opinion that KXL should be rerouted around the Sandhills
 Oct     | 24    | Governor Heineman calls special session of Nebraska Legislature to work on KXL legislation
 Nov     | 01    | Special session of the Nebraska legislature begins
-</br>   | 02    | First draft of pipeline siting act introduced, places powers with governor
+</br>   | 02    | First draft of Oil Pipeline Route Certification Act introduced, places powers with governor
+</br>   | 02    | First draft of Major Oil Pipeline Siting Act introduced
 </br>   | 10    | DOS announces delay of KXL until 2013
-</br>   | 14    | 
+</br>   | 14    | Legislature announces that TransCanada has agreed to reroute KXL
+</br>   | 15    | Natural Resource Committee
 
 ### Narrative
 
@@ -41,7 +43,9 @@ Date        | Source                        | Title                             
 2011-10-24  | Inside Climate News           | Nebraska Governor to Call Special Session on Keys (cont.) | [[Link|https://insideclimatenews.org/news/24102011/nebraska-governor-dave-heineman-keystone-xl-pipeline-oil-sands-ogallala-aquifer-sandhills/]]
 2011-11-01  | Fremont Tribune               | Special session poses precarious legal challenge          | [[Link|https://fremonttribune.com/news/local/special-session-poses-precarious-legal-challenge/article_cf1832a6-049e-11e1-b9b5-001cc4c002e0.html]]
 2011-11-02  | Lincoln Journal Star          | Bills: Empower governor, limit eminent domain             | [[Link|https://journalstar.com/news/unicameral/bills-empower-governor-limit-eminent-domain/article_71af68da-0ccb-5b9b-8265-e8adeb31bf0a.html]]
+2011-11-02  | Nebraska legislature          | First draft of Oil Pipeline Route Certification Act       | [[Link|https://nebraskalegislature.gov/FloorDocs/102/PDF/Intro/LB4_S1.pdf]]
 2011-11-10  | Oil & Gas Journal             | State Department delays Keystone XL decision until 2013   | [[Link|https://www.ogj.com/general-interest/government/article/17265215/state-department-delays-keystone-xl-decision-until-2013]]
+2011-11-14  | Nebraska legislature          | Floor Debate                                              | [[Link|https://www.nebraskalegislature.gov/FloorDocs/102/PDF/Transcripts/FloorDebate/s1day9.pdf]]
 2011-11-14  | The New York Times            | Keystone Pipeline Will Be Rerouted                        | [[Link|https://www.nytimes.com/2011/11/15/science/earth/keystone-xl-pipeline-transcanada-reroute.html]]
 2011-11-15  | Natural Resource Committee    | Meeting transcript                                        | [[Link|https://www.nebraskalegislature.gov/FloorDocs/102/PDF/Transcripts/Natural/2011-11-15.pdf]]
 2011-11-22  | Unicameral Update             | Two pipeline measures approved; Legislature adjourns      | [[Link|http://update.legislature.ne.gov/?p=5458]]
