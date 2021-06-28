@@ -11,17 +11,18 @@ Nov     | 10    | [[DOS announces delay of KXL until 2013|https://www.ogj.com/ge
 
 ### Sources
 
-Date        | Source                | Title                                                     | Link
----         | -----                 | -------------                                             | ---
-2011-11-10  | Oil & Gas Journal     | State Department delays Keystone XL decision until 2013   | [[Link|https://www.ogj.com/general-interest/government/article/17265215/state-department-delays-keystone-xl-decision-until-2013]]
-2011-11-22  | Unicameral Update     | Two pipeline measures approved; Legislature adjourns      | [[Link|http://update.legislature.ne.gov/?p=5458]]
-2011-11-22  | Inside Climate News   | Nebraska Lawmakers Vote to Reroute Keystone XL Pipeline   | [[Link|https://insideclimatenews.org/news/22112011/nebraska-lawmakers-vote-reroute-keystone-xl-pipeline-ogallala-aquifer-sandhills-transcanada-state-deparment/]]
-2012-04-11  | Unicameral Update     | Oil pipeline regulation bill passes                       | [[Link|http://update.legislature.ne.gov/?p=7554]]
-2012-09-06  | Reuters               | Keystone modifications call Obama's bluff                 | [[Link|https://web.archive.org/web/20150930210529/http://www.reuters.com/article/2012/09/06/column-kemp-oil-keystone-idINL6E8K6D5920120906]]
+Date        | Source                        | Title                                                     | Link
+---         | -----                         | -------------                                             | ---
+2011-11-10  | Oil & Gas Journal             | State Department delays Keystone XL decision until 2013   | [[Link|https://www.ogj.com/general-interest/government/article/17265215/state-department-delays-keystone-xl-decision-until-2013]]
+2011-11-15  | Natural Resource Committee    | Meeting transcript                                        | [[Link|https://www.nebraskalegislature.gov/FloorDocs/102/PDF/Transcripts/Natural/2011-11-15.pdf]]
+2011-11-22  | Unicameral Update             | Two pipeline measures approved; Legislature adjourns      | [[Link|http://update.legislature.ne.gov/?p=5458]]
+2011-11-22  | Inside Climate News           | Nebraska Lawmakers Vote to Reroute Keystone XL Pipeline   | [[Link|https://insideclimatenews.org/news/22112011/nebraska-lawmakers-vote-reroute-keystone-xl-pipeline-ogallala-aquifer-sandhills-transcanada-state-deparment/]]
+2012-04-11  | Unicameral Update             | Oil pipeline regulation bill passes                       | [[Link|http://update.legislature.ne.gov/?p=7554]]
+2012-09-06  | Reuters                       | Keystone modifications call Obama's bluff                 | [[Link|https://web.archive.org/web/20150930210529/http://www.reuters.com/article/2012/09/06/column-kemp-oil-keystone-idINL6E8K6D5920120906]]
 
 
 
-OGJ on delay of decision: [[https://www.ogj.com/general-interest/government/article/17265215/state-department-delays-keystone-xl-decision-until-2013]].
+
 2. Transcript of the meeting of the Natural Resource Committee on 2011-11-15, which provides some information on the motivations for the new bill.
 
 ### Narrative
