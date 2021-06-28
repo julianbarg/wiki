@@ -20,11 +20,6 @@ Date        | Source                        | Title                             
 2012-04-11  | Unicameral Update             | Oil pipeline regulation bill passes                       | [[Link|http://update.legislature.ne.gov/?p=7554]]
 2012-09-06  | Reuters                       | Keystone modifications call Obama's bluff                 | [[Link|https://web.archive.org/web/20150930210529/http://www.reuters.com/article/2012/09/06/column-kemp-oil-keystone-idINL6E8K6D5920120906]]
 
-
-
-
-2. Transcript of the meeting of the Natural Resource Committee on 2011-11-15, which provides some information on the motivations for the new bill.
-
 ### Narrative
 
 When the debate on KXL first came up, Nebraska--unlike Montana and South Dakota--[[did not have in place a formal process for deciding on pipeline routes|https://www.ogj.com/general-interest/government/article/17265215/state-department-delays-keystone-xl-decision-until-2013]]. Under state regulations, KXL did not originally require an environmental impact statement for Nebraska. Assessment of environmental impacts in Nebraska were hence carried out at the federal level by the State Department. Pipeline operators could build, and--as far as I understand--use eminent domain to acquire right-of-way as they like in Nebraska, since pipelines are considered public infrastructure. As far as I understand, for the use of eminent domain, an 80% share of the total route has to have been acuiqed. The State Department was involved because KXL crosses the Canada-US border. 
