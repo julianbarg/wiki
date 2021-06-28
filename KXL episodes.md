@@ -7,6 +7,7 @@
 Month   | Day   | Event
 ---     | ---   | ------------------
 Aug     | 31    | Governor Heineman expresses in a letter to the State Department his opinion that KXL should be rerouted around the Sandhills
+Oct     | 24    | Governor Heineman calls special session of Nebraska Legislature to work on KXL legislation
 Nov     | 10    | [[DOS announces delay of KXL until 2013|https://www.ogj.com/general-interest/government/article/17265215/state-department-delays-keystone-xl-decision-until-2013]]
 
 ### Narrative
