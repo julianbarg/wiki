@@ -30,6 +30,7 @@ Date        | Source                        | Title                             
 ---         | --------                      | ----------------                                          | ---
 2011-08-31  | Lincoln Journal Star          | Heineman wants president to deny pipeline permit          | [[Link|https://journalstar.com/news/local/heineman-wants-president-to-deny-pipeline-permit/article_49eeb3fd-b4f1-5e79-99ae-aea09c7757ab.html]]
 2011-11-01  | Fremont Tribune               | Special session poses precarious legal challenge          | [[Link|https://fremonttribune.com/news/local/special-session-poses-precarious-legal-challenge/article_cf1832a6-049e-11e1-b9b5-001cc4c002e0.html]]
+2011-11-02  | Lincoln Journal Star          | Bills: Empower governor, limit eminent domain             | [[Link|https://journalstar.com/news/unicameral/bills-empower-governor-limit-eminent-domain/article_71af68da-0ccb-5b9b-8265-e8adeb31bf0a.html]]
 2011-11-10  | Oil & Gas Journal             | State Department delays Keystone XL decision until 2013   | [[Link|https://www.ogj.com/general-interest/government/article/17265215/state-department-delays-keystone-xl-decision-until-2013]]
 2011-11-15  | Natural Resource Committee    | Meeting transcript                                        | [[Link|https://www.nebraskalegislature.gov/FloorDocs/102/PDF/Transcripts/Natural/2011-11-15.pdf]]
 2011-11-22  | Unicameral Update             | Two pipeline measures approved; Legislature adjourns      | [[Link|http://update.legislature.ne.gov/?p=5458]]
