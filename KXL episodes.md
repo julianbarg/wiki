@@ -48,6 +48,7 @@ Date        | Source                        | Title                             
 2011-11-14  | Nebraska legislature          | Floor Debate                                              | [[Link|https://www.nebraskalegislature.gov/FloorDocs/102/PDF/Transcripts/FloorDebate/s1day9.pdf]]
 2011-11-14  | The New York Times            | Keystone Pipeline Will Be Rerouted                        | [[Link|https://www.nytimes.com/2011/11/15/science/earth/keystone-xl-pipeline-transcanada-reroute.html]]
 2011-11-15  | Natural Resource Committee    | Meeting transcript                                        | [[Link|https://www.nebraskalegislature.gov/FloorDocs/102/PDF/Transcripts/Natural/2011-11-15.pdf]]
+2011-11-15  | Nebraska legislature          | Floor Debate                                              | [[Link|https://www.nebraskalegislature.gov/FloorDocs/102/PDF/Transcripts/FloorDebate/s1day10.pdf]]
 2011-11-22  | Unicameral Update             | Two pipeline measures approved; Legislature adjourns      | [[Link|http://update.legislature.ne.gov/?p=5458]]
 2011-11-22  | Inside Climate News           | Nebraska Lawmakers Vote to Reroute Keystone XL Pipeline   | [[Link|https://insideclimatenews.org/news/22112011/nebraska-lawmakers-vote-reroute-keystone-xl-pipeline-ogallala-aquifer-sandhills-transcanada-state-deparment/]]
 2011-11-23  | The North Platte Telegraph    |  State's pipeline laws now official                       | [[Link|https://nptelegraph.com/news/states-pipeline-laws-now-official/article_7f1b04ec-9e45-5870-97be-cdc03190f2d2.html]]
