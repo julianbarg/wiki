@@ -13,7 +13,10 @@ Nov     | 10    | [[DOS announces delay of KXL until 2013|https://www.ogj.com/ge
 
 Date        | Source                | Title                                                     | Link
 ---         | -----                 | -------------                                             | ---
-2011-11-22  | Inside Climate News   |Nebraska Lawmakers Vote to Reroute Keystone XL Pipeline    | [[Link|https://insideclimatenews.org/news/22112011/nebraska-lawmakers-vote-reroute-keystone-xl-pipeline-ogallala-aquifer-sandhills-transcanada-state-deparment/]]
+2011-11-22  | Unicameral Update     | Two pipeline measures approved; Legislature adjourns      | [[Link|http://update.legislature.ne.gov/?p=5458]]
+2011-11-22  | Inside Climate News   | Nebraska Lawmakers Vote to Reroute Keystone XL Pipeline   | [[Link|https://insideclimatenews.org/news/22112011/nebraska-lawmakers-vote-reroute-keystone-xl-pipeline-ogallala-aquifer-sandhills-transcanada-state-deparment/]]
+2012-04-11  | Unicameral Update     | Oil pipeline regulation bill passes                       | [[Link|http://update.legislature.ne.gov/?p=7554]]
+2012-09-06  | Reuters               | Keystone modifications call Obama's bluff                 | [[Link|https://web.archive.org/web/20150930210529/http://www.reuters.com/article/2012/09/06/column-kemp-oil-keystone-idINL6E8K6D5920120906]]
 
 
 
