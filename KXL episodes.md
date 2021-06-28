@@ -11,10 +11,10 @@ Aug     | 26    | State Department releases the Final Environmental Impact State
 Oct     | 24    | Governor Heineman calls special session of Nebraska Legislature to work on KXL legislation
 Nov     | 01    | Special session of the Nebraska legislature begins
 </br>   | 02    | First draft of Oil Pipeline Route Certification Act introduced, places powers with governor
-</br>   | 02    | First draft of Major Oil Pipeline Siting Act introduced
+</br>   | 02    | First draft of Major Oil Pipeline Siting Act introduced, only applies to future applications
 </br>   | 10    | DOS announces delay of KXL until 2013
 </br>   | 14    | Legislature announces that TransCanada has agreed to reroute KXL
-</br>   | 15    | Natural Resource Committee
+</br>   | 15    | The legislature adopts AM36--Oil Pipeline Route Certifications Act places powers with Public Service Commission
 
 ### Narrative
 
