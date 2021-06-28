@@ -13,12 +13,15 @@ Nov     | 10    | [[DOS announces delay of KXL until 2013|https://www.ogj.com/ge
 
 Date        | Source                        | Title                                                     | Link
 ---         | --------                      | ----------------                                          | ---
+2011-11-01  | Fremont Tribune               | Special session poses precarious legal challenge          | [[Link|https://fremonttribune.com/news/local/special-session-poses-precarious-legal-challenge/article_cf1832a6-049e-11e1-b9b5-001cc4c002e0.html]]
 2011-11-10  | Oil & Gas Journal             | State Department delays Keystone XL decision until 2013   | [[Link|https://www.ogj.com/general-interest/government/article/17265215/state-department-delays-keystone-xl-decision-until-2013]]
 2011-11-15  | Natural Resource Committee    | Meeting transcript                                        | [[Link|https://www.nebraskalegislature.gov/FloorDocs/102/PDF/Transcripts/Natural/2011-11-15.pdf]]
 2011-11-22  | Unicameral Update             | Two pipeline measures approved; Legislature adjourns      | [[Link|http://update.legislature.ne.gov/?p=5458]]
 2011-11-22  | Inside Climate News           | Nebraska Lawmakers Vote to Reroute Keystone XL Pipeline   | [[Link|https://insideclimatenews.org/news/22112011/nebraska-lawmakers-vote-reroute-keystone-xl-pipeline-ogallala-aquifer-sandhills-transcanada-state-deparment/]]
+2011-11-23  | The North Platte Telegraph    |  State's pipeline laws now official                       | [[Link|https://nptelegraph.com/news/states-pipeline-laws-now-official/article_7f1b04ec-9e45-5870-97be-cdc03190f2d2.html]]
 2012-04-11  | Unicameral Update             | Oil pipeline regulation bill passes                       | [[Link|http://update.legislature.ne.gov/?p=7554]]
 2012-09-06  | Reuters                       | Keystone modifications call Obama's bluff                 | [[Link|https://web.archive.org/web/20150930210529/http://www.reuters.com/article/2012/09/06/column-kemp-oil-keystone-idINL6E8K6D5920120906]]
+2014-12-11  | Bold Nebraska                 | Background: Nebraska Unconstitutional Pipeline Process    | [[Link|https://boldnebraska.org/lawsuit/]]
 
 ### Narrative
 
