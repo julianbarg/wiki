@@ -12,7 +12,7 @@ Nov     | 10    | [[DOS announces delay of KXL until 2013|https://www.ogj.com/ge
 ### Sources
 
 Date        | Source                        | Title                                                     | Link
----         | --------                      | -------------                                             | ---
+---         | --------                      | ----------------                                          | ---
 2011-11-10  | Oil & Gas Journal             | State Department delays Keystone XL decision until 2013   | [[Link|https://www.ogj.com/general-interest/government/article/17265215/state-department-delays-keystone-xl-decision-until-2013]]
 2011-11-15  | Natural Resource Committee    | Meeting transcript                                        | [[Link|https://www.nebraskalegislature.gov/FloorDocs/102/PDF/Transcripts/Natural/2011-11-15.pdf]]
 2011-11-22  | Unicameral Update             | Two pipeline measures approved; Legislature adjourns      | [[Link|http://update.legislature.ne.gov/?p=5458]]
