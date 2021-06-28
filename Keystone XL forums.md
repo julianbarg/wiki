@@ -110,7 +110,7 @@ Date        | Body          | Factiva                   | Details
 2012-01-18  | Congress      | LBA0000020120118e81i0011x | After permit denial, Republicans vow to fight for the pipeline.
 2012-01-21  | CRS           | LBA0000020120121e81l00011 | CRS analysis suggests Congress has constitutional right to issue KXL permit.
 2012-03-08  | Various       | LBA0000020120308e8380018b | Rising energy prices put pressure on government to approve KXL.
-2012-03-29  | Other         | APRS000020120329e83t001yw | AEA attack ad blames oil prices on administration, raises \$9 gas scenario, spends \$3.6 m on attack ad.
+2012-03-29  | Other         | APRS000020120329e83t001yw | AEA attack ad blames oil prices on administration, raises '$9 gas scenario, spends '$3.6 m on attack ad.
 2012-04-05  | NE legislature| APRS000020120405e845001q2 | Nebraska law would force TransCanada to pay for impact assessment, DEQ to hold public hearing. Approved in April.
 2012-04-27  | NDEQ          | APRS000020120427e84r0011q | Nebraska DEQ schedules four public information sessions along KXL new route.
 2012-05-??  | White House   | LBA0000020120906e896000uu | TransCanada resubmits application, hearing in NE now required.
