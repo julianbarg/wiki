@@ -9,9 +9,13 @@ Month   | Day   | Event
 Aug     | 31    | Governor Heineman expresses in a letter to the State Department his opinion that KXL should be rerouted around the Sandhills
 Nov     | 10    | [[DOS announces delay of KXL until 2013|https://www.ogj.com/general-interest/government/article/17265215/state-department-delays-keystone-xl-decision-until-2013]]
 
-###
+### Sources
 
-1. OGJ on delay of decision: [[https://www.ogj.com/general-interest/government/article/17265215/state-department-delays-keystone-xl-decision-until-2013]].
+Date        | Source                | Title                                                     | Link
+---         | ---                   | ---                                                       | ---
+2011-11-22  | Inside Climate News   |Nebraska Lawmakers Vote to Reroute Keystone XL Pipeline    | [[https://insideclimatenews.org/news/22112011/nebraska-lawmakers-vote-reroute-keystone-xl-pipeline-ogallala-aquifer-sandhills-transcanada-state-deparment/|Link]]
+
+OGJ on delay of decision: [[https://www.ogj.com/general-interest/government/article/17265215/state-department-delays-keystone-xl-decision-until-2013]].
 2. Transcript of the meeting of the Natural Resource Committee on 2011-11-15, which provides some information on the motivations for the new bill.
 
 ### Narrative
