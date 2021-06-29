@@ -28,7 +28,7 @@ Year    | Month | Day   | Event
 </br>   |       | 23    | Landowners file suit against LB1161
 2014    | Feb   | 19    | A Lancester county judge finds LB1161 to be unconstitutional
 </br>   | April | 18    | DOS anounces an additional delay of KXL citing the "uncertainty created by on-going litigation" [@DOS2014a]
-</br>   | June  | 20    | The lawsuit moves to the Nebraska Supreme Court
+</br>   | June  | 20    | Hearings on the lawsuit begin at the Nebraska Supreme Court
 2015    | Sep   | 30    | TransCanada withdraws from lawsuit on LB1161
 
 ### Narrative
@@ -47,9 +47,11 @@ Two months later, in December of 2011, the House of Representatives came to see 
 
 Three months later, in April 2012, the legislature of Nebraska passed a bill, LB1161, that would render this future permit application for KXL easier. The bill set forth that for any future application, a pipeline operator could choose to go through the relative simple process originally intended for the supplemental environmental impact assessment of KXL as set forth in LB4, rather than having to undergo the relatively lengthy process for permit applications as intended under LB1. Less than a month later, TransCanada decided to take advantage of this opportunity and resubmitted its application under LB1161/LB4. Later that month, three landowners filed suit against LB1161.
 
-What followed was a lengthy legal battle over LB1161 that pitted the landowners and environmental groups against the state of Nebraska and TransCanada. The DOS began working on a new environmental impact statement, but deferred these efforts in April 2014, after the opponents had attained a number of legal victories. 
+What followed was a lengthy legal battle over LB1161 that pitted the landowners and environmental groups against the state of Nebraska and TransCanada. The State Department began working on a new environmental impact statement, but deferred these efforts in April 2014, after the opponents had attained a number of legal victories. In its press statement, the State Department blamed the delay on the "uncertainty created by the on-going litigation in the Nebraska Supreme Court which could ultimately affect the pipeline route in that state" [@DOS2014a]. Over a year later, in September 2015, TransCanada withdrew from the lawsuit and agreed to submit its decision under LB1 rather than under LB1161/LB4.
 
-Because of the delay, TransCanada would also have to renew its permit for South Dakota, which is only good for five years.
+The three-year delay caused by the friendly legislation in Nebraska meant that TransCanada would also have to resubmit its permit application South Dakota--its 2010 permit had expired after five years, in February 2015. The snowballing problems delayed a decision by the State Department on KXL until late 2015, when the outgoing US president, free from pressure from voters and supporters, decided to reject the permit application.
+
+Overall, 
 
 ### Bills
 
