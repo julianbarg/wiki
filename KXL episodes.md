@@ -51,13 +51,17 @@ What followed was a lengthy legal battle over LB1161 that pitted the landowners 
 
 The three-year delay caused by the friendly legislation in Nebraska meant that TransCanada would also have to resubmit its permit application South Dakota--its 2010 permit had expired after five years, in February 2015. The snowballing problems delayed a decision by the State Department on KXL until late 2015, when the outgoing US president, free from pressure from voters and supporters, decided to reject the permit application.
 
+#### Interpretation
+
 Overall, 
 
 ### Bills
 
-* LB1--Major Pipeline Siting Act: [[https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=15149]]
-* LB4--Oil Pipeline Route Certification Act: [[https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=15278]]
-* LB1161: [[https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=16138]]
+Bill    | Title                                 | Link
+---     | ---                                   | ---
+LB1     | Major Pipeline Siting Act             | [[https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=15149]]
+LB4     | Oil Pipeline Route Certification Act  | [[https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=15278]]
+LB1161  | (untitled)                            | [[https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=16138]]
 
 ### Sources
 
