@@ -68,3 +68,7 @@ Date        | Source                        | Title                             
 2012-04-11  | Unicameral Update             | Oil pipeline regulation bill passes                       | [[Link|http://update.legislature.ne.gov/?p=7554]]
 2012-09-06  | Reuters                       | Keystone modifications call Obama's bluff                 | [[Link|https://web.archive.org/web/20150930210529/http://www.reuters.com/article/2012/09/06/column-kemp-oil-keystone-idINL6E8K6D5920120906]]
 2014-12-11  | Bold Nebraska                 | Background: Nebraska Unconstitutional Pipeline Process    | [[Link|https://boldnebraska.org/lawsuit/]]
+
+---
+
+## References
