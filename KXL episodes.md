@@ -60,7 +60,9 @@ The three-year delay caused by the friendly legislation in Nebraska meant that T
 
 The Nebraska episode may be an extreme outlier in how much it has derailed the environmental impact assessment for KXL, but episode is also representative of a more general phenomenon. In 2011, multiple stakeholders gathered under a vaguely environmental banner and intervened. The Governor called a special session of the Nebraska Legislature to pass bills on the issue. The momentum was toward a route that would avoid the Sandhills. Toward that end, the legislature passed a bill and provided funds for an environmental impact assessment of an alternative route. Despite its more general rejection of pipelines, the Sierra Club welcomed the decision, and the opportunity to engage in an environmental impact assessment at the state, rather than the federal level--after all, the outcome of the State Department's asssessment had been disappointing for environmental groups. TransCanada viewed the decision of the legislature not as a threat to the project, but as an opportunity to realize an alternative route for KXL in a swift fashion--the legislature's intention was to hire a contractor to conduct an environmental impact assessment as soon as possible, and under the guidance of Governor Heineman, who was generally in favor of KXL. _And Nebraska would even pay for the assessment!_
 
+The initial win-win-win situation quickly fell apart when three interactions occured. The House of Representatives tried to speed up the process, thereby inadvertantly killing the application. Governor Heineman thought he was being smart when he orchestrated for the legislature to pass an additional law that would allow for the smooth environmental impact assessment process to also apply to a new KXL permit application. And when TransCanada resubmitted its permit appliation, the whole application process was stalled by the legal battle that ensued over the new bill.
 
+For 
 
 ### Bills
 
