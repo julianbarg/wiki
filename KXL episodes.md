@@ -98,7 +98,7 @@ Date        | Source                        | Title                             
 2011-11-22  | Unicameral Update             | Two pipeline measures approved; Legislature adjourns      | [[Link|http://update.legislature.ne.gov/?p=5458]]
 2011-11-22  | Inside Climate News           | Nebraska Lawmakers Vote to Reroute Keystone XL Pipeline   | [[Link|https://insideclimatenews.org/news/22112011/nebraska-lawmakers-vote-reroute-keystone-xl-pipeline-ogallala-aquifer-sandhills-transcanada-state-deparment/]]
 2011-11-23  | The North Platte Telegraph    |  State's pipeline laws now official                       | [[Link|https://nptelegraph.com/news/states-pipeline-laws-now-official/article_7f1b04ec-9e45-5870-97be-cdc03190f2d2.html]]
-2011-12-24  | CNN                           | Obama signs payroll tax cut extension                     | [[https://www.cnn.com/2011/12/23/politics/congress-payroll-tax-cut/index.html]]
+2011-12-24  | CNN                           | Obama signs payroll tax cut extension                     | [[Link|https://www.cnn.com/2011/12/23/politics/congress-payroll-tax-cut/index.html]]
 2012-04-11  | Unicameral Update             | Oil pipeline regulation bill passes                       | [[Link|http://update.legislature.ne.gov/?p=7554]]
 2012-05-04  | Department of State           | New Keystone XL Pipeline Applicatin                       | [[Link|https://2012-keystonepipeline-xl.state.gov/index.htm]]
 2012-05-23  | Reuters                       | Nebraska residents challenge Keystone pipeline law        | [[Link|https://www.reuters.com/article/usa-pipeline-lawsuit/nebraska-residents-challenge-keystone-pipeline-law-idUSL1E8GNDOT20120523]]
