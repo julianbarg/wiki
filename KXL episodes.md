@@ -68,7 +68,7 @@ The Nebraska episode may be an extreme outlier in how much it has derailed the e
 
 The initial win-win-win situation quickly fell apart when three interactions occured. The House of Representatives tried to speed up the process, thereby inadvertantly killing the application. Governor Heineman thought he was being smart when he orchestrated for the legislature to pass an additional law that would allow for the smooth environmental impact assessment process to also apply to a new KXL permit application. And when TransCanada resubmitted its permit appliation, the whole application process was stalled by the legal battle that ensued over the new bill.
 
-The unexpected interaction also completely derailed the discourse on the environmental impacts of Keystone XL. While in 2011, the potential impacts on Nebraska's Sandhills dominated the debate, by 2013 the legal battle dominated the news. To understand the debate at this point one would have to go to the Nebraska constitution, and the circumstances under which LB1, LB4, and LB1161 were passed. Specific enironmental concerns, such as the 
+The unexpected interaction also completely derailed the discourse on the environmental impacts of Keystone XL. While in 2011, the potential impacts on Nebraska's Sandhills dominated the debate, by 2013 the legal battle dominated the news. To understand the debate at this point one would have to go to the Nebraska constitution, and the circumstances under which LB1, LB4, and LB1161 were passed. Specific enironmental concerns, such as the Sandhills, are only of marginal importance at this point in time.
 
 ### Bills
 
