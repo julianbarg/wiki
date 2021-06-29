@@ -24,6 +24,7 @@ Year    | Month | Day   | Event
 </br>   |       | 24    | President signs payroll tax cuts bill with KXL rider into law
 2012    | Jan   | 18    | DOS rejects KXL stating that 60 days are "insufficient for [a national interest] determination" [@DOS2012]
 </br>   | April | 11    | Nebraska legislature passes LB1161
+</br>   | May   | 04    | TransCanada resubmits KXL application to DOS
 
 ### Narrative
 
