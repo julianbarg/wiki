@@ -1,6 +1,6 @@
-# Keystone XL--Idiosyncratic Episodes
-
-## Nebraska law episode
+---
+bibliography: library.bib
+---
 
 # Keystone XL--Idiosyncratic Episodes
 
