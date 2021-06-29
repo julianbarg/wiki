@@ -21,12 +21,12 @@ Year    | Month | Day   | Event
 </br>   |       | 22    | Legislature and Governor approve Oil Pipeline Route Certification Act and Major Oil Pipeline Siting Act
 </br>   | Dec   | ?     | Democrats in congress threaten a government shutdown unless Republicans pass an extension of payroll tax cuts
 </br>   |       | 17    | Republicans attach a rider to payroll tax cuts bill requiring the President to decide on KXL within 60 days
-</br>   |       | 24    | Obama signs payroll tax cuts bill with KXL rider into law
-2012    | Jan   | 18    | Obama rejects the 
+</br>   |       | 24    | President signs payroll tax cuts bill with KXL rider into law
+2012    | Jan   | 18    | DOS rejects KXL stating that 60 days are "insufficient for such a determination" [@DOS2012]
 
 ### Narrative
 
-Three scenes. August 2011. Environmental movements in Nebraska and Governor Heineman form an uneasy alliance against TransCanada and the State Department. Their common goal: to protect the Sandhills and reroute KXL. November 15, 2011. In Nebraska, the Oil Pipeline Route Certification Act takes shape. A representative of TransCanada and a representative of the Sierra Club attent the Natural Resource Committee of the Nebraska legislature and celebrate the progress of the bill. Robert Jones (TransCanada): "We appreciate [...] this legislation which would create a process for an additional review of the proposed Keystone pipeline route through Nebraska, and we encourage approval of the bill as amended [by AM37]." Ken Winston (Sierra Club): "We ask the advancement of AM37 to LB4" [@NRC2011]. 
+Three scenes. August 2011. Environmental movements in Nebraska and Governor Heineman form an uneasy alliance against TransCanada and the State Department. Their common goal: to protect the Sandhills and reroute KXL. November 15, 2011. In Nebraska, the Oil Pipeline Route Certification Act takes shape. A representative of TransCanada and a representative of the Sierra Club attent the Natural Resource Committee of the Nebraska legislature and celebrate the progress of the bill. Robert Jones (TransCanada): "We appreciate [...] this legislation which would create a process for an additional review of the proposed Keystone pipeline route through Nebraska, and we encourage approval of the bill as amended [by AM37]." Ken Winston (Sierra Club): "We ask the advancement of AM37 to LB4" [@NRC2011]. September 5, 2014. Oral arguments are being heard before the Nebraska Supreme Court. For two years, environmental movements and the government of Nebraska have fought a legal battle over LB1161, which set forth that LB4 would also apply to a resubmitted application for KXL.
 
 When TransCanada began the permit application process for KXL, Nebraska--unlike Montana and South Dakota--did not have in place a formal process for deciding on pipeline routes. Under Nebraska state regulations, KXL did not originally require an environmental impact statement for Nebraska. Assessment of environmental impacts in Nebraska were hence carried out at the federal level by the State Department. Pipeline operators could build, and use eminent domain to acquire right-of-way as they like in Nebraska, since pipelines are considered public infrastructure under Nebraska law. As far as I understand, for the use of eminent domain, an 80% share of the total route has to have been acuiqed. The State Department was involved because KXL crosses the Canada-US border. 
 
@@ -37,6 +37,8 @@ As a first reaction, the Governor of Nebraska wrote a letter to the State Depart
 While the special session was sitting, the State Department announced that State Department would carry out a supplemental environmental impact statement, delaying the decision on KXL until at least 2013. The oil and gas industry, spearheaded by the API, saw this decision as an attempt by the State Department to stall the approval process for KXL in order to charm environmentalists: "This is about politics and keeping a radical constituency opposed to any and all oil and gas development in the president's camp in November 2012" [@Tippee2011]. In contrast, a representative of TransCanada found words of praise for the plans of the Nebraska legislature, during a meeting of the legislatures Environmental Resource Commission: "We are pleased that AM37 calls for the work to be done in an effective and timely manner" [@NRC2011].
 
 
+
+Because of the delay, TransCanada would also have to renew its permit for South Dakota, which is only good for five years.
 
 ### Bills
 
