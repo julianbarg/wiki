@@ -26,7 +26,8 @@ Year    | Month | Day   | Event
 </br>   | April | 11    | Nebraska legislature passes LB1161
 </br>   | May   | 04    | TransCanada resubmits KXL application to DOS
 2014    | Feb   | 19    | A Lancester county judge finds LB1161 to be unconstitutional
-2014    | April | 18    | DOS anounces an additional delay of KXL citing the "uncertainty created by on-going litigatin" [@DOS2014a]
+</br>   | April | 18    | DOS anounces an additional delay of KXL citing the "uncertainty created by on-going litigation" [@DOS2014a]
+</br>   | June  | 20    | The lawsuit moves to the Nebraska Supreme Court
 2015    | Oct   | 07    | TransCanada withdraws from lawsuit on LB1161
 
 ### Narrative
