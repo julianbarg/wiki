@@ -60,7 +60,7 @@ The three-year delay caused by the friendly legislation in Nebraska meant that T
 
 The Nebraska episode may be an extreme outlier in how much it has derailed the environmental impact assessment, but it is representative of a more general phenomenon. In 2011, multiple stakeholders gathered under a vaguely environmental banner and intervened. The governor at Nebraska saw an opening for 
 
-When the Nebraska legislature intervened in 2011, it had an environmental goal in mind. Stakeholders in Nebraska were pushing for a formal a
+When the Nebraska legislature intervened in 2011, it had an environmental goal in mind. Stakeholders in Nebraska were pushing for an opportunity to push for his preferred route through Nebraska. The bills put forth by the legislature would work toward this goal without directly threatening the project.
 
 ### Bills
 
