@@ -4,6 +4,8 @@ bibliography: library.bib
 
 # Keystone XL--Idiosyncratic Episodes
 
+[[_TOC_]]
+
 ## Definitions
 
 * Evironmental impact assessment: the process of evaluating the environmental impact of a statement
