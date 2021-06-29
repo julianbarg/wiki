@@ -69,6 +69,7 @@ Date        | Source                        | Title                             
 2011-11-23  | The North Platte Telegraph    |  State's pipeline laws now official                       | [[Link|https://nptelegraph.com/news/states-pipeline-laws-now-official/article_7f1b04ec-9e45-5870-97be-cdc03190f2d2.html]]
 2011-12-24  | CNN                           | Obama signs payroll tax cut extension                     | [[https://www.cnn.com/2011/12/23/politics/congress-payroll-tax-cut/index.html]]
 2012-04-11  | Unicameral Update             | Oil pipeline regulation bill passes                       | [[Link|http://update.legislature.ne.gov/?p=7554]]
+2012-05-04  | Department of State           | New Keystone XL Pipeline Applicatin                       | [[Link|https://2012-keystonepipeline-xl.state.gov/index.htm]]
 2012-09-06  | Reuters                       | Keystone modifications call Obama's bluff                 | [[Link|https://web.archive.org/web/20150930210529/http://www.reuters.com/article/2012/09/06/column-kemp-oil-keystone-idINL6E8K6D5920120906]]
 2014-12-11  | Bold Nebraska                 | Background: Nebraska Unconstitutional Pipeline Process    | [[Link|https://boldnebraska.org/lawsuit/]]
 
