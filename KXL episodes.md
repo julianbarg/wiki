@@ -4,6 +4,11 @@ bibliography: library.bib
 
 # Keystone XL--Idiosyncratic Episodes
 
+## Definitions
+
+* Evironmental impact assessment: the process of evaluating the environmental impact of a statement
+* Environmental impact statement: the final document that marks the outcome of an environmental impact assessment
+
 ## Nebraska law episodes
 
 ### Timeline
@@ -53,7 +58,9 @@ The three-year delay caused by the friendly legislation in Nebraska meant that T
 
 #### Interpretation
 
-Overall, 
+The Nebraska episode may be an extreme outlier in how much it has derailed the environmental impact assessment, but it is representative of a more general phenomenon. In 2011, multiple stakeholders gathered under a vaguely environmental banner and intervened. The governor of Nebraska saw the opportunity to realize 
+
+When the Nebraska legislature intervened in 2011, it had an environmental goal in mind. Stakeholders in Nebraska were pushing for a formal a
 
 ### Bills
 
