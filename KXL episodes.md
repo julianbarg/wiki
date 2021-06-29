@@ -58,7 +58,7 @@ Overall,
 ### Bills
 
 Bill    | Title                                 | Link
----     | ---                                   | ------------
+---     | ------                                | ------------
 LB1     | Major Pipeline Siting Act             | [[https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=15149]]
 LB4     | Oil Pipeline Route Certification Act  | [[https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=15278]]
 LB1161  | (untitled)                            | [[https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=16138]]
