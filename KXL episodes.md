@@ -28,7 +28,7 @@ Year    | Month | Day   | Event
 2014    | Feb   | 19    | A Lancester county judge finds LB1161 to be unconstitutional
 </br>   | April | 18    | DOS anounces an additional delay of KXL citing the "uncertainty created by on-going litigation" [@DOS2014a]
 </br>   | June  | 20    | The lawsuit moves to the Nebraska Supreme Court
-2015    | Oct   | 07    | TransCanada withdraws from lawsuit on LB1161
+2015    | Sep   | 30    | TransCanada withdraws from lawsuit on LB1161
 
 ### Narrative
 
@@ -77,6 +77,7 @@ Date        | Source                        | Title                             
 2012-05-04  | Department of State           | New Keystone XL Pipeline Applicatin                       | [[Link|https://2012-keystonepipeline-xl.state.gov/index.htm]]
 2012-09-06  | Reuters                       | Keystone modifications call Obama's bluff                 | [[Link|https://web.archive.org/web/20150930210529/http://www.reuters.com/article/2012/09/06/column-kemp-oil-keystone-idINL6E8K6D5920120906]]
 2014-12-11  | Bold Nebraska                 | Background: Nebraska Unconstitutional Pipeline Process    | [[Link|https://boldnebraska.org/lawsuit/]]
+2015-09-30  | Keystone XL                   | TransCanada Will Apply to Nebraska Public Service Commission to Approve Keystone XL Route | [[Link|https://www.keystonexl.com/project-updates/updates-feed/2020/transcanada-will-apply-to-nebraska-public-service-commission-to-approve-keystone-xl-route/]]
 
 ---
 
