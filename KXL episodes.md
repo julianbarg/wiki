@@ -9,22 +9,24 @@
 ### Timeline
 
 Year    | Month | Day   | Event
----     | ---     | ---   | ------------------
-2011    | Aug     | 26    | State Department releases the Final Environmental Impact Statement for KXL, 
-</br>   | </br>   | 31    | Governor Heineman expresses in a letter to the State Department his opinion that KXL should be rerouted around the Sandhills
-</br>   | Oct     | 24    | Governor Heineman calls special session of Nebraska Legislature to work on KXL legislation
-</br>   | Nov     | 01    | Special session of the Nebraska legislature begins
-</br>   | </br>   | 02    | First draft of Oil Pipeline Route Certification Act introduced
-</br>   | </br>   | 02    | First draft of Major Oil Pipeline Siting Act introduced, only applies to future applications
-</br>   | </br>   | 10    | DOS announces delay of KXL until 2013
-</br>   | </br>   | 14    | Legislature announces that TransCanada has agreed to reroute KXL
-</br>   | </br>   | 22    | Legislature and Governor approve Oil Pipeline Route Certification Act and Major Oil Pipeline Siting Act
-</br>   | Dec     | ?     | Democrats in congress threaten a government shutdown unless Republicans pass an extension of payroll tax cuts
-</br>   | </br>   | 17    | Republicans attach a rider to payroll tax cuts bill requiring the President to decide on KXL within 60 days
-</br>   | </br>   | 24    | Obama signs payroll tax cuts bill with KXL rider into law
-2012    | Jan     | 
+---     | ---   | ---   | ------------------
+2011    | Aug   | 26    | State Department releases the Final Environmental Impact Statement for KXL, 
+</br>   |       | 31    | Governor Heineman expresses in a letter to the State Department his opinion that KXL should be rerouted around the Sandhills
+</br>   | Oct   | 24    | Governor Heineman calls special session of Nebraska Legislature to work on KXL legislation
+</br>   | Nov   | 01    | Special session of the Nebraska legislature begins
+</br>   |       | 02    | First draft of Oil Pipeline Route Certification Act introduced
+</br>   |       | 02    | First draft of Major Oil Pipeline Siting Act introduced, only applies to future applications
+</br>   |       | 10    | DOS announces delay of KXL until 2013
+</br>   |       | 14    | Legislature announces that TransCanada has agreed to reroute KXL
+</br>   |       | 22    | Legislature and Governor approve Oil Pipeline Route Certification Act and Major Oil Pipeline Siting Act
+</br>   | Dec   | ?     | Democrats in congress threaten a government shutdown unless Republicans pass an extension of payroll tax cuts
+</br>   |       | 17    | Republicans attach a rider to payroll tax cuts bill requiring the President to decide on KXL within 60 days
+</br>   |       | 24    | Obama signs payroll tax cuts bill with KXL rider into law
+2012    | Jan   | 18    | Obama rejects the 
 
 ### Narrative
+
+Three scenes. August 2011. Environmental movements in Nebraska and Governor Heineman form an uneasy alliance against TransCanada and the State Department. Their common goal: to protect the Sandhills and reroute KXL. November 15, 2011. In Nebraska, the Oil Pipeline Route Certification Act takes shape. A representative of TransCanada and a representative of the Sierra Club attent the Natural Resource Committee of the Nebraska legislature and celebrate the progress of the bill. Robert Jones (TransCanada): "We appreciate [...] this legislation which would create a process for an additional review of the proposed Keystone pipeline route through Nebraska, and we encourage approval of the bill as amended [by AM37]." Ken Winston (Sierra Club): "We ask the advancement of AM37 to LB4" [@NRC2011].
 
 When TransCanada began the permit application process for KXL, Nebraska--unlike Montana and South Dakota--did not have in place a formal process for deciding on pipeline routes. Under Nebraska state regulations, KXL did not originally require an environmental impact statement for Nebraska. Assessment of environmental impacts in Nebraska were hence carried out at the federal level by the State Department. Pipeline operators could build, and use eminent domain to acquire right-of-way as they like in Nebraska, since pipelines are considered public infrastructure under Nebraska law. As far as I understand, for the use of eminent domain, an 80% share of the total route has to have been acuiqed. The State Department was involved because KXL crosses the Canada-US border. 
 
