@@ -25,6 +25,7 @@ Year    | Month | Day   | Event
 2012    | Jan   | 18    | DOS rejects KXL stating that 60 days are "insufficient for [a national interest] determination" [@DOS2012]
 </br>   | April | 11    | Nebraska legislature passes LB1161
 </br>   | May   | 04    | TransCanada resubmits KXL application to DOS
+</br>   | May   | 23    | Landowners file suit against LB1161
 2014    | Feb   | 19    | A Lancester county judge finds LB1161 to be unconstitutional
 </br>   | April | 18    | DOS anounces an additional delay of KXL citing the "uncertainty created by on-going litigation" [@DOS2014a]
 </br>   | June  | 20    | The lawsuit moves to the Nebraska Supreme Court
@@ -75,6 +76,7 @@ Date        | Source                        | Title                             
 2011-12-24  | CNN                           | Obama signs payroll tax cut extension                     | [[https://www.cnn.com/2011/12/23/politics/congress-payroll-tax-cut/index.html]]
 2012-04-11  | Unicameral Update             | Oil pipeline regulation bill passes                       | [[Link|http://update.legislature.ne.gov/?p=7554]]
 2012-05-04  | Department of State           | New Keystone XL Pipeline Applicatin                       | [[Link|https://2012-keystonepipeline-xl.state.gov/index.htm]]
+2012-05-23  | Reuters                       | Nebraska residents challenge Keystone pipeline law        | [[Link|https://www.reuters.com/article/usa-pipeline-lawsuit/nebraska-residents-challenge-keystone-pipeline-law-idUSL1E8GNDOT20120523]]
 2012-09-06  | Reuters                       | Keystone modifications call Obama's bluff                 | [[Link|https://web.archive.org/web/20150930210529/http://www.reuters.com/article/2012/09/06/column-kemp-oil-keystone-idINL6E8K6D5920120906]]
 2014-12-11  | Bold Nebraska                 | Background: Nebraska Unconstitutional Pipeline Process    | [[Link|https://boldnebraska.org/lawsuit/]]
 2015-09-30  | Keystone XL                   | TransCanada Will Apply to Nebraska Public Service Commission to Approve Keystone XL Route | [[Link|https://www.keystonexl.com/project-updates/updates-feed/2020/transcanada-will-apply-to-nebraska-public-service-commission-to-approve-keystone-xl-route/]]
