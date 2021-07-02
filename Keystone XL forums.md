@@ -74,6 +74,7 @@ Year    | Month | Day       | Place         | Body          | Agenda
 2014    | April | ?         | Washington    | DOS           | Suspension of review to wait for results of NE lawsuit   
 </br>   |       | 22-27     | Various       | Various       | Cowboy and Indian Alliance protest against KXL
 </br>   | Sep   | 05        | Nebraska      | Supreme court | Deciding whether LB1161 can transfer authority to gov
+</br>   | Nov   | 13        | Washington    | Congress      | Vote for KXL approval bill announced
 
 ## Details
 
@@ -126,6 +127,7 @@ Date        | Body          | Factiva                   | Details
 2014-08-22  | Other         | APRS000020140821ea8l0035y | Willie Nelson & Neil Young concert against KXL in Kansas
 2014-09-05  | NE Supreme co | LBA0000020140905ea95009je | Deciding whether LB1161 can transfer authority to gov
 2014-10-28  | SD PUC        | APRS000020141028eaas003l4 | Registration for public hearings on re-approval opens.
+2014-11-13  | Congress      | APRS000020141112eabc006w5 | Vote for KXL approval bill announced.
 
 ### Undated
 
