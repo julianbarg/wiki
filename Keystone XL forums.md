@@ -43,6 +43,7 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   | April | 27        | Lincoln, NE   | NDEQ          | NDEQ schedules 4 public information sessions.
 </br>   | Dec   | 04        | Albion, NE    | NDEQ          | Public hearing
 2014    | Oct   | 28        | Pierre, SD    | PUC           | Registration for public hearings on re-approval.
+2015    | Jan   | 07        | Washington    | Senate        | Energy and Natural Resources Committee hearing on KXL bill
 
 ## Other events
 
@@ -130,6 +131,7 @@ Date        | Body          | Factiva                   | Details
 2014-10-28  | SD PUC        | APRS000020141028eaas003l4 | Registration for public hearings on re-approval opens.
 2014-11-19  | Congress      | APRS000020141118eabi0015v | Bill to approve KXL passes in House but fails in Congress by one vote--59 to 41
 2014-12-10  | SD court      | APRS000020141209eac9002oi | Lawsuit by Yankton Sioux Tribe against KXL, document release part of discovery.
+2015-01-07  | Senate        | APRS000020150107eb17000z8 | The Senat's Energy and Natural Resoures Committe holds a hearing on bipartisan bill that would approve KXL. President announced that he will veto said bill.
 
 ### Undated
 
