@@ -79,6 +79,7 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   | Dec   | 10        | Pierre, SD    | Court         | Indigenous lawsuit yields documents, forum
 2015    | Jan   | 07        | Washington    | Senate        | Energy and Natural Resources Committee hearing on KXL bill
 </br>   |       | 10        | Washington    | Senate        | Bill to approve KXL passed by Senate
+</br>   |       | 21        | Nebraska      | TransCanada   | TransCanada invokes eminent domain
 
 ## Details
 
@@ -135,6 +136,7 @@ Date        | Body          | Factiva                   | Details
 2014-12-10  | SD court      | APRS000020141209eac9002oi | Lawsuit by Yankton Sioux Tribe against KXL, document release part of discovery.
 2015-01-07  | Senate        | APRS000020150107eb17000z8 | The Senat's Energy and Natural Resoures Committe holds a hearing on bipartisan bill that would approve KXL. President announced that he will veto said bill.
 2015-01-09  | NE Supreme Co | APRS000020150109eb19002lb | NE Supreme Court tosses lawsuit, says landowners do not have standing to sue against LB1161.
+2015-01-21  | TransCanada   | APRS000020150121eb1l001ye | With only a few days to go before two-year window ends, TransCanada files for eminent domain in Nebraska after lawsuit tossed by Supreme Court NE.
 
 ### Undated
 
