@@ -1,0 +1,5 @@
+- A few outliers determine environmental impacts
+    - Emissions are concentrated
+- Quantitative studies are thinkable, but most emissions are a function of fixed assets--plants!
+    - Point at studies that suggest how many fossil fuels should be left in earth to accomplish specific environmental outcomes
+- Leading to the question--how do environmental impacts come to be? Let's trace back
