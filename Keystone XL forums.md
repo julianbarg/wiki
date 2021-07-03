@@ -75,6 +75,7 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   |       | 22-27     | Various       | Various       | Cowboy and Indian Alliance protest against KXL
 </br>   | Sep   | 05        | Nebraska      | Supreme court | Deciding whether LB1161 can transfer authority to gov
 </br>   | Nov   | 19        | Washington    | Congress      | Bill to approve KSL fails in Senate.
+</br>   | Dec   | 10        | Pierre, SD    | Court         | Indigenous lawsuit yields documents, forum
 
 ## Details
 
@@ -125,9 +126,10 @@ Date        | Body          | Factiva                   | Details
 2014-04-??  | DOS           | LBA0000020140905ea9500kxk | DOS suspends its review of KXL (EIA) to wait for outcome of Nebraska lawsuit on new law LB1161.
 2014-04-22  | Various       |                           | Cowboy and Indian Alliance protest along the route of KXL
 2014-08-22  | Other         | APRS000020140821ea8l0035y | Willie Nelson & Neil Young concert against KXL in Kansas
-2014-09-05  | NE Supreme co | LBA0000020140905ea95009je | Deciding whether LB1161 can transfer authority to gov
+2014-09-05  | NE Supreme Co | LBA0000020140905ea95009je | Deciding whether LB1161 can transfer authority to gov
 2014-10-28  | SD PUC        | APRS000020141028eaas003l4 | Registration for public hearings on re-approval opens.
 2014-11-19  | Congress      | APRS000020141118eabi0015v | Bill to approve KXL passes in House but fails in Congress by one vote--59 to 41
+2014-12-10  | SD court      | APRS000020141209eac9002oi | Lawsuit by Yankton Sioux Tribe against KXL, document release part of discovery.
 
 ### Undated
 
