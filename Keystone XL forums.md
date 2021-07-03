@@ -170,8 +170,9 @@ Organization                        | Name              | Contact Information   
 ---                                 | ---               | ---                   | ---   
 350.org                             | Bill McKibben     |                       | Founder
 </br>                               | Jamie Henn        | jamie@350.org         | Communications director
-Bold Nebraska                       | Jane Kleeb        | jane@boldnebraska.org |
 Al Gore                             |                   |                       |
+Bold Nebraska                       | Jane Kleeb        | jane@boldnebraska.org |
+Center for American Progress        |                   |                       |
 Center for Biological Diversity     | Noah Greenwald    |                       | Director    
 Cowboy and Indian Alliance          |                   |                       |
 Dakota Rural Action                 | Paul Blackburn    |                       | Lawyer
