@@ -77,6 +77,8 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   | Sep   | 05        | Nebraska      | Supreme court | Deciding whether LB1161 can transfer authority to gov
 </br>   | Nov   | 19        | Washington    | Congress      | Bill to approve KSL fails in Senate.
 </br>   | Dec   | 10        | Pierre, SD    | Court         | Indigenous lawsuit yields documents, forum
+2015    | Jan   | 07        | Washington    | Senate        | Energy and Natural Resources Committee hearing on KXL bill
+</br>   |       | 10        | Washington    | Senate        | Bill to approve KXL passed by Senate
 
 ## Details
 
