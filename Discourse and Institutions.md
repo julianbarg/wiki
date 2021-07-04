@@ -42,7 +42,7 @@ A critical examination of the process of deinstitutionalization with a focus on 
 * High stakes--symbolic importance of KXL beyond project
     * For future pipeline construction
     * For future large fossil fuel projects
-    * (For polarized AmericaN political landscape)
+    * (For polarized American political landscape)
 * Involvement of diverse actors
     * Potential test robustness to actor attributes
 * Repeated success and failure of the project
