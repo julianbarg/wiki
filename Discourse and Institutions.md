@@ -75,7 +75,7 @@ A critical examination of the process of deinstitutionalization with a focus on 
 
 I am responding both to @Maguire2009 and @Montgomery2020. To @Maguire2009 I pose the question--and answer it--what happens in-between? What does the process of deinstitutionalization really look like, if we do not take the result for granted. To @Montgomery2020 I respond with an analysis of two (or multiple) sides in a process. How aggressively do I frame this? The other question is, how do I handle the motivation--responding to two threads of literature--without appearing unfocused? Would a hypothetical introduction focus on only one?
 
-### Models for structuring an introduction
+### Models for structuring a hypothetical introduction
 
 * Model 1
     * Phenomenon
@@ -84,6 +84,12 @@ I am responding both to @Maguire2009 and @Montgomery2020. To @Maguire2009 I pose
     * What is/are the research question(s) and/or puzzle?
     * How does answering them advance the theory or would be the implications for theory?
     * What are the findings of the study and what _are_ the implications for theory?
+* Model 2
+    * Phenomenon
+    * What does the research say about this and what research gap does this imply?
+    * Backgdrop of the phenomenon
+    * Methods and findings
+    * Summary
 
 ### Pivotal Quote
 
