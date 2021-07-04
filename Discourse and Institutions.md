@@ -7,7 +7,7 @@ bibliography: library.bib
 ## Basics
 
 ### Research Question
-
+b
 * What are the microfoundations of an institutional discourse?
 
 ### Phenomenon
@@ -34,7 +34,7 @@ bibliography: library.bib
 
 ### Research gap/contribution
 
-A critical examination of the process of deinstitutionalization with a focus on the process, rather than working backward from the outcome.
+A critical examination of the process of deinstitutionalization with a focus on the process, rather than working backward from the outcome, or analysing the actions of one side.
 
 ### Advantages of the empirical context
 
@@ -53,7 +53,37 @@ A critical examination of the process of deinstitutionalization with a focus on 
 
 * Discourse analysis
 * Sample on "forums"
-* Coding and higher-order constructs
+* Qualitative methods
+    * Narratives
+    * Coding and higher-order constructs
+
+### Findings
+
+* Shortcomings of discourse
+    * Not a process of information transfer
+        * Because interests are at play
+    * All actors wield strategies to derail process
+    * Fragile process
+        * Tendency to derail into subconflicts
+        * Tendency to react to new rather than deeper information
+    * Outcomes frequently not as intended by actors
+
+### Open questions
+
+* How to first introduce the empirical context
+* References to the literature
+
+I am responding both to @Maguire2009 and @Montgomery2020. To @Maguire2009 I pose the question--and answer it--what happens in-between? What does the process of deinstitutionalization really look like, if we do not take the result for granted. To @Montgomery2009 I respond with an analysis of two (or multiple) sides in a process. How aggressively do I frame this? The other question is, how do I handle the motivation--responding to two threads of literature--without appearing unfocused? Would a hypothetical introduction focus on only one?
+
+### Models for structuring an introduction
+
+* Model 1
+    * Phenomenon
+    * What does it generalize to in terms of theory?
+    * How does the phenomenon relate to the theory?
+    * What is/are the research question(s) and/or puzzle?
+    * How does answering them advance the theory or would be the implications for theory?
+    * What are the findings of the study and what _are_ the implications for theory?
 
 ### Pivotal Quote
 
