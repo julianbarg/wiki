@@ -8,7 +8,8 @@ bibliography: library.bib
 
 ### Research Question
 
-* What are the microfoundations of an institutional discourse?
+* What are do the processes of an institutional discourse play out?
+    * (_Would it be appropriate to speak of microfoundations here?_)
 
 ### Phenomenon
 
