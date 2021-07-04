@@ -73,7 +73,7 @@ A critical examination of the process of deinstitutionalization with a focus on 
 * How to first introduce the empirical context
 * References to the literature
 
-I am responding both to @Maguire2009 and @Montgomery2020. To @Maguire2009 I pose the question--and answer it--what happens in-between? What does the process of deinstitutionalization really look like, if we do not take the result for granted. To @Montgomery2009 I respond with an analysis of two (or multiple) sides in a process. How aggressively do I frame this? The other question is, how do I handle the motivation--responding to two threads of literature--without appearing unfocused? Would a hypothetical introduction focus on only one?
+I am responding both to @Maguire2009 and @Montgomery2020. To @Maguire2009 I pose the question--and answer it--what happens in-between? What does the process of deinstitutionalization really look like, if we do not take the result for granted. To @Montgomery2020 I respond with an analysis of two (or multiple) sides in a process. How aggressively do I frame this? The other question is, how do I handle the motivation--responding to two threads of literature--without appearing unfocused? Would a hypothetical introduction focus on only one?
 
 ### Models for structuring an introduction
 
