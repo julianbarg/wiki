@@ -22,7 +22,8 @@ bibliography: library.bib
 
 * Discourse and institutions
     * @Maguire2009
-    * @Suddaby2014
+    * @Suddaby2017
+    * @Oliver1992
 
 ### Pivotal Quote
 
