@@ -15,7 +15,7 @@ bibliography: library.bib
 * Keystone XL debate
     * Deinstitutionalization attempts of major pipeline projects
     * Deinstitutionalization attempts of the fossil fuel industry
-    * Institutional defense by an institutional field
+    * Institutional defense
     * Forums
 
 ### Literatures
@@ -23,7 +23,37 @@ bibliography: library.bib
 * Discourse and institutions
     * @Maguire2009
     * @Suddaby2017
+    * @Latour1984
+    * @Latour2005
+* Deinstitutionalization
+    * @Maguire2009
     * @Oliver1992
+* Institutional defense
+    * @Montgomery2020
+    * @Maguire2009
+
+### Research gap/contribution
+
+A critical examination of the process of deinstitutionalization with a focus on the process, rather than working backward from the outcome.
+
+### Advantages of the empirical context
+
+* Lengthy process with opportunities for repeat observation
+* High stakes--symbolic importance of KXL beyond project
+    * For future pipeline construction
+    * For future large fossil fuel projects
+    * (For polarized AmericaN political landscape)
+* Involvement of diverse actors
+    * Potential test robustness to actor attributes
+* Repeated success and failure of the project
+    * Arguably, no selection on outcome variable?
+* (Environmental outcomes of the project)
+
+### Methods
+
+* Discourse analysis
+* Sample on "forums"
+* Coding and higher-order constructs
 
 ### Pivotal Quote
 
