@@ -32,6 +32,8 @@ bibliography: library.bib
 * Institutional defense
     * @Montgomery2020
     * @Maguire2009
+ 
+@Montgomery2020 shows up here, but it is relatively "expandable". There are many other examples of sustainability papers that focus on one actor only. And the overlap with institutional theory exists elsewhere, too. What makes it a nice fit is that both my research and @Montgomery2020 focus on institutional defense (although Wren uses the term _custodianship_), but that the roles are reversed.
 
 ### Research gap/contribution
 
