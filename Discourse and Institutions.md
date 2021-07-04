@@ -90,6 +90,11 @@ I am responding both to @Maguire2009 and @Montgomery2020. To @Maguire2009 I pose
     * Backgdrop of the phenomenon
     * Methods and findings
     * Summary
+* Model 3
+    * Summary in the language of theory with phenomenon as specific case.
+    * Research gap
+    * Methods
+    * Implications
 
 ### Pivotal Quote
 
