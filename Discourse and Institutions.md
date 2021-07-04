@@ -7,7 +7,7 @@ bibliography: library.bib
 ## Basics
 
 ### Research Question
-b
+
 * What are the microfoundations of an institutional discourse?
 
 ### Phenomenon
