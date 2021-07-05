@@ -2,4 +2,4 @@
 bibliography: library.bib
 ---
 
-Few construction projects have occupied the US as much as KXL.
+Few construction projects have kept the US as occupied as KXL.
