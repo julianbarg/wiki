@@ -6,12 +6,12 @@ bibliography: library.bib
 >
 > -- @Palen2014, p. 466
 
-### Introduction
+### Introduction--phenomenon & significance
 
 #### Structure
 
-* KXL domination of American public debate
-* KXL as an important symbol in discourse--standing in for institution!
+* KXL dominating American public debate
+* KXL as a symbol for an institution in the discourse
 * KXL as a "thing" [@Latour2005]--signifying oil extraction and associated emissions
 
 #### Draft
@@ -20,7 +20,18 @@ Few if any construction projects have been at top of public debate in the US for
 
 Keystone XL means many things to many. For the American fossil fuel industry, the eventual defeat of KXL meant an "end of major U.S. oil infrastructure" [@Freitas2021]. For the American environmental movement, the defeat of KXL meant that "[t]he fossil-fuel industry's aura of invincibility is gone. They’ve got all the money on the planet, but they no longer have unencumbered political power" [@McKibben2015]. And for the scientific community, the line is a symbol of the "false dichotomy between environmental protection and the economy" [@2011].
 
-It is not unusual that a discourse becomes so entrenched, where the stakes are high.
+<!--It is not unusual that a discourse becomes so entrenched, where the stakes are high.-->
+
+### Introduction--discourse
+
+#### Structure
+
+* Institution--organizations, members, values
+* From values, transition to language
+* Intangible and volatile character of values in language
+* Values and changes thereof manifest themselves in discourse
+    * Sometimes, they are relatively stable, when an industry association of professional association literally writes them out in textbooks
+    * We observe an institutional field in flux, as new members get involved, and values clash
 
 ---
 
