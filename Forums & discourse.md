@@ -15,7 +15,7 @@ through a field but are transformed as actors read a text and interpret" [@Magui
 
 Concept         | Source(s)                                 | Example/context
 ---             | ------                                    | ----------
-Translation     | @Zilber2006, @Latour1986, Michel Serres   | Highly selection adoption of ideas from Carson's _Silent Spring_--limited to concerns on DDT
+Translation     | @Zilber2006, @Latour1984, Michel Serres   | Highly selection adoption of ideas from Carson's _Silent Spring_--limited to concerns on DDT
 
 ## Suggested
 
