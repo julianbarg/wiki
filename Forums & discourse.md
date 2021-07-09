@@ -8,8 +8,7 @@ bibliography: library.bib
 
 Concept         | Reference         | Definition/description
 ---             | ---               | ---------
-Translation     | @Maguire2009      | Problematizations "do not diffuse intact and unchanged
-through a field but are transformed as actors read a text and interpret" [@Maguire2009, p. 151]
+Translation     | @Maguire2009      | Problematizations "do not diffuse intact and unchanged through a field but are transformed as actors read a text and interpret" [@Maguire2009, p. 151]
 
 ### Examples and references
 
