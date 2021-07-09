@@ -21,3 +21,7 @@ Translation     | @Zilber2006, @Latour1984, Michel Serres   | Highly selection a
 Concept                 | Description   | Example       | Reference
 ---                     | ---           | ---           | ---
 Unintended consequences |               |               | 
+
+---
+
+## References
