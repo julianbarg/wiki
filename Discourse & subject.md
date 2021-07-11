@@ -13,3 +13,7 @@ The discourses
 does not demonstrate how power is exercised
 
 departure
+
+---
+
+## References
