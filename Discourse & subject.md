@@ -13,6 +13,13 @@ As one can probably guess from the fact Foucault has published a book called _Po
 * power over subject
 * creation of subject
 * limited influence of subject (e.g., in _Discipline and Punish_ economic consequences from use of prison labor)
+* going frome one state to another
+    * strength is in describing the states from the authors perspective
+    * also describing how the previous state constitutes the current one, despite the new one often being in response to the flaws that were seen in the previous one
+    * but transition is not the emphasis of the analysis
+    * the transition is a state, and that state is described, but rarely the conflicts
+        * only in the sense "x disagreed with y and replaced y"
+* Power is exerted over subject, few power conflicts over meaning
 
 does not demonstrate how power is exercised
 
