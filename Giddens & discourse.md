@@ -9,6 +9,7 @@ bibliography: library.bib
 * Giddens, discourse & multiple actors--structure is built in
 * Mentioning discourse many times
 * Unlike Foucault not showing us his analysis of discourse
+* If there was no "counterforce" there would be no need for autopoieses
 
 ---
 
