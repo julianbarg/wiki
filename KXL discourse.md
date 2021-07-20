@@ -45,6 +45,7 @@ bibliography: library.bib
 
 ### Transitions/processes
 
+* _Decisions_!
 * Rule negotiation (similar to meta)
 * Filing a lawsuit/injunctions
 * Mobilization of support
