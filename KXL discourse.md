@@ -20,11 +20,14 @@ bibliography: library.bib
 * Language
     * This is what @Leibel2018 covers as rhetorics
 * Buraucratic/procedure
+* Representation/support
+    * E.g., demonstrations that highlight support for a demand
+    * Demonstrations can also be interpreted as showing potential number of supporter-activists
+    * On the other hand, security and police mobilization show activists what they are up against
+    * _Is it_ really that different to gangs having a light clash in _Gangs of New York_ (I don't actually remember the plot of that movie, please don't crucify me)--meaning its _the implications_
 * Physical
     * Blockade of DAPL
     * Construction work--creating _fait accompli_
-* Representation/support
-    * E.g., demonstrations that seek to highlight majority opinion
 * Meta
     * Talking about the rules/mode of discourse while playing by the rules
 * Delegitimizing efforts
