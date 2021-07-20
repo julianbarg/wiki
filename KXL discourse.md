@@ -69,7 +69,9 @@ bibliography: library.bib
 
 The goal of the KXL study is to surface the discourse on environmental impacts--or _absence_ thereof! The preliminary analysis surfaced a multitude of tangents and distractions of the discourse--the systematic compilation and analysis of environmental impacts is the exception or almost absent. @Leibel2018 would suggest that a generous analysis of the field and discourse _should_ enrich the literature. To do so, a study should pay equal or proportional attention to all participants in the discourse. The study should avoid focusing on the viewpoint of one of the parties involved, e.g, as the dominant logic. Similarly, a focus on negotiated understandings may underappreciate diverging viewpoints, if they stand on stark contrast to the dominant "fabric of reality" and cannot be "weaved in".
 
-The goal can be achieved
+The task at hand is to achieve an analytical richness, and a better representation of the institutional field--whether this representation can then be boiled down again into a digestible model is a different question. The first ingredient is a sensible set of actors. In the case of KXL, involvement in public forums is a decent selection criteria. The second ingredient is a variety of sources. 
+
+<!--then, anatomize, topografie-->
 
 Usually, in business we see the conflict of one vs. many. Planning can be thrown off because we may not know where the next move comes from, ie., even the very actor who makes the next move is unknown--think creative destruction. There, we think of strategy in terms of _positioning_, because the total number and position of players is unknown. In cases of discourse, the number of participants is often much lower, and maneuvering and analysis of other parties can really pay of. 
 
