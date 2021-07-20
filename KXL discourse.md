@@ -46,6 +46,8 @@ bibliography: library.bib
 ### Transitions/processes
 
 * _Decisions_!
+    * When a lawsuit is settled, or a committee files a decision, discourse often moves to different mode
+    * Or when decision comes up
 * Rule negotiation (similar to meta)
 * Filing a lawsuit/injunctions
 * Mobilization of support
