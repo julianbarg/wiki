@@ -63,7 +63,7 @@ bibliography: library.bib
 
 ## Note
 
-@Leibel2018 descriebes two weaknesses of the literatures on _discourse_, _rhetorics_, and _framing_. Interaction is not well explored, and, similarly, modes of discourse are not covered well. The first 
+@Leibel2018 descriebes two weaknesses of the literatures on _discourse_, _rhetorics_, and _framing_. Interaction is not well explored, and similarly modes of discourse are not covered well. Despite the three concepts describing processes of interaction, the literature often remains void of "dynamic and local understandings" [@Leibel2018, 158], meaning interaction and change of understandings, or highligthing of deviating understanding.
 
 Usually, in business we see the conflict of one vs. many. Planning can be thrown off because we may not know where the next move comes from, ie., even the very actor who makes the next move is unknown--think creative destruction. There, we think of strategy in terms of _positioning_, because the total number and position of players is unknown. In cases of discourse, the number of participants is often much lower, and maneuvering and analysis of other parties can really pay of. 
 
