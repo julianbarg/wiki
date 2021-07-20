@@ -61,7 +61,9 @@ bibliography: library.bib
     * Activists might write and call
     * TransCanada facilitated large meetings with politicians in Alberta, same purpose
 
-## Description
+## Note
+
+@Leibel2018 descriebes two weaknesses of the literatures on _discourse_, _rhetorics_, and _framing_. Interaction is not well explored, and, similarly, modes of discourse are not covered well. The first 
 
 Usually, in business we see the conflict of one vs. many. Planning can be thrown off because we may not know where the next move comes from, ie., even the very actor who makes the next move is unknown--think creative destruction. There, we think of strategy in terms of _positioning_, because the total number and position of players is unknown. In cases of discourse, the number of participants is often much lower, and maneuvering and analysis of other parties can really pay of. 
 
