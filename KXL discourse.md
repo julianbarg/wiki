@@ -41,14 +41,22 @@ bibliography: library.bib
     * Letting other participants belief you are engaging in mode A, but it is actually mode B
 * "Total" discourse
     * Discourse in several different modes at the same time
-    * When stakes are high, parties may go all out and latch onto any opening
+    * When stakes are high, parties may go all out and latch onto any options
 
 ### Transitions/processes
 
 * Rule negotiation (similar to meta)
 * Filing a lawsuit/injunctions
 * Mobilization of support
+    * Especially communication that is director at _supporters_ rather than other parties 
     * Includes astroturfing
+* Coordination
+    * Allows for companies to take advantage of government procedures for process, potentially same for activists
+* Election contributions
+* Newspaper ads/placing op-eds/open letters
+* Contacting political decision makers
+    * Activists might write and call
+    * TransCanada facilitated large meetings with politicians in Alberta, same purpose
 
 ## Description
 
