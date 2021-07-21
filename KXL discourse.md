@@ -79,6 +79,10 @@ One concern that has to be raised is the nature of the data I present. The findi
 
 A note on the nature of conflict or competition in this empirical context. Usually in business we see the conflict of one versus many. Planning can be thrown off because we may not know where the next move comes from, ie., even the very actor who makes the next move is unknown--think creative destruction. There, we think of strategy in terms of _positioning_, because the total number and position of players is unknown. In cases of discourse, the number of participants _can_ be much lower, and maneuvering and analysis of other parties can really pay of. Rather than _strategy_, one might think of it as _tactics_--the maneuvering of an agent within an overseeable terrain, where strategy is the larger scope of providing resources to multiple _theaters_ of conflict ahead of the specific engagement (e.g., TransCanada's decision to enter the pipeline business).
 
+## Notes
+
+* What about robust action in this context? Garbage can also?
+
 ---
 
 ## References
