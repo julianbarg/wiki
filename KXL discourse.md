@@ -75,7 +75,7 @@ The task at hand is to achieve an analytical richness, and a better representati
 What we may obtain then is the anatomy of a discoursive conflict. The different actors and sources highlight the different modes of discourse--it is a discourse that played out through many different channels on different levels at the same time, with a fair amount of interaction between channels and levels. The list above shows some of the modes of discourse that stand out the most. A glance on process also reveals mechanisms of transition. The [[Nebraska episode|KXL episodes#nebraska-law-episodes]] showcases that there are many of these moments where discourse changes from one mode to another, and they interact with each other, resulting in the unexpected outcomes of social action that we typically observe [@Giddens1979].
 
 <!--then, anatomize, topografie-->
-One concern that has to be raised is the nature of the data I present. The findings are "novel", in the sense that they cannot currently be found in the literature. However, one might say that the findings constitute merely a list, a "dictionary" of the world [cf. @Sutton1995]. 
+One concern that has to be raised is the nature of the data I present. The findings are "novel", in the sense that they cannot currently be found in the literature. However, one might say that the findings constitute merely a list, a "dictionary" of the world [cf. @Sutton1995]. The actual "findings" are much more the mode of analysis and model of the process. Hopefully, through the model that I propose--a mpodel based on discourse, communicative action, and institutional fields--the reader may  
 
 
 
