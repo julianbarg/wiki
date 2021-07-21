@@ -82,6 +82,7 @@ A note on the nature of conflict or competition in this empirical context. Usual
 ## Notes
 
 * What about robust action in this context? Garbage can also?
+* Is polarization an issue? Is it an issue how much is perceived to be at stake?
 
 ---
 
