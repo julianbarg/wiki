@@ -27,12 +27,20 @@ bibliography: library.bib
 Findings        | Explanation
 ---             | ---  
 Skirting        | 
-Avoidance*      | When outcomes are clear, slow walking
-Platform change |
+Avoidance*      | When exposed to risk, slow walking
+Channel change  | Seek out most promising avenue for discourse
 
 \* Saying nothing is sending a message, especially when it is in response to a _challenge_
 
-### Data
+### Data--pipeline proponents
+
+Findings        | Example
+---             | ---
+Skirting        | 
+Avoidance       | TransCanada seeking to remove items from agenda
+Platform change |
+
+### Data--pipeline opposition
 
 Findings        | Example
 ---             | ---
@@ -42,11 +50,11 @@ Platform change |
 
 ### Related concepts & references
 
-Findings        | Concept               | Reference
----             | ---                   | ---
-Skirting        |                       |
-Avoidance       | Strategic ambiguity   | @Cappellaro2021
-Platform change |                       |
+Findings        | Concept                           | Reference
+---             | ---                               | ---
+Skirting        |                                   |
+Avoidance       | Strategic ambiguity, avoidance    | @Cappellaro2021, Oliver1992
+Platform change |                                   |
 
 ## Effects/processes/interactions
 
