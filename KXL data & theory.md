@@ -10,18 +10,28 @@ bibliography: library.bib
 
 ## Goals
 
-* Show interaction & unintended consequences
 * Show purposive actions _and_ reactions
+* Show interaction & unintended consequences
 * Show how actors learng the rules of the game, and _game_ the rules
     * _Go meta_
-     
+* Differentiate parties by values, not by tactics/rhetorics
+    * There might be different, culturally determined preferences, but I am not getting into that 
+* Take a step back and show what this means for the _overall_ process
+    * Potentially in something like a conclusion
+    * Keyword: Garbage can model
+
 ## Explanations
 
-Findings    | Explanation   | Example       | Literature
----         | ---           | ---           | ---
-Skirting    | 
-Avoidance   | When outcomes are clear, slow walking | Land owners avoid communication with TransCanada over right of way
+Findings        | Explanation
+---             | ---
+Skirting        | 
+Avoidance       | When outcomes are clear, slow walking 
+Platform change |
 
 ## Data and references
 
-Findings    | Literature    | Example
+Findings        | Literature    | Example
+---             | ---           | ---
+Skirting        | 
+Avoidance       | 
+Platform change |
