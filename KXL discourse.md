@@ -6,6 +6,8 @@ bibliography: library.bib
 
 [[_TOC_]]
 
+[[Back to KXL|Keystone XL]]
+
 ## Themes
 
 ### Outcomes
