@@ -37,7 +37,7 @@ Platform change |
 Findings        | Example
 ---             | ---
 Skirting        | 
-Avoidance       |  
+Avoidance       | Landowners avoiding communication with TransCanada 
 Platform change |
 
 ### Related concepts & references
@@ -46,7 +46,7 @@ Findings        | Concept               | Reference
 ---             | ---                   | ---
 Skirting        |                       |
 Avoidance       | Strategic ambiguity   | @Cappellaro2021
-Platform change | 
+Platform change |                       |
 
 ## Effects/processes/interactions
 
