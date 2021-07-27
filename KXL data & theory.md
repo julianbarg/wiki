@@ -25,7 +25,7 @@ bibliography: library.bib
 ### Explanations
 
 Findings        | Explanation                           | Related concepts
----             | ---                                   | ---
+---             | ------                                | ------
 Skirting        | 
 Avoidance*      | When outcomes are clear, slow walking | Strategic ambiguity [@Cappellaro2021]
 Platform change |
