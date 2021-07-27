@@ -22,16 +22,18 @@ bibliography: library.bib
 
 ## Explanations
 
-Findings        | Explanation
+Findings        | Explanation                           | Literature
 ---             | ---
 Skirting        | 
-Avoidance       | When outcomes are clear, slow walking 
+Avoidance *     | When outcomes are clear, slow walking | 
 Platform change |
+
+\* Saying nothing is saying something, especially when it is in response to a _challenge_
 
 ## Data and references
 
 Findings        | Literature    | Example
 ---             | ---           | ---
 Skirting        | 
-Avoidance       | 
+Avoidance       |  
 Platform change |
