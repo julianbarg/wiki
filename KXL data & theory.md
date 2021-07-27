@@ -25,7 +25,7 @@ bibliography: library.bib
 ### Explanations
 
 Findings        | Explanation
----             | ---------  
+---             | ---  
 Skirting        | 
 Avoidance*      | When outcomes are clear, slow walking
 Platform change |
