@@ -20,20 +20,26 @@ bibliography: library.bib
     * Potentially in something like a conclusion
     * Keyword: Garbage can model
 
-## Explanations
+## Actions
 
-Findings        | Explanation                           | Literature
+### Explanations
+
+Findings        | Explanation                           | Related concepts
 ---             | ---
 Skirting        | 
-Avoidance*      | When outcomes are clear, slow walking | 
+Avoidance*      | When outcomes are clear, slow walking | Strategic ambiguity [@Cappellaro2021]
 Platform change |
 
 \* Saying nothing is sending a message, especially when it is in response to a _challenge_
 
-## Data and references
+### Data and references
 
 Findings        | Literature    | Example
 ---             | ---           | ---
 Skirting        | 
 Avoidance       |  
 Platform change |
+
+## Effects/processes/interactions
+
+### 
