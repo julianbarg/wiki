@@ -6,6 +6,8 @@
 
 * [[Keystone XL forums]]
 * [[KXL episodes]]
+* [[KXL discourse]]
+* [[KXL data & theory]]
 
 ### Additional information
 
