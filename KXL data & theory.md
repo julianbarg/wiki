@@ -24,21 +24,29 @@ bibliography: library.bib
 
 ### Explanations
 
-Findings        | Explanation                           | Related concepts
----             | ---------                             | ---------
+Findings        | Explanation
+---             | ---------  
 Skirting        | 
-Avoidance*      | When outcomes are clear, slow walking | Strategic ambiguity [@Cappellaro2021]
+Avoidance*      | When outcomes are clear, slow walking
 Platform change |
 
 \* Saying nothing is sending a message, especially when it is in response to a _challenge_
 
-### Data and references
+### Data
 
-Findings        | Literature    | Example
----             | ---           | ---
+Findings        | Example
+---             | ---
 Skirting        | 
 Avoidance       |  
 Platform change |
+
+### Related concepts & references
+
+Findings        | Concept               | Reference
+---             | ---                   | ---
+Skirting        |                       |
+Avoidance       | Strategic ambiguity   | @Cappellaro2021
+Platform change | 
 
 ## Effects/processes/interactions
 
