@@ -3,12 +3,10 @@
 1. Complete overall timeline of Keystone XL approval process
 2. Identify forums
     - Initial sampling takes place here
-3. Place forums in context--flow of events/decisions
-    - How to set cut-off points?
-    - Saturation?
-4. Sample before/after of particiant-produced text
-    - This and forums is the discourse
-    
+3. Identify action around forum
+    - Leading up to, and following after
+    - Text /w epistemology is only a part of that
+    - Incidentially, get a glimpse of what epistemology is part of, bigger context
 
 ## Analytic strategy
 
