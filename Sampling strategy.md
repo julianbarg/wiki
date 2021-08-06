@@ -22,7 +22,7 @@ Jerry Taylor--the epistemology does not matter.
 
 I don't need a random sample, I need vivid example. 
 
-Broaden the idea of an epistemology.
+Broaden the idea of an epistemology--epistemology of what?
 
 ### Questions
 
