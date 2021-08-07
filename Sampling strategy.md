@@ -22,7 +22,7 @@
 * There are a set of events that are either puzzling or revealing
     - Focus on these first
 * Jerry Taylor--the epistemology does not matter when actor focus on outcomes
-* I don't need a random sample, I need vivid example. 
+* I don't need a random sample, I need vivid examples
 * Broaden the idea of an epistemology--epistemology of what?
 * What do I need to attend to
     - Forum, participant, or event?
