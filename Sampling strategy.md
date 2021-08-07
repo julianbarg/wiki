@@ -23,7 +23,7 @@
 
 ## Points
 
-* Focus on ideas might seem to structural
+* Focus on ideas provides too structural of a world view
 * Actors not only take action by translating and generating new ideas
 * They also drive process by influencing discourse through action
     * Outcomes, not just ideas drive perception of the world and impact institutions
