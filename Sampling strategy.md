@@ -7,7 +7,7 @@
 3. Identify action around forum
     - Leading up to, and following after
     - Text /w epistemology is only a part of that
-    - Incidentially, get a glimpse of what epistemology is part of, bigger context
+    - Incidentally, get a glimpse of what epistemology is part of, bigger context
     - Sampling until theoretical saturation?
 4. Triangulate through interviews
 
