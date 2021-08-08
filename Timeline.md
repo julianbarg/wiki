@@ -18,7 +18,7 @@ Step    | Item                      | Allocated time        | Notes
 ---     | ---                       | ---                   | ---
 1.      | Complete KXL timeline     | 1 week                | [[Keystone XL forums]]
 2.      | Identify forums           | Iterative?            | Theoretical sampling
-3.      | Write forum narratives    | Depends on how many   | [[KXL Episodes]]
+3.      | Write forum narratives    | Depends on how many   | [[KXL episodes]]
 
 
 ## Calendar
