@@ -12,8 +12,9 @@
 
 ## ToDo
 
-* Data collection
-* 
+Step    | Item                      | Allocated time    | Notes
+---     | ---                       | ---               | ---
+1.      | Complete KXL timeline     | 1 week            | [[Keystone XL forums]]
 
 
 ## Calendar
