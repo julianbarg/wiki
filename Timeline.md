@@ -14,12 +14,17 @@
 
 * See also: [[Sampling strategy]]
 
-Step    | Item                      | Allocated time        | Notes
----     | ---                       | ---                   | ---
-1.      | Complete KXL timeline     | 1 week                | [[Keystone XL forums]]
-2.      | Identify forums           | Iterative?            | Theoretical sampling
-3.      | Write forum narratives    | Depends on how many   | [[KXL episodes]]
-
+Step            | Item                                  | Allocated time        | Notes
+---             | ---                                   | ---                   | ---
+1.              | Complete KXL timeline                 | 1 week                | [[Keystone XL forums]]
+2.              | Identify forums                       | Iterative?            | Theoretical sampling
+3.              | Write forum narratives                | Depends on how many   | [[KXL episodes]]
+Concurrently    | Contact/conduct interviews            | ???                   | [[Keystone XL contacts]]
+4.              | Finalize theoretical contributions    | ???                   | [[KXL data & theory]]
+5.              | Write introduction                    | ???                   |
+6.              | Iterate introduction with feedback    | ???                   | 
+7.              | Write literature review               | ???                   |
+8.              | Iterate over literature review        | ???                   | [[KXL data & theory]]
 
 ## Calendar
 
