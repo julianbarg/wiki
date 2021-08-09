@@ -20,8 +20,9 @@
 
 Step            | Item                                  | Allocated time        | Notes
 ---             | ------                                | ----                  | -----
-1.              | Complete KXL timeline                 | 1 week                | [[Keystone XL forums]]
-2.              | Identify forums                       | Iterative?            | Theoretical sampling
+0.              | Literature                            |                       |
+1.              | Identify 3-5 critical events/incidents| Iterative?            | Theoretical sampling
+2.              | Complete KXL timeline                 | 1 week                | [[Keystone XL forums]]
 3.              | Write forum narratives                | Depends on how many   | [[KXL episodes]]
 Concurrently    | Contact/conduct interviews            | ???                   | [[Keystone XL contacts]]
 4.              | Finalize theoretical contributions    | ???                   | [[KXL data & theory]]
