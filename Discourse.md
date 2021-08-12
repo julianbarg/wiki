@@ -16,7 +16,7 @@ Article         | Area                  | Context                   | Methods   
 
 ## Concepts
 Concept             | Source        | Definition                                                            | Example       
----                 | ---           | ---                                                                   | ---
+---                 | ---           | ------                                                                | ------
 Integrating frames  | @Litrico2017  | An actor's stance of accepting an issue as part of core operations    | Airlines presenting their plans to reduce emissions and tackle climate change
 Buffering frames    | @Litrico2017  | An actor's stance of denying that an issue is part of core operations | Airports' framing noise as an issue of hostile regulation 
 
