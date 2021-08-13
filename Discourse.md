@@ -16,7 +16,7 @@ Article         | Area                  | Context                   | Methods   
 
 ## Concept
 Concept                 | Source        | Definition                                                            | Example   
----                     | ---           | ------                                                                | ------
+---                     | ---           | ------                                                                | --------
 Unintended consequences | @MacKay2013   | Interaciton of environmental flux and agentic coping or choice        | An automakers bankruptcy as a result of multiple (simultaneous) rounds of environmental change and adaption
 Unowned processes       | @MacKay2013   | Change is pervasive, neither agentic nor environmental                |
 
