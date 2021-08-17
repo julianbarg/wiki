@@ -43,8 +43,10 @@ The conclusion brings up some interesting facts. There is still some support for
 
 ### Textbooks and government reports
 
-[[resources/maguire_hardy_2009_2.png|frame, width=500px]]
 
+
+<!--[[resources/maguire_hardy_2009_2.png|frame, width=500px]]
+-->
 ### Regulatory action
 
 [[resources/maguire_hardy_2009_3.png|frame, width=500px]]
