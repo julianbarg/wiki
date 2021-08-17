@@ -2,11 +2,11 @@
 bibliography: 'library.bib'
 ---
 
+# @Maguire2009--Discourse and Deinstitutionalization
+
 * Back to [[Discourse]]
 
 [[_TOC_]]
-
-# @Maguire2009--Discourse and Deinstitutionalization
 
 
 * Method: discourse analysis
