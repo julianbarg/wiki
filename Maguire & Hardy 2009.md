@@ -39,21 +39,19 @@ The conclusion brings up some interesting facts. There is still some support for
 
 ### Major events timeline
 
-[[resources/maguire_hardy_2009_1.png|frame, width=500px]]
+[[/uploads/maguire_hardy_2009_1.png|frame, width=500px]]
 
 ### Textbooks and government reports
 
+[[/uploads/maguire_hardy_2009_2.png|frame, width=500px]]
 
-
-<!--[[resources/maguire_hardy_2009_2.png|frame, width=500px]]
--->
 ### Regulatory action
 
-[[resources/maguire_hardy_2009_3.png|frame, width=500px]]
+[[/uploads/maguire_hardy_2009_3.png|frame, width=500px]]
 
 ### Industry pushback
 
-[[resources/maguire_hardy_2009_4.png|frame, width=500px]]
+[[/uploads/maguire_hardy_2009_4.png|frame, width=500px]]
 
 ## Notes
 
