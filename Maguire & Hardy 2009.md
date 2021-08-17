@@ -60,4 +60,4 @@ The conclusion brings up some interesting facts. There is still some support for
 
 ---
 
-## Referenes
+## References
