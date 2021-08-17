@@ -12,10 +12,6 @@ bibliography: 'library.bib'
 * Theory paper
     * Institutional Theory
     * Discourse
-* Key concept(s): _narratives_
-    * Domination of discourse
-    * Interpretation
-    * _translation
 
 ## Propositions
 
