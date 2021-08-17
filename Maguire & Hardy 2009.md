@@ -15,11 +15,11 @@ bibliography: 'library.bib'
 * Key concept(s): _translation_
 * Data: Secondary accounts, a documentary, book reviews, government reports, transcripts, scientifi articles, interviews, historcal interviews
 * Analysis: five-step analysis
-    * "Narrative account"--timeline
-    * Coding _Silent Spring_ 
-    * Axial coding of theoretical sample: before/after
-    * Longitudinal open coding
-    * Axial coding: counter texts
+    1. "Narrative account"--timeline
+    2. Coding _Silent Spring_ 
+    3. Axial coding of theoretical sample: before/after
+    4. Longitudinal open coding
+    5. Axial coding: counter texts
 
 ## Critical summary
 
