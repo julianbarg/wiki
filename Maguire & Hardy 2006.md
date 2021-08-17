@@ -8,10 +8,11 @@ bibliography: 'library.bib'
 
 [[_TOC_]]
 
-* Discourse analysis
-* Stockholm Convention on Persistant Organic Pollutants
-* Official texts, submissions, minutes, and interviews
-* Four-step analysis
+* Method: discourse analysis
+* Theory: Institutional Theory
+* Context: Stockholm Convention on Persistant Organic Pollutants
+* Data: official texts, submissions, minutes, and interviews
+* Analysis: tour-step analysis
     1. Event history database
     2. Open coding
     3. Axial coding
