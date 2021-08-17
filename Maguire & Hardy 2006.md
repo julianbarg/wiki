@@ -23,4 +23,6 @@ bibliography: 'library.bib'
 
 @Maguire2006 analyses the discourse around the Stockholm Convention on Persistant Organic Pollutant. They observe that two sets of actors draw on two distinct discourses--that of sound science and that on the precautionary principle. The current discourse is dependent on the other two--one preexisting and one new. Actors _reconcile_ and _challenge_ the other discourses, but they do not depart completely.
 
+---
+
 ## References
