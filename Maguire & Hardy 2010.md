@@ -32,7 +32,7 @@ bibliography: 'library.bib'
 
 ## One-paragraph summary
 
-
+The Stockholm Convention results in a ban of multiple substances, but not DDT. Why? @Hardy2010 attributes this to the use of _narratives_.
 
 ---
 
