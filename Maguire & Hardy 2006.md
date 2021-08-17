@@ -4,6 +4,8 @@ bibliography: 'library.bib'
 
 # Maguire & Hardy (2006)--The Emergence of New Global Institutions
 
+* Back to [[Discourse]]
+
 [[_TOC_]]
 
 * Discourse analysis
