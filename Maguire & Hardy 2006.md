@@ -2,9 +2,9 @@
 bibliography: 'library.bib'
 ---
 
-[[_TOC_]]
-
 # Maguire & Hardy (2006)--The Emergence of New Global Institutions
+
+[[_TOC_]]
 
 * Discourse analysis
 * Stockholm Convention on Persistant Organic Pollutants
