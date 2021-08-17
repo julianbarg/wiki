@@ -26,7 +26,7 @@ bibliography: 'library.bib'
 5. Texts that draw on other texts within the discourse and on other well-established discourses are more likely to become embedded in discourse than texts that do not.
 6. Discourses that are more coherent and structured are more likely to produce institutions than those that are not.
     
-    - _Comment_: Not true for conspiracy theories
+* _Comment_: Not true for conspiracy theories
 
 > 7. Discourses that are supported by broader discourses and are not highly contested by competing discourses are more likely to produce institutions than discourses that are not.
 
