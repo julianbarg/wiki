@@ -21,9 +21,9 @@ bibliography: 'library.bib'
         - _External communication_
         - **Potenially missing**: Backroom talk
     * _narratives_
-        - Domination of discourse
-        - Interpretation
-        - _translation
+        - _Domination_ of discourse
+        - _Interpretation_
+        - _Translation_
 * Data: 
     * Technical and scientific reports, UNEP documentation, legal texts, Stockholm Convention draft versions, conference room papers, meeting reports, closing summary, other conference-related materials (paphlets, position papers, media reports), scientific articles, letters to editors
     * Meeting notes, interviews
