@@ -11,7 +11,7 @@ bibliography: 'library.bib'
 * Method: discourse analysis
 * Theory: Institutional Theory
 * Context: Stockholm Convention on Persistant Organic Pollutants
-* Key concepts: _reconcile_ and _challenge_
+* Key concept(s): _reconcile_ and _challenge_
 * Data: official texts, submissions, minutes, and interviews
 * Analysis: tour-step analysis
     1. Event history database
