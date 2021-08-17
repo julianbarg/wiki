@@ -14,10 +14,16 @@ bibliography: 'library.bib'
     * Institutional Theory
     * Field-configuring events
 * Context: The Stockholm Convention and restriction (rather than ban) of DDT
-* Key concept(s): _narratives_
-    * Domination of discourse
-    * Interpretation
-    * _translation
+* Key concept(s): 
+    * _Discursive spaces_
+        - _Plenary speak_
+        - _Corridor talk_
+        - _External communication_
+        - **Potenially missing**: Backroom talk
+    * _narratives_
+        - Domination of discourse
+        - Interpretation
+        - _translation
 * Data: 
     * Technical and scientific reports, UNEP documentation, legal texts, Stockholm Convention draft versions, conference room papers, meeting reports, closing summary, other conference-related materials (paphlets, position papers, media reports), scientific articles, letters to editors
     * Meeting notes, interviews
