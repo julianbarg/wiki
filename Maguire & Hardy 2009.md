@@ -1,9 +1,22 @@
 ---
 bibliography: 'library.bib'
-display_metadata: false
 ---
 
-# @Maguire2009
+# @Maguire2009--Discourse and Deinstitutionalization
+
+* Back to [[Discourse]]
+
+* Method: discourse analysis
+* Theory: Institutional Theory
+* Context: Rachel Carson's _Silent Spring_ and the subsequent ban on DDT
+* Key concept(s): _translation_
+* Data: Secondary accounts, a documentary, book reviews, government reports, transcripts, scientifi articles, interviews, historcal interviews
+* Analysis: five-step analysis
+    * "Narrative account"--timeline
+    * Coding _Silent Spring_ 
+    * Axial coding of theoretical sample: before/after
+    * Longitudinal open coding
+    * Axial coding: counter texts
 
 ## Critical summary
 
