@@ -23,7 +23,7 @@ bibliography: library.bib
 
 ## One-paragraph summary
 
-@Maguire2013 analyse the discourse that ensues afer the passage of the Canadian Environmental Protection Act. The categorization of VAM as not toxic is associated with _normalizing_ practices or communications, while the categorizatin of BPA as toxic is associated with _problematizing_ practices or communications.
+@Maguire2013 analyse the discourse that ensues afer the passage of the Canadian Environmental Protection Act. The categorization of VAM as not toxic is associated with _normalizing_ practices or communications, while the categorizatin of BPA as toxic is associated with _problematizing_ practices or communications. The article shows that risk assessment is not a preexisting object to be discovered, but it is defined and managed by participants of the discourse.
 
 ---
 
