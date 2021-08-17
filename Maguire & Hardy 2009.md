@@ -2,9 +2,12 @@
 bibliography: 'library.bib'
 ---
 
+* Back to [[Discourse]]
+
+[[_TOC_]]
+
 # @Maguire2009--Discourse and Deinstitutionalization
 
-* Back to [[Discourse]]
 
 * Method: discourse analysis
 * Theory: Institutional Theory
@@ -56,3 +59,5 @@ The conclusion brings up some interesting facts. There is still some support for
 * Introducing "defensive institutional work" (p. 149).
 
 ---
+
+## Referenes
