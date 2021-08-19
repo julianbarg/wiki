@@ -38,7 +38,7 @@ bibliography: 'library.bib'
 
 ## One-paragraph summary
 
-The Stockholm Convention results in a ban of multiple substances, but not DDT. Why? @Hardy2010 attributes this to the use of _narratives_.
+The Stockholm Convention results in a ban of multiple substances, but not DDT. Why? @Hardy2010 attributes this to the use of _narratives_. An NGO successfully stops DDT from being added to the list of persistent organic pollutants (POPs) despite having no formal power in the process. They leverage a narrative of DDT as a _necessary evil_.
 
 ---
 
