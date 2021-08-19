@@ -32,7 +32,7 @@ Buffering frames    | @Litrico2017  | An actor's stance of denying that an issue
 
 * [[Maguire & Hardy 2006]]
 * [[Maguire & Hardy 2009]]
-* [[Maguire & Hardy 2010]]
+* [[Hardy & Maguire 2010]]
 * [[Maguire & Hardy 2013]]
 * [[Phillips, Lawrence & Hardy 2004]]
 
