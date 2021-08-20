@@ -19,7 +19,7 @@ bibliography: library.bib
 
 ## One-paragraph summary
 
-Exploring the process of how in a discursive approach to risk, notions of risks are attached to a novel risk that has not had such association before. Zooming out and analysising how the activities of different organizations (in different countries) interact with each other. Finally, the newly gained insights need to be translated into more familiar artifacts, in this context reputational, regulatory, and operational risks.
+Exploring the process of how in a discursive approach to risk, familiar notions of risks are attached to novel risks. The authors also zoom out [@Nicolini2009] and analysise how the activities of different organizations (in different countries) interact with each other. In the conclusion section, the authors emphasize the nonlinearity of the translation process--because novel risks are unfamiliar, one cannot predict how they will be translated, and different actors will translate them in different ways.
 
 ### Theories
 * [[Risk]]
@@ -30,3 +30,7 @@ Exploring the process of how in a discursive approach to risk, notions of risks 
 * [[Beck 1992]]
 * [[Beck 2006]]
 * [[Giddens 1999]]
+
+---
+
+## References
