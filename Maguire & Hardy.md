@@ -16,7 +16,7 @@ Reference       | Journal       | Method        | Context       | Concept(s)
 ## Data sources
 
 Reference       | Conference texts  | Transcripts       | Interviews        | Secondary accounts| Scientific articles   | Opinion pieces      | Party documents   | Party websites    |
----             | ---               | ---               | ---               | ---               | ---                   | :x:                      | :X:               | :x:               |
+---             | ---               | ---               | ---               | ---               | ---                   | ---                      | ---               | ---               |
 @Maguire2006    | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :x:               | :x:                   | :x:                      | :X:               | :x:               |
 @Maguire2009    | :x:               | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:    | :x:                      | :X:               | :x:               |
 @Hardy2010      | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :x:               | :heavy_check_mark:    | :heavy_check_mark:  | :heavy_check_mark:| :x:               |
