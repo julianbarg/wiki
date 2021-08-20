@@ -30,11 +30,11 @@ Buffering frames    | @Litrico2017  | An actor's stance of denying that an issue
 
 ## Reviewed articles
 
-* [[Maguire & Hardy 2006]]
-* [[Maguire & Hardy 2009]]
-* [[Hardy & Maguire 2010]]
-* [[Maguire & Hardy 2013]]
 * [[Hardy & Maguire 2020]]
+* [[Maguire & Hardy 2013]]
+* [[Hardy & Maguire 2010]]
+* [[Maguire & Hardy 2009]]
+* [[Maguire & Hardy 2006]]
 * [[Phillips, Lawrence & Hardy 2004]]
 
 ---
