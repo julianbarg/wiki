@@ -12,7 +12,7 @@ bibliography: 'library.bib'
 * Method: discourse analysis
 * Theory: Institutional Theory
 * Context: Rachel Carson's _Silent Spring_ and the subsequent ban on DDT
-* Key concept(s): _translation_
+* Key concept(s): _Translation_
 * Data: Secondary accounts, a documentary, book reviews, government reports, transcripts, scientifi articles, interviews, historcal interviews
 * Analysis: five-step analysis
     1. "Narrative account"--timeline
