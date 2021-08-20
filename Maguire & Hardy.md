@@ -15,9 +15,9 @@ Reference       | Journal       | Method        | Context       | Concept(s)
 
 ## Data sources
 
-Reference       | Official texts 
----             | ---
-@Maguire2006    | :black_square:
+Reference       | Official texts    |
+---             | ---               |
+@Maguire2006    | :check_mark:
 
 ---
 
