@@ -20,7 +20,7 @@ bibliography: 'library.bib'
         - _Corridor talk_
         - _External communication_
         - **Potenially missing**: Backroom talk
-    * _narratives_
+    * _Nrratives_
         - _Domination_ of discourse
         - _Interpretation_
         - _Translation_
