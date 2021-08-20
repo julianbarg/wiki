@@ -17,7 +17,7 @@ Reference       | Journal       | Method        | Context       | Concept(s)
 
 Reference       | Official texts 
 ---             | ---
-@Maguire2006    | :black_square_button:
+@Maguire2006    | :black_square:
 
 ---
 
