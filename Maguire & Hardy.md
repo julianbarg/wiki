@@ -18,7 +18,7 @@ Reference       | Journal       | Method        | Context       | Concept(s)
 Reference       | Conference texts  | Transcripts       | Interviews        | Secondary accounts| Scientific articles   | Opinion pieces      | Party documents   | Party websites    |
 ---             | ---               | ---               | ---               | ---               | ---                   | ---                      | ---               | ---               |
 @Maguire2006    | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :x:               | :x:                   | :x:                      | :x:               | :x:               |
-@Maguire2009    | :x:               | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:    | :x:                      | :X:               | :x:               |
+@Maguire2009    | :x:               | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:    | :x:                      | :x:               | :x:               |
 @Hardy2010      | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:| :x:               | :heavy_check_mark:    | :heavy_check_mark:  | :heavy_check_mark:| :x:               |
 @Maguire2013    | :x:               | :x:               | :x:               | :x:               | :x:                   | :x:                      | :heavy_check_mark:| :heavy_check_mark:|
 @Hardy2020      | :x:               | :x:               | :heavy_check_mark:| :x:               | :x:                   | :heavy_check_mark:  | :heavy_check_mark:| :heavy_check_mark:|
