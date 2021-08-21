@@ -26,13 +26,13 @@ Reference       | Conference texts  | Transcripts       | Interviews        | Se
 
 ## Methods
 
-Reference       | Step 1                | Step 2                            | Step 3                                    | Step 4
----             | ---                   | ---                               | ---                                       | ---
-@Maguire2006    | Event-history database| Open Coding                       | Axial coding                              | Conditional Matrix  
-@Maguire2009    | Event-history database| Coding _Silent Spring_            | Axial coding: _before/after_              | Longitudinal open coding
-@Hardy2010      | Event-history database| Open Coding _discursive spaces_   | Axial coding: _discursive spaces/author_  | Axial coding: DDT "Supporters"
-@Maguire2013    | Event-history database| Open coding                       | Axial coding: _VAM/BPA_                   | Axial coding: VAM & BPA
-@Hardy2020      | Open coding           | (or 1b) Conditional matrix        | Event-history database                    | Open coding: _interactions
+Reference       | Step 1                | Step 2                            | Step 3                                    | Step 4                           | Step 5
+---             | ---                   | ---                               | ---                                       | ---                              | ---
+@Maguire2006    | Event-history database| Open Coding                       | Axial coding                              | Conditional Matrix          | 
+@Maguire2009    | Event-history database| Coding _Silent Spring_            | Axial coding: _before/after_              | Longitudinal open coding    | Axian coding: counter texts
+@Hardy2010      | Event-history database| Open Coding _discursive spaces_   | Axial coding: _discursive spaces/author_  | Axial coding: DDT "Supporters"    | Conditional matix
+@Maguire2013    | Event-history database| Open coding                       | Axial coding: _VAM/BPA_                   | Axial coding: VAM & BPA           |
+@Hardy2020      | Open coding           | (or 1b) Conditional matrix        | Event-history database                    | Open coding: _interactions_      |
 
 ## Links
 
