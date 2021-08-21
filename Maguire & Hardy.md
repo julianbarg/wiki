@@ -24,6 +24,16 @@ Reference       | Conference texts  | Transcripts       | Interviews        | Se
 @Maguire2013    | :x:               | :x:               | :x:               | :x:               | :x:                   | :x:                      | :heavy_check_mark:| :heavy_check_mark:|
 @Hardy2020      | :x:               | :x:               | :heavy_check_mark:| :x:               | :x:                   | :heavy_check_mark:  | :heavy_check_mark:| :heavy_check_mark:|
 
+## Methods
+
+Reference       | Step 1                | Step 2                            | Step 3                                    | Step 4
+---             | ---                   | ---                               | ---                                       | ---
+@Maguire2006    | Event-history database| Open Coding                       | Axial coding                              |
+@Maguire2009    | Event-history database| Coding _Silent Spring_            | Axial coding: _before/after_              |
+@Hardy2010      | Event-history database| Open Coding _discursive spaces_   | Axial coding: _discursive spaces/author_  |
+@Maguire2013    | Event-history database| Open coding                       | Axial coding: _VAM/BPA_                   |
+@Hardy2020      | Open coding           | (or 1b) Conditional matrix        | Event-history database                    |
+
 ## Links
 
 * [[Hardy & Maguire 2020]]
