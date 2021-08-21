@@ -6,7 +6,7 @@ bibliography: library.bib
 
 Reference       | Short title                               | Journal       | Method        | Context       | Concept(s)
 ---             | -----                                     | ---           | ---           | ---           | ---
-@Hardy1999      | No Joking Matter                          | Org Studies   | Discourse     | CA Refugee    |
+@Hardy1999      | No Joking Matter                          | Org Studies   | Discourse     | CA Refugee    | _Objects_ & _subject positions_
 @Phillips2004   | Discourse and Institutions                | AMR           | Theory        | Theory        | _Institutional Theory_ & _Discurse_
 @Maguire2006    | The Emergence of New Global Institutions  | Org Studies   | Discourse     | UN POP        | _Reconcile_ & _Challenge_
 @Maguire2009    | Discourse and Deinstituionalization       |                              | AMJ           | Discourse     | DDT & Carson  | _Translation_
