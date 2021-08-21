@@ -13,7 +13,7 @@ bibliography: 'library.bib'
 * Context: Stockholm Convention on Persistant Organic Pollutants
 * Key concept(s): _reconcile_ and _challenge_
 * Data: official texts, submissions, minutes, and interviews
-* Analysis: tour-step analysis
+* Analysis: four-step analysis
     1. Event history database
     2. Open coding
     3. Axial coding
