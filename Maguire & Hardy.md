@@ -4,8 +4,9 @@ bibliography: library.bib
 
 ## What is the MH school of discourse?
 
-_Discourse_ is not an imposing concept. The name of the accompanying method--_discourse analysis_--almost speaks for itself. And a layman's understanding of "discourse" is not too far off from the meaning of it (except for the way that Foucault uses the term). _Discourse_ is often casually mentioned in the OT literature. And qualitative empirical work, such as _frame analysis_, often constitutes a sort of discourse analysis. But few are talking **specifically** about discourse as a concept or process. In the OT literature--except for a dormant discourse in _Organization Studies_--Maguire and Hardy hold a monopoly.
+<!--_Discourse_ is not an imposing concept. The name of the accompanying method--_discourse analysis_--almost speaks for itself. And a layman's understanding of "discourse" is not too far off from the meaning of it (except for the way that Foucault uses the term). _Discourse_ is often casually mentioned in the OT literature. And qualitative empirical work, such as _frame analysis_, often constitutes a sort of discourse analysis. But few are talking **specifically** about discourse as a concept or process. In the OT literature--except for a dormant discourse in _Organization Studies_--Maguire and Hardy hold a monopoly.
 
+The two editorials-->
 
 ## Key information
 
