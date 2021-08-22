@@ -4,16 +4,15 @@ bibliography: library.bib
 
 ## What is the MH school of discourse?
 
-_Discourse_ is not an imposing concept. For instance, the accompanying term _discourse analysis speaks for itself. And a layman's understanding of "discourse" is not too far off from the meaning of it (except for the way that Foucault uses the term). _Discourse_ is often casually mentioned in the OT literature. And qualitative empirical work, such as _frame analysis_, often constitutes a sort of discourse analysis. But few are talking **about** discourse as a concept or process. In the OT literature, except for a handful of--often tangential--contributions, Maguire and Hardy hold a monopoly.
+_Discourse_ is not an imposing concept. The name of the accompanying method--_discourse analysis_--almost speaks for itself. And a layman's understanding of "discourse" is not too far off from the meaning of it (except for the way that Foucault uses the term). _Discourse_ is often casually mentioned in the OT literature. And qualitative empirical work, such as _frame analysis_, often constitutes a sort of discourse analysis. But few are talking **specifically** about discourse as a concept or process. In the OT literature--except for a dormant discourse in _Organization Studies_--Maguire and Hardy hold a monopoly.
 
-stale lit in org studies
 
 ## Key information
 
 Reference       | Short title                               | Journal       | Method        | Context       | Concept(s)
 ---             | -----                                     | ---           | ---           | ---           | ---
 @Hardy1999      | No Joking Matter                          | Org Studies   | Discourse     | CA Refugee    | _Objects_ & _subject positions_
-@Grant2004      |
+@Grant2004      | Introduction: Struggle with Org. Discourse| Org Studies   | Editorial     | -             |
 @Maguire2004    |
 @Phillips2004   | Discourse and Institutions                | AMR           | Theory        | Theory        | _Institutional Theory_ & _Discurse_
 @Maguire2006    | The Emergence of New Global Institutions  | Org Studies   | Discourse     | UN POP        | _Reconcile_ & _Challenge_
