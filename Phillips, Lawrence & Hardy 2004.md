@@ -28,7 +28,7 @@ bibliography: 'library.bib'
 
 ## One-paragraph summary
 
-Sets up the idea that a stable discourse constitutes an institution [cf. @Steinberg1999]. Unfortunately, the article also carries a taint of rational discourse--akin to @Habermas1984--see for instance Proposition 6.
+Sets up the idea that a stable discourse constitutes an institution [cf. @Steinberg1999]. Unfortunately, the article also carries a taint of rational discourse--akin to @Habermas1984--see for instance Proposition 6. They argue that actors have interests in discourse--an approach they trace back to critical discourse studies. But wouldn't that require for those interests to be the outcome of discourse, too?
 
 ---
 
