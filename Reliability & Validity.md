@@ -4,10 +4,10 @@ bibliography: library.bib
 
 ## Matrix
 
-</br>           | Low validity      | High validity
----             | ---               | ---
-High reliability|                   |
-Low reliability |                   |
+</br>                   | Low validity      | High validity
+---                     | ---               | ---
+**High reliability**    |                   |
+**Low reliability**     |                   |
 
 ## Cases
 
