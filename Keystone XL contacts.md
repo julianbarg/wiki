@@ -18,3 +18,6 @@
 * EPA
     * Cynthia Giles (now Harvard)
     * Involved in the decision to change KXL climate impact finding
+* Ernie Chambers
+    * Nebraska member of legislature from Omaha
+    * "The ones at the table were politicians who ... were in TransCanada's pocket."
