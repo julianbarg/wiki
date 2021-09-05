@@ -44,6 +44,8 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   | Dec   | 04        | Albion, NE    | NDEQ          | Public hearing
 2014    | Oct   | 28        | Pierre, SD    | PUC           | Registration for public hearings on re-approval.
 2015    | Jan   | 07        | Washington    | Senate        | Energy and Natural Resources Committee hearing on KXL bill
+</br>   | Mar   | 12        | Lincoln, NE   | Legislature   | Nebraska Legislature seeks public input on KXL
+</br>   | Jul   | 06        | Pierre, SD    | PUC           | Meeting to determine recertification of KXL
 
 ## Other events
 
@@ -142,7 +144,9 @@ Date        | Body          | Factiva                   | Details
 2015-01-09  | NE Supreme Co | APRS000020150109eb19002lb | NE Supreme Court tosses lawsuit, says landowners do not have standing to sue against LB1161.
 2015-01-21  | TransCanada   | APRS000020150121eb1l001ye | With only a few days to go before two-year window ends, TransCanada files for eminent domain in Nebraska after lawsuit tossed by Supreme Court NE.
 2015-01-28  | White House   | APRS000020150128eb1s001ei | Protest in front of White House
-2015-02-04  | EPA           | APRS000020150203eb23005y1 |
+2015-02-04  | EPA           | APRS000020150203eb23005y1 | EPA asking SD to revisit KXL environmental impact
+2015-03-12  | NE legislature| APRS000020150311eb3b007f0 | Nebraska Legislature seeks public input on KXL, precede by anti-KXL protest
+2015-07-06  | SD PUC        | APRS000020150623eb6n001xx | Meeting to determine recertification of KXL
 
 ### Undated
 
