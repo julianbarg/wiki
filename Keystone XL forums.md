@@ -82,6 +82,8 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   |       | 21        | Nebraska      | TransCanada   | TransCanada invokes eminent domain
 </br>   |       | 28        | Washington    | White House   | Lennox Yearwood and Lakota Chief Arvol Looking Horse protest
 </br>   | Feb   | 04        | Washington    | EPA           | EPA asking SD to revisit KXL environmental impact
+</br>   |       | 13        | Washington    | Congress      | Congress approves Keystone XL Pipeline Approval Act
+</br>   |       | 24        | Washington    | White House   | President vetoes Keystone XL Pipeline Approval Act
 
 ## Details
 
