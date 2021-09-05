@@ -41,7 +41,7 @@ Year    | Month | Day   | Event
 </br>   | April | 18    | DOS anounces an additional delay of KXL citing the "uncertainty created by on-going litigation" [@DOS2014a]
 </br>   | June  | 20    | Hearings on the lawsuit begin at the Nebraska Supreme Court
 2015    | Feb   | 12    | TransCanada agrees to temporarily suspend use of eminent domain, hopes to speed up trial (APRS000020150212eb2c0060s)
-2015    | Sep   | 30    | TransCanada withdraws from lawsuit on LB1161
+</br>   | Sep   | 30    | TransCanada withdraws from lawsuit on LB1161
 
 ### Narrative
 
