@@ -81,6 +81,7 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   |       | 10        | Washington    | Senate        | Bill to approve KXL passed by Senate
 </br>   |       | 21        | Nebraska      | TransCanada   | TransCanada invokes eminent domain
 </br>   |       | 28        | Washington    | White House   | Lennox Yearwood and Lakota Chief Arvol Looking Horse protest
+</br>   | Feb   | 04        | Washington    | EPA           | EPA asking SD to revisit KXL environmental impact
 
 ## Details
 
@@ -139,6 +140,7 @@ Date        | Body          | Factiva                   | Details
 2015-01-09  | NE Supreme Co | APRS000020150109eb19002lb | NE Supreme Court tosses lawsuit, says landowners do not have standing to sue against LB1161.
 2015-01-21  | TransCanada   | APRS000020150121eb1l001ye | With only a few days to go before two-year window ends, TransCanada files for eminent domain in Nebraska after lawsuit tossed by Supreme Court NE.
 2015-01-28  | White House   | APRS000020150128eb1s001ei | Protest in front of White House
+2015-02-04  | EPA           | APRS000020150203eb23005y1 |
 
 ### Undated
 
