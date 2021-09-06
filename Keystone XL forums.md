@@ -46,6 +46,7 @@ Year    | Month | Day       | Place         | Body          | Agenda
 2015    | Jan   | 07        | Washington    | Senate        | Energy and Natural Resources Committee hearing on KXL bill
 </br>   | Mar   | 12        | Lincoln, NE   | Legislature   | Nebraska Legislature seeks public input on KXL
 </br>   | Jul   | 06        | Pierre, SD    | PUC           | Meeting to determine recertification of KXL
+</br>   |       | 26        | Pierre, SD    | PUC           | Continuation of the hearing
 
 ## Other events
 
