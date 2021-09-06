@@ -87,6 +87,7 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   | Feb   | 04        | Washington    | EPA           | EPA asking SD to revisit KXL environmental impact
 </br>   |       | 13        | Washington    | Congress      | Congress approves Keystone XL Pipeline Approval Act
 </br>   |       | 24        | Washington    | White House   | President vetoes Keystone XL Pipeline Approval Act
+</br>   | Oct   | 19        | O'Neill, NE   | Some court    | Continuation of previous lawsuit with new plaintiff
 
 ## Details
 
@@ -150,6 +151,7 @@ Date        | Body          | Factiva                   | Details
 2015-07-06  | SD PUC        | APRS000020150623eb6n001xx | Meeting to determine recertification of KXL
 2015-07-06  | SD PUC        | APRS000020150726eb7q0059c | Continuation of the hearing
 2015-07-27  | Other         | APRS000020150727eb7r003bw | Anti-KXL protest in Fort Pierre, SD
+2015-10-19  | Other         | APRS000020150728eb7s004a0 | Continuation of previous lawsuit with new plaintiff
 
 ### Undated
 
