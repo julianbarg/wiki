@@ -148,6 +148,8 @@ Date        | Body          | Factiva                   | Details
 2015-02-04  | EPA           | APRS000020150203eb23005y1 | EPA asking SD to revisit KXL environmental impact
 2015-03-12  | NE legislature| APRS000020150311eb3b007f0 | Nebraska Legislature seeks public input on KXL, precede by anti-KXL protest
 2015-07-06  | SD PUC        | APRS000020150623eb6n001xx | Meeting to determine recertification of KXL
+2015-07-06  | SD PUC        | APRS000020150726eb7q0059c | Continuation of the hearing
+2015-07-27  | Other         | APRS000020150727eb7r003bw | Anti-KXL protest in Fort Pierre, SD
 
 ### Undated
 
