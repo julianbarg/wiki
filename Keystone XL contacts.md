@@ -21,3 +21,5 @@
 * Ernie Chambers
     * Nebraska member of legislature from Omaha
     * "The ones at the table were politicians who ... were in TransCanada's pocket."
+* Bold Nebraska
+    * Jane Kleeb (jane@boldnebraska.org)
