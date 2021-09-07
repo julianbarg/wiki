@@ -1,5 +1,5 @@
 ---
-biliography: library.bib
+bibliography: library.bib
 ---
 
 # @Lyon2015
