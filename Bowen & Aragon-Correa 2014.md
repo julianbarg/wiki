@@ -1,4 +1,10 @@
-**Greenwashing in Corporate Environmentalism Research and Practice: The Importance of What We Say and Do**
+---
+bibliography: library.bib
+---
+
+# @Bowen2014
+
+* Back to [[Greenwashing]]
 
 [[_TOC_]]
 
@@ -10,27 +16,6 @@ Bowen, F., & Aragon-Correa, J. A. (2014). Greenwashing in Corporate Environmenta
 
 There is a difference between greenwashing and symbolic corporate environmentalism. Symbolic corporate environmetalism is not a straight-up lie--but in metrics it will not show up as an effective measure!
 
-### Methods
+---
 
-## Related to
-
-### Theories
-* [[Greenwashing]]
-
-### Conferences, courses etc.
-
-### Previous literature/influences
-
-### Projects
-
-### Cited by
-
-## Concepts
-
-## Resources
-
-## One-page summary
-
-## Important points
-
-## Reactions
+## References
