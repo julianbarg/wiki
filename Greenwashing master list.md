@@ -28,6 +28,7 @@ Table?              | Year  | Reference         | Link                          
 :x:                 | 2017  | @Li2017           | [[Li & Zhou 2017]]                    | SMJ       | :x: **
 
 \* Cites @Lyon2011
+
 \** Cites Montgomery or Lyon--other
 
 ### Journal abbreviations
