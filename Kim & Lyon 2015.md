@@ -1,5 +1,5 @@
 ---
-bibligraphy: library.bib
+bibliography: library.bib
 ---
 
 # @Kim2015
