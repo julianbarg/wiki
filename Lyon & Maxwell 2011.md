@@ -1,10 +1,12 @@
-**Greenwash: Corporate Environmental Disclosure under Threat of Audit**
+---
+bibliography: library.bib
+---
+
+# Lyon2011
+
+* Back to [[Greenwashing]]
 
 [[_TOC_]]
-
-## Citation
-
-Lyon, T. P., & Maxwell, J. W. (2011). Greenwash: Corporate Environmental Disclosure under Threat of Audit. *Journal of Economics & Management Strategy*, 20(1), 3–41. [[https://doi.org/10.1111/j.1530-9134.2010.00282.x]]
 
 ## One-paragraph summary
 
@@ -12,29 +14,11 @@ Economic model of greenwashing as a "persuasion game". Companies maximize profit
 
 Interesting short sidenote: what this is saying is that the expectation on a firm impacts its likelihood to disclose. If youre image is already bad--you got nothing to lose!
 
-### Methods
-
-## Related to
-
-### Theories
-* [[Greenwashing]]
-
-### Conferences, courses etc.
-
-### Previous literature/influences
-
-### Projects
-
-### Cited by
-
-## Concepts
-
-## Resources
-
-## One-page summary
-
 ## Important points
+
 * Regardings the definition of greenwashing: "the typical concerns raised by activists are that companies present positive information out of context in a way that could be misleading to individuals who lack background information about the company’s full portfolio of activities" (p. 8).
 * "As the likelihood increases that the manager knows the environmental outcomes of the firm’s activities, the market increasingly interprets nondisclosure as withheld negative information rather than as true uncertainty"--potential incentive not to implement an environmental management system--why measure stuff when you already know your firm is brown?
 
-## Reactions
+---
+
+## References
