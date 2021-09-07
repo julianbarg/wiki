@@ -35,6 +35,8 @@ Table?              | Year  | Reference         | Link                          
 :x:                 |       | @Wickert2016      | [[Wickert, Scherer & Spence 2016]]    | JMS       | :heavy_check_mark:
 :heavy_check_mark:  | 2015  | @Du2015           | [[Du 2015]]                           | JBE       | :x: *
 :heavy_check_mark:  |       | @Kim2015          | [[Kim & Lyon 2015]]                   | Org Sci   | :x: *
+:x:                 |       | @Mazutis2015      | [[Mazutis & Slawinski 2015]]          | JBE       | :x: *
+:x:                 |       | @Vigneau2015      | [[Vigneau, Humphreys & Moon 2015]]    | JBE       | :x:
 
 \* Cites @Lyon2011
 
