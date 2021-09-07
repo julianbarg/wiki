@@ -25,8 +25,10 @@ Table?              | Year  | Reference         | Link                          
 :x:                 |       | @Kassinis2018     | [[Kassinis & Panayiotou 2018]]        | O&E       | :heavy_check_mark:
 :x:                 |       | @Testa2018a       | [[Testa, Boiral & Iraldo 2018]]       | JBE       | :heavy_check_mark:
 :heavy_check_mark:  |       | @Testa2018        | [[Testa et al 2018]]                  | BSE       | :heavy_check_mark:
+:x:                 | 2017  | @Li2017           | [[Li & Zhou 2017]]                    | SMJ       | :x: **
 
 \* Cites @Lyon2011
+\** Cites Montgomery or Lyon--other
 
 ### Journal abbreviations
 
