@@ -49,10 +49,6 @@ Table?              | Year  | Reference         | Link                          
 * JEMS: Journal of Economics & Management Strategy
 * O&E: Organization and Environment
 
-## 2015
-
-## Pre-2015
-
 ---
 
 ## Full references
