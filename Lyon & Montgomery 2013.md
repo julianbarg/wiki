@@ -1,4 +1,8 @@
-**Tweetjacked: The Impact of Social Media on Corporate Greenwash**
+---
+bibliography: library.bib
+---
+
+# @Lyon2013
 
 [[_TOC_]]
 
