@@ -9,7 +9,7 @@ bibliography: library.bib
 ## Post-2015
 
 Table?              | Page?     | Year  | Reference     | Link                      | Cites Lyon & Montgomery 2015?
----                 | ---       | ---   | ------        | ---                       | ---
+---                 | ---       | ---   | ------        | ----                      | ---
 :heavy_check_mark:  | :x:       | 2020  | @Winkler2020  | [[Winkler et al 2020]]    | :heavy_check_mark:
 
 
