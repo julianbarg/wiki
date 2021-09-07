@@ -1,8 +1,12 @@
-**Greenwash vs. Brownwash: Exaggeration and Undue Modesty in Corporate Sustainability Disclosure**
+---
+bibligraphy: library.bib
+---
+
+# @Kim2015
+
+* Back to [[Greenwashing]]
 
 [[_TOC_]]
-
-## Citation
 
 ## One-paragraph summary
 
@@ -11,25 +15,6 @@ Brownwashing is a thing. Organizations might disguise their ESG-related activiti
 ### Methods
 * Fixed-effect regression
 
-## Related to
+---
 
-### Theories
-* [[Greenwashing]]
-
-### Conferences, courses etc.
-
-### Previous literature/influences
-
-### Projects
-
-### Cited by
-
-## Concepts
-
-## Resources
-
-## One-page summary
-
-## Important points
-
-## Reactions
+## References
