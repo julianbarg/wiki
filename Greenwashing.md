@@ -2,9 +2,9 @@
 bibliography: library.bib
 ---
 
-[[_TOC_]]
-
 * Full list: [[Greenwashing master list]]
+
+[[_TOC_]]
 
 ## Greenwashing: a theory, phenomenon, or umbrella term
 
