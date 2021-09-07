@@ -16,8 +16,7 @@ Table?              | Year  | Reference         | Link                          
 :heavy_check_mark:  |       | @Torelli2020      | [[Torelli et al 2020]]        | BSE       | :heavy_check_mark:    
 :heavy_check_mark:  |       | @Winkler2020      | [[Winkler et al 2020]]        | B&S       | :heavy_check_mark:    
 :x:                 | 2019  | @Pizzetti2019     | [[Pizzetti 2019]]             | JBE       | :x: *
-:x:                 |       | @Morales-Raya2019 | [[Morales-Raya et al 2019]]   | O&E       | :heavy_check_mark:
-
+:x:                 |       | @Morales-Raya2019 | [[Morales-Raya et al 2019]]   | O&E       | :x: *
 
 \* Cites @Lyon2011
 
