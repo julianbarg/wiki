@@ -58,9 +58,8 @@ These are less rigorous, but some may be receiving attention because they are to
 | [[Seele & Gatti 2017]]    | BSE     | Theory            | Theory paper      | Signaling & perception         |                      Almost a discovery of discourse.|
 | [[Ramus & Montiel 2005]]  | B&S     | Phenomenon        | Quant             | Policy implementation (survey) |                        Do companies implement the policies they announce? |
 
-* \*BSE: Business Strategy and the Environment
-* \*B&S: Business & Society
-* \*JEMS: Journal of Economics & Management Strategy
+\*BSE: Business Strategy and the Environment</br>\*B&S: Business & Society
+\*JEMS: Journal of Economics & Management Strategy
 
 ## Some observations
 
