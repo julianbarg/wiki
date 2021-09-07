@@ -26,6 +26,15 @@ Table?              | Year  | Reference         | Link                          
 :x:                 |       | @Testa2018a       | [[Testa, Boiral & Iraldo 2018]]       | JBE       | :heavy_check_mark:
 :heavy_check_mark:  |       | @Testa2018        | [[Testa et al 2018]]                  | BSE       | :heavy_check_mark:
 :x:                 | 2017  | @Li2017           | [[Li & Zhou 2017]]                    | SMJ       | :x: **
+:x:                 |       | @Schaltegger2017  | [[Schaltegger & Horisch 2017]]        | JBE       | :x:
+:heavy_check_mark:  |       | @Seele2017        | [[Seele & Gatti 2017]]                | BSE       | :x: *
+:heavy_check_mark:  | 2016  | @Crilly2016       | [[Crilly, Hansen & Zollo 2016]]       | AMJ       | :x:
+:heavy_check_mark:  |       | @Hawn2016         | [[Hawn & Ioannou 2016]]               | SMJ       | :x: **
+:heavy_check_mark:  |       | @Marquis2016      | [[Marquis, Toffel & Zhou 2016]]       | Org Sci   | :heavy_check_mark:
+:x:                 |       | @Pope2016         | [[Pope & Waraas 2016]]                | JBE       | :x: *
+:x:                 |       | @Wickert2016      | [[Wickert, Scherer & Spence 2016]]    | JMS       | :heavy_check_mark:
+:heavy_check_mark:  | 2015  | @Du2015           | [[Du 2015]]                           | JBE       | :x: *
+:heavy_check_mark:  |       | @Kim2015          | [[Kim & Lyon 2015]]                   | Org Sci   | :x: *
 
 \* Cites @Lyon2011
 
