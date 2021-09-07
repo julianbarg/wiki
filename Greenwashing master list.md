@@ -10,12 +10,12 @@ bibliography: library.bib
 
 Table?              | Year  | Reference         | Link                      | Journal   | Cites L&M 2015?       
 :-:                 | ---   | -------           | -----                     | ---       | :-:                   
-:x:                 | *     | @Jacqueminet2020  | [[Jacqueminet 2020]]      | Org Sci   | :x:                   
-:x:                 | *     | @Liu2020          | [[Liu 2020]]              | AMJ       | :x:                   
-:heavy_check_mark:  | *     | @Szabo2020        | [[Szabo & Webster 2020]]  | JBE       | :x:                   
-:heavy_check_mark:  | *     | @Torelli2020      | [[Torelli et al 2020]]    | BSE       | :heavy_check_mark:    
-:heavy_check_mark:  | 2020  | @Winkler2020      | [[Winkler et al 2020]]    | B&S       | :heavy_check_mark:    
-:x:                 | *     | @Pizzetti2019     | [[Pizzetti 2019]]         | JBE       | :x:\*
+:x:                 | 2020  | @Jacqueminet2020  | [[Jacqueminet 2020]]      | Org Sci   | :x:                   
+:x:                 |       | @Liu2020          | [[Liu 2020]]              | AMJ       | :x:                   
+:heavy_check_mark:  |       | @Szabo2020        | [[Szabo & Webster 2020]]  | JBE       | :x:                   
+:heavy_check_mark:  |       | @Torelli2020      | [[Torelli et al 2020]]    | BSE       | :heavy_check_mark:    
+:heavy_check_mark:  |       | @Winkler2020      | [[Winkler et al 2020]]    | B&S       | :heavy_check_mark:    
+:x:                 | 2019  | @Pizzetti2019     | [[Pizzetti 2019]]         | JBE       | :x: *
 
 \* Cites @Lyon2011
 
