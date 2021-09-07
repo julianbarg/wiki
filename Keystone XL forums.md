@@ -151,7 +151,8 @@ Date        | Body          | Factiva                   | Details
 2015-07-06  | SD PUC        | APRS000020150623eb6n001xx | Meeting to determine recertification of KXL
 2015-07-06  | SD PUC        | APRS000020150726eb7q0059c | Continuation of the hearing
 2015-07-27  | Other         | APRS000020150727eb7r003bw | Anti-KXL protest in Fort Pierre, SD
-2015-10-19  | Other         | APRS000020150728eb7s004a0 | Continuation of previous lawsuit with new plaintiff
+2015-07-28  | Other         | APRS000020150728eb7s004a0 | Continuation of previous lawsuit with new plaintiff
+2015-10-20  | Other         | APRS000020151019ebaj008i2 | Activists vow to continue lawsuit after TransCanada withdraws
 
 ### Undated
 
