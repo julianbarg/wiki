@@ -1,5 +1,5 @@
 ---
-bibliography: library.bib
+bibliography: bibliography.bib
 ---
 
 Part of: [[Organizational Theory]]

@@ -1,5 +1,5 @@
 ---
-bibliography: library.bib
+bibliography: bibliography.bib
 ---
 
 # @Hardy2020--Organizations, Risk Translation, and the Ecology of Risks

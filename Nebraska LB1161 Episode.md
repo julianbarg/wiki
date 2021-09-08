@@ -1,5 +1,5 @@
 ---
-bibliography: library.bib
+bibliography: bibliography.bib
 ---
 
 # Nebraska LB1161 Episode

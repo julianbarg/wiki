@@ -1,5 +1,5 @@
 ---
-bibliography: library.bib
+bibliography: bibliography.bib
 display_metadata: false
 ---
 

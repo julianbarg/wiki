@@ -1,5 +1,5 @@
 ---
-bibliography: library.bib
+bibliography: bibliography.bib
 ---
 
 ## What is the MH school of discourse?

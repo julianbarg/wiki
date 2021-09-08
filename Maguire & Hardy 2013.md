@@ -1,5 +1,5 @@
 ---
-bibliography: library.bib
+bibliography: bibliography.bib
 ---
 
 # @Maguire2013--Organizing Processes and the Construction of Risk
