@@ -47,6 +47,7 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   | Mar   | 12        | Lincoln, NE   | Legislature   | Nebraska Legislature seeks public input on KXL
 </br>   | Jul   | 06        | Pierre, SD    | PUC           | Meeting to determine recertification of KXL
 </br>   |       | 26        | Pierre, SD    | PUC           | Continuation of the hearing
+2016    | Jan   | 06        | Pierre, SD    | PUC (?)       | South Dakota recertifies KXL state permit
 
 ## Other events
 
@@ -90,6 +91,7 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   | Oct   | 19        | O'Neill, NE   | Some court    | Continuation of previous lawsuit with new plaintiff
 </br>   | Nov   | 03        | Toronto       | TransCanada   | TransCanada asks SD to suspend KXL application
 </br>   |       | 07        | Washington    | White House   | President rejects KXL permit application
+2016    | Jan   | 07        | Houston       | TransCanada   | TransCanada files lawsuit against WH over rejection 
 
 ## Details
 
@@ -157,6 +159,8 @@ Date        | Body          | Factiva                   | Details
 2015-10-20  | Other         | APRS000020151019ebaj008i2 | Activists vow to continue lawsuit after TransCanada withdraws
 2015-11-03  | TransCanada   | APRS000020151103ebb3000p4 | TransCanada asks SD to suspend KXL application
 2015-11-07  | White House   | LBA0000020151106ebb600u3j | President rejects KXL permit application
+2016-01-06  | SD PUC (?)    | APRS000020160105ec15002h4 | South Dakota recertifies KXL state permit
+2016-01-07  | TransCanada   | APRS000020160106ec1600b4p | TransCanada files lawsuit against WH over rejection 
 
 ### Undated
 
