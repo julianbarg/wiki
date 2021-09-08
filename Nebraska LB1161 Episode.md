@@ -68,7 +68,7 @@ LB1     | Major Pipeline Siting Act             | [[https://nebraskalegislature.
 LB4     | Oil Pipeline Route Certification Act  | [[https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=15278]]
 LB1161  | (untitled)                            | [[https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=16138]]
 
-## ## Sources
+## Sources
 
 Date        | Source                        | Title                                                     | Link
 ---         | --------                      | ----------------                                          | ---
