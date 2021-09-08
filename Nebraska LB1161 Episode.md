@@ -6,7 +6,7 @@ bibliography: library.bib
 
 [[_TOC_]]
 
-### Timeline
+## Timeline
 
 Year    | Month | Day   | Event
 ---     | ---   | ---   | ------------------
@@ -32,7 +32,7 @@ Year    | Month | Day   | Event
 2015    | Feb   | 12    | TransCanada agrees to temporarily suspend use of eminent domain, hopes to speed up trial (APRS000020150212eb2c0060s)
 </br>   | Sep   | 30    | TransCanada withdraws from lawsuit on LB1161 (APRS000020150930eb9u0000c)
 
-### Narrative
+## Narrative
 
 Three scenes. August 2011. Environmental movements in Nebraska and Governor Heineman form an uneasy alliance against TransCanada and the State Department. Their common goal: to protect the Sandhills and reroute KXL. November 15, 2011. In Nebraska, the Oil Pipeline Route Certification Act takes shape. A representative of TransCanada and a representative of the Sierra Club attent the Natural Resource Committee of the Nebraska Legislature and celebrate the progress of the bill. Robert Jones (TransCanada): "We appreciate [...] this legislation which would create a process for an additional review of the proposed Keystone pipeline route through Nebraska, and we encourage approval of the bill as amended [by AM37]." Ken Winston (Sierra Club): "We ask the advancement of AM37 to LB4" [@NRC2011]. September 5, 2014. Oral arguments are being heard before the Nebraska Supreme Court. For two years, environmental groups on one side and Nebraska supported by TransCanada on the other side have been fighting a legal battle over LB1161, which set forth that LB4 would also apply to a resubmitted application for KXL.
 
@@ -52,7 +52,7 @@ What followed was a lengthy legal battle over LB1161 that pitted the landowners 
 
 The three-year delay caused by the friendly legislation in Nebraska meant that TransCanada would also have to resubmit its permit application South Dakota--its 2010 permit had expired after five years, in February 2015. The snowballing problems delayed a decision by the State Department on KXL until late 2015, when the outgoing US president, free from pressure from voters and supporters, decided to reject the permit application. 
 
-#### Interpretation
+### Interpretation
 
 The Nebraska episode may be an extreme outlier in how much it has derailed the environmental impact assessment for KXL, but episode is also representative of a more general phenomenon. In 2011, multiple stakeholders gathered under a vaguely environmental banner and intervened. The Governor called a special session of the Nebraska Legislature to pass bills on the issue. The momentum was toward a route that would avoid the Sandhills. Toward that end, the legislature passed a bill and provided funds for an environmental impact assessment of an alternative route. Despite its more general rejection of pipelines, the Sierra Club welcomed the decision, and the opportunity to engage in an environmental impact assessment at the state, rather than the federal level--after all, the outcome of the State Department's asssessment had been disappointing for environmental groups. TransCanada viewed the decision of the legislature not as a threat to the project, but as an opportunity to realize an alternative route for KXL in a swift fashion--the legislature's intention was to hire a contractor to conduct an environmental impact assessment as soon as possible, and under the guidance of Governor Heineman, who was generally in favor of KXL. _And Nebraska would even pay for the assessment!_
 
@@ -60,7 +60,7 @@ The initial win-win-win situation quickly fell apart when three interactions occ
 
 The unexpected interaction also completely derailed the discourse on the environmental impacts of Keystone XL. While in 2011, the potential impacts on Nebraska's Sandhills dominated the debate, by 2013 the legal battle dominated the news. To understand the debate at this point one would have to go to the Nebraska constitution, and the circumstances under which LB1, LB4, and LB1161 were passed. Specific enironmental concerns, such as the Sandhills, are only of marginal importance at this point in time. The conflict on KXL has taken on new, none-environmental dimensions, which has led to an entranchement of the two sides. In 2011, a shared concern for the Sandhills was sufficient to bring together the Sierra Club and the Natural Resoruce Committee of the Nebraska Legislature. The focus on the Sandhills even allowed for a representative of TransCanada to join at the table. By 2013, the two sides would have to push throught the issue of the botched law reform that is LB1161 to even get to talk about specific environmental issues. At the same time, the lawsuit had become a tool for the environmental movement to forestall KXL or even threaten the project as a whole, and had superseeded specific environmental concerns. It allowed the movement to fight KXL for environmental reasons without having to develop the environmental arguments.
 
-### Bills
+## Bills
 
 Bill    | Title                                 | Link
 ---     | -----                                 | ---------------
@@ -68,7 +68,7 @@ LB1     | Major Pipeline Siting Act             | [[https://nebraskalegislature.
 LB4     | Oil Pipeline Route Certification Act  | [[https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=15278]]
 LB1161  | (untitled)                            | [[https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=16138]]
 
-### Sources
+## ## Sources
 
 Date        | Source                        | Title                                                     | Link
 ---         | --------                      | ----------------                                          | ---
