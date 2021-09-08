@@ -17,7 +17,7 @@ bibliography: library.bib
 
 ## Episodes
 
-* [[Nebraska LB1161 episode]]
+* [[Nebraska LB1161 Episode]]
 * [[Application suspension episode]]
 
 ---
