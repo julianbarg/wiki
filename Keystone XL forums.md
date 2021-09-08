@@ -88,6 +88,8 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   |       | 13        | Washington    | Congress      | Congress approves Keystone XL Pipeline Approval Act
 </br>   |       | 24        | Washington    | White House   | President vetoes Keystone XL Pipeline Approval Act
 </br>   | Oct   | 19        | O'Neill, NE   | Some court    | Continuation of previous lawsuit with new plaintiff
+</br>   | Nov   | 03        | Toronto       | TransCanada   | TransCanada asks SD to suspend KXL application
+</br>   |       | 07        | Washington    | White House   | President rejects KXL permit application
 
 ## Details
 
@@ -153,6 +155,8 @@ Date        | Body          | Factiva                   | Details
 2015-07-27  | Other         | APRS000020150727eb7r003bw | Anti-KXL protest in Fort Pierre, SD
 2015-07-28  | Other         | APRS000020150728eb7s004a0 | Continuation of previous lawsuit with new plaintiff
 2015-10-20  | Other         | APRS000020151019ebaj008i2 | Activists vow to continue lawsuit after TransCanada withdraws
+2015-11-03  | TransCanada   | APRS000020151103ebb3000p4 | TransCanada asks SD to suspend KXL application
+2015-11-07  | White House   | LBA0000020151106ebb600u3j | President rejects KXL permit application
 
 ### Undated
 
