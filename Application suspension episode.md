@@ -19,6 +19,6 @@ Year | Month | Day  | Event
 ## Sources
 
 Data        | Source            | Title                                                         | Link
----         | ---               | ------------                                                  | ---
+---         | ---               | ---------------                                               | ---
 2015-07-29  | Politico          | Bernie Sanders attacks Clinton's climate plan: 'Not enough'   | [[Link|https://www.politico.com/story/2015/07/bernie-sanders-attacks-clintons-climate-plan-not-enough-120738]]
 
