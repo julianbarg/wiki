@@ -22,7 +22,7 @@ Year | Month | Day  | Event
 
 ### Additional dimension: Clinton email leak
 
-Where originally, the pressure of environmentalists on Clinton made the defeat of KXL seem more likely, the leak of Clinton's emails ironically inverted this effect slightly. The brought to light the calculative approach that Clinton took with regard to the issue. Commentators saw her move in a new light: The calculative approach confirmed in the eyes of commentators the impression that Clinton was less of a woman of conviction, and more of a untrostworthy populist (needs references/triangulation). The leak had an effect of cancelling out the positiv effect she seeked to gain from the original move.  
+Where originally, the pressure of environmentalists on Clinton made the defeat of KXL seem more likely, the leak of Clinton's emails ironically inverted this effect slightly. The brought to light the calculative approach that Clinton took with regard to the issue. Commentators saw her move in a new light: The calculative approach confirmed in the eyes of commentators the impression that Clinton was less of a woman of conviction, and more of a untrostworthy populist (needs references/triangulation). The leak had an effect of cancelling out the positiv effect she seeked to gain from the original move. Finally, the "meta dimension" of the issue seems to have paralized the Clinton campaign itself--"do we worry that publishing an oped that leans this aggressively into our newfound position on Keystone will be greeted cynically and perhaps as part of some manufactured attempt to project sincerity?" [@Brian2015]. Members of the campaign spend weeks deliberating on how to come into the open with their position on KXL.
 
 ## Sources
 
