@@ -10,6 +10,7 @@ bibliography: bibliography.bib
 
 Year | Month | Day  | Event
 ---  | ---   | ---  | ------------------------------------------
+2010 | Oct   | 20   | Secretary of State Clinton "inclined" to approve KXL
 2015 | Jul   | 28   | Sanders attacks Clinton on KXL: "It is hard for me to understand how one can be concerned about climate change but not vigorously oppose the Keystone pipeline"
 </br>| Aug   | 19   | Clinton criticizes the president's _delay_ on KXL decision
 </br>| Sep   | 22   | Clinton comes out as opposing KXL
