@@ -15,6 +15,7 @@ Year | Month | Day  | Event
 </br>|       | 19   | Clinton campaign manager Robby Mook raises KXL question: "The enviros may latch onto this going forward. Have we discussed when she will come out against Keystone? After POTUS vetoes?". The team discusses avoidance tactics: "[...] if we want to have her express skepticism we can do so through a spox [spokesperson] answer to question, using our QA" [@Brian2015].
 </br>|       | 22   | Clinton campaign discusses delaying a statement until May Congress recess [@Sullivan2015]
 </br>| May   | 10   | Sanders uses KXL to differentiate himself: "I'm not quite sure Hillary Clinton has come out with a position on that" [@Kaplan2015]. The comment enters the Clinton campaigns news review the next day [@Phillips2015].
+</br>|       | 14   | Bill McKibben, founder of 350.org, criticizes Clinton on KXL "[Sanders has] been the most consistent and proactive voice in the entire Keystone fight" [@Adler2015].
 </br>| Jul   | 28   | Sanders attacks Clinton on KXL: "It is hard for me to understand how one can be concerned about climate change but not vigorously oppose the Keystone pipeline" [@Strauss2015].
 </br>| Aug   | 19   | Clinton criticizes the president's _delay_ on KXL decision
 </br>| Sep   | 22   | Clinton comes out as opposing KXL
