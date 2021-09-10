@@ -12,8 +12,10 @@ Year | Month | Day  | Event
 ---  | ---   | ---  | ------------------------------------------
 2010 | Oct   | 20   | Secretary of State Clinton "inclined" to approve KXL
 2015 | April | 12   | Clinton announces presidential campaign
-</br>|       | 19   | Clinton campaign manager Robby Mook raises KXL question: "The enviros may latch onto this going forward. Have we discussed when she will come out against Keystone? After POTUS vetoes?". The team discusses avoidance tactics: "[...] if we want to have her express skepticism we can do so through a spox answer to question, using our QA" [@Brian2015].
-</br>| Jul   | 28   | Sanders attacks Clinton on KXL: "It is hard for me to understand how one can be concerned about climate change but not vigorously oppose the Keystone pipeline"
+</br>|       | 19   | Clinton campaign manager Robby Mook raises KXL question: "The enviros may latch onto this going forward. Have we discussed when she will come out against Keystone? After POTUS vetoes?". The team discusses avoidance tactics: "[...] if we want to have her express skepticism we can do so through a spox [spokesperson] answer to question, using our QA" [@Brian2015].
+</br>|       | 22   | Clinton campaign discusses delaying a statement until May Congress recess [@Sullivan2015]
+</br>| May   | 10   | Sanders uses KXL to differentiate himself: "I'm not quite sure Hillary Clinton has come out with a position on that" [@Kaplan2015]. The comment enters the Clinton campaigns news review the next day [@Phillips2015].
+</br>| Jul   | 28   | Sanders attacks Clinton on KXL: "It is hard for me to understand how one can be concerned about climate change but not vigorously oppose the Keystone pipeline" [@Strauss2015].
 </br>| Aug   | 19   | Clinton criticizes the president's _delay_ on KXL decision
 </br>| Sep   | 22   | Clinton comes out as opposing KXL
 </br>| Nov   | 03   | TransCanada asks White House to suspend KXL application
@@ -32,6 +34,7 @@ Where originally, the pressure of environmentalists on Clinton made the defeat o
 Data        | Source            | Title                                                         | Link
 :-:         | :---------------: | ------------------------------------------------------------- | ---
 2010-10-20  | Reuters           | Water concerns grow over Canada-U.S. mega oil pipe            | [[Link|https://www.reuters.com/article/canada-us-pipeline-keystone-nebraska-idCATRE69J54R20101020]]
+2015-05-10  | CBS News          | Bernie Sanders: I can beat Hillary Clinton                    | [[Link|https://www.cbsnews.com/news/bernie-sanders-i-can-beat-hillary-clinton/]]
 2015-07-29  | Politico          | Bernie Sanders attacks Clinton's climate plan: 'Not enough'   | [[Link|https://www.politico.com/story/2015/07/bernie-sanders-attacks-clintons-climate-plan-not-enough-120738]]
 2015-09-22  | AP News           | Clinton breaks Keystone silence, says she opposes pipeline    | [[Link|https://apnews.com/article/97814753c48945989fb96a79cbca1faf]]
 2016-10-21  | Seattle Times     |  Emails show machinations behind Clinton’s shift on pipeline  | [[Link|https://www.seattletimes.com/business/emails-show-machinations-behind-clintons-shift-on-pipeline/]]
