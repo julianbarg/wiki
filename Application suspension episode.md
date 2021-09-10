@@ -11,7 +11,8 @@ bibliography: bibliography.bib
 Year | Month | Day  | Event
 ---  | ---   | ---  | ------------------------------------------
 2010 | Oct   | 20   | Secretary of State Clinton "inclined" to approve KXL
-2015 | April | 19   | Clinton campaign manager Robby Mook raises KXL question: "The enviros may latch onto this going forward. Have we discussed when she will come out against Keystone? After POTUS vetoes?"
+2015 | April | 12   | Clinton announces presidential campaign
+</br>|       | 19   | Clinton campaign manager Robby Mook raises KXL question: "The enviros may latch onto this going forward. Have we discussed when she will come out against Keystone? After POTUS vetoes?"
 </br>| Jul   | 28   | Sanders attacks Clinton on KXL: "It is hard for me to understand how one can be concerned about climate change but not vigorously oppose the Keystone pipeline"
 </br>| Aug   | 19   | Clinton criticizes the president's _delay_ on KXL decision
 </br>| Sep   | 22   | Clinton comes out as opposing KXL
