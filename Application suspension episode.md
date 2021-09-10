@@ -34,6 +34,7 @@ Data        | Source            | Title                                         
 2015-09-22  | AP News           | Clinton breaks Keystone silence, says she opposes pipeline    | [[Link|https://apnews.com/article/97814753c48945989fb96a79cbca1faf]]
 2016-10-21  | Seattle Times     |  Emails show machinations behind Clinton’s shift on pipeline  | [[Link|https://www.seattletimes.com/business/emails-show-machinations-behind-clintons-shift-on-pipeline/]]
 2017-01-24  | White House       | Memorandum on Construction of the Keystone XL Pipeline        | [[Link|https://www.govinfo.gov/content/pkg/DCPD-201700068/pdf/DCPD-201700068.pdf]]
+-           | WikiLeaks         | The Podesta Emails                                            | [[Link|https://wikileaks.org/podesta-emails/]]
 
 ---
 
