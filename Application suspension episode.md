@@ -28,6 +28,7 @@ Where originally, the pressure of environmentalists on Clinton made the defeat o
 
 Data        | Source            | Title                                                         | Link
 ---         | ---               | ---------------------                                         | ---
+2010-10-20  | Reuters           | Water concerns grow over Canada-U.S. mega oil pipe            | [[Link|https://www.reuters.com/article/canada-us-pipeline-keystone-nebraska-idCATRE69J54R20101020]]
 2015-07-29  | Politico          | Bernie Sanders attacks Clinton's climate plan: 'Not enough'   | [[Link|https://www.politico.com/story/2015/07/bernie-sanders-attacks-clintons-climate-plan-not-enough-120738]]
 2015-09-22  | AP News           | Clinton breaks Keystone silence, says she opposes pipeline    | [[Link|https://apnews.com/article/97814753c48945989fb96a79cbca1faf]]
 2016-10-21  | Seattle Times     |  Emails show machinations behind Clinton’s shift on pipeline  | [[Link|https://www.seattletimes.com/business/emails-show-machinations-behind-clintons-shift-on-pipeline/]]
