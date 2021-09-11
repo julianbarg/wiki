@@ -1,6 +1,5 @@
 ---
-bibliography: 'library.bib'
-display_metadata: false
+bibliography: bibliography.bib
 ---
 
 # @Heikkurinen2019
