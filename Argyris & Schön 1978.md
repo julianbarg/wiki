@@ -62,3 +62,5 @@ Talking about primary inhibiting loops. Unpacking the model of organizational le
 * Chapter 3 seems to be written under the assumption that there is always something that the organziation can do or that could have been done. That is not always true, e.g., because of the external environment. For example, businesses in a third world country might be constrained by unfolding events.
 
 ---
+
+## References
