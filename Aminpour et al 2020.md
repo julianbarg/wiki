@@ -1,6 +1,5 @@
 ---
-bibliography: 'library.bib'
-display_metadata: false
+bibliography: [[library.bib]]
 ---
 
 # @Aminpour2020
@@ -13,3 +12,5 @@ _Back to [[Barg & Zbaracki]]_
 Mental models of stakeholders can approximate that of experts fairly well.
 
 ---
+
+## References
