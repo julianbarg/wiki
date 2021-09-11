@@ -1,15 +1,10 @@
 ---
-bibliography: 'library.bib'
-display_metadata: false
+bibliography: bibliography.bib
 ---
 
-**Organizational Learning: A Theory of Action Perspective**
+# @Argyris1978
 
 [[_TOC_]]
-
-## Citation
-
-Argyris, C., & Schön, D. A. (1978). Organizational Learning: A Theory of Action Perspective. Encyclopedia of the Sciences of Learning. Readings, MA: Addison-Wesley Publishing Company.
 
 ## One-paragraph summary
 
@@ -18,14 +13,8 @@ Argyris, C., & Schön, D. A. (1978). Organizational Learning: A Theory of Action
 ### Theories
 * [[Organizational Learning]]
 
-### Conferences, Courses etc.
-
-### Previous literature/influences
-
 ### Projects
 * [[Pipeline safety learning]]
-
-### Cited by
 
 ## Concepts
 
@@ -45,8 +34,6 @@ Argyris, C., & Schön, D. A. (1978). Organizational Learning: A Theory of Action
 
 * Conceptualization of the organization that guides members' day-to-day activities in the organization.
 * Encoded in organizational memory [@Argyris1978 p. 20].
-
-## Resources
 
 ## Chapter by chapter summary
 
