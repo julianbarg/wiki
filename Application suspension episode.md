@@ -17,7 +17,8 @@ Year | Month | Day  | Event
 </br>| May   | 10   | Sanders uses KXL to differentiate himself: "I'm not quite sure Hillary Clinton has come out with a position on that" [@Kaplan2015]. The comment enters the Clinton campaign's news review the next day [@Phillips2015a].
 </br>|       | 14   | Bill McKibben, founder of 350.org, criticizes Clinton on KXL "[Sanders has] been the most consistent and proactive voice in the entire Keystone fight" [@Adler2015]. The comment enters the Clinton campaign's news review the next day [@Phillips2015].
 </br>| June  | 04   | Candidate Perry in his announcement speech: "On day one, I will also sign an executive order approving the construction of the Keystone Pipeline." [@Perry2015]
-</br>| July  | 28   | Sanders attacks Clinton on KXL: "It is hard for me to understand how one can be concerned about climate change but not vigorously oppose the Keystone pipeline" [@Strauss2015].
+</br>| July  | 27   | Clinton when asked about KXL: "I will refrain from commenting [...]" [@Foran2015].
+</br>|       | 28   | Sanders attacks Clinton on KXL: "It is hard for me to understand how one can be concerned about climate change but not vigorously oppose the Keystone pipeline" [@Strauss2015].
 </br>| Aug   | 19   | Clinton criticizes the president's _delay_ on KXL decision
 </br>| Sep   | 22   | Clinton comes out as opposing KXL
 </br>| Nov   | 03   | TransCanada asks White House to suspend KXL application
@@ -37,6 +38,7 @@ Data        | Source            | Title                                         
 :-:         | :---------------: | ------------------------------------------------------------- | ---
 2010-10-20  | Reuters           | Water concerns grow over Canada-U.S. mega oil pipe            | [[Link|https://www.reuters.com/article/canada-us-pipeline-keystone-nebraska-idCATRE69J54R20101020]]
 2015-05-10  | CBS News          | Bernie Sanders: I can beat Hillary Clinton                    | [[Link|https://www.cbsnews.com/news/bernie-sanders-i-can-beat-hillary-clinton/]]
+2015-07-27  | The Atlantic      | Hillary Clinton Still Won't Talk About Keystone               | [[Link|https://www.theatlantic.com/politics/archive/2015/07/hillary-clinton-still-wont-talk-about-keystone/445191/]]
 2015-07-29  | Politico          | Bernie Sanders attacks Clinton's climate plan: 'Not enough'   | [[Link|https://www.politico.com/story/2015/07/bernie-sanders-attacks-clintons-climate-plan-not-enough-120738]]
 2015-09-22  | AP News           | Clinton breaks Keystone silence, says she opposes pipeline    | [[Link|https://apnews.com/article/97814753c48945989fb96a79cbca1faf]]
 2016-10-21  | Seattle Times     |  Emails show machinations behind Clinton’s shift on pipeline  | [[Link|https://www.seattletimes.com/business/emails-show-machinations-behind-clintons-shift-on-pipeline/]]
