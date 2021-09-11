@@ -1,6 +1,5 @@
 ---
-bibliography: 'library.bib'
-display_metadata: false
+bibliography: bibliography.bib
 ---
 # @Aronczyk2019
 
@@ -20,6 +19,6 @@ A PR agency creates its form of knowledge and its take on the issue is now at th
 
 Self-structured groups sharing professional expertise, beliefs and common ojectives for influencing public policy [@Haas2016].
 
-
-
 ---
+
+## References
