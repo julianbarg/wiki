@@ -1,5 +1,5 @@
 ---
-bibliography: 'library.bib'
+bibliography: bibliography.bib
 display_metadata: false
 ---
 
@@ -12,3 +12,7 @@ _Back to [[Barg & Zbaracki]], [[Constructivism & Ecology]]_
 ## One-sentence summary
 
 Voters blame politicians for the severity of extreme weather events. Those hit harder are more likely to vote against an incumbent mayor.
+
+---
+
+## References
