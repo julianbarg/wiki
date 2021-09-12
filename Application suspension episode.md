@@ -22,8 +22,9 @@ Year | Month | Day  | Event
 </br>|       | 25   | Clinton team still discusses KXL. "'[Option] (1) Don't comment and hope it goes away' [...] 'Or option 3 - lean into this to send a wink-wink to enviros while she continues to give her non-answer'" [@Ferguson2015].
 </br>|       | 27   | Clinton presents her climate plan. When asked about KXL: "I will refrain from commenting [...]" [@Foran2015]. Environmental groups positive reception of her plan is overshadowed by their concern over KXL [@Miller2015].
 </br>|       | 28   | Sanders attacks Clinton on KXL: "It is hard for me to understand how one can be concerned about climate change but not vigorously oppose the Keystone pipeline" [@Strauss2015].
-</br>| Aug   | 06   | Clinton team plan: KXL statement at Colbert Show in Oct [@Schaka2015]
-</br>| Aug   | 19   | Clinton criticizes the president's _delay_ on KXL decision
+</br>| Aug   | 06   | Clinton team considers KXL statement at Colbert Show in Oct [@Schaka2015], later that day it is "in a holding pattern again on KXL" [@Sullivan2015b]
+</br>|       | 07   | The final stance is still being discussed: "'is she coming out against Keystone XL?' [...] 'We are trying to find a good way to leak her opposition to the pipeline without her having to actually say it and give up her principled stand about not second-guessing the President in public'" [@Schwerin2015]. At the same time, the stance is impacted by the unfolding Hillary Clinton email controversy: "We could even have her come out against Keystone on Monday as well (not sure where that stands), which will solicit criticism but that might help distract from emails" [@Palmieri2015].
+</br>|       | 19   | Clinton criticizes the president's _delay_ on KXL decision
 </br>| Sep   | 22   | Clinton comes out as opposing KXL
 </br>| Nov   | 03   | TransCanada asks White House to suspend KXL application
 </br>|       | 07   | President rejects KXL application
