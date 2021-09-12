@@ -21,6 +21,13 @@ bibliography: bibliography.bib
 
 ### Skeptical learning
 
+\* Or: radical skepticism
+
+* Conspiracy movements
+    * Example: Crisis Actors Conspiracy Movement
+        * [[https://www.youtube.com/watch?v=To91BJGKr5I]]
+        * Believe that mass shootings are a government conspiracy, and victims have not died, have never existed
+
 ### Expert learning
 
 ## Cases that show additional attributes
