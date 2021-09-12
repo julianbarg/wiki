@@ -29,9 +29,9 @@ Year | Month | Day  | Event
 </br>|       | 19   | Chair of Clinton campaign Podesta: "Now if POTUS would finally kill Keystone all could be good in the kingdom" [@Podesta2015]
 </br>|       |      | Clinton criticizes the president's _delay_ on KXL decision
 </br>| Sep   | 22   | Clinton comes out as opposing KXL
+2016 | Oct   | 21   | WikiLeaks publishes Clinton campaigns internal emails on KXL decision making [@Biesecker2016]
 </br>| Nov   | 03   | TransCanada asks White House to suspend KXL application
 </br>|       | 07   | President rejects KXL application
-2016 | Oct   | 21   | WikiLeaks publishes Clinton campaigns internal emails on KXL decision making [@Biesecker2016]
 2017 | Jan   | 24   | President signs "Memorandum on Construction of the Keystone XL Pipeline" [@Trump2017]
 
 ## Narrative
