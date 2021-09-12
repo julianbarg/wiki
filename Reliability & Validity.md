@@ -4,10 +4,10 @@ bibliography: bibliography.bib
 
 ## Matrix
 
-</br>                   | Low validity      | High validity
----                     | ---               | ---
-**High reliability**    |                   |
-**Low reliability**     |                   |
+</br>                   | Low validity          | High validity
+---                     | ---                   | ---
+**High reliability**    | [[Popular learning]]  | [[Regulatory learning]]
+**Low reliability**     | [[Skeptical learning]]| [[Expert learning]]
 
 ## Cases
 
