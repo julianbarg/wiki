@@ -20,7 +20,7 @@ Year | Month | Day  | Event
 </br>| July  | 25   | Clinton team still discusses KXL. "'[Option] (1) Don't comment and hope it goes away' [...] 'Or option 3 - lean into this to send a wink-wink to enviros while she continues to give her non-answer'" [@Ferguson2015].
 </br>|       | 27   | Clinton when asked about KXL: "I will refrain from commenting [...]" [@Foran2015].
 </br>|       | 28   | Sanders attacks Clinton on KXL: "It is hard for me to understand how one can be concerned about climate change but not vigorously oppose the Keystone pipeline" [@Strauss2015].
-</br>| Aug   | 06   | Clinton team plan: KXL statement at Colbert Show in Oct
+</br>| Aug   | 06   | Clinton team plan: KXL statement at Colbert Show in Oct [@Schaka2015]
 </br>| Aug   | 19   | Clinton criticizes the president's _delay_ on KXL decision
 </br>| Sep   | 22   | Clinton comes out as opposing KXL
 </br>| Nov   | 03   | TransCanada asks White House to suspend KXL application
