@@ -16,6 +16,7 @@ Year | Month | Day  | Event
 </br>|       | 22   | Clinton campaign discusses delaying a statement until May Congress recess [@Sullivan2015]
 </br>| May   | 10   | Sanders uses KXL to differentiate himself: "I'm not quite sure Hillary Clinton has come out with a position on that" [@Kaplan2015]. The comment enters the Clinton campaign's news review the next day [@Phillips2015a].
 </br>|       | 14   | Bill McKibben, founder of 350.org, criticizes Clinton on KXL "[Sanders has] been the most consistent and proactive voice in the entire Keystone fight" [@Adler2015]. The comment enters the Clinton campaign's news review the next day [@Phillips2015].
+</br>|       | 18   | Clinton campaign "heard a rumor that a decision could come as early as this Thursday" and prepares a reaction [@Ogden2015]
 </br>| June  | 04   | Candidate Perry in his announcement speech: "On day one, I will also sign an executive order approving the construction of the Keystone Pipeline." [@Perry2015]
 </br>| July  | 25   | Clinton team still discusses KXL. "'[Option] (1) Don't comment and hope it goes away' [...] 'Or option 3 - lean into this to send a wink-wink to enviros while she continues to give her non-answer'" [@Ferguson2015].
 </br>|       | 27   | Clinton when asked about KXL: "I will refrain from commenting [...]" [@Foran2015].
