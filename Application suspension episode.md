@@ -26,6 +26,7 @@ Year | Month | Day  | Event
 </br>|       | 07   | The final stance is still being discussed: "'is she coming out against Keystone XL?' [...] 'We are trying to find a good way to leak her opposition to the pipeline without her having to actually say it and give up her principled stand about not second-guessing the President in public'" [@Schwerin2015]. At the same time, the stance is impacted by the unfolding Hillary Clinton email controversy: "We could even have her come out against Keystone on Monday as well (not sure where that stands), which will solicit criticism but that might help distract from emails" [@Palmieri2015].
 </br>|       | 09   | CBC News talks to a source inside TransCanada. TransCanada believes rejection is imminent, considers NAFTA lawsuit or re-filing application after election [@Panetta2015].
 </br>|       | 14   | Clinton team shares rumors that president will deny KXL on a Aug 24 or 25. "well [sic] this would be great" [@Schwerin2015a].
+</br>|       | 19   | Chair of Clinton campaign Podesta: "Now if POTUS would finally kill Keystone all could be good in the kingdom" [@Podesta2015]
 </br>|       | 19   | Clinton criticizes the president's _delay_ on KXL decision
 </br>| Sep   | 22   | Clinton comes out as opposing KXL
 </br>| Nov   | 03   | TransCanada asks White House to suspend KXL application
