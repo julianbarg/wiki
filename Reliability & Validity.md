@@ -11,7 +11,7 @@ bibliography: bibliography.bib
 </br>                   | Low validity          | High validity
 ---                     | ---                   | ---
 **High reliability**    | [[Popular learning]]  | [[Regulatory learning]]
-**Low reliability**     | [[Skeptical learning]]| [[Expert learning]]
+**Low reliability**     | [[Skeptical learning]]| [[Expert learning|Reliability & Validity#expert-learning]]
 
 ## Cases by quadrants
 
