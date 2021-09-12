@@ -20,7 +20,8 @@ Year | Month | Day  | Event
 </br>| June  | 04   | Candidate Perry in his announcement speech: "On day one, I will also sign an executive order approving the construction of the Keystone Pipeline." [@Perry2015]
 </br>| July  | 10   | In a non-public email, League of Conservation Voters suggests edits to Clinton campaign responses in LCV questionnaire: "it’s hard to imagine we can move forward [with an endorsement] until [Hillary] makes clear she now opposes KXL" [@Sullivan2015a]
 </br>|       | 25   | Clinton team still discusses KXL. "'[Option] (1) Don't comment and hope it goes away' [...] 'Or option 3 - lean into this to send a wink-wink to enviros while she continues to give her non-answer'" [@Ferguson2015].
-</br>|       | 27   | Clinton when asked about KXL: "I will refrain from commenting [...]" [@Foran2015].
+</br>|       | 27   | Clinton presents her climate plan. When asked about KXL: "I will refrain from commenting [...]" [@Foran2015].
+</br>|       |      | Environmental groups positive reception of her plan is overshadowed by their concern over KXL [@Miller2015]
 </br>|       | 28   | Sanders attacks Clinton on KXL: "It is hard for me to understand how one can be concerned about climate change but not vigorously oppose the Keystone pipeline" [@Strauss2015].
 </br>| Aug   | 06   | Clinton team plan: KXL statement at Colbert Show in Oct [@Schaka2015]
 </br>| Aug   | 19   | Clinton criticizes the president's _delay_ on KXL decision
