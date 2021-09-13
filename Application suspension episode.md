@@ -46,6 +46,7 @@ Year | Month | Day  | Event
 </br>|       | 7-9  | Clinton campaign continues Aug 23 discussion of KXL op-ed. The discussion shows a range of dimensions considered by the team as framings--consistency, developments, climate change, (political) energy and tonality, timing, language, job creation, data as an afterthought. See [[Clinton campaign--KXL dimensions]].
 </br>|       | 09   | Clinton meets with NABTU, informs them of anti-KXL stance. LIUNA in particular maintains critical stance: "we should not be surprised if LIUNA still puts out a critical statement in response to our statement when [the op-ed] goes out. [...] You might even notice them reaching out to Republicans, that is for show" [@Budzinski2015b].
 </br>|       |      | Clinton campaign drafts new responses to League of Conservative Voters questionnaire from July. The new response is a solid and concise rundown of activists' anti-KXL rhetorics [@Ogden2015a].
+</br>|       | 17   | A Clinton campaign staff member quotes Obama as saying in a speech that the KXL decision hinges on its calculated net climate impacts [@Fisher2015].
 </br>|       | 22   | Clinton comes out as opposing KXL
 2016 | Oct   | 19   | Canadian federal election
 2016 |       | 21   | WikiLeaks publishes Clinton campaigns internal emails, including on KXL decision making [@Biesecker2016]
