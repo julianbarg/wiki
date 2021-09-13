@@ -64,6 +64,6 @@ Sep 8, 2015
 >
 > -- [[Nick Merrill|https://wikileaks.org/podesta-emails/emailid/35579]]
 
-> We are going around and around on the merry go round. I think Fallon's point is fine, but to Nick's we can't go in and out of that meeting with [[NATBU]] thinking she's on their side on this.
+> We are going around and around on the merry go round. I think Fallon's point is fine, but to Nick's we can't go in and out of that meeting with [NATBU] thinking she's on their side on this.
 > 
 > -- [[John Podesta|https://wikileaks.org/podesta-emails/emailid/14966]]
