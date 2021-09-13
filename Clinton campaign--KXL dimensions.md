@@ -20,6 +20,8 @@ Sep 7, 2015
 > 
 > -- [[Joe Benenson|https://wikileaks.org/podesta-emails/emailid/53680]]
 
+Sep 8, 2015
+
 > We have a couple of debate prep answers that use basically the same construction of the oped - wanting to give POTUS space, but needing to let voters know where she stands, and then pivoting to the infrastructure package.
 >
 > -- [[Kristina Costa|https://wikileaks.org/podesta-emails/emailid/21397]]
