@@ -8,7 +8,7 @@ bibliography: bibliography.bib
 
 ## Abbreviations
 
-* LiUNA: Labourers' International Union of North America
+* LIUNA: Labourers' International Union of North America
 * NABTU: North America's Building Trades Unions
 
 ## People
@@ -44,10 +44,10 @@ Year | Month | Day  | Event
 </br>|       | 27   | The US ambassador to Canada--who had previously worked for TransCanada--notes in an email to Clinton campaign director Podesta that a comment on KXL "could be argued to be intervention in [the Canadian] election" [@Giffin2015].
 </br>| Sep   | 07   | Clinton campaign puts off KXL decision again [@Budzinski2015a].
 </br>|       | 7-9  | Clinton campaign continues Aug 23 discussion of KXL op-ed. The discussion shows a range of dimensions considered by the team as framings--consistency, developments, climate change, (political) energy and tonality, timing, language, job creation, data as an afterthought. See [[Clinton campaign--KXL dimensions]].
-</br>|       | 09   | Clinton meets with NABTU, informs them of anti-KXL stance [@Podesta2015a]. 
+</br>|       | 09   | Clinton meets with NABTU, informs them of anti-KXL stance. LIUNA maintains critical stance: "we should not be surprised if LIUNA still puts out a critical statement in response to our statement when [the op-ed] goes out. [...] You might even notice them reaching out to Republicans, that is for show" [@Budzinski2015b].
 </br>|       | 22   | Clinton comes out as opposing KXL
 2016 | Oct   | 19   | Canadian federal election
-2016 |       | 21   | WikiLeaks publishes Clinton campaigns internal emails on KXL decision making [@Biesecker2016]
+2016 |       | 21   | WikiLeaks publishes Clinton campaigns internal emails, including on KXL decision making [@Biesecker2016]
 </br>| Nov   | 03   | TransCanada asks White House to suspend KXL application
 </br>|       | 07   | President rejects KXL application
 2017 | Jan   | 24   | President signs "Memorandum on Construction of the Keystone XL Pipeline" [@Trump2017]
