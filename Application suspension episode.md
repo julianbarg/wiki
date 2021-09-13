@@ -39,6 +39,7 @@ Year | Month | Day  | Event
 </br>|       | 19   | Chair of Clinton campaign Podesta: "Now if POTUS would finally kill Keystone all could be good in the kingdom" [@Podesta2015]
 </br>|       |      | Clinton criticizes the president's _delay_ on KXL decision
 </br>|       | 20   | NABTU reaches out to Clinton campaign regarding a potential decision on KXL by the president four days later. Clinton Labor Outreach Director makes clear that an approving statement by Clinton campaign would endanger union relations [@Budzinski2015].
+</br>|       | 22   | Clinton campaign prepares op-ed "that should help soften the blow to the [NATBU] of the KXL" decision". The statement suggests pipeline safety measures to create work for specific unions (see [[]])
 </br>| Sep   | 09   | Clinton campaign Labour Outreach Director meets with NABTU
 </br>|       | 22   | Clinton comes out as opposing KXL
 2016 | Oct   | 19   | Canadian federal election
@@ -52,6 +53,10 @@ Year | Month | Day  | Event
 ### Additional dimension: Clinton email leak
 
 Where originally, the pressure of environmentalists on Clinton made the defeat of KXL seem more likely, the leak of Clinton's emails ironically inverted this effect slightly. The brought to light the calculative approach that Clinton took with regard to the issue. Commentators saw her move in a new light: The calculative approach confirmed in the eyes of commentators the impression that Clinton was less of a woman of conviction, and more of a untrostworthy populist (needs references/triangulation). The leak had an effect of cancelling out the positiv effect she seeked to gain from the original move. Finally, the "meta dimension" of the issue seems to have paralized the Clinton campaign itself--"do we worry that publishing an oped that leans this aggressively into our newfound position on Keystone will be greeted cynically and perhaps as part of some manufactured attempt to project sincerity?" [@Brian2015]. Members of the campaign spend weeks deliberating on how to come into the open with their position on KXL.
+
+## Quotes
+
+### Pipeline safety--unions
 
 ## Sources
 
