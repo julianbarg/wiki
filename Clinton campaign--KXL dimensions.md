@@ -1,4 +1,8 @@
-Sep 7, 2015
+# Clinton campaign--KXL discussion dimensions
+
+[[_TOC_]]
+
+## Sep 7, 2015
 
 > This makes her seem totally political.  Her reason for being against it is because “she can’t stay silent on an issue that matters to so many”?? She has been silent.  I don’t think this construct will fly.
 > 
@@ -20,7 +24,7 @@ Sep 7, 2015
 > 
 > -- [[Joe Benenson|https://wikileaks.org/podesta-emails/emailid/53680]]
 
-Sep 8, 2015
+## Sep 8, 2015
 
 > We have a couple of debate prep answers that use basically the same construction of the oped - wanting to give POTUS space, but needing to let voters know where she stands, and then pivoting to the infrastructure package.
 >
@@ -64,7 +68,7 @@ Sep 8, 2015
 >
 > -- [[Nick Merrill|https://wikileaks.org/podesta-emails/emailid/35579]]
 
-Sep 9, 2015
+## Sep 9, 2015
 
 > We are going around and around on the merry go round. I think Fallon's point is fine, but to Nick's we can't go in and out of that meeting with [NATBU] thinking she's on their side on this.
 > 
