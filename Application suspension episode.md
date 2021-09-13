@@ -97,7 +97,7 @@ Where originally, the pressure of environmentalists on Clinton made the defeat o
 > consumption, and pollution (positive for IBEW, ironworkers and other public
 > transit-exposed trades).
 >
-> [@Budzinski2015]
+> -- @Budzinski2015
 
 ## Sources
 
