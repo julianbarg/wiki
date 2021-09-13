@@ -58,27 +58,27 @@ Where originally, the pressure of environmentalists on Clinton made the defeat o
 
 ### Pipeline safety--unions
 
-> 1.       *National Infrastructure Bank* – HRC mentioned this in her
+> 1. *National Infrastructure Bank* – HRC mentioned this in her
 > launch speech but it’s called out more specifically here (positive for all
 > the trades).
 >
-> 2.       *Modernizing our Pipeline System – *A pledge to repair or
+> 2. *Modernizing our Pipeline System – *A pledge to repair or
 > replace thousands of miles of outdated pipeline by the end of her first
 > term, through a new “Pipeline Partnership” that supports rate relief for
 > states, cities and rural communities that accelerate replacement of
 > outdated pipes (good for LiUNA and UA).
 >
-> 3.       *Increase Rail Safety *– Accelerate the phase-out of outdated
+> 3. *Increase Rail Safety *– Accelerate the phase-out of outdated
 > tank cars and repair track defects (will create jobs for affiliates with
 > exposure on the tank car manufacturing and track repair fronts, though the
 > Teamsters may be negative if they see it as slowing oil-by-rail volumes).
 >
-> 4.       *Enhance Grid Security* - Provide new tools and resources to
+> 4. *Enhance Grid Security* - Provide new tools and resources to
 > states, cities and rural communities to make the investments necessary to
 > improve grid resilience to both cyber-attack and extreme weather events
 > (positive for IBEW).
 >
-> 5.       *Expanding Consumer Choice:* Offer financing tools for grid
+> 5. *Expanding Consumer Choice:* Offer financing tools for grid
 > investments that support the integration of distributed energy resources
 > and for gas pipeline investments that enable households and businesses to
 > switch away from heating oil and other petroleum products (the trades won’t
@@ -86,12 +86,12 @@ Where originally, the pressure of environmentalists on Clinton made the defeat o
 > network to enable replacement of old fuel oil furnaces with natural gas
 > furnaces is positive for LiUNA, UA and the Boilermakers) .
 >
-> 6.       *Transmission Investment:* Ensure the federal government is a
+> 6. *Transmission Investment:* Ensure the federal government is a
 > partner in getting low-cost wind and other renewable energy to market
 > through improved federal coordination and cooperation with local
 > governments and power companies (positive for IBEW).
 >
-> 7.       *Transportation Funding: *Work with Congress to close corporate
+> 7. *Transportation Funding: *Work with Congress to close corporate
 > tax loopholes and increase invest investment in transportation solutions
 > that expand transit access and reduce congestion, commute times, oil
 > consumption, and pollution (positive for IBEW, ironworkers and other public
