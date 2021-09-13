@@ -42,7 +42,8 @@ Year | Month | Day  | Event
 </br>|       | 22   | Clinton campaign prepares op-ed "that should help soften the blow to the [NATBU] of the KXL decision" [@Budzinski2015]. The statement suggests pipeline safety measures to create work for specific unions (see [[Quotes|Application suspension episode#pipeline-safety-unions]]).
 </br>|       | 23   | Rumored date of presidents decision on KXL is now late October. "Maybe they decided to push it until after the Canadian election on 10/19" [@Budzinski2015]. On the potential of KXL op-ed, Clinton campaign Labour Outreach Director remarks: "Ideally to get passed [sic] the Sept 9 meeting with the [NATBU] would be a personal god-send" [@Budzinski2015]. Labour Outreach Director also suggests specific language for the op-ed to appease unions, such as "Careers is their buzz word" [@Budzinski2015]. See [[Quotes|Application suspension episode#appease-unions]].
 </br>|       | 27   | The US ambassador to Canada--who had previously worked for TransCanada--notes in an email to Clinton campaign director Podesta that a comment on KXL "could be argued to be intervention in [the Canadian] election" [@Giffin2015].
-</br>| Sep   | 7-8  | Clinton campaign discussion on KXL op-ed shows dimensions considered by the team. 
+</br>| Sep   | 07   | Clinton campaign puts off KXL decision again [@Budzinski2015a].
+</br>|       | 7-8  | Clinton campaign continues Aug 23 discussion of KXL op-ed. The discussion shows a range of dimensions considered by the team as framings--consistency, developments, climate change, (political) energy and tonality, timing, language, job creation, data as an afterthought
 </br>|       | 09   | Clinton campaign Labour Outreach Director meets with NABTU
 </br>|       | 22   | Clinton comes out as opposing KXL
 2016 | Oct   | 19   | Canadian federal election
@@ -58,6 +59,49 @@ Year | Month | Day  | Event
 Where originally, the pressure of environmentalists on Clinton made the defeat of KXL seem more likely, the leak of Clinton's emails ironically inverted this effect slightly. The brought to light the calculative approach that Clinton took with regard to the issue. Commentators saw her move in a new light: The calculative approach confirmed in the eyes of commentators the impression that Clinton was less of a woman of conviction, and more of a untrostworthy populist (needs references/triangulation). The leak had an effect of cancelling out the positiv effect she seeked to gain from the original move. Finally, the "meta dimension" of the issue seems to have paralized the Clinton campaign itself--"do we worry that publishing an oped that leans this aggressively into our newfound position on Keystone will be greeted cynically and perhaps as part of some manufactured attempt to project sincerity?" [@Brian2015]. Members of the campaign spend weeks deliberating on how to come into the open with their position on KXL.
 
 ## Quotes
+
+### Dimensions
+
+Sep 7, 2015
+
+> This makes her seem totally political.  Her reason for being against it is because “she can’t stay silent on an issue that matters to so many”?? She has been silent.  I don’t think this construct will fly.
+> 
+> I think structurally, we have to hang this on the dramatic changes since the application was filed in the 3rd graph.  And we have to make her a visionary on clean energy and environment, not the policy director in chief.
+> 
+> -- [[Joe Benenson|https://wikileaks.org/podesta-emails/emailid/56419]]
+
+> Thursday would be better press-wise so it doesn't compete with her Iran speech on Wednesday.
+> 
+> -- [[Kristina Schake|https://wikileaks.org/podesta-emails/emailid/25653]]
+
+> Joel, we pumped up the climate impacts but in discussing with Jake decided we do still need to address why she's making her position known, when she has previously said she will wait for the President to make a decision. Added a line about wanting to let voters know where she stands, and added a more expansive graf about making the US the leader in fighting climate change and becoming a clean energy superpower.
+>
+> --[[Kristina Costa|https://wikileaks.org/podesta-emails/emailid/53680]]
+
+> [R]ight now you don’t have any sound bite that elevates her position and all that will get picked up is that she’s opposed to keystone. [...]
+>
+> I’m worried that if we don’t have something like [a single big idea that encapsulates her vision] we are light on her core values and beliefs on this issue and we are missing those [sic], she risks looking very political, especially on this.
+> 
+> -- [[Joe Benenson|https://wikileaks.org/podesta-emails/emailid/53680]]
+
+> We have a couple of debate prep answers that use basically the same construction of the oped - wanting to give POTUS space, but needing to let voters know where she stands, and then pivoting to the infrastructure package.
+>
+> -- [[Kristina Costa|https://wikileaks.org/podesta-emails/emailid/21397]]
+
+> Late to this, sorry.
+> 
+> Is it easy/possible to put some number on the jobs?   …”creating hundreds of thousands good paying jobs”…  ?
+>
+> -- [[Jim Margolis|https://wikileaks.org/podesta-emails/emailid/4536]]
+
+> I would prefer language a little less bold from the labor perspective. I worry it will be interpreted to reflect on similar future projects.
+> 
+> -- [[Nikki Budzinski|https://wikileaks.org/podesta-emails/emailid/26111]]
+
+> A jobs number would be a total guess and we don't have calculations (even KXL-booster-Republican-fuzzy-math quality calculations) to back up the inevitable fact check.
+>
+> --[[Kristina Costa|https://wikileaks.org/podesta-emails/emailid/17964]]
+
 
 ### Pipeline safety--unions
 
