@@ -42,7 +42,8 @@ Year | Month | Day  | Event
 </br>|       | 22   | Clinton campaign prepares op-ed "that should help soften the blow to the [NATBU] of the KXL decision" [@Budzinski2015]. The statement suggests pipeline safety measures to create work for specific unions (see [[Quotes|Application suspension episode#pipeline-safety-unions]]).
 </br>|       | 23   | Rumored date of presidents decision on KXL is now late October. "Maybe they decided to push it until after the Canadian election on 10/19" [@Budzinski2015]. On the potential of KXL op-ed, Clinton campaign Labour Outreach Director remarks: "Ideally to get passed [sic] the Sept 9 meeting with the [NATBU] would be a personal god-send" [@Budzinski2015]. Labour Outreach Director also suggests specific language for the op-ed to appease unions, such as "Careers is their buzz word" [@Budzinski2015]. See [[Quotes|Application suspension episode#appease-unions]].
 </br>|       | 27   | The US ambassador to Canada--who had previously worked for TransCanada--notes in an email to Clinton campaign director Podesta that a comment on KXL "could be argued to be intervention in [the Canadian] election" [@Giffin2015].
-</br>| Sep   | 09   | Clinton campaign Labour Outreach Director meets with NABTU
+</br>| Sep   | 7-8  | Clinton campaign discussion on KXL op-ed shows dimensions considered by the team. 
+</br>|       | 09   | Clinton campaign Labour Outreach Director meets with NABTU
 </br>|       | 22   | Clinton comes out as opposing KXL
 2016 | Oct   | 19   | Canadian federal election
 2016 |       | 21   | WikiLeaks publishes Clinton campaigns internal emails on KXL decision making [@Biesecker2016]
@@ -59,6 +60,8 @@ Where originally, the pressure of environmentalists on Clinton made the defeat o
 ## Quotes
 
 ### Pipeline safety--unions
+
+Aug 22, 2015
 
 > 1. *National Infrastructure Bank* – HRC mentioned this in her launch speech but it’s called out more specifically here (positive for all the trades).
 >
@@ -77,6 +80,8 @@ Where originally, the pressure of environmentalists on Clinton made the defeat o
 > -- @Budzinski2015
 
 ### Appease unions
+
+Aug 23, 2015
 
 > 2. Could we include the terminology around "current baseload needs" in the current energy economy in both the fact sheet and Op Ed?  This will at least tip the hat to where we are today with the acknowledgement that we are transitioning to green.
 >
