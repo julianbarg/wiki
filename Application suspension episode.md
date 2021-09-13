@@ -40,7 +40,7 @@ Year | Month | Day  | Event
 </br>|       |      | Clinton criticizes the president's _delay_ on KXL decision
 </br>|       | 20   | NABTU reaches out to Clinton campaign regarding a potential decision on KXL by the president four days later. Clinton Labor Outreach Director makes clear that an approving statement by Clinton campaign would endanger union relations [@Budzinski2015].
 </br>|       | 22   | Clinton campaign prepares op-ed "that should help soften the blow to the [NATBU] of the KXL decision" [@Budzinski2015]. The statement suggests pipeline safety measures to create work for specific unions (see [[Quotes|Application suspension episode#pipeline-safety-unions]]).
-</br>|       | 23   | Rumored date of presidents decision on KXL is now late October. "Maybe they decided to push it until after the Canadian election on 10/19" [@Budzinski2015]. On the potential of KXL op-ed, Clinton campaign Labour Outreach Director remarks: "Ideally to get passed [sic] the Sept 9 meeting with the [NATBU] would be a personal god-send" [@Budzinski2015]. Labour Outreach Director also suggests specific language for the op-ed to appease unions (see[[Quotes|Application suspension episode#appease-unions]]).
+</br>|       | 23   | Rumored date of presidents decision on KXL is now late October. "Maybe they decided to push it until after the Canadian election on 10/19" [@Budzinski2015]. On the potential of KXL op-ed, Clinton campaign Labour Outreach Director remarks: "Ideally to get passed [sic] the Sept 9 meeting with the [NATBU] would be a personal god-send" [@Budzinski2015]. Labour Outreach Director also suggests specific language for the op-ed to appease unions, such as "Careers is their buzz word" [@Budzinski2015]. See [[Quotes|Application suspension episode#appease-unions]].
 </br>| Sep   | 09   | Clinton campaign Labour Outreach Director meets with NABTU
 </br>|       | 22   | Clinton comes out as opposing KXL
 2016 | Oct   | 19   | Canadian federal election
@@ -59,48 +59,32 @@ Where originally, the pressure of environmentalists on Clinton made the defeat o
 
 ### Pipeline safety--unions
 
-> 1. *National Infrastructure Bank* – HRC mentioned this in her
-> launch speech but it’s called out more specifically here (positive for all
-> the trades).
+> 1. *National Infrastructure Bank* – HRC mentioned this in her launch speech but it’s called out more specifically here (positive for all the trades).
 >
-> 2. *Modernizing our Pipeline System – *A pledge to repair or
-> replace thousands of miles of outdated pipeline by the end of her first
-> term, through a new “Pipeline Partnership” that supports rate relief for
-> states, cities and rural communities that accelerate replacement of
-> outdated pipes (good for LiUNA and UA).
+> 2. *Modernizing our Pipeline System – *A pledge to repair or replace thousands of miles of outdated pipeline by the end of her first term, through a new “Pipeline Partnership” that supports rate relief for states, cities and rural communities that accelerate replacement of outdated pipes (good for LiUNA and UA).
 >
-> 3. *Increase Rail Safety *– Accelerate the phase-out of outdated
-> tank cars and repair track defects (will create jobs for affiliates with
-> exposure on the tank car manufacturing and track repair fronts, though the
-> Teamsters may be negative if they see it as slowing oil-by-rail volumes).
+> 3. *Increase Rail Safety *– Accelerate the phase-out of outdated tank cars and repair track defects (will create jobs for affiliates with exposure on the tank car manufacturing and track repair fronts, though the Teamsters may be negative if they see it as slowing oil-by-rail volumes).
 >
-> 4. *Enhance Grid Security* - Provide new tools and resources to
-> states, cities and rural communities to make the investments necessary to
-> improve grid resilience to both cyber-attack and extreme weather events
-> (positive for IBEW).
+> 4. *Enhance Grid Security* - Provide new tools and resources to states, cities and rural communities to make the investments necessary to improve grid resilience to both cyber-attack and extreme weather events (positive for IBEW).
 >
-> 5. *Expanding Consumer Choice:* Offer financing tools for grid
-> investments that support the integration of distributed energy resources
-> and for gas pipeline investments that enable households and businesses to
-> switch away from heating oil and other petroleum products (the trades won’t
-> love the distributed energy piece but the expanded natural gas pipeline
-> network to enable replacement of old fuel oil furnaces with natural gas
-> furnaces is positive for LiUNA, UA and the Boilermakers) .
+> 5. *Expanding Consumer Choice:* Offer financing tools for grid investments that support the integration of distributed energy resources and for gas pipeline investments that enable households and businesses to switch away from heating oil and other petroleum products (the trades won’t love the distributed energy piece but the expanded natural gas pipeline network to enable replacement of old fuel oil furnaces with natural gas furnaces is positive for LiUNA, UA and the Boilermakers) .
 >
-> 6. *Transmission Investment:* Ensure the federal government is a
-> partner in getting low-cost wind and other renewable energy to market
-> through improved federal coordination and cooperation with local
-> governments and power companies (positive for IBEW).
+> 6. *Transmission Investment:* Ensure the federal government is a partner in getting low-cost wind and other renewable energy to market through improved federal coordination and cooperation with local governments and power companies (positive for IBEW).
 >
-> 7. *Transportation Funding: *Work with Congress to close corporate
-> tax loopholes and increase invest investment in transportation solutions
-> that expand transit access and reduce congestion, commute times, oil
-> consumption, and pollution (positive for IBEW, ironworkers and other public
-> transit-exposed trades).
+> 7. *Transportation Funding: *Work with Congress to close corporate tax loopholes and increase invest investment in transportation solutions that expand transit access and reduce congestion, commute times, oil consumption, and pollution (positive for IBEW, ironworkers and other public transit-exposed trades).
 >
 > -- @Budzinski2015
 
 ### Appease unions
+
+> 2. Could we include the terminology around "current baseload needs" in the current energy economy in both the fact sheet and Op Ed?  This will at least tip the hat to where we are today with the acknowledgement that we are transitioning to green.
+>
+> 3. When we talk about infrastructure standards, could we please mention prevailing wage and project labor agreements as one good set of standards? 
+>
+> 4. Could we beef up the mentioning jobs? O'Malley made the mistake with the trades of stating that energy jobs are temporary. They really bristle at that. Could we mention that these are "jobs and careers" for many workers and as we transition HRC wants to create more careers within the new energy economy? Careers is their buzz word.
+> 5. As I mention above, the Trades will attack Obama on raising energy prices, could HRC's OpEd and Fact sheet mention that she wants to see protections for consumers for those potential rising prices?
+>
+> -- @Budzinski2015
 
 ## Sources
 
