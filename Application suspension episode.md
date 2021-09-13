@@ -9,7 +9,7 @@ bibliography: bibliography.bib
 ## Abbreviations
 
 * LiUNA: Labourers' International Union of North America
-* NATBU: North America's Building Trades Unions
+* NABTU: North America's Building Trades Unions
 
 ## People
 
@@ -39,12 +39,12 @@ Year | Month | Day  | Event
 </br>|       | 19   | Chair of Clinton campaign Podesta: "Now if POTUS would finally kill Keystone all could be good in the kingdom" [@Podesta2015]
 </br>|       |      | Clinton criticizes the president's _delay_ on KXL decision
 </br>|       | 20   | NABTU reaches out to Clinton campaign regarding a potential decision on KXL by the president four days later. Clinton Labor Outreach Director makes clear that an approving statement by Clinton campaign would endanger union relations [@Budzinski2015].
-</br>|       | 22   | Clinton campaign prepares op-ed "that should help soften the blow to the [NATBU] of the KXL decision" [@Budzinski2015]. The statement suggests pipeline safety measures to create work for specific unions (see [[Quotes|Application suspension episode#pipeline-safety-unions]]).
-</br>|       | 23   | Rumored date of presidents decision on KXL is now late October. "Maybe they decided to push it until after the Canadian election on 10/19" [@Budzinski2015]. On the potential of KXL op-ed, Clinton campaign Labour Outreach Director remarks: "Ideally to get passed [sic] the Sept 9 meeting with the [NATBU] would be a personal god-send" [@Budzinski2015]. Labour Outreach Director also suggests specific language for the op-ed to appease unions, such as "Careers is their buzz word" [@Budzinski2015].
+</br>|       | 22   | Clinton campaign prepares op-ed "that should help soften the blow to the [NABTU] of the KXL decision" [@Budzinski2015]. The statement suggests pipeline safety measures to create work for specific unions (see [[Quotes|Application suspension episode#pipeline-safety-unions]]).
+</br>|       | 23   | Rumored date of presidents decision on KXL is now late October. "Maybe they decided to push it until after the Canadian election on 10/19" [@Budzinski2015]. On the potential of KXL op-ed, Clinton campaign Labour Outreach Director remarks: "Ideally to get passed [sic] the Sept 9 meeting with the [NABTU] would be a personal god-send" [@Budzinski2015]. Labour Outreach Director also suggests specific language for the op-ed to appease unions, such as "Careers is their buzz word" [@Budzinski2015].
 </br>|       | 27   | The US ambassador to Canada--who had previously worked for TransCanada--notes in an email to Clinton campaign director Podesta that a comment on KXL "could be argued to be intervention in [the Canadian] election" [@Giffin2015].
 </br>| Sep   | 07   | Clinton campaign puts off KXL decision again [@Budzinski2015a].
-</br>|       | 7-8  | Clinton campaign continues Aug 23 discussion of KXL op-ed. The discussion shows a range of dimensions considered by the team as framings--consistency, developments, climate change, (political) energy and tonality, timing, language, job creation, data as an afterthought. See [[Clinton campaign--KXL dimensions]].
-</br>|       | 09   | Clinton meets with NATBU, informs them of anti-KXL stance [@Podesta2015a]
+</br>|       | 7-9  | Clinton campaign continues Aug 23 discussion of KXL op-ed. The discussion shows a range of dimensions considered by the team as framings--consistency, developments, climate change, (political) energy and tonality, timing, language, job creation, data as an afterthought. See [[Clinton campaign--KXL dimensions]].
+</br>|       | 09   | Clinton meets with NABTU, informs them of anti-KXL stance [@Podesta2015a]. 
 </br>|       | 22   | Clinton comes out as opposing KXL
 2016 | Oct   | 19   | Canadian federal election
 2016 |       | 21   | WikiLeaks publishes Clinton campaigns internal emails on KXL decision making [@Biesecker2016]
