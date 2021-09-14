@@ -6,6 +6,14 @@ bibliography: bibliography.bib
 
 [[_TOC_]]
 
+## Narrative
+
+On November 3, 2015 TransCanada took the highly unusual step of asking the State Department to suspend the permit application for the Keystone XL application. The move highlights the extraordinary uncertainty faced by Keystone XL. At the time, the pipeline had been under review for over half a decade and resubmitted once. Previous environmental impact statements by the State Department had looked positive. However, in the second half of 2014 the oil price halfed, from over $100 to about $50. Cue unexpected consequences. On Febuary 4, 2015 the Environmental Protection Agency (EPA) asked the State Department to revisit their analysis [@Harder2015]. Not to worry--the EPA had done so before, without changing the final outcome [@Goodman2014]. But the changed data basis was reason for concern. With a lower oil price etc.
+
+### Additional dimension: Clinton email leak
+
+Where originally, the pressure of environmentalists on Clinton made the defeat of KXL seem more likely, the leak of Clinton's emails ironically inverted this effect slightly. The brought to light the calculative approach that Clinton took with regard to the issue. Commentators saw her move in a new light: The calculative approach confirmed in the eyes of commentators the impression that Clinton was less of a woman of conviction, and more of a untrostworthy populist (needs references/triangulation). The leak had an effect of cancelling out the positiv effect she seeked to gain from the original move. Finally, the "meta dimension" of the issue seems to have paralized the Clinton campaign itself--"do we worry that publishing an oped that leans this aggressively into our newfound position on Keystone will be greeted cynically and perhaps as part of some manufactured attempt to project sincerity?" [@Brian2015]. Members of the campaign spend weeks deliberating on how to come into the open with their position on KXL.
+
 ## Abbreviations
 
 * LIUNA: Labourers' International Union of North America
@@ -55,12 +63,6 @@ Year | Month | Day  | Event
 </br>|       | 07   | President rejects KXL application
 2016 | Oct   | 21   | WikiLeaks publishes Clinton campaigns internal emails, including on KXL decision making [@Biesecker2016]
 2017 | Jan   | 24   | President signs "Memorandum on Construction of the Keystone XL Pipeline" [@Trump2017]
-
-## Narrative
-
-### Additional dimension: Clinton email leak
-
-Where originally, the pressure of environmentalists on Clinton made the defeat of KXL seem more likely, the leak of Clinton's emails ironically inverted this effect slightly. The brought to light the calculative approach that Clinton took with regard to the issue. Commentators saw her move in a new light: The calculative approach confirmed in the eyes of commentators the impression that Clinton was less of a woman of conviction, and more of a untrostworthy populist (needs references/triangulation). The leak had an effect of cancelling out the positiv effect she seeked to gain from the original move. Finally, the "meta dimension" of the issue seems to have paralized the Clinton campaign itself--"do we worry that publishing an oped that leans this aggressively into our newfound position on Keystone will be greeted cynically and perhaps as part of some manufactured attempt to project sincerity?" [@Brian2015]. Members of the campaign spend weeks deliberating on how to come into the open with their position on KXL.
 
 ## Quotes
 
