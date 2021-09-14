@@ -36,7 +36,7 @@ Year | Month | Day  | Event
 </br>|       | 07   | The final stance is still being discussed: "'is she coming out against Keystone XL?' [...] 'We are trying to find a good way to leak her opposition to the pipeline without her having to actually say it and give up her principled stand about not second-guessing the President in public'" [@Schwerin2015]. At the same time, the stance is impacted by the unfolding Hillary Clinton email controversy: "We could even have her come out against Keystone on Monday as well (not sure where that stands), which will solicit criticism but that might help distract from emails" [@Palmieri2015].
 </br>|       | 09   | CBC News talks to a source inside TransCanada. TransCanada believes rejection is imminent, considers NAFTA lawsuit or re-filing application after election [@Panetta2015].
 </br>|       | 14   | Clinton team shares rumors that president will deny KXL on a Aug 24 or 25. "well [sic] this would be great" [@Schwerin2015a].
-</br>|       | 19   | Chair of Clinton campaign Podesta: "Now if POTUS would finally kill Keystone all could be good in the kingdom" [@Podesta2015]
+</br>|       | 19   | Clinton campaign director Podesta: "Now if POTUS would finally kill Keystone all could be good in the kingdom" [@Podesta2015]
 </br>|       |      | Clinton criticizes the president's _delay_ on KXL decision
 </br>|       | 20   | NABTU reaches out to Clinton campaign regarding a potential decision on KXL by the president four days later. Clinton Labor Outreach Director makes clear that an approving statement by Clinton campaign would endanger union relations [@Budzinski2015].
 </br>|       | 22   | Clinton campaign prepares op-ed "that should help soften the blow to the [NABTU] of the KXL decision" [@Budzinski2015]. The statement suggests pipeline safety measures to create work for specific unions (see [[Quotes|Application suspension episode#pipeline-safety-unions]]).
@@ -47,6 +47,7 @@ Year | Month | Day  | Event
 </br>|       | 09   | Clinton meets with NABTU, informs them of anti-KXL stance. LIUNA in particular maintains critical stance: "we should not be surprised if LIUNA still puts out a critical statement in response to our statement when [the op-ed] goes out. [...] You might even notice them reaching out to Republicans, that is for show" [@Budzinski2015b].
 </br>|       |      | Clinton campaign drafts new responses to League of Conservative Voters questionnaire from July. The new response is a solid and concise rundown of activists' anti-KXL rhetorics [@Ogden2015a].
 </br>|       | 17   | A Clinton campaign staff member quotes Obama as saying in a speech that the KXL decision hinges on its calculated net climate impacts [@Fisher2015].
+</br>|       | 21   | Clinton campaign director Podesta: "She's at the Des Moines Register ed bd tomorrow. Will say she's against if asked. Otherwise we will do later in the week" [@Podesta2015a].
 </br>|       | 22   | Clinton comes out as opposing KXL
 2016 | Oct   | 19   | Canadian federal election
 2016 |       | 21   | WikiLeaks publishes Clinton campaigns internal emails, including on KXL decision making [@Biesecker2016]
