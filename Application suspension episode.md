@@ -8,7 +8,7 @@ bibliography: bibliography.bib
 
 ## Narrative
 
-On November 3, 2015 TransCanada took the highly unusual step of asking the State Department to suspend the permit application for the Keystone XL application. The move highlights the extraordinary uncertainty faced by Keystone XL. At the time, the pipeline had been under review for over half a decade and resubmitted once. Previous environmental impact statements by the State Department had looked positive. However, in the second half of 2014 the oil price halfed, from over \$100 to about \$50. Cue unexpected consequences. On Febuary 4, 2015 the Environmental Protection Agency (EPA) asked the State Department to revisit their analysis [@Harder2015]. Not to worry--the EPA had done so before, without changing the final outcome [@Goodman2014]. But the changed data basis was reason for concern. With a lower oil price etc.
+On November 3, 2015 TransCanada took the highly unusual step of asking the State Department to suspend the permit application for the Keystone XL application. The move highlights the extraordinary uncertainty faced by Keystone XL. At the time, the pipeline had been under review for over half a decade and resubmitted once. Previous environmental impact statements by the State Department had looked positive. However, in the second half of 2014 the oil price halfed, from over '$100 to about \$50. Cue unexpected consequences. On Febuary 4, 2015 the Environmental Protection Agency (EPA) asked the State Department to revisit their analysis [@Harder2015]. Not to worry--the EPA had done so before, without changing the final outcome [@Goodman2014]. But the changed data basis was reason for concern. With a lower oil price etc.
 
 ### Additional dimension: Clinton email leak
 
