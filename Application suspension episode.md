@@ -50,10 +50,10 @@ Year | Month | Day  | Event
 </br>|       | 21   | Clinton campaign director Podesta: "She's at the Des Moines Register ed bd tomorrow. Will say she's against if asked. Otherwise we will do later in the week" [@Podesta2015a].
 </br>|       | 22   | Clinton comes out as opposing KXL
 </br>|       | 29   | LIUNA posts statement in support of KXL unrelated policy proposal by Clinton campaign
-2016 | Oct   | 19   | Canadian federal election
-2016 |       | 21   | WikiLeaks publishes Clinton campaigns internal emails, including on KXL decision making [@Biesecker2016]
+</br>| Oct   | 19   | Canadian federal election
 </br>| Nov   | 03   | TransCanada asks White House to suspend KXL application
 </br>|       | 07   | President rejects KXL application
+2016 | Oct   | 21   | WikiLeaks publishes Clinton campaigns internal emails, including on KXL decision making [@Biesecker2016]
 2017 | Jan   | 24   | President signs "Memorandum on Construction of the Keystone XL Pipeline" [@Trump2017]
 
 ## Narrative
