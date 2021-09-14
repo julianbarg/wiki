@@ -49,6 +49,7 @@ Year | Month | Day  | Event
 </br>|       | 17   | A Clinton campaign staff member quotes Obama as saying in a speech that the KXL decision hinges on its calculated net climate impacts [@Fisher2015].
 </br>|       | 21   | Clinton campaign director Podesta: "She's at the Des Moines Register ed bd tomorrow. Will say she's against if asked. Otherwise we will do later in the week" [@Podesta2015a].
 </br>|       | 22   | Clinton comes out as opposing KXL
+</br>|       | 29   | LIUNA posts statement in support of KXL unrelated policy proposal by Clinton campaign
 2016 | Oct   | 19   | Canadian federal election
 2016 |       | 21   | WikiLeaks publishes Clinton campaigns internal emails, including on KXL decision making [@Biesecker2016]
 </br>| Nov   | 03   | TransCanada asks White House to suspend KXL application
