@@ -10,7 +10,7 @@ bibliography: bibliography.bib
 
 On November 3, 2015 TransCanada took the highly unusual step of asking the State Department to suspend the permit application for the KXL application. The move highlights the extraordinary uncertainty faced by KXL. At the time, the pipeline had been under review for over half a decade and resubmitted once. Previous environmental impact statements by the State Department had looked positive. However, in the second half of 2014 the oil price halfed, from over \\\$100 to about \\\$50. Cue unexpected consequences. On Febuary 4, 2015 the Environmental Protection Agency (EPA) asked the State Department to revisit their analysis [@Harder2015]. Not to worry--the EPA had done so before, without changing the final outcome [@Goodman2014]. But the changed data basis was reason for concern. Before, transportation cost were a negligable factor for the Canadian oil sands industry. Now, the construction of KXL could make the difference between oil fields in Canada being developed or not--the calculated climate impacts of KXL could look significantly worse.
 
-TransCanada's request for the application to be suspended higlights TransCanada's agency in the discourse beyond the provision of narratives, beyond translation, and beyond reconciliation and challenging of the existing discourse. TransCanada's permit application exists in a network of actors with different goals and interests. Throughout the year 2015, the field of candidates for the 2016 presidential election became increasingly clear. The 2015 Keystone XL Pipeline Approval Act could be taken as a litmus test. In February 2015, 
+TransCanada's request for the application to be suspended higlights TransCanada's agency in the discourse beyond the provision of narratives, beyond translation, and beyond reconciliation and challenging of the existing discourse. TransCanada's permit application exists in a network of actors with different goals and interests. Throughout the year 2015, the field of candidates for the 2016 presidential election became increasingly clear. The 2015 Keystone XL Pipeline Approval Act could be taken as a litmus test. On January 9, 2015 the House of Congress passed the act with votes from 238 Republicans and 28 Democrats. In 
 
 * The reality of compromise
 * The wildcard Trump--the art of botchering a deal
@@ -34,8 +34,8 @@ Where originally, the pressure of environmentalists on Clinton made the defeat o
 Year | Month | Day  | Event
 ---  | ---   | ---  | ------------------------------------------
 2010 | Oct   | 20   | Secretary of State Clinton "inclined" to approve KXL
-2015 | Jan   | 09   | US House of Representatives passes Keystone XL Pipeline Approval Act with votes from 238 Republicans and 28 Democrats
-     | Feb
+2015 | Jan   | 09   | US House of Representatives passes Keystone XL Pipeline Approval Act with votes from 238 Republicans and 28 Democrats [@Foran2015a]
+</br>|       | 29   | US Senate passes Keystone XL Pipeline Approval Act with votes from 53 Republicans and 9 Democrats
 </br>| April | 12   | Clinton announces presidential campaign
 </br>|       | 19   | Clinton campaign manager Robby Mook raises KXL question: "The enviros may latch onto this going forward. Have we discussed when she will come out against Keystone? After POTUS vetoes?". The team discusses avoidance tactics: "[...] if we want to have her express skepticism we can do so through a spox [spokesperson] answer to question, using our QA" [@Brian2015].
 </br>|       | 22   | Clinton campaign discusses delaying a statement until May Congress recess [@Sullivan2015]
@@ -112,6 +112,7 @@ Data        | Source            | Title                                         
 :-:         | :---------------: | ------------------------------------------------------------- | ------------------            | ---
 2010-10-20  | Reuters           | Water concerns grow over Canada-U.S. mega oil pipe                            |               | [[Link|https://www.reuters.com/article/canada-us-pipeline-keystone-nebraska-idCATRE69J54R20101020]]
 2015-01-09  | The Atlantic      | Here are the 28 House Democrats Who Voted to Approve the Keystone XL Pipeline | @Foran2015a   | [[Link|https://www.theatlantic.com/politics/archive/2015/01/here-are-the-28-house-democrats-who-voted-to-approve-the-keystone-xl-pipeline/445086/]]
+2015-01-29  | The New York Times| Senate Approves Keystone XL Pipeline Bill, Testing Obama                      | @Davenport2015
 2015-05-10  | CBS News          | Bernie Sanders: I can beat Hillary Clinton                                    | @Kaplan2015   | [[Link|https://www.cbsnews.com/news/bernie-sanders-i-can-beat-hillary-clinton/]]
 2015-07-27  | The Atlantic      | Hillary Clinton Still Won't Talk About Keystone                               | @Foran2015    | [[Link|https://www.theatlantic.com/politics/archive/2015/07/hillary-clinton-still-wont-talk-about-keystone/445191/]]
 2015-07-29  | Politico          | Bernie Sanders attacks Clinton's climate plan: 'Not enough'                   | @Strauss2015  | [[Link|https://www.politico.com/story/2015/07/bernie-sanders-attacks-clintons-climate-plan-not-enough-120738]]
