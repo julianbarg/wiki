@@ -10,7 +10,9 @@ bibliography: bibliography.bib
 
 On November 3, 2015 TransCanada took the highly unusual step of asking the State Department to suspend the permit application for the KXL application. The move highlights the extraordinary uncertainty faced by KXL. At the time, the pipeline had been under review for over half a decade and resubmitted once. Previous environmental impact statements by the State Department had looked positive. However, in the second half of 2014 the oil price halfed, from over \\\$100 to about \\\$50. Cue unexpected consequences. On Febuary 4, 2015 the Environmental Protection Agency (EPA) asked the State Department to revisit their analysis [@Harder2015]. Not to worry--the EPA had done so before, without changing the final outcome [@Goodman2014]. But the changed data basis was reason for concern. Before, transportation cost were a negligable factor for the Canadian oil sands industry. Now, the construction of KXL could make the difference between oil fields in Canada being developed or not--the calculated climate impacts of KXL could look significantly worse.
 
-TransCanada's request for the application to be suspended higlights TransCanada's agency in the discourse beyond the provision of narratives, beyond translation, and beyond reconciliation and challenging of the existing discourse. TransCanada's permit application exists in a network of coalitions with different goals and interests. Throughout the year 2015, the field of candidates for the 2016 presidential election became increasingly clear. The 2015 Keystone XL Pipeline Approval Act could be taken as a litmus test. In January, 2015 the act was passed by the House of Congress and by the Senate, both times with votes from both Republicans and Democrats. On February 24, 2015 though, the bill was vetoed by the President, who argued that the bill would circumvent "longstanding and proven" [@Obama2015] national interest determination. From TransCanada's perspective, under a future Republican president, chances would be that the pipeline would be approved. Under both a future Democratic president or the current president, KXL's fate would be *truly* uncertain.
+TransCanada's request for the application to be suspended higlights TransCanada's agency in the discourse beyond the provision of narratives, beyond translation, and beyond reconciliation and challenging of the existing discourse. TransCanada's permit application exists in a network of coalitions with different goals and interests. Throughout the year 2015, the field of candidates for the 2016 presidential election became increasingly clear. The 2015 Keystone XL Pipeline Approval Act could be taken as a litmus test. In January, 2015 the act was passed by the House of Congress and by the Senate, both times with votes from both Republicans and Democrats. On February 24, 2015 though, the bill was vetoed by the President, who argued that the bill would circumvent "longstanding and proven" [@Obama2015] national interest determination. From TransCanada's perspective, under a future Republican president, chances would be that the pipeline would be approved. Under both a future Democratic president or the current president, KXL's fate would be *truly* uncertain. 
+
+Furthermore, an existing negative national interest determination might provide fodder for a future lawsuit by KXL opponents against an approved Keystone XL. This proved true when the new Republican president approved KXL on March 24, 2017 [@Labott2017]--the pipeline was subsequently for two years tied up in lawsuits related to the [Nebraska LB1161 Episode] and [@D.Mon.2018]
 
 * The reality of compromise
 * The wildcard Trump--the art of botchering a deal
@@ -71,6 +73,7 @@ Year | Month | Day  | Event
 </br>|       | 07   | President rejects KXL application
 2016 | Oct   | 21   | WikiLeaks publishes Clinton campaigns internal emails, including on KXL decision making [@Biesecker2016]
 2017 | Jan   | 24   | President signs "Memorandum on Construction of the Keystone XL Pipeline" [@Trump2017]
+     | Mar   | 24   | President approves KXL permit
 
 ## Quotes
 
@@ -123,6 +126,7 @@ Data        | Source            | Title                                         
 2016-10-21  | Seattle Times     |  Emails show machinations behind Clinton’s shift on pipeline                | @Biesecker2016  | [[Link|https://www.seattletimes.com/business/emails-show-machinations-behind-clintons-shift-on-pipeline/]]
 2017-01-24  | White House       | Memorandum on Construction of the Keystone XL Pipeline                        | @Trump2017    | [[Link|https://www.govinfo.gov/content/pkg/DCPD-201700068/pdf/DCPD-201700068.pdf]]
 -           | WikiLeaks         | The Podesta Emails                                                            |               | [[Link|https://wikileaks.org/podesta-emails/]]
+2017-03-24  | CNN               | Trump administration approves Keystone XL pipeline                            | @Labott2017   | [[Link|https://www.cnn.com/2017/03/23/politics/keystone-xl-pipeline-trump-approve/index.html]]
 
 ---
 
