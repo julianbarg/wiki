@@ -109,7 +109,7 @@ Aug 23, 2015
 ## Sources
 
 Data        | Source            | Title                                                                                         | Link
-:-:         | :---------------: | -------------------------------------------------------------                 | ------------  | ---
+:-:         | :---------------: | -------------------------------------------------------------                 | ---------------| ---
 2010-10-20  | Reuters           | Water concerns grow over Canada-U.S. mega oil pipe                            |               | [[Link|https://www.reuters.com/article/canada-us-pipeline-keystone-nebraska-idCATRE69J54R20101020]]
 2015-01-09  | The Atlantic      | Here are the 28 House Democrats Who Voted to Approve the Keystone XL Pipeline | @Foran2015a   | [[Link|https://www.theatlantic.com/politics/archive/2015/01/here-are-the-28-house-democrats-who-voted-to-approve-the-keystone-xl-pipeline/445086/]]
 2015-05-10  | CBS News          | Bernie Sanders: I can beat Hillary Clinton                                    | @Kaplan2015   | [[Link|https://www.cbsnews.com/news/bernie-sanders-i-can-beat-hillary-clinton/]]
