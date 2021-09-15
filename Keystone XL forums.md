@@ -82,7 +82,7 @@ Year    | Month | Day       | Place         | Body          | Agenda
 </br>   | Nov   | 19        | Washington    | Congress      | Bill to approve KSL fails in Senate.
 </br>   | Dec   | 10        | Pierre, SD    | Court         | Indigenous lawsuit yields documents, forum
 2015    | Jan   | 07        | Washington    | Senate        | Energy and Natural Resources Committee hearing on KXL bill
-</br>   |       | 10        | Washington    | Senate        | Bill to approve KXL passed by Senate
+</br>   |       | 09        | Washington    | Senate        | Bill to approve KXL passed by Senate
 </br>   |       | 21        | Nebraska      | TransCanada   | TransCanada invokes eminent domain
 </br>   |       | 28        | Washington    | White House   | Lennox Yearwood and Lakota Chief Arvol Looking Horse protest
 </br>   | Feb   | 04        | Washington    | EPA           | EPA asking SD to revisit KXL environmental impact
