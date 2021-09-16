@@ -35,8 +35,8 @@ Where originally, the pressure of environmentalists on Clinton made the defeat o
 
 ## President & presidential candidates position on KXL
 
-Name            | President/Candidate   | Party                 | Position on KXL                   | Election chances
----             | ---                   | ---                   | ---
+Name            | President/Candidate   | Party                 | Position on KXL                   
+---             | ---                   | ---                   | ------------
 **Democrats**   |                   
 Barack Obama    | President             | Democrat              | 
 Hillary Clinton | Presidential nominee  | Democrat              | 
