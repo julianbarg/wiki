@@ -57,7 +57,7 @@ Carly Fiorina   |
 
 ### Republican primaries--timeline
 
-[[/uploads/republican_primaries_2016.png]]
+[[/uploads/republican_primaries_2016.png|frame, width=600px, alt=source: https://www.realclearpolitics.com/epolls/2016/president/us/2016_republican_presidential_nomination-3823.html]]
 
 ## People
 
