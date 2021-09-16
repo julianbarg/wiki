@@ -33,9 +33,9 @@ Where originally, the pressure of environmentalists on Clinton made the defeat o
 * LIUNA: Labourers' International Union of North America
 * NABTU: North America's Building Trades Unions
 
-## President & presidential candidates
+## President & presidential candidates position on KXL
 
-Name            | President/Candidate   | Party                 | Description
+Name            | President/Candidate   | Party                 | Position on KXL
 ---             | ---                   | ---                   | ---
 **Democrats**   |                   
 Barack Obama    | President             | Democrat              | 
