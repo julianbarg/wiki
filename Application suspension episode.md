@@ -10,12 +10,19 @@ bibliography: bibliography.bib
 
 On November 3, 2015 TransCanada took the highly unusual step of asking the State Department to suspend the permit application for the KXL application. The move highlights the extraordinary uncertainty faced by KXL. At the time, the pipeline had been under review for over half a decade and resubmitted once. Previous environmental impact statements by the State Department had looked positive. However, in the second half of 2014 the oil price halfed, from over \\\$100 to about \\\$50. Cue unexpected consequences. On Febuary 4, 2015 the Environmental Protection Agency (EPA) asked the State Department to revisit their analysis [@Harder2015]. Not to worry--the EPA had done so before, without changing the final outcome [@Goodman2014]. But the changed data basis was reason for concern. Before, transportation cost were a negligable factor for the Canadian oil sands industry. Now, the construction of KXL could make the difference between oil fields in Canada being developed or not--the calculated climate impacts of KXL could look significantly worse.
 
-TransCanada's request for the application to be suspended higlights TransCanada's agency in the discourse beyond the provision of narratives, beyond translation, and beyond reconciliation and challenging of the existing discourse. TransCanada's permit application exists in a network of coalitions with different goals and interests. Throughout the year 2015, the field of candidates for the 2016 presidential election became increasingly clear. The 2015 Keystone XL Pipeline Approval Act could be taken as a litmus test. In January, 2015 the act was passed by the House of Congress and by the Senate, both times with votes from both Republicans and Democrats. On February 24, 2015 though, the bill was vetoed by the President, who argued that the bill would circumvent "longstanding and proven" [@Obama2015] national interest determination. From TransCanada's perspective, under a future Republican president, chances would be that the pipeline would be approved. Under both a future Democratic president or the current president, KXL's fate would be *truly* uncertain. 
+TransCanada's request for the application to be suspended higlights TransCanada's agency in the discourse beyond the provision of narratives, beyond translation, and beyond reconciliation and challenging of the existing discourse. TransCanada's permit application exists in a network of coalitions with different goals and interests. Throughout the year 2015, the importance of the 2016 presidential election for Keystone XL became increasingly clear. The 2015 Keystone XL Pipeline Approval Act could be taken as a litmus test. In January, 2015 the act was passed by the House of Congress and by the Senate, both times with votes from both Republicans and Democrats. On February 24, 2015 though, the bill was vetoed by the President, who argued that the bill would circumvent "longstanding and proven" [@Obama2015] national interest determination. From TransCanada's perspective, under a future Republican president, chances would be that the pipeline would be approved. Under both a future Democratic president or the current president, KXL's fate would be *truly* uncertain. 
 
-Furthermore, an existing negative national interest determination might provide fodder for a future lawsuit by KXL opponents against an approved Keystone XL. This proved true when the new Republican president approved KXL on March 24, 2017 [@Labott2017]--the pipeline was subsequently for two years tied up in lawsuits related to the [Nebraska LB1161 Episode] and [@D.Mon.2018]
+Furthermore, an existing negative national interest determination might provide fodder for a future lawsuit by KXL opponents against an approved Keystone XL. This concern proved true when the new Republican administration approved KXL on March 24, 2017 [@Labott2017]--the pipeline was subsequently for two years tied up in lawsuits related to the [[Nebraska LB1161 Episode]] and serious faults in their revision of the prior administration's environmental impact statement [@D.Mon.2018].
+
+Public information are limited about what TransCanada plotted and how it viewed the field ahead of their decision to ask for the permit application to be suspended. "A source involved in the project" [@Panetta2015] let the Canadian Broadcasting Corporation know that TransCanada had learned by August 2015 that a permit rejection was imminent, and that TransCanada planned to either reapply, or file a suit under the rules of the North American Free Trade Agreement--both of which TransCanada subsequently did. The request to suspend the application shows that TransCanada viewed their chances as better under the future administration--which proved true, other than for the unexpected consequences of the new administrations botched permit approval. 
+
+Let's briefly map out the field of contestants for the presidential election from Keystone XL from TransCanada's point of view. Above I mentioned the incumbent president--Obama. Obama's State Department had previously been reasonably cooperative, and had also issued 
+
+The best source on this field of actors 
 
 * The reality of compromise
 * The wildcard Trump--the art of botchering a deal
+* The limits to agency--unexpected consequences
 
 ### Additional dimension: Clinton email leak
 
@@ -25,6 +32,28 @@ Where originally, the pressure of environmentalists on Clinton made the defeat o
 
 * LIUNA: Labourers' International Union of North America
 * NABTU: North America's Building Trades Unions
+
+## President & presidential candidates
+
+Name            | President/Candidate   | Party                 | Description
+---             | ---                   | ---                   | ---
+**Democrats**   |                   
+Barack Obama    | President             | Democrat              | 
+Hillary Clinton | Presidential nominee  | Democrat              | 
+Bernie Sanders  | Candidate             | Democrat/Independent  |
+**Republicans** |
+Donald Trump    | Presidential nominee  | Republican            | 
+Jeb Bush        | Candidate             | Republican            | Described KXL as a "no-brainer". Polled well throughout most of 2015
+Ted Cruz        |
+John Kasich     |
+Marco Rubio     |
+Ben Carson      |
+Chris Christie  |
+Rand Paul       |
+Rick Santorum   |
+Mike Huckabee   |
+Jim Gilmore     |
+Carly Fiorina   |
 
 ## People
 
