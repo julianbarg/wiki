@@ -36,15 +36,15 @@ Where originally, the pressure of environmentalists on Clinton made the defeat o
 ## President & presidential candidates position on KXL
 
 Name            | President/Candidate   | Position on KXL                   
----             | ---                   | ------------
+----            | ---                   | ------------
 **Democrats**   |                   
 Hillary Clinton | Presidential nominee  | Came out as opposing KXL on Sep 22, 2015
 Barack Obama    | President             | -
 Bernie Sanders  | Candidate             | Longstanding critic of KXL
 **Republicans** |
 Jeb Bush        | Candidate             | Described KXL as a "no-brainer" on Feb 24, 2015
-Ben Carson      | Candidate             | 
-Chris Christie  | Candidate             | 
+Ben Carson      | Candidate             | "It's perfectly safe, so I can't really see a good reason not to do it" [@McCormick2014]
+Chris Christie  | Candidate             | Said if he were president "[w]e'd build it" [@Hayes2015]
 Ted Cruz        | Candidate             | 
 Carly Fiorina   | Candidate             | 
 Jim Gilmore     | Candidate             | 
@@ -148,12 +148,14 @@ Aug 23, 2015
 Data        | Source            | Title                                                                                         | Link
 :-:         | :---------------: | ------------------------------------------------------------- | ------------------            | ---
 2010-10-20  | Reuters           | Water concerns grow over Canada-U.S. mega oil pipe                            |               | [[Link|https://www.reuters.com/article/canada-us-pipeline-keystone-nebraska-idCATRE69J54R20101020]]
+2014-11-26  | Bloomberg         | Ben Carson Not Convinced on Global Warming                                    | @McCormick2014 | [[Link|https://www.bloomberg.com/news/articles/2014-11-26/ben-carson-not-convinced-on-global-warming]]
 2015-01-09  | The Atlantic      | Here are the 28 House Democrats Who Voted to Approve the Keystone XL Pipeline | @Foran2015a   | [[Link|https://www.theatlantic.com/politics/archive/2015/01/here-are-the-28-house-democrats-who-voted-to-approve-the-keystone-xl-pipeline/445086/]]
 2015-01-29  | The New York Times| Senate Approves Keystone XL Pipeline Bill, Testing Obama                      | @Davenport2015
 2015-02-24  | White House       | Veto Message to the Senate: S. 1, Keystone XL Pipeline Approval Act           | @Obama2015
 2015-02-24  | Jeb Bush          | Jeb Bush on Twitter                                                           |               |[[Link|https://twitter.com/jebbush/status/570285042511044608]]
 2015-05-10  | CBS News          | Bernie Sanders: I can beat Hillary Clinton                                    | @Kaplan2015   | [[Link|https://www.cbsnews.com/news/bernie-sanders-i-can-beat-hillary-clinton/]]
 2015-07-27  | The Atlantic      | Hillary Clinton Still Won't Talk About Keystone                               | @Foran2015    | [[Link|https://www.theatlantic.com/politics/archive/2015/07/hillary-clinton-still-wont-talk-about-keystone/445191/]]
+2015-07-29  |The Political State|Christie stands by marijuana opposition, pushes Keystone pipeline in Fox News interview| @Hayes29| [[Link|https://web.archive.org/web/20150729202240/http://blog.northjersey.com/thepoliticalstate/10805/christie-stands-by-marijuana-opposition-pushes-keystone-pipeline-in-fox-news-interview/]]
 2015-07-29  | Politico          | Bernie Sanders attacks Clinton's climate plan: 'Not enough'                   | @Strauss2015  | [[Link|https://www.politico.com/story/2015/07/bernie-sanders-attacks-clintons-climate-plan-not-enough-120738]]
 2015-08-09  | CBC               | TransCanada quietly plots response as Keystone XL rejection seems imminent    |               | [[Link|https://www.cbc.ca/news/business/transcanada-quietly-plots-response-as-keystone-xl-rejection-seems-imminent-1.3185105]]
 2015-09-22  | AP News           | Clinton breaks Keystone silence, says she opposes pipeline                    |               | [[Link|https://apnews.com/article/97814753c48945989fb96a79cbca1faf]]
