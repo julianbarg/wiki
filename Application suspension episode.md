@@ -35,7 +35,7 @@ Where originally, the pressure of environmentalists on Clinton made the defeat o
 
 ## President & presidential candidates position on KXL
 
-Name            | President/Candidate   | Party                 | Position on KXL
+Name            | President/Candidate   | Party                 | Position on KXL                   | Election chances
 ---             | ---                   | ---                   | ---
 **Democrats**   |                   
 Barack Obama    | President             | Democrat              | 
@@ -54,6 +54,10 @@ Rick Santorum   |
 Mike Huckabee   |
 Jim Gilmore     |
 Carly Fiorina   |
+
+### Republican primaries--timeline
+
+[[/uploads/republican_primaries_2016.png]]
 
 ## People
 
