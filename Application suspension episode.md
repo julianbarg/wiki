@@ -45,12 +45,12 @@ Bernie Sanders  | Candidate             | Longstanding critic of KXL
 Jeb Bush        | Candidate             | Described KXL as a "no-brainer" on Feb 24, 2015
 Ben Carson      | Candidate             | "It's perfectly safe, so I can't really see a good reason not to do it" [@McCormick2014]
 Chris Christie  | Candidate             | Said if he were president "[w]e'd build it" [@Hayes2015]
-Ted Cruz        | Candidate             | 
-Carly Fiorina   | Candidate             | 
+Ted Cruz        | Candidate             | Voted for the Keystone XL Pipeline Approval Act. "If you're a Birkenstock-wearing, tree-hugging Greenpeace activist, you should love the Keystone pipeline" [@Dooley2014].
+Carly Fiorina   | Candidate             | On June 10, 2015 in written correspondence says she supports KXL [@TheFus2015]
 Jim Gilmore     | Candidate             | 
 Mike Huckabee   | Candidate             | 
 John Kasich     | Candidate             | 
-Rand Paul       | Candidate             | 
+Rand Paul       | Candidate             | Cosponsored the Keystone XL Pipeline Approval Act
 Marco Rubio     | Candidate             | 
 Rick Santorum   | Candidate             | 
 Donald Trump    | Presidential nominee  |
