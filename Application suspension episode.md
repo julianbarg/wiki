@@ -35,25 +35,25 @@ Where originally, the pressure of environmentalists on Clinton made the defeat o
 
 ## President & presidential candidates position on KXL
 
-Name            | President/Candidate   | Party                 | Position on KXL                   
----             | ---                   | ---                   | ------------
+Name            | President/Candidate   | Position on KXL                   
+---             | ---                   | ------------
 **Democrats**   |                   
-Barack Obama    | President             | Democrat              | 
-Hillary Clinton | Presidential nominee  | Democrat              | 
-Bernie Sanders  | Candidate             | Democrat/Independent  |
+Hillary Clinton | Presidential nominee  | Came out as opposing KXL on Sep 22, 2015
+Barack Obama    | President             | -
+Bernie Sanders  | Candidate             | Longstanding critic of KXL
 **Republicans** |
-Donald Trump    | Presidential nominee  | Republican            | 
-Jeb Bush        | Candidate             | Republican            | Described KXL as a "no-brainer". Polled well throughout most of 2015
-Ted Cruz        |
-John Kasich     |
-Marco Rubio     |
-Ben Carson      |
-Chris Christie  |
-Rand Paul       |
-Rick Santorum   |
-Mike Huckabee   |
-Jim Gilmore     |
-Carly Fiorina   |
+Jeb Bush        | Candidate             | Described KXL as a "no-brainer" on Feb 24, 2015
+Ben Carson      | Candidate             | 
+Chris Christie  | Candidate             | 
+Ted Cruz        | Candidate             | 
+Carly Fiorina   | Candidate             | 
+Jim Gilmore     | Candidate             | 
+Mike Huckabee   | Candidate             | 
+John Kasich     | Candidate             | 
+Rand Paul       | Candidate             | 
+Marco Rubio     | Candidate             | 
+Rick Santorum   | Candidate             | 
+Donald Trump    | Presidential nominee  |
 
 ### Republican primaries--timeline
 
@@ -151,6 +151,7 @@ Data        | Source            | Title                                         
 2015-01-09  | The Atlantic      | Here are the 28 House Democrats Who Voted to Approve the Keystone XL Pipeline | @Foran2015a   | [[Link|https://www.theatlantic.com/politics/archive/2015/01/here-are-the-28-house-democrats-who-voted-to-approve-the-keystone-xl-pipeline/445086/]]
 2015-01-29  | The New York Times| Senate Approves Keystone XL Pipeline Bill, Testing Obama                      | @Davenport2015
 2015-02-24  | White House       | Veto Message to the Senate: S. 1, Keystone XL Pipeline Approval Act           | @Obama2015
+2015-02-24  | Jeb Bush          | Jeb Bush on Twitter                                                           |               |[[Link|https://twitter.com/jebbush/status/570285042511044608]]
 2015-05-10  | CBS News          | Bernie Sanders: I can beat Hillary Clinton                                    | @Kaplan2015   | [[Link|https://www.cbsnews.com/news/bernie-sanders-i-can-beat-hillary-clinton/]]
 2015-07-27  | The Atlantic      | Hillary Clinton Still Won't Talk About Keystone                               | @Foran2015    | [[Link|https://www.theatlantic.com/politics/archive/2015/07/hillary-clinton-still-wont-talk-about-keystone/445191/]]
 2015-07-29  | Politico          | Bernie Sanders attacks Clinton's climate plan: 'Not enough'                   | @Strauss2015  | [[Link|https://www.politico.com/story/2015/07/bernie-sanders-attacks-clintons-climate-plan-not-enough-120738]]
