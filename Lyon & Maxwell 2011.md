@@ -2,7 +2,7 @@
 bibliography: bibliography.bib
 ---
 
-# Lyon2011
+# @Lyon2011
 
 * Back to [[Greenwashing]]
 
