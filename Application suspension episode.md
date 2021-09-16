@@ -42,14 +42,14 @@ Hillary Clinton | Presidential nominee  | Came out as opposing KXL on Sep 22, 20
 Barack Obama    | President             | -
 Bernie Sanders  | Candidate             | Longstanding critic of KXL
 **Republicans** |
-Jeb Bush        | Candidate             | Described KXL as a "no-brainer" on Feb 24, 2015
+Jeb Bush        | Candidate             | Feb 24, 2015 described KXL as a "no-brainer" on Twitter 
 Ben Carson      | Candidate             | "It's perfectly safe, so I can't really see a good reason not to do it" [@McCormick2014]
 Chris Christie  | Candidate             | Said if he were president "[w]e'd build it" [@Hayes2015]
 Ted Cruz        | Candidate             | Voted for the Keystone XL Pipeline Approval Act. "If you're a Birkenstock-wearing, tree-hugging Greenpeace activist, you should love the Keystone pipeline" [@Dooley2014].
-Carly Fiorina   | Candidate             | On June 10, 2015 in written correspondence says she supports KXL [@TheFus2015]
-Jim Gilmore     | Candidate             | 
-Mike Huckabee   | Candidate             | 
-John Kasich     | Candidate             | 
+Carly Fiorina   | Candidate             | On June 10, 2015 in written correspondence says she supports KXL [@TheFuse2015]
+Jim Gilmore     | Candidate             | On June 19, 2015 in an interview says "[t]he Keystone Pipeline should be developed" [@McElveen2015]
+Mike Huckabee   | Candidate             | On May 8 in an interview states: "The Keystone pipeline should be an easy decision for any president, an easy decision for anybody with an IQ above broccoli" [@Benen2015].
+John Kasich     | Candidate             | On Feb 12, posted "Mr. President, give us the Keystone Pipeline" on Twitter
 Rand Paul       | Candidate             | Cosponsored the Keystone XL Pipeline Approval Act
 Marco Rubio     | Candidate             | 
 Rick Santorum   | Candidate             | 
@@ -151,8 +151,9 @@ Data        | Source            | Title                                         
 2014-11-26  | Bloomberg         | Ben Carson Not Convinced on Global Warming                                    | @McCormick2014 | [[Link|https://www.bloomberg.com/news/articles/2014-11-26/ben-carson-not-convinced-on-global-warming]]
 2015-01-09  | The Atlantic      | Here are the 28 House Democrats Who Voted to Approve the Keystone XL Pipeline | @Foran2015a   | [[Link|https://www.theatlantic.com/politics/archive/2015/01/here-are-the-28-house-democrats-who-voted-to-approve-the-keystone-xl-pipeline/445086/]]
 2015-01-29  | The New York Times| Senate Approves Keystone XL Pipeline Bill, Testing Obama                      | @Davenport2015
-2015-02-24  | White House       | Veto Message to the Senate: S. 1, Keystone XL Pipeline Approval Act           | @Obama2015
-2015-02-24  | Jeb Bush          | Jeb Bush on Twitter                                                           |               |[[Link|https://twitter.com/jebbush/status/570285042511044608]]
+2015-02-12  | John Kasich       | John Kasich on Twitter                                                        |               | [[Link|https://twitter.com/johnkasich/status/565963048276742144]]
+2015-02-24  | White House       | Veto Message to the Senate: S. 1, Keystone XL Pipeline Approval Act           | @Obama2015    | [[Link|https://obamawhitehouse.archives.gov/the-press-office/2015/02/24/veto-message-senate-s-1-keystone-xl-pipeline-approval-act]]
+2015-02-24  | Jeb Bush          | Jeb Bush on Twitter                                                           |               | [[Link|https://twitter.com/jebbush/status/570285042511044608]]
 2015-05-10  | CBS News          | Bernie Sanders: I can beat Hillary Clinton                                    | @Kaplan2015   | [[Link|https://www.cbsnews.com/news/bernie-sanders-i-can-beat-hillary-clinton/]]
 2015-07-27  | The Atlantic      | Hillary Clinton Still Won't Talk About Keystone                               | @Foran2015    | [[Link|https://www.theatlantic.com/politics/archive/2015/07/hillary-clinton-still-wont-talk-about-keystone/445191/]]
 2015-07-29  |The Political State|Christie stands by marijuana opposition, pushes Keystone pipeline in Fox News interview| @Hayes29| [[Link|https://web.archive.org/web/20150729202240/http://blog.northjersey.com/thepoliticalstate/10805/christie-stands-by-marijuana-opposition-pushes-keystone-pipeline-in-fox-news-interview/]]
