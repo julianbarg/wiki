@@ -48,12 +48,12 @@ Chris Christie  | Candidate             | Said if he were president "[w]e'd buil
 Ted Cruz        | Candidate             | Voted for the Keystone XL Pipeline Approval Act. "If you're a Birkenstock-wearing, tree-hugging Greenpeace activist, you should love the Keystone pipeline" [@Dooley2014].
 Carly Fiorina   | Candidate             | On June 10, 2015 in written correspondence says she supports KXL [@TheFuse2015]
 Jim Gilmore     | Candidate             | On June 19, 2015 in an interview says "[t]he Keystone Pipeline should be developed" [@McElveen2015]
-Mike Huckabee   | Candidate             | On May 8 in an interview states: "The Keystone pipeline should be an easy decision for any president, an easy decision for anybody with an IQ above broccoli" [@Benen2015].
-John Kasich     | Candidate             | On Feb 12, posted "Mr. President, give us the Keystone Pipeline" on Twitter
+Mike Huckabee   | Candidate             | May 8 in an interview states: "The Keystone pipeline should be an easy decision for any president, an easy decision for anybody with an IQ above broccoli" [@Benen2015].
+John Kasich     | Candidate             | Feb 12, 2015 posted "Mr. President, give us the Keystone Pipeline" on Twitter
 Rand Paul       | Candidate             | Cosponsored the Keystone XL Pipeline Approval Act
-Marco Rubio     | Candidate             | 
-Rick Santorum   | Candidate             | 
-Donald Trump    | Presidential nominee  |
+Marco Rubio     | Candidate             | Cosponsored the Keystone XL Pipeline Approval Act
+Rick Santorum   | Candidate             | Feb 6, 2015 posted "It's time for Pres. Obama to help hardworking American families by approving #keystone pipeline!" on Twitter
+Donald Trump    | Presidential nominee  | Oct 27, 2015 on a campaign rally: "So, the Keystone pipeline, first of all, I would approve it, cause it's thousands of jobs, ok, I would approve it so fast. So fast. And Hillary should have approved it. You know, Hillary wanted to approve it but she has been dragged so far left that she is, you know, forget it, a disaster. So, I would approve it. But with that being said: I may want to make a better dead. Because you know what, we are bringing oil from Canada, right? I may say 'I want 10%'. We're going to aprove it but I want 10%, 15%. Cause the truth is that the Keystone Pipeline was better [more important for the US] a while ago than it is now. [...] So I would approve it, because I love the jobs of building it. I love the jobs of building it. But I may just say 'maybe we should get 10%, 15%, maybe 20% as that oil flows through our land. You know, maybe we should do that. So, I'm going to look into that. But when I approve it, I'll tell you what, when I approve it, it will be a great deal for the United States. It will not be like, cause right now what we are doing is we are approving it, we are not really getting anything, they are putting it underground [...] but, we are not getting, we are not getting anything much for it. When I get finished with the Keystone, they will be happy, and we will be happy. Ok? So it will be good" [@Trump2015]. 
 
 ### Republican primaries--timeline
 
@@ -151,6 +151,7 @@ Data        | Source            | Title                                         
 2014-11-26  | Bloomberg         | Ben Carson Not Convinced on Global Warming                                    | @McCormick2014 | [[Link|https://www.bloomberg.com/news/articles/2014-11-26/ben-carson-not-convinced-on-global-warming]]
 2015-01-09  | The Atlantic      | Here are the 28 House Democrats Who Voted to Approve the Keystone XL Pipeline | @Foran2015a   | [[Link|https://www.theatlantic.com/politics/archive/2015/01/here-are-the-28-house-democrats-who-voted-to-approve-the-keystone-xl-pipeline/445086/]]
 2015-01-29  | The New York Times| Senate Approves Keystone XL Pipeline Bill, Testing Obama                      | @Davenport2015
+2015-02-06  | Rick Santorum     | Rick Santorum on Twitter                                                      |               | [[Link|https://twitter.com/RickSantorum/status/431512203280121858]]
 2015-02-12  | John Kasich       | John Kasich on Twitter                                                        |               | [[Link|https://twitter.com/johnkasich/status/565963048276742144]]
 2015-02-24  | White House       | Veto Message to the Senate: S. 1, Keystone XL Pipeline Approval Act           | @Obama2015    | [[Link|https://obamawhitehouse.archives.gov/the-press-office/2015/02/24/veto-message-senate-s-1-keystone-xl-pipeline-approval-act]]
 2015-02-24  | Jeb Bush          | Jeb Bush on Twitter                                                           |               | [[Link|https://twitter.com/jebbush/status/570285042511044608]]
@@ -160,10 +161,12 @@ Data        | Source            | Title                                         
 2015-07-29  | Politico          | Bernie Sanders attacks Clinton's climate plan: 'Not enough'                   | @Strauss2015  | [[Link|https://www.politico.com/story/2015/07/bernie-sanders-attacks-clintons-climate-plan-not-enough-120738]]
 2015-08-09  | CBC               | TransCanada quietly plots response as Keystone XL rejection seems imminent    |               | [[Link|https://www.cbc.ca/news/business/transcanada-quietly-plots-response-as-keystone-xl-rejection-seems-imminent-1.3185105]]
 2015-09-22  | AP News           | Clinton breaks Keystone silence, says she opposes pipeline                    |               | [[Link|https://apnews.com/article/97814753c48945989fb96a79cbca1faf]]
-2016-10-21  | Seattle Times     |  Emails show machinations behind Clinton’s shift on pipeline                | @Biesecker2016  | [[Link|https://www.seattletimes.com/business/emails-show-machinations-behind-clintons-shift-on-pipeline/]]
+2015-10-27  | C-SPAN            | Presidential Candidate Donald Trump Campaign Rally in Sioux City, Iowa        | @Trump2015    | [[Link|https://www.c-span.org/video/?329010-1/donald-trump-campaign-rally-sioux-city-iowa]] 
+2016-10-21  | Seattle Times     | Emails show machinations behind Clinton’s shift on pipeline                   |@Biesecker2016  | [[Link|https://www.seattletimes.com/business/emails-show-machinations-behind-clintons-shift-on-pipeline/]]
 2017-01-24  | White House       | Memorandum on Construction of the Keystone XL Pipeline                        | @Trump2017    | [[Link|https://www.govinfo.gov/content/pkg/DCPD-201700068/pdf/DCPD-201700068.pdf]]
 -           | WikiLeaks         | The Podesta Emails                                                            |               | [[Link|https://wikileaks.org/podesta-emails/]]
 2017-03-24  | CNN               | Trump administration approves Keystone XL pipeline                            | @Labott2017   | [[Link|https://www.cnn.com/2017/03/23/politics/keystone-xl-pipeline-trump-approve/index.html]]
+-           | Congress.gov      | S.1 - Keystone XL Pipeline Approval Act                                       |               | [[Link|https://www.congress.gov/bill/114th-congress/senate-bill/1]]
 
 ---
 
