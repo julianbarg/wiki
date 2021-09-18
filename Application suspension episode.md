@@ -35,7 +35,7 @@ Where originally, the pressure of environmentalists on Clinton made the defeat o
 
 ## President & presidential candidates position on KXL *
 
-Name            | President/Candidate   | Year  | Month | Day   |Position on KXL                   
+Name            | Role                  | Year  | Month | Day   |Position on KXL                   
 ---             | ---                   | ---   | ---   | ---   | -------------------------------------------------------------
 Bernie Sanders  | Candidate             | -     |       |       | Longstanding critic of KXL
 Martin O'Malley | Candidate             | 2014  | Nov   | 17    | Posts on Twitter: "We need a jobs agenda that meets our climate challenge. I hope the Senate rejects #KeystoneXL: it's too much CO2, & not nearly enough jobs"
