@@ -32,7 +32,8 @@ The above section lays out the field of potential intervenors from the perspecti
 The emails feature rumors regarding the president that cause Hillary to hold of
 The emails consider how statements make maximum effect
 The emails philosophize on the very nature of taking a stance
-The emails show *compromise* as a very cynical natured action--not as adopting a foreign position-->
+The emails show *compromise* as a very cynical natured action--not as adopting a foreign position
+Can the cynical nature of compromise be shaken off as discourse becomes baked into more future discourse?-->
 
 <!--Lie idle-->
 
