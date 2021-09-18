@@ -158,7 +158,7 @@ Aug 23, 2015
 
 Data        | Source            | Title                                                                                         | Link
 :-:         | :---------------: | ------------------------------------------------------------- | ------------------            | ---
-2010-10-15  | State.gov         | Remarks on Innovation and American Leadership to the Commonwealth Club        | @Clinton2010  | [[Link|Remarks on Innovation and American Leadership to the Commonwealth Club]]
+2010-10-15  | State.gov         | Remarks on Innovation and American Leadership to the Commonwealth Club        | @Clinton2010  | [[Link|//2009-2017.state.gov/secretary/20092013clinton/rm/2010/10/149542.htm]]
 2014-11-26  | Bloomberg         | Ben Carson Not Convinced on Global Warming                                    | @McCormick2014 | [[Link|https://www.bloomberg.com/news/articles/2014-11-26/ben-carson-not-convinced-on-global-warming]]
 2015-01-09  | The Atlantic      | Here are the 28 House Democrats Who Voted to Approve the Keystone XL Pipeline | @Foran2015a   | [[Link|https://www.theatlantic.com/politics/archive/2015/01/here-are-the-28-house-democrats-who-voted-to-approve-the-keystone-xl-pipeline/445086/]]
 2015-01-29  | The New York Times| Senate Approves Keystone XL Pipeline Bill, Testing Obama                      | @Davenport2015
