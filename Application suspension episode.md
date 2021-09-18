@@ -12,12 +12,9 @@ On November 3, 2015 TransCanada took the highly unusual step (called that by new
 
 TransCanada's request for the application to be suspended higlights TransCanada's agency in the discourse beyond the provision of narratives, beyond translation, and beyond reconciliation and challenging of the existing discourse. TransCanada's permit application exists in a network of coalitions with different goals and interests. Throughout the year 2015, the importance of the 2016 presidential election for KXL became increasingly clear. The 2015 Keystone XL Pipeline Approval Act marks a bipartisan starting point. In January, 2015 the act was passed by the House of Congress and by the Senate, both times with votes from both Republicans and Democrats. On February 24, 2015 though, the bill was vetoed by the President, who argued--being the legal scholar that he is--that the bill would circumvent "longstanding and proven" [@Obama2015] national interest determination process. Throughout the rest of 2015, a potential playbook for a KXL approval emerged. 
 
-There were two important conditions related to the network of coalitions on KXL. First, as the section on the [[Clinton campaign and KXL|Application suspension episode#clinton-campaign-and-kxl]] and the accompanying [[timeline|Application suspension episode#timeline]] showcase, after the president vetoed the Keystone XL Pipeline Approval Act on Feb 24, 2015 there were more and more frequent rumors that the president would reject the KXL permit application, and that his decision was imminent. The rumors on specific dates repeatedly proved wrong--the president did not reject the application until Nov 7, four days after TransCanada requested the suspension. Hence it emerged that the KXL application might have to be resubmitted and approved by the subsequent administration--this eventually took place in 2017. A TransCanada employee confirmed the plan with CBC on August 9, 2015--notably, this again took on the form of a rumor as the story did not name its source.
+There were two important conditions related to the network of coalitions on KXL. (1) As the section on the [[Clinton campaign and KXL|Application suspension episode#clinton-campaign-and-kxl]] and the accompanying [[timeline|Application suspension episode#timeline]] showcase, after the president vetoed the Keystone XL Pipeline Approval Act on Feb 24, 2015 there were more and more frequent rumors that the president would reject the KXL permit application, and that his decision was imminent. The rumors on specific dates repeatedly proved wrong--the president did not reject the application until Nov 7, four days after TransCanada requested the suspension. Hence it emerged that the KXL application might have to be resubmitted and approved by the subsequent administration--this eventually took place in 2017. A TransCanada employee confirmed the plan with CBC on August 9, 2015--notably, this again took on the form of a rumor as the story did not name its source.
 
-Second, despite the bipartisan nature of the Keyston XL Pipeline Approval Act, KXL proved to be a partisan issue as far as the presidential election was concerned. For the longest time, it was not clear who would be the republican candidate, but over time all of them spoke out in support of KXL (see table on [[candidates and positions|Application suspension episode#president-presidential-candidates-position-on-kxl]] and [[polls timeline|Application suspension episode#republican-primaries-timeline]]).
-
-There were two social conditions
-rumors -- see hilary section
+(2) Despite the bipartisan nature of the Keyston XL Pipeline Approval Act, KXL did eventually prove to be a partisan issue--as far as the presidential election was concerned. For the longest time, it was not clear who would be the republican candidate, but over time all of them spoke out in support of KXL (see table on [[candidates and positions|Application suspension episode#president-presidential-candidates-position-on-kxl]] and [[polls timeline|Application suspension episode#republican-primaries-timeline]]). On the Democrat side, the field of contestants was much thinner. Bernie Sanders had been an outspoken critics of KXL for years. Hillary Clinton has last spoken on KXL in 2010, when she was Secretary of State. 
 
 Throughout the rest of the year 2015, clarity emered for TransCanada regarding their Keystone XL playbook in two areas. First, throughout the year it
 
@@ -82,7 +79,7 @@ Barack Obama    | D     | President             |       | Nov   | 07    | Reject
 
 Year | Month | Day  | Event
 ---  | ---   | ---  | ------------------------------------------
-2010 | Oct   | 20   | Secretary of State Clinton "inclined" to approve KXL
+2010 | Oct   | 15   | Secretary of State Clinton "inclined" to approve KXL
 2015 | Jan   | 09   | US House of Representatives passes Keystone XL Pipeline Approval Act with votes from 238 Republicans and 28 Democrats [@Foran2015a]
 </br>|       | 29   | US Senate passes Keystone XL Pipeline Approval Act with votes from 53 Republicans and 9 Democrats [@Davenport2015]
 </br>| Feb   | 24   | US President vetoes Keystone XL Pipeline Approval Act [@Obama2015]
@@ -161,7 +158,7 @@ Aug 23, 2015
 
 Data        | Source            | Title                                                                                         | Link
 :-:         | :---------------: | ------------------------------------------------------------- | ------------------            | ---
-2010-10-20  | Reuters           | Water concerns grow over Canada-U.S. mega oil pipe                            |               | [[Link|https://www.reuters.com/article/canada-us-pipeline-keystone-nebraska-idCATRE69J54R20101020]]
+2010-10-15  | State.gov         | Remarks on Innovation and American Leadership to the Commonwealth Club        | [[Link|Remarks on Innovation and American Leadership to the Commonwealth Club]]
 2014-11-26  | Bloomberg         | Ben Carson Not Convinced on Global Warming                                    | @McCormick2014 | [[Link|https://www.bloomberg.com/news/articles/2014-11-26/ben-carson-not-convinced-on-global-warming]]
 2015-01-09  | The Atlantic      | Here are the 28 House Democrats Who Voted to Approve the Keystone XL Pipeline | @Foran2015a   | [[Link|https://www.theatlantic.com/politics/archive/2015/01/here-are-the-28-house-democrats-who-voted-to-approve-the-keystone-xl-pipeline/445086/]]
 2015-01-29  | The New York Times| Senate Approves Keystone XL Pipeline Bill, Testing Obama                      | @Davenport2015
