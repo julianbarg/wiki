@@ -35,24 +35,24 @@ Where originally, the pressure of environmentalists on Clinton made the defeat o
 
 ## President & presidential candidates position on KXL *
 
-Name            | Role                  | Year  | Month | Day   |Position on KXL                   
---------        | ---                   | ---   | ---   | ---   | --------------------------------------------
-Bernie Sanders  | Candidate             | -     |       |       | Longstanding critic of KXL
-Martin O'Malley | Candidate             | 2014  | Nov   | 17    | Posts on Twitter: "We need a jobs agenda that meets our climate challenge. I hope the Senate rejects #KeystoneXL: it's too much CO2, & not nearly enough jobs"
-Ben Carson      | Candidate             |       | Nov   | 26    | "It's perfectly safe, so I can't really see a good reason not to do it" [@McCormick2014]
-Rick Santorum   | Candidate             | 2015  | Feb   | 6     | Posts on Twitter: "It's time for Pres. Obama to help hardworking American families by approving #keystone pipeline!"
-John Kasich     | Candidate             |       |       | 12    | Posts on Twitter "Mr. President, give us the Keystone Pipeline"
-Jeb Bush        | Candidate             |       |       | 24    | Describes KXL as a "no-brainer" on Twitter 
-Ted Cruz        | Candidate             |       |       |       | Votes for the Keystone XL Pipeline Approval Act. "If you're a Birkenstock-wearing, tree-hugging Greenpeace activist, you should love the Keystone pipeline" [@Dooley2014].
-Rand Paul       | Candidate             |       |       |       | Cosponsored the Keystone XL Pipeline Approval Act
-Marco Rubio     | Candidate             |       |       |       | Cosponsored the Keystone XL Pipeline Approval Act
-Mike Huckabee   | Candidate             |       | May   | 8     | In an interview states: "The Keystone pipeline should be an easy decision for any president, an easy decision for anybody with an IQ above broccoli" [@Benen2015].
-Carly Fiorina   | Candidate             |       | June  | 10    | In written correspondence says she supports KXL [@TheFuse2015]
-Jim Gilmore     | Candidate             |       |       | 19    | In an interview says "[t]he Keystone Pipeline should be developed" [@McElveen2015]
-Chris Christie  | Candidate             |       | July  | 29    | States if he was the president "[w]e'd build it" [@Hayes2015]
-Hillary Clinton | Presidential nominee  |       | Sept  | 22    | Comes out as opposing KXL
-Donald Trump    | Presidential nominee  |       | Oct   | 27    | On a campaign rally: "So, the Keystone pipeline, first of all, I would approve it, cause it's thousands of jobs, ok, I would approve it so fast. So fast. And Hillary should have approved it. You know, Hillary wanted to approve it but she has been dragged so far left that she is, you know, forget it, a disaster. So, I would approve it. But with that being said: I may want to make a better dead. Because you know what, we are bringing oil from Canada, right? I may say 'I want 10%'. We're going to aprove it but I want 10%, 15%. Cause the truth is that the Keystone Pipeline was better [more important for the US] a while ago than it is now. [...] So I would approve it, because I love the jobs of building it. I love the jobs of building it. But I may just say 'maybe we should get 10%, 15%, maybe 20% as that oil flows through our land.' You know, maybe we should do that. So, I'm going to look into that. But when I approve it, I'll tell you what, when I approve it, it will be a great deal for the United States. It will not be like, cause right now what we are doing is we are approving it, we are not really getting anything, they are putting it underground [...] but, we are not getting, we are not getting anything much for it. When I get finished with the Keystone, they will be happy, and we will be happy. Ok? So it will be good" [@Trump2015]. 
-Barack Obama    | President             |       | Nov   | 07    | Rejects KXL permit application
+Name            | R/D   | Role                  | Year  | Month | Day   |Position on KXL                   
+--------        | ---   | ---                   | ---   | ---   | ---   | --------------------------------------------
+Bernie Sanders  | D     | Candidate             | -     |       |       | Longstanding critic of KXL
+Martin O'Malley | D     | Candidate             | 2014  | Nov   | 17    | Posts on Twitter: "We need a jobs agenda that meets our climate challenge. I hope the Senate rejects #KeystoneXL: it's too much CO2, & not nearly enough jobs"
+Ben Carson      | R     | Candidate             |       | Nov   | 26    | "It's perfectly safe, so I can't really see a good reason not to do it" [@McCormick2014]
+Rick Santorum   | R     | Candidate             | 2015  | Feb   | 6     | Posts on Twitter: "It's time for Pres. Obama to help hardworking American families by approving #keystone pipeline!"
+John Kasich     | R     | Candidate             |       |       | 12    | Posts on Twitter "Mr. President, give us the Keystone Pipeline"
+Jeb Bush        | R     | Candidate             |       |       | 24    | Describes KXL as a "no-brainer" on Twitter 
+Ted Cruz        | R     | Candidate             |       |       |       | Votes for the Keystone XL Pipeline Approval Act. "If you're a Birkenstock-wearing, tree-hugging Greenpeace activist, you should love the Keystone pipeline" [@Dooley2014].
+Rand Paul       | R     | Candidate             |       |       |       | Cosponsored the Keystone XL Pipeline Approval Act
+Marco Rubio     | R     | Candidate             |       |       |       | Cosponsored the Keystone XL Pipeline Approval Act
+Mike Huckabee   | R     | Candidate             |       | May   | 8     | In an interview states: "The Keystone pipeline should be an easy decision for any president, an easy decision for anybody with an IQ above broccoli" [@Benen2015].
+Carly Fiorina   | R     | Candidate             |       | June  | 10    | In written correspondence says she supports KXL [@TheFuse2015]
+Jim Gilmore     | R     | Candidate             |       |       | 19    | In an interview says "[t]he Keystone Pipeline should be developed" [@McElveen2015]
+Chris Christie  | R     | Candidate             |       | July  | 29    | States if he was the president "[w]e'd build it" [@Hayes2015]
+Hillary Clinton | D     | Presidential nominee  |       | Sept  | 22    | Comes out as opposing KXL
+Donald Trump    | R     | Presidential nominee  |       | Oct   | 27    | On a campaign rally: "So, the Keystone pipeline, first of all, I would approve it, cause it's thousands of jobs, ok, I would approve it so fast. So fast. And Hillary should have approved it. You know, Hillary wanted to approve it but she has been dragged so far left that she is, you know, forget it, a disaster. So, I would approve it. But with that being said: I may want to make a better dead. Because you know what, we are bringing oil from Canada, right? I may say 'I want 10%'. We're going to aprove it but I want 10%, 15%. Cause the truth is that the Keystone Pipeline was better [more important for the US] a while ago than it is now. [...] So I would approve it, because I love the jobs of building it. I love the jobs of building it. But I may just say 'maybe we should get 10%, 15%, maybe 20% as that oil flows through our land.' You know, maybe we should do that. So, I'm going to look into that. But when I approve it, I'll tell you what, when I approve it, it will be a great deal for the United States. It will not be like, cause right now what we are doing is we are approving it, we are not really getting anything, they are putting it underground [...] but, we are not getting, we are not getting anything much for it. When I get finished with the Keystone, they will be happy, and we will be happy. Ok? So it will be good" [@Trump2015]. 
+Barack Obama    | D     | President             |       | Nov   | 07    | Rejects KXL permit application
 
 \* Does not include candidates that withdrew during the primaries
 
