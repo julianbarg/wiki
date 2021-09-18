@@ -18,7 +18,7 @@ There were two important conditions related to the network of coalitions on KXL.
 
 > [W]e've not yet signed off on it. But we are inclined to do so and we are for several reasons -- going back to one of your original questions -- we're either going to be dependent on dirty oil from the Gulf or dirty oil from Canada.
 >
-> -- @Clinton2010
+> --@Clinton2010
 
 Note the uncertainty in that statement
 
