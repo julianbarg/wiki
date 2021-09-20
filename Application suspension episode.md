@@ -176,7 +176,7 @@ Aug 23, 2015
 
 ## Sources
 
-Data        | Source            | Title                                                                                         | Link
+Data        | Source            | Title                                                                         | Reference     | Link
 :-:         | :---------------: | ------------------------------------------------------------- | ------------------            | ---
 2010-10-15  | State.gov         | Remarks on Innovation and American Leadership to the Commonwealth Club        | @Clinton2010  | [[Link|//2009-2017.state.gov/secretary/20092013clinton/rm/2010/10/149542.htm]]
 2010-10-21  | Youtube           | Secretary Clinton Gives Remarks at the Commonwealth Club in San Francisco     | @Clinton2010  | [[Link|https://www.youtube.com/watch?v=0n0DZF-l0Hg&t=3271s]]
