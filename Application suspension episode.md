@@ -6,6 +6,9 @@ bibliography: bibliography.bib
 
 [[_TOC_]]
 
+* Back to [[KXL episodes]]
+* [[Clinton email tables]]
+
 ## Narrative
 
 On November 3, 2015 TransCanada takes the highly unusual step (called that by news reports--needs support? Is this evident for everybody? Should be in quotation marks?) of asking the State Department to suspend the permit application for its KXL permit application. The move highlights the extraordinary uncertainty faced by KXL. At the time, the pipeline had been under review for over half a decade and was resubmitted once. Previous environmental impact statements by the State Department had looked positive. However, in the second half of 2014 the oil price halfs, from over \\\$100 to about \\\$50. Cue unexpected consequences. On Febuary 4, 2015 the Environmental Protection Agency (EPA) asks the State Department to revisit their analysis [@Harder2015]. Not to worry--the EPA had reanalysed KXL before, without changing the final outcome [@Goodman2014]. But the changed data basis now is a cause for concern. Before the price drop, transportation cost were a negligable factor for the Canadian oil sands industry. Now, the construction of KXL could make the difference between oil fields in Canada being developed or not--the calculated climate impacts of KXL could look significantly worse.
@@ -28,12 +31,13 @@ A sidenote on rumors: the rumors highlighted here are just that--rumors. Documen
 
 ### KXL from a Clinton campaign perspective
 
-The previous section laid out the field of potential intervenors from the perspective of TransCanada. For a period of time, the major source of uncertainty is the Clinton campaign--the only party in the cohort not to take a position. In 2016 when WikiLeaks released thousands of her campaigns emails the world received some insight into why the Clinton campaign did not take a stance. From the emails we can learn about the network of coalitions that affect the Clinton campaign's *discursive actions*. 
-The events laid out below take place in 2015 starting on April 12 when Clinton announces her campaign. Although the temporal dimension is omitted in this section, it matters insofar as from the Clinton campaign's point of view processes and concerns become more clear over time, culminating in her statements on September 22:
+The previous section laid out the field of potential intervenors from the perspective of TransCanada. For a period of time, the major source of uncertainty is the Clinton campaign--the only party in the cohort not to take a position. In 2016 when WikiLeaks released thousands of her campaigns emails the world received some insight into why the Clinton campaign did not take a stance. From the emails we can learn about the network of coalitions that affect the Clinton campaign's *discursive actions*. The events laid out below take place in 2015 starting on April 12 when Clinton announces her campaign. Although the temporal dimension is omitted in this section, it matters insofar as from the Clinton campaign's point of view processes and concerns become more clear over time, culminating in her statements on September 22:
 
 > I think it is imperative that we look at the Keystone pipeline as what I believe it is – a distraction from important work we have to do on climate change. And unfortunately from my perspective, one that interferes with our ability to move forward with all the other issues. Therefore I oppose it.
 >
 > --Clinton on September 22, 2015 [@Bradner2015]
+
+The emails make frequent reference to the "logistics"
 
 <!--The emails make frequent references to unions
 The emails feature rumors regarding the president that cause Hillary to hold of
@@ -51,8 +55,6 @@ Identity-->
 * The wildcard Trump--the art of botchering a deal--got it!
 * The limits to agency--unexpected consequences--touch on it!
 * Rumors influence statements and decisions--touch on it!-->
-
-### Clinton campaign and KXL
 
 ### Additional dimension: Clinton email leak
 
