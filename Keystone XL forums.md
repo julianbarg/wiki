@@ -6,8 +6,8 @@ bibliography: bibliography.bib
 
 [[_TOC_]]
 
-* Back to [[KXL Episodes]]
-* [[Clinton email codes]]
+* Back to [[KXL episodes]]
+* [[Clinton email tables]]
 
 ## Narrative
 
