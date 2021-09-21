@@ -25,7 +25,7 @@ bibliography: bibliography.bib
     * Reality is--it is about the reliability/coalitions-->
         * "The view from nowhere"--Steven Shapen
     * Reality
-        * All knowledge is conceptual
+        * All knowledge is relational
         * Parabel shows you--how context shapes the way people view the problem
             * Who--Assembling the team
             * Why--Motive and goals
@@ -82,7 +82,9 @@ bibliography: bibliography.bib
 
 <!--* Stop and think--where collectively we get our value-->
 
-<!--Thinking about it in the context of what I am doing, an what be valuable for us in terms of thinking about reliability and validity. What is the next step that we need to take to make it clear? What is the point of contestation between us & audience?-->
+<!--Thinking about it in the context of what I am doing, an what be valuable for us in terms of thinking about reliability and validity. What is the next step that we need to take to make it clear? What is the point of contestation between us & audience?
+
+How do we translate that to my context, and contexts in general. How do we generalize this. What is he simplifying structure. What compelling examples can be used. What is the structure underneath the quadrants? A process model of how reliability & validity related. What Rerup & Zbaracki start talking about in tradeoffs. What is the value of the off-diagonals (CDC "Masks don' work" in order to safe masks".-->
 
 <!--* Bon voyage-->
 
