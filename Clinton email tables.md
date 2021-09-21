@@ -35,7 +35,7 @@ Date        | Source        | Reference     | Quote
 
 ## Allegations
 Date        | Source        | Reference     | Quote
----         | ---           | ---           | ---
+---         | ---           | ---           | ---------------------------------------------------
 2015-05-15  | (News Clips)  |               | "Among them, Schweizer says in the original version of the book that TD Bank, a major shareholder in the Keystone XL pipeline, paid Bill Clinton for speeches and then said it would 'begin selling its $1.6 billion worth of shares in the massive but potentially still-born [sic] Keystone XL crude pipeline project' after Hillary Clinton left office. But as his source on the sale of TD Bank’s shares, Schweizer used a press release that was revealed to be fake in 2013."
 
 ---
