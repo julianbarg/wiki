@@ -6,20 +6,29 @@ bibliography: bibliography.bib
 
 * Back to [[Application suspension episode]]
 
-## Competitor's stance
+## Competitor's (Sanders') stance
 
 Date        | Source        | Reference     | Quote
 ---         | ---           | ---           | ---------------------------------------------------
 2015-05-08  | (News Clips)  |               | "Other areas where Sanders is in a position to draw stark contrasts with Clinton include [...] her stance on the Keystone XL pipeline. As secretary of state, Clinton said she was 'inclined' to approve the pipeline. Since then, much like on the trade measure, Clinton has been silent on Keystone."
 2015-05-11  | (News Clips)  |               | "Sanders is hesitant to criticize Clinton, saying that he respects and admires her. But pressed on the question of why he would make a better Democratic nominee, he points to three things [including] the work he has done opposing the Keystone XL pipeline. 'I'm not quite sure Hillary Clinton has come out with a position on that' he said."
+2015-05-15  | (News Clips)  |               | On comparing Sanders and Clinton: "Bill McKibben, who founded 350.org and has led the fight to stop the Keystone XL pipeline, says he is confident Sanders understands the need to keep fossil fuels in the ground. Sanders has opposed Keystone, while Clinton has avoided taking a position on it. 'He's been the most consistent and proactive voice in the entire Keystone fight,' writes McKibben in an email."
+
+## Potential allies--unions and environmental groups
+
+### Generic environmental
+
+Date        | Source        | Reference     | Quote
+---         | ---           | ---           | ---------------------------------------------------
+2015-04-19  | Brian Fallon  | @Brian2015a   | "The enviros may latch onto this going forward. Have we discussed when she will come out against Keystone? After POTUS vetoes?"
+
+### 350.org
+
+Date        | Source        | Reference     | Quote
+---         | ---           | ---           | ---------------------------------------------------
+2015-05-15  | (News Clips)  |               | On comparing Sanders and Clinton: "Bill McKibben, who founded 350.org and has led the fight to stop the Keystone XL pipeline, says he is confident Sanders understands the need to keep fossil fuels in the ground. Sanders has opposed Keystone, while Clinton has avoided taking a position on it. 'He's been the most consistent and proactive voice in the entire Keystone fight,' writes McKibben in an email."
 
 ## Clinton campaign uncertainty
-
-Date        | Source        | Reference   | Quote
----         | ---           | ---         | ---------------------------------------------------
-2015-04-19  | Brian Fallon  | @Brian2015a | "The enviros may latch onto this going forward. Have we discussed when she will come out against Keystone? After POTUS vetoes?"
-
-## Potential allies
 
 Date        | Source        | Reference     | Quote
 ---         | ---           | ---           | ---------------------------------------------------
