@@ -6,6 +6,9 @@ bibliography: bibliography.bib
 
 [[_TOC_]]
 
+* Back to [[KXL Episodes]]
+* [[Clinton email codes]]
+
 ## Narrative
 
 On November 3, 2015 TransCanada takes the highly unusual step (called that by news reports--needs support? Is this evident for everybody? Should be in quotation marks?) of asking the State Department to suspend the permit application for its KXL permit application. The move highlights the extraordinary uncertainty faced by KXL. At the time, the pipeline had been under review for over half a decade and was resubmitted once. Previous environmental impact statements by the State Department had looked positive. However, in the second half of 2014 the oil price halfs, from over \\\$100 to about \\\$50. Cue unexpected consequences. On Febuary 4, 2015 the Environmental Protection Agency (EPA) asks the State Department to revisit their analysis [@Harder2015]. Not to worry--the EPA had reanalysed KXL before, without changing the final outcome [@Goodman2014]. But the changed data basis now is a cause for concern. Before the price drop, transportation cost were a negligable factor for the Canadian oil sands industry. Now, the construction of KXL could make the difference between oil fields in Canada being developed or not--the calculated climate impacts of KXL could look significantly worse.
