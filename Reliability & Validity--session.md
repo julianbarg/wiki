@@ -63,9 +63,26 @@ bibliography: bibliography.bib
     * Stop and think--"Who are the sceptics in your arena? What wisdom might they have for you? How can you engage their wisdom? What is the generative value of the doubt that they bring to the table?"
     <!--* So here is how it is that discovery proceed. Discovery does not proceed in a linear progression of new idea. It comes from doubts raised by people questioning orthodoxy. Schablonendenken-->
 * Denial (politics of)
-    * Who--Anders Björkman & Julia Raab
-    * 
-* Stop and think--where collectively we get our value
+    * Who--Anders Björkman & Jutta Rabe--two gadflies
+    * Why--"Trying to uncover truths that they believe have been hidden"
+        * "Moral imperative" thinking
+    * How--"who should be held responsible" as guiding question 
+        * "What human agency could have caused this"
+        * "Thinking that some thing is planned, and somebody is to blame"
+        * "These things don't fail"--Trained whales thinking
+        * How do we hold them accountable?
+    * "The alter native scenarios put the accident back into the political context and tried to hold someone accountable for the accident. Rabe stated this directly as her movie ends with a quote: 'The Governments of Sweden, Estonia, and Finland have not answered the question why people had to die, nor why their bodies remain at the bottom of the Baltic Sea.'"
+    * What--human instead of technical cause: "who did this and why isn't anyone being held accountability"
+    * Where--Individuals in the court of public opinion
+    * Stop and think--"Who directly opposes the status quo, or change thereof? Who directly opposes the people in power? Who does not have voice? What are their moral dillemas? What moral dillemas do they raise? Who do these moral dillemas implicate? What moral dillemas motivate the denial?"
+* Back end--"Who/what/why/how/where"
+    1. 
+    2. 
+    3. 
+
+<!--* Stop and think--where collectively we get our value-->
+
+<!--Thinking about it in the context of what I am doing, an what be valuable for us in terms of thinking about reliability and validity. What is the next step that we need to take to make it clear? What is the point of contestation between us & audience?-->
 
 <!--* Bon voyage-->
 
