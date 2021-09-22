@@ -42,7 +42,7 @@ bibliography: bibliography.bib
         * Details of the accidents
         * Reponse: SOLES 90--RORO design standards
 <!--Note: the paper does--how IMO (attempted to) reestablish safety/legitimacy or roro ferries--what entrepreneurs face: how to reestablish tourism is safe--what we face: how to reestablish the classroom is safe-->
-    * Where--Northern Europe vs Southern Europe, Meritime vs Baltic Sea--Costa concordia--arenas
+    * Where--Northern Europe vs Southern Europe, Mediterranean vs Baltic Sea--Costa concordia--arenas
     * Stop and think--"What models of the world has the unexpected events challenged?"/"Who has authority? (It may be customers and not regulators!) What are their goals and motives? What are the limits of their models? (Because they probably are not state of the art!) Where does support for those models come from?"--actively ask them about their organizations--relate this to your organization--make it specific--whats the who, what, why, where, how in your org--we can only generate consensus on very broad, general, unspecific ideas.
 * Discovery (politics of)
     * Who--representatives from Estonia, Sweden, Finland
