@@ -9,7 +9,7 @@ bibliography: bibliography.bib
 ## People
 
 Person or reference             | Quadrant                          | Reasoning/Paper
----                             | ---                               | ---
+---                             | ---                               | ---------
 Klaus Rerup                     |                                   | Rerup et al...
 @Wright2017                     | Low validity & high reliability   | An Inconvenient Truth: How Organizations Translate Climate Change into Business as Usual
 @Grodal2017a                    | High reliability & high validity  | How does a Grand Challenge Become Displaced? Explaining the Duality of Field Mobilizationg
