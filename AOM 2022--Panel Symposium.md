@@ -22,7 +22,9 @@ JP Vergne                       | High validity & low reliability?  | Arms indus
 
 ## Papers
 
-
+Reference       | Title             | Summary
+---             | ---               | ---
+@Litrico2017    | The Evolution of Issue Interpretation within Organizational Fields: Actor Positions, Framing Trajectories, and Field Settlement | How does a frame come to be shared -> _reliable_
 
 ---
 
