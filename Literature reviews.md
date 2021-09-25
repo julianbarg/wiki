@@ -16,7 +16,7 @@ Reference       | Short title                                   | Literature    
 ## Data collection and analysis
 
 Reference       |                   | Description               | Note
----             | ----              | ---                       | ------------
+---             | ----              | ---                       | ---------
 @Aguilera2021   | Paper selection 1 | Keyword selection         | The keywords are a combination of arbitrary governance terms
 </br>           | Paper selection 2 | FT 50 search              |
 </br>           | Paper selection 3 | Snowballing technique     | FT 50 + 5 journals on corp. governance & env. sustainability
