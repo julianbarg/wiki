@@ -12,6 +12,7 @@ Reference       | Short title                                   | Literature    
 ---             | ---                                           | ---                                               | ---
 @Aguilera2021   | The Corporate Governance of Sustainability    | Corporate governance & environmental outcomes     | 124
 @Radic2021      | Prizatization                                 | Privatization                                     | 316
+@Marescaux2021  | Putting the Pieces Together                   | HR differentiation                                | 164
 
 ## Data collection and analysis
 
@@ -21,6 +22,8 @@ Reference       |                   | Description               | Note
 </br>           | Paper selection 2 | FT 50 search              |
 </br>           | Paper selection 3 | Snowballing technique     | FT 50 + 5 journals on corp. governance & env. sustainability
 </br>           | Data analysis     | Table + framework         | Framework is a graphical representation of all concepts
+@Marescaux2021  | Paper selection 1 | Exploratory search        | 
+</br>           | Paper selection 2 | Keyword selection         |
 @Radic2021      | Paper selection 1 | Keyword selection         | The keyword is simply "privatization" and "privatisation"
 </br>           | Paper selection 2 | Discipline search         | Keyword search within disciplines such as Management, Public Administration 
 </br>           | Paper selection 3 | Article cap               | Selection of top 500 papers in each discipline
