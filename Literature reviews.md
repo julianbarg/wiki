@@ -38,7 +38,8 @@ Reference       |                   | Description               | Note
 </br>           | Paper selection 5 | Final article search      | 482 candidate articles
 </br>           | Paper selection 6 | Coding                    | Coding articles as relevant, irrelevant or unclear
 </br>           | Paper selection 7 | Manual selection          | Resolution of rater disagreement
-</br>           | Data analysis 1   | Visualization             | VOSviewer software ()
+</br>           | Data analysis 1   | Visualization             | VOSviewer software (see Figure 1)
+</br>           | Data analysis 2   | Table + framework         | Framework as graphical illustration of different levels
 </br>           | Further analysis  | Integration efforts
 @Radic2021      | Paper selection 1 | Keyword selection         | The keyword is simply "privatization" and "privatisation"
 </br>           | Paper selection 2 | Discipline search         | Keyword search within disciplines such as Management, Public Administration 
