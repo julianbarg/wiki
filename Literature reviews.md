@@ -21,6 +21,7 @@ Reference       | Journal   | Literature                                        
 @Marescaux2021  | JOM       | HR differentiation                                | 164           | WOS
 @Radic2021      | JOM       | Privatization                                     | 316           | WOS
 @Rietveld2021   | JOM       | Platform Competition                              | 333           | FT 50 via WOS
+@Zhong2021      | JOM       | Workplace deviance--consequences for actors       | 110           | ? via EBSCO, WOS
 
 ## Data collection and analysis
 
@@ -57,6 +58,13 @@ Reference       |                   | Description               | Note
 </br>           | Paper selection 6 | Snowballing technique     | Threshold: 10 citations in original dataset
 </br>           | Paper selection 7 | Recent articles           | Inclusion of articles published after original search
 </br>           | Data analysis 1   | Sample statics            | See [[Figure 2|Literature reviews#figure-2]]
+</br>           | Data analysis 2   | Citation networks         | See [[Figure 3|Literature reviews#figure-3]]
+</br>           | Data analysis 3   | Methods table             | Prevalence of different methods in %
+</br>           | Data analysis 4   | Phenomena & theries       | 
+</br>           | Data analysis 5   | Coding (?) of "themes"    | No description--coding?
+@Zhong2021      | Paper selection 1 | Journal selection         | 21 "top" journals without source
+</br>           | Paper selection 2 | Manual selection          | Using titles and abstracts
+</br>           | Paper selection 3 | Iteration                 | Using new terms identified in previous step
 
 ## Figures
 
@@ -71,6 +79,12 @@ Reference       |                   | Description               | Note
 **Rietvald & Schilling (2021) Figure 1**
 
 [[/uploads/rietvald_schilling_figure_1.jpg|frame, alt=Rietvald & Schilling (2021) Figure 1, width=550px]]
+
+### Figure 3
+
+**Rietvald & Schilling (2021) Figure 2**
+
+[[/uploads/rietvald_schilling_figure_2.jpg|frame, alt=Rietvald & Schilling (2021) Figure 2, width=650px]]
 
 ---
 
