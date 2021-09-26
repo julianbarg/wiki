@@ -15,6 +15,19 @@ WOS             | Web of Science
 
 ## Overview
 
+Method               | @Aguilera2021      | @Marescaux2021     | @Radic2021         | @Rietveld2021      | @Zhong2021
+---                  | ---                | ---                | ---                | ---                | ---
+Using FT 50          | :heavy_check_mark: | :x:                | :x:                | :heavy_check_mark: | :x:
+Using WOS categories | :x:                | :heavy_check_mark: | :heavy_check_mark: | :x:                | :x:
+Framework            | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:                | :heavy_check_mark:
+VOSviewer*           | :x:                | :heavy_check_mark: | :x:                | :x:                | :x:
+Citation network**   | :x:                | :x:                | :x:                | :heavy_check_mark: | :x:
+
+\* See [[Figure 1|Literature reviews#figure-1]]
+\** See [[Figure 3|Literature reviews#figure-3]]
+
+## Papers
+
 Reference       | Journal   | Literature                                        | Sample size   | Source
 ---             | ---       | ---                                               | ---           | ---
 @Aguilera2021   | JOM       | Corporate governance & environmental outcomes     | 124           | FT 50
@@ -60,11 +73,13 @@ Reference       |                   | Description               | Note
 </br>           | Data analysis 1   | Sample statics            | See [[Figure 2|Literature reviews#figure-2]]
 </br>           | Data analysis 2   | Citation networks         | See [[Figure 3|Literature reviews#figure-3]]
 </br>           | Data analysis 3   | Methods table             | Prevalence of different methods in %
-</br>           | Data analysis 4   | Phenomena & theries       | 
-</br>           | Data analysis 5   | Coding (?) of "themes"    | No description--coding?
+</br>           | Data analysis 4   | Phenomena & theories      | 
+</br>           | Data analysis 5   | Classification            | No description of process--coding?
 @Zhong2021      | Paper selection 1 | Journal selection         | 21 "top" journals without source
 </br>           | Paper selection 2 | Manual selection          | Using titles and abstracts
 </br>           | Paper selection 3 | Iteration                 | Using new terms identified in previous step
+</br>           | Data analysis 1   | Classification            | No description of process--coding?
+</br>           | Data analysis 2   | Framework                 | Graphical representation of all concepts
 
 ## Figures
 
