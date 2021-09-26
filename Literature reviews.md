@@ -19,6 +19,7 @@ Method               | @Aguilera2021      | @Marescaux2021     | @Radic2021     
 ---                  | ---                | ---                | ---                | ---                | ---
 Using FT 50          | :heavy_check_mark: | :x:                | :x:                | :heavy_check_mark: | :x:
 Using WOS categories | :x:                | :heavy_check_mark: | :heavy_check_mark: | :x:                | :x:
+Coding               | :x:                | :x:                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 Framework            | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:                | :heavy_check_mark:
 VOSviewer*           | :x:                | :heavy_check_mark: | :x:                | :x:                | :x:
 Citation network**   | :x:                | :x:                | :x:                | :heavy_check_mark: | :x:
