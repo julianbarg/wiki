@@ -9,7 +9,7 @@ bibliography: bibliography.bib
 ## Overview
 
 Reference       | Journal   | Literature                                        | Sample size   | Source
----             | ---       |                                                   | ---           | ---
+---             | ---       | ---                                               | ---           | ---
 @Aguilera2021   | JOM       | Corporate governance & environmental outcomes     | 124           | 
 @Radic2021      | JOM       | Privatization                                     | 316           | Web of Science
 @Marescaux2021  | JOM       | HR differentiation                                | 164           | Web of Science
