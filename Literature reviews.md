@@ -28,7 +28,8 @@ Reference       |                   | Description               | Note
 ---             | ----              | ---                       | ---------
 @Aguilera2021   | Paper selection 1 | Keyword selection         | The keywords are a combination of arbitrary governance terms
 </br>           | Paper selection 2 | FT 50 search              |
-</br>           | Paper selection 3 | Snowballing technique     | FT 50 + 5 journals on corp. governance & env. sustainability
+</br>           | Paper selection 3 | Specialty journals        | 5 journals on corp. governance & env. sustainability
+</br>           | Paper selection 4 | Snowballing technique     | 
 </br>           | Data analysis     | Table + framework         | Framework is a graphical representation of all concepts
 @Marescaux2021  | Paper selection 1 | Initial journal selection | Quartile 1 journals in relevant disciplines
 </br>           | Paper selection 2 | Journal cap               | Removal of irrelevant journals (e.g., accounting)
@@ -38,7 +39,7 @@ Reference       |                   | Description               | Note
 </br>           | Paper selection 5 | Final article search      | 482 candidate articles
 </br>           | Paper selection 6 | Coding                    | Coding articles as relevant, irrelevant or unclear
 </br>           | Paper selection 7 | Manual selection          | Resolution of rater disagreement
-</br>           | Data analysis 1   | Visualization             | VOSviewer software (see Figure 1)
+</br>           | Data analysis 1   | Visualization             | VOSviewer software (see [[Figure 1|Literature reviews#figure-1]])
 </br>           | Data analysis 2   | Table + framework         | Framework as graphical illustration of different levels
 </br>           | Further analysis  | Integration efforts
 @Radic2021      | Paper selection 1 | Keyword selection         | The keyword is simply "privatization" and "privatisation"
@@ -49,14 +50,27 @@ Reference       |                   | Description               | Note
 </br>           | Data analysis 1   | Coding                    | 
 </br>           | Data analysis 2   | Framework construction    | Framework is a graphical representation of all concepts
 @Rietveld2021   | Paper selection 1 | Keyword selection         | Source not specified
-</br>           | Paper selection 2 | FT 50 search              |
-
+</br>           | Paper selection 2 | FT 50 search              | 
+</br>           | Paper selection 3 | Specialty journals        | Inclusion of specialty journals
+</br>           | Paper selection 4 | New journals              | Could not have made FT 50 yet, eg., AMD
+</br>           | Paper selection 5 | Manual selection          | Based mostly on title, abstract
+</br>           | Paper selection 6 | Snowballing technique     | Threshold: 10 citations in original dataset
+</br>           | Paper selection 7 | Recent articles           | Inclusion of articles published after original search
+</br>           | Data analysis 1   | Sample statics            | See [[Figure 2|Literature reviews#figure-2]]
 
 ## Figures
 
-### Marescaux (2021) Figure 1
+### Figure 1
+
+**Marescaux (2021) Figure 1**
 
 [[/uploads/marescaux_2021_figure_1.jpg|frame, alt=Marescaux (2021) Figure 1, width=750px]]
+
+### Figure 2
+
+**Rietvald & Schilling (2021) Figure 1**
+
+
 
 ---
 
