@@ -6,13 +6,21 @@ bibliography: bibliography.bib
 
 [[_TOC_]]
 
+## Abbreviations
+
+Abbreviation    |
+---             | ---
+JOM             | Journal of Management
+WOS             | Web of Science
+
 ## Overview
 
 Reference       | Journal   | Literature                                        | Sample size   | Source
 ---             | ---       | ---                                               | ---           | ---
-@Aguilera2021   | JOM       | Corporate governance & environmental outcomes     | 124           | 
+@Aguilera2021   | JOM       | Corporate governance & environmental outcomes     | 124           | FT 50
+@Marescaux2021  | JOM       | HR differentiation                                | 164           | WOS
 @Radic2021      | JOM       | Privatization                                     | 316           | Web of Science
-@Marescaux2021  | JOM       | HR differentiation                                | 164           | Web of Science
+@Rietveld2021   | JOM       | Platform Competition                              | 333           | FT 50 via Web of Science
 
 ## Data collection and analysis
 
@@ -31,6 +39,7 @@ Reference       |                   | Description               | Note
 </br>           | Paper selection 6 | Coding                    | Coding articles as relevant, irrelevant or unclear
 </br>           | Paper selection 7 | Manual selection          | Resolution of rater disagreement
 </br>           | Data analysis 1   | Visualization             | VOSviewer software ()
+</br>           | Further analysis  | Integration efforts
 @Radic2021      | Paper selection 1 | Keyword selection         | The keyword is simply "privatization" and "privatisation"
 </br>           | Paper selection 2 | Discipline search         | Keyword search within disciplines such as Management, Public Administration 
 </br>           | Paper selection 3 | Article cap               | Selection of top 500 papers in each discipline
@@ -38,6 +47,9 @@ Reference       |                   | Description               | Note
 </br>           | Paper selection 5 | Manual selection          | Manual selection of relevant paper, 316 papers retained
 </br>           | Data analysis 1   | Coding                    | 
 </br>           | Data analysis 2   | Framework construction    | Framework is a graphical representation of all concepts
+@Rietveld2021   | Paper selection 1 | Keyword selection         | Source not specified
+</br>           | Paper selection 2 | FT 50 search              |
+
 
 ## Figures
 
