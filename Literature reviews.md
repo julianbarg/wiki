@@ -41,11 +41,9 @@ Reference       |                   | Description               | Note
 
 ## Figures
 
-[[/uploads/marescaux_2021_figure_1.jpg|frame, alt=Marescaux (2021) Figure 1, size=550px]]
+### Marescaux (2021) Figure 1
 
-### Figure 1
-
-
+[[/uploads/marescaux_2021_figure_1.jpg|frame, alt=Marescaux (2021) Figure 1, size=400px]]
 
 ---
 
