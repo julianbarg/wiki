@@ -19,8 +19,8 @@ Reference       | Journal   | Literature                                        
 ---             | ---       | ---                                               | ---           | ---
 @Aguilera2021   | JOM       | Corporate governance & environmental outcomes     | 124           | FT 50
 @Marescaux2021  | JOM       | HR differentiation                                | 164           | WOS
-@Radic2021      | JOM       | Privatization                                     | 316           | Web of Science
-@Rietveld2021   | JOM       | Platform Competition                              | 333           | FT 50 via Web of Science
+@Radic2021      | JOM       | Privatization                                     | 316           | WOS
+@Rietveld2021   | JOM       | Platform Competition                              | 333           | FT 50 via WOS
 
 ## Data collection and analysis
 
