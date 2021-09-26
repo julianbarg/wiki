@@ -24,6 +24,7 @@ VOSviewer*           | :x:                | :heavy_check_mark: | :x:            
 Citation network**   | :x:                | :x:                | :x:                | :heavy_check_mark: | :x:
 
 \* See [[Figure 1|Literature reviews#figure-1]]
+
 \** See [[Figure 3|Literature reviews#figure-3]]
 
 ## Papers
