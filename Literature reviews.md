@@ -70,7 +70,7 @@ Reference       |                   | Description               | Note
 
 **Rietvald & Schilling (2021) Figure 1**
 
-
+[[/uploads/rietvald_schilling_figure_1.jpg|frame, alt=Rietvald & Schilling (2021) Figure 1, width=550px]]
 
 ---
 
