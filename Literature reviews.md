@@ -37,6 +37,7 @@ Cutoff (# citations) | :x:                | :x:                | :x:            
 Reference       | Journal   | Literature                                        | Sample size   | Source
 -------         | ---       | ---------                                         | ---           | ----
 @Aguilera2021   | JOM       | Corporate governance & environmental outcomes     | 124           | FT 50
+@Hannigan2019   | AMA       | Topic modeling                                    | 66            | WOS & Scopus
 @Marescaux2021  | JOM       | HR differentiation                                | 164           | WOS
 @Oliveira2019   | JOM       | Dark side of interorganizational relationships    | 178           | ? via EBSCO
 @Radic2021      | JOM       | Privatization                                     | 316           | WOS
@@ -50,8 +51,13 @@ Reference       |                   | Description               | Note
 @Aguilera2021   | Paper selection 1 | Keyword selection         | The keywords are a combination of arbitrary governance terms
 </br>           | Paper selection 2 | FT 50 search              |
 </br>           | Paper selection 3 | Specialty journals        | 5 journals on corp. governance & env. sustainability
-</br>           | Paper selection 4 | Snowballing technique     | 
+</br>           | Paper selection 4 | Snowball sampling         | 
 </br>           | Data analysis     | Table + framework         | Framework is a graphical representation of all concepts
+@Hannigan2019   | Paper selection 1 | Keyword selection         | Relatively straightfoward in this case
+</br>           | Paper selection 2 | Discipline search         | WOM & Scopus "business" search
+</br>           | Paper selection 3 | Journal selection         | Not specified
+</br>           | Paper selection 4 | Snowball sampling         | 
+</br>           | Data analysis     | Topic modeling            | See [[Figure 6|Literature reviews#figure-6]]
 @Marescaux2021  | Paper selection 1 | Initial journal selection | Quartile 1 journals in relevant disciplines
 </br>           | Paper selection 2 | Journal cap               | Removal of irrelevant journals (e.g., accounting)
 </br>           | Paper selection 3 | Specialty journals        | Inclusion of specialty journal in exploratory search
@@ -84,7 +90,7 @@ Reference       |                   | Description               | Note
 </br>           | Paper selection 3 | Specialty journals        | Inclusion of specialty journals
 </br>           | Paper selection 4 | New journals              | Could not have made FT 50 yet, eg., AMD
 </br>           | Paper selection 5 | Manual selection          | Based mostly on title, abstract
-</br>           | Paper selection 6 | Snowballing technique     | Threshold: 10 citations in original dataset
+</br>           | Paper selection 6 | Snowball sampling         | Threshold: 10 citations in original dataset
 </br>           | Paper selection 7 | Recent articles           | Inclusion of articles published after original search
 </br>           | Data analysis 1   | Sample statics            | See [[Figure 2|Literature reviews#figure-2]]
 </br>           | Data analysis 2   | Citation networks         | See [[Figure 3|Literature reviews#figure-3]]
@@ -124,9 +130,16 @@ Reference       |                   | Description               | Note
 [[/uploads/oliveira_lumineau_2019_figure_a.jpg|frame, alt=Oliveira & Lumineau (2019) Figure A, width=500px]]
 
 ### Figure 5
+
 **Oliveira & Lumineau (2019) Figure 1**
 
 [[/uploads/oliveira_lumineau_2019_figure_1.png|frame, alt=Oliveira & Lumineau (2019) Figure 1, width=500px]]
+
+### Figure 6
+
+**Hannigan et al (2019) Figure A2 (appendix)**
+
+[[/uploads/hannigan_et_al_2019_fig_A2.jpg|frame, alt=Hannigan et al. (2019) Figure A2, width=750px]]
 
 ---
 
