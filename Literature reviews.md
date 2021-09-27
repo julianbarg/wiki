@@ -15,20 +15,22 @@ WOS             | Web of Science
 
 ## Overview
 
-Method               | @Aguilera2021      | @Marescaux2021     | @Radic2021         | @Rietveld2021      | @Zhong2021
----                  | ---                | ---                | ---                | ---                | ---
-Using FT 50          | :heavy_check_mark: | :x:                | :x:                | :heavy_check_mark: | :x:
-Using WOS categories | :x:                | :heavy_check_mark: | :heavy_check_mark: | :x:                | :x:
-Coding               | :x:                | :x:                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
-Framework            | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:                | :heavy_check_mark:
-VOSviewer*           | :x:                | :heavy_check_mark: | :x:                | :x:                | :x:
-Citation network**   | :x:                | :x:                | :x:                | :heavy_check_mark: | :x:
-EBSCO                | :heavy_check_mark: | :x:                | :x:                | :x:                | :heavy_check_mark:
-Cutoff (# citations) | :x:                | :x:                | :x:                | :heavy_check_mark: | :x:
+Method               | @Aguilera2021      | @Marescaux2021     | @Oliveira2019      | @Radic2021         | @Rietveld2021      | @Zhong2021
+---                  | ---                | ---                | ---                | ---                | ---                | ---
+Using FT 50          | :heavy_check_mark: | :x:                | :x:                | :x:                | :heavy_check_mark: | :x:
+Using WOS categories | :x:                | :heavy_check_mark: | x:                 | :heavy_check_mark: | :x:                | :x:
+Coding               | :x:                | :x:                | :heavy_check_mark:*| :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+Framework            | :heavy_check_mark: | :heavy_check_mark: | :x:                | :heavy_check_mark: | :x:                | :heavy_check_mark:
+VOSviewer**          | :x:                | :heavy_check_mark: | :x:                | :x:                | :x:                | :x:
+Citation network***  | :x:                | :x:                | :x:                | :x:                | :heavy_check_mark: | :x:
+EBSCO                | :heavy_check_mark: | :x:                | :heavy_check_mark: | :x:                | :x:                | :heavy_check_mark:
+Cutoff (# citations) | :x:                | :x:                | :x:                | :x:                | :heavy_check_mark: | :x:
 
-\* See [[Figure 1|Literature reviews#figure-1]]
+\* No explicit mention of coding process
 
-\** See [[Figure 3|Literature reviews#figure-3]]
+\** See [[Figure 1|Literature reviews#figure-1]]
+
+\*** See [[Figure 3|Literature reviews#figure-3]]
 
 ## Papers
 
@@ -67,7 +69,9 @@ Reference       |                   | Description               | Note
 </br>           | Paper selection 3 | Journal selection         | No details given on process
 </br>           | Paper selection 4 | Relevance coding          | Coding articles as relevant, irrelevant or unclear
 </br>           | Paper selection 5 | Manual selection          | Resolving rater disagreement 
-</br>           | Data analysis 1   | Sample statistics         | See [[Figure 5|Literatre reviews#figure-5]]
+</br>           | Data analysis 1   | Sample statistics + table | See [[Figure 5|Literatre reviews#figure-5]]
+</br>           | Data analysis 2   | Table                     |
+</br>           | Data analysis 3   | Integration               | No figure
 @Radic2021      | Paper selection 1 | Keyword selection         | The keyword is simply "privatization" and "privatisation"
 </br>           | Paper selection 2 | Discipline search         | Keyword search within disciplines such as Management, Public Administration 
 </br>           | Paper selection 3 | Article cap               | Selection of top 500 papers in each discipline
