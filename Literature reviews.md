@@ -119,6 +119,10 @@ Reference       |                   | Description               | Note
 
 [[/uploads/oliveira_lumineau_2019_figure_a.jpg|frame, alt=Oliveira & Lumineau (2019) Figure A, width=500px]]
 
+## Figure 5
+
+
+
 ---
 
 ## References
