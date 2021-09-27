@@ -24,6 +24,7 @@ Framework            | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_ma
 VOSviewer*           | :x:                | :heavy_check_mark: | :x:                | :x:                | :x:
 Citation network**   | :x:                | :x:                | :x:                | :heavy_check_mark: | :x:
 EBSCO                | :heavy_check_mark: | :x:                | :x:                | :x:                | :heavy_check_mark:
+Cutoff (# citations) | :x:                | :x:                | :x:                | :heavy_check_mark: | :x:
 
 \* See [[Figure 1|Literature reviews#figure-1]]
 
@@ -35,7 +36,7 @@ Reference       | Journal   | Literature                                        
 ---             | ---       | ---                                               | ---           | ---
 @Aguilera2021   | JOM       | Corporate governance & environmental outcomes     | 124           | FT 50
 @Marescaux2021  | JOM       | HR differentiation                                | 164           | WOS
-@Oliveira2019   | JOM       | Dark side of interorganizational relationships    | 178           |
+@Oliveira2019   | JOM       | Dark side of interorganizational relationships    | 178           | ? via EBSCO
 @Radic2021      | JOM       | Privatization                                     | 316           | WOS
 @Rietveld2021   | JOM       | Platform Competition                              | 333           | FT 50 via WOS
 @Zhong2021      | JOM       | Workplace deviance--consequences for actors       | 110           | ? via EBSCO, WOS
@@ -55,12 +56,18 @@ Reference       |                   | Description               | Note
 </br>           | Paper selection 4 | Initial search            | 22 articles from 36 journals with exact keyword
 </br>           | Paper selection 4 | Keyword selection         | Generation of full, final keyword search
 </br>           | Paper selection 5 | Final article search      | 482 candidate articles
-</br>           | Paper selection 6 | Coding                    | Coding articles as relevant, irrelevant or unclear
-</br>           | Paper selection 7 | Manual selection          | Resolution of rater disagreement
+</br>           | Paper selection 6 | Relevance coding          | Coding articles as relevant, irrelevant or unclear
+</br>           | Paper selection 7 | Manual selection          | Resolution rater disagreement
 </br>           | Data analysis 1   | Visualization             | VOSviewer software (see [[Figure 1|Literature reviews#figure-1]])
 </br>           | Data analysis 2   | Table + framework         | Framework as graphical illustration of different levels
 </br>           | Further analysis  | Integration efforts
 @Oliveira2019   | Exploration       | Literature reviews        | Identification of literature reviews on the concept
+</br>           | Paper selection 1 | Initial search            | Using EBSCOhos
+</br>           | Paper selection 2 | Keyword selection         | Based on articles from previous step
+</br>           | Paper selection 3 | Journal selection         | No details given on process
+</br>           | Paper selection 4 | Relevance coding          | Coding articles as relevant, irrelevant or unclear
+</br>           | Paper selection 5 | Manual selection          | Resolving rater disagreement 
+</br>           | Data analysis 1   | Sample statistics         | Similar to [[Figure 2|#Literature reviews#figure-2]]
 @Radic2021      | Paper selection 1 | Keyword selection         | The keyword is simply "privatization" and "privatisation"
 </br>           | Paper selection 2 | Discipline search         | Keyword search within disciplines such as Management, Public Administration 
 </br>           | Paper selection 3 | Article cap               | Selection of top 500 papers in each discipline
@@ -105,6 +112,12 @@ Reference       |                   | Description               | Note
 **Rietvald & Schilling (2021) Figure 2**
 
 [[/uploads/rietvald_schilling_figure_2.jpg|frame, alt=Rietvald & Schilling (2021) Figure 2, width=650px]]
+
+### Figure 4
+
+**Oliveira & Lumineau (2019) Figure A (appendix)**
+
+[[/uploads/oliveira_lumineau_2019_figure_a.jpg|frame, alt=Oliveira & Lumineau (2019) Figure A, width=500px]]
 
 ---
 
