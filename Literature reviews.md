@@ -23,6 +23,7 @@ Coding               | :x:                | :x:                | :heavy_check_ma
 Framework            | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:                | :heavy_check_mark:
 VOSviewer*           | :x:                | :heavy_check_mark: | :x:                | :x:                | :x:
 Citation network**   | :x:                | :x:                | :x:                | :heavy_check_mark: | :x:
+EBSCO                | :heavy_check_mark: | :x:                | :x:                | :x:                | :heavy_check_mark:
 
 \* See [[Figure 1|Literature reviews#figure-1]]
 
@@ -34,6 +35,7 @@ Reference       | Journal   | Literature                                        
 ---             | ---       | ---                                               | ---           | ---
 @Aguilera2021   | JOM       | Corporate governance & environmental outcomes     | 124           | FT 50
 @Marescaux2021  | JOM       | HR differentiation                                | 164           | WOS
+@Oliveira2019   | JOM       | Dark side of interorganizational relationships    | 178           |
 @Radic2021      | JOM       | Privatization                                     | 316           | WOS
 @Rietveld2021   | JOM       | Platform Competition                              | 333           | FT 50 via WOS
 @Zhong2021      | JOM       | Workplace deviance--consequences for actors       | 110           | ? via EBSCO, WOS
@@ -58,6 +60,7 @@ Reference       |                   | Description               | Note
 </br>           | Data analysis 1   | Visualization             | VOSviewer software (see [[Figure 1|Literature reviews#figure-1]])
 </br>           | Data analysis 2   | Table + framework         | Framework as graphical illustration of different levels
 </br>           | Further analysis  | Integration efforts
+@Oliveira2019   | Exploration       | Literature reviews        | Identification of literature reviews on the concept
 @Radic2021      | Paper selection 1 | Keyword selection         | The keyword is simply "privatization" and "privatisation"
 </br>           | Paper selection 2 | Discipline search         | Keyword search within disciplines such as Management, Public Administration 
 </br>           | Paper selection 3 | Article cap               | Selection of top 500 papers in each discipline
