@@ -67,7 +67,7 @@ Reference       |                   | Description               | Note
 </br>           | Paper selection 3 | Journal selection         | No details given on process
 </br>           | Paper selection 4 | Relevance coding          | Coding articles as relevant, irrelevant or unclear
 </br>           | Paper selection 5 | Manual selection          | Resolving rater disagreement 
-</br>           | Data analysis 1   | Sample statistics         | Similar to [[Figure 2|#Literature reviews#figure-2]]
+</br>           | Data analysis 1   | Sample statistics         | See [[Figure 5|Literatre reviews#figure-5]]
 @Radic2021      | Paper selection 1 | Keyword selection         | The keyword is simply "privatization" and "privatisation"
 </br>           | Paper selection 2 | Discipline search         | Keyword search within disciplines such as Management, Public Administration 
 </br>           | Paper selection 3 | Article cap               | Selection of top 500 papers in each discipline
