@@ -35,7 +35,7 @@ Cutoff (# citations) | :x:                | :x:                | :x:            
 ## Papers
 
 Reference       | Journal   | Literature                                        | Sample size   | Source
----             | ---       | ---                                               | ---           | ---
+-------         | ---       | ---------                                         | ---           | ----
 @Aguilera2021   | JOM       | Corporate governance & environmental outcomes     | 124           | FT 50
 @Marescaux2021  | JOM       | HR differentiation                                | 164           | WOS
 @Oliveira2019   | JOM       | Dark side of interorganizational relationships    | 178           | ? via EBSCO
