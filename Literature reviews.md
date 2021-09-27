@@ -15,22 +15,26 @@ WOS             | Web of Science
 
 ## Overview
 
-Method               | @Aguilera2021      | @Marescaux2021     | @Oliveira2019      | @Radic2021         | @Rietveld2021      | @Zhong2021
----                  | ---                | ---                | ---                | ---                | ---                | ---
-Using FT 50          | :heavy_check_mark: | :x:                | :x:                | :x:                | :heavy_check_mark: | :x:
-Using WOS categories | :x:                | :heavy_check_mark: | x:                 | :heavy_check_mark: | :x:                | :x:
-Coding               | :x:                | :x:                | :heavy_check_mark:*| :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
-Framework            | :heavy_check_mark: | :heavy_check_mark: | :x:                | :heavy_check_mark: | :x:                | :heavy_check_mark:
-VOSviewer**          | :x:                | :heavy_check_mark: | :x:                | :x:                | :x:                | :x:
-Citation network***  | :x:                | :x:                | :x:                | :x:                | :heavy_check_mark: | :x:
-EBSCO                | :heavy_check_mark: | :x:                | :heavy_check_mark: | :x:                | :x:                | :heavy_check_mark:
-Cutoff (# citations) | :x:                | :x:                | :x:                | :x:                | :heavy_check_mark: | :x:
+Method               | @Aguilera2021      | @Hannigan2019      | @Marescaux2021     | @Oliveira2019      | @Radic2021         | @Rietveld2021      | @Zhong2021
+---                  | ---                | ---                | ---                | ---                | ---                | ---                | ---
+Using FT 50          | :heavy_check_mark: | :x:                | :x:                | :x:                | :x:                | :heavy_check_mark: | :x:
+Using WOS categories | :x:                | :heavy_check_mark: | :heavy_check_mark: | :x:                | :heavy_check_mark: | :x:                | :x:
+Coding               | :x:                | :heavy_check_mark:*| :x:                | :heavy_check_mark:**|:heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+Framework            | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:                | :heavy_check_mark: | :x:                | :heavy_check_mark:
+VOSviewer***         | :x:                | :x:                | :heavy_check_mark: | :x:                | :x:                | :x:                | :x:
+Citation network**** | :x:                | :x:*****           | :x:                | :x:                | :x:                | :heavy_check_mark: | :x:
+EBSCO                | :heavy_check_mark: | :x:                | :x:                | :heavy_check_mark: | :x:                | :x:                | :heavy_check_mark:
+Cutoff (# citations) | :x:                | :x:                | :x:                | :x:                | :x:                | :heavy_check_mark: | :x:
 
-\* No explicit mention of coding process
+\* Automated coding using topic modeling
 
-\** See [[Figure 1|Literature reviews#figure-1]]
+\** No explicit mention of coding process
 
-\*** See [[Figure 3|Literature reviews#figure-3]]
+\*** See [[Figure 1|Literature reviews#figure-1]]
+
+\**** See [[Figure 3|Literature reviews#figure-3]]
+
+\***** Topic modeling yielded a relational network, see [[Figure 6|Literature reviews#figure-6]]
 
 ## Papers
 
