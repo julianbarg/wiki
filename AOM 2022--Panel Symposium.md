@@ -25,6 +25,7 @@ JP Vergne                       | High validity & low reliability?  | Arms indus
 Reference       | Title             | Summary
 ---             | ---               | ---
 @Litrico2017    | The Evolution of Issue Interpretation within Organizational Fields: Actor Positions, Framing Trajectories, and Field Settlement | How does a frame come to be shared -> _reliable_
+@Schussler2014  | On Melting Summits: The Limitations of Field-Configuring Events as Catalysts of Change in Transnational Climate Policy | The shortcomings of regulatory learning
 
 ---
 
