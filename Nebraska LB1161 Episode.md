@@ -20,7 +20,7 @@ Year    | Month | Day   | Event
 </br>   |       | 14    | Legislature announces that TransCanada has agreed to reroute KXL
 </br>   |       | 22    | Legislature and Governor approve Oil Pipeline Route Certification Act and Major Oil Pipeline Siting Act
 </br>   | Dec   | ?     | Democrats in congress threaten a government shutdown unless Republicans pass an extension of payroll tax cuts
-</br>   |       | 17    | Republicans attach a rider to payroll tax cuts bill requiring the President to decide on KXL within 60 days
+</br>   |       | 17    | House of Representative passes bill requiring the President to decide on KXL within 60 days
 </br>   |       | 24    | President signs payroll tax cuts bill with KXL rider into law
 2012    | Jan   | 18    | DOS rejects KXL stating that 60 days are "insufficient for [a national interest] determination" [@DOS2012]
 </br>   | April | 11    | Nebraska Legislature passes LB1161
