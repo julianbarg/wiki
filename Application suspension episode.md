@@ -102,7 +102,7 @@ Barack Obama    | D     | President             |       | Nov   | 07    | Reject
 Year | Month | Day  | Event
 ---  | ---   | ---  | ------------------------------------------
 2010 | Oct   | 15   | Secretary of State Clinton "inclined" to approve what could from context be assumed to be KXL
-2011 |       | 17   | Republicans attach a rider to payroll tax cuts bill requiring the President to decide on KXL within 60 days
+2011 | Dec   | 17   | Republicans attach a rider to payroll tax cuts bill requiring the President to decide on KXL within 60 days
 2012 | Jan   | 18   | DOS rejects KXL stating that 60 days are "insufficient for [a national interest] determination" [@DOS2012]
 </br>| May   | 04   | TransCanada resubmits Keystone XL application to Department of State
 2015 | Jan   | 09   | US House of Representatives passes Keystone XL Pipeline Approval Act with votes from 238 Republicans and 28 Democrats [@Foran2015a]
