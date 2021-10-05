@@ -102,6 +102,7 @@ Barack Obama    | D     | President             |       | Nov   | 07    | Reject
 Year | Month | Day  | Event
 ---  | ---   | ---  | ------------------------------------------
 2010 | Oct   | 15   | Secretary of State Clinton "inclined" to approve what could from context be assumed to be KXL
+2012 | May   | 04   | TransCanada resubmits Keystone XL application to Department of State
 2015 | Jan   | 09   | US House of Representatives passes Keystone XL Pipeline Approval Act with votes from 238 Republicans and 28 Democrats [@Foran2015a]
 </br>|       | 29   | US Senate passes Keystone XL Pipeline Approval Act with votes from 53 Republicans and 9 Democrats [@Davenport2015]
 </br>| Feb   | 24   | US President vetoes Keystone XL Pipeline Approval Act [@Obama2015]
