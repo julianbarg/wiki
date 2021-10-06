@@ -11,7 +11,7 @@ bibliography: bibliography.bib
 ### Anti-KXL
 
 Date        | Source                | Reference     | Quote
----         | ---                   | ----          | ---------------------------------------------------
+---         | ---                   | -----         | ---------------------------------------------------
 2015-04-19  | Brian Fallon          | @Brian2015a   | "The enviros may latch onto this going forward. Have we discussed when she will come out against Keystone? After POTUS vetoes?"
 2015-05-15  | Bill McKibben*        | @Adler2015    | Bill McKibben, who founded 350.org and has led the fight to stop the Keystone XL pipeline, says he is confident Sanders understands the need to keep fossil fuels in the ground. Sanders has opposed Keystone, while Clinton has avoided taking a position on it. "He’s been the most consistent and proactive voice in the entire Keystone fight," writes McKibben in an email.
 2015-05-17  | Bill McKibben         | @Parker2015   | Mr. McKibben’s environmental organization, 350.org, has been trying to raise awareness about the ties it sees between lobbyists for the oil pipeline and former aides to Mrs. Clinton.
