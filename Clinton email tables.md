@@ -6,7 +6,21 @@ bibliography: bibliography.bib
 
 * Back to [[Application suspension episode]]
 
-## Competitor's (Sanders') stance
+## Allies & adversaries--potential and realized
+
+### Anti-KXL
+
+Date        | Source                | Reference     | Quote
+---         | ---                   | ---           | ---------------------------------------------------
+2015-04-19  | Brian Fallon          | @Brian2015a   | "The enviros may latch onto this going forward. Have we discussed when she will come out against Keystone? After POTUS vetoes?"
+2015-05-15  | Bill McKibben*        | @Adler2015    | Bill McKibben, who founded 350.org and has led the fight to stop the Keystone XL pipeline, says he is confident Sanders understands the need to keep fossil fuels in the ground. Sanders has opposed Keystone, while Clinton has avoided taking a position on it. "He’s been the most consistent and proactive voice in the entire Keystone fight," writes McKibben in an email.
+2015-05-17  | Bill McKibben         | @Parker2015   | Mr. McKibben’s environmental organization, 350.org, has been trying to raise awareness about the ties it sees between lobbyists for the oil pipeline and former aides to Mrs. Clinton.
+2015-07-11  | Tiernan Sittenfeld    |               | "[I]t’s hard to imagine we [the League of Conservation Voters] can move forward [with an endorsement] until she makes clear she now opposes KXL."
+
+\* Take note of this guy, he manages to get his name into the news all the time. The rumor is that if you say "Keystone XL" three times under a full moon, he will appear in front of you.
+
+
+<!--## Competitor's (Sanders') stance
 
 Date        | Source        | Reference     | Quote
 ---         | ---           | ---           | ---------------------------------------------------
@@ -45,7 +59,7 @@ Date        | Source        | Reference     | Quote
 ## Allegations
 Date        | Source        | Reference     | Quote
 ---         | ---           | ---           | ---------------------------------------------------
-2015-05-15  | (News Clips)  |               | "Among them, Schweizer says in the original version of the book that TD Bank, a major shareholder in the Keystone XL pipeline, paid Bill Clinton for speeches and then said it would 'begin selling its $1.6 billion worth of shares in the massive but potentially still-born [sic] Keystone XL crude pipeline project' after Hillary Clinton left office. But as his source on the sale of TD Bank’s shares, Schweizer used a press release that was revealed to be fake in 2013."
+2015-05-15  | (News Clips)  |               | "Among them, Schweizer says in the original version of the book that TD Bank, a major shareholder in the Keystone XL pipeline, paid Bill Clinton for speeches and then said it would 'begin selling its $1.6 billion worth of shares in the massive but potentially still-born [sic] Keystone XL crude pipeline project' after Hillary Clinton left office. But as his source on the sale of TD Bank’s shares, Schweizer used a press release that was revealed to be fake in 2013."-->
 
 ---
 
