@@ -6,7 +6,7 @@ bibliography: bibliography.bib
 
 * Back to [[Application suspension episode]]
 
-## Allies & adversaries--potential and realized
+## 1. Allies & adversaries--potential and realized
 
 ### Anti-KXL
 
@@ -17,9 +17,32 @@ Date        | Source                | Reference     | Quote
 2015-05-17  | Bill McKibben         | @Parker2015   | Mr. McKibben’s environmental organization, 350.org, has been trying to raise awareness about the ties it sees between lobbyists for the oil pipeline and former aides to Mrs. Clinton.
 2015-07-11  | Tiernan Sittenfeld    |               | "[I]t’s hard to imagine we [the League of Conservation Voters] can move forward [with an endorsement] until she makes clear she now opposes KXL."
 2015-07-12  | POLITICO              | @Schor2015    |  Many of [the anti-KXL] activists are without a standard-bearer in the Democratic field, and are still suspicious of Clinton because of her refusal to rule out the Keystone project. And they’ve demonstrated the capacity to put supporters in the streets, including more than 1,100 anti-Keystone protesters who went to jail after White House sit-ins four years ago. That’s offering an opening to the progressive Sanders, who has emerged as Clinton’s top rival in the polls, and O’Malley, whose once-promising campaign has yet to gain traction. [...] Sanders even launched his candidacy at an event with fellow Vermonter Bill McKibben, the activist who rose to prominence by leading the anti-Keystone crusade as part of the campaign to fight climate change.
+2015-07-27  | The New Republic      | @Leber2015    | Climate Hawks Vote said in a statement that "Clinton’s climate plan is remarkable for what it does’t say, yet: no effort to keep fossil fuels in the ground, no price on carbon; no word on Keystone XL, Arctic oil, or other carbon bombs; no word on fracking; no call for adaptation."
 
 \* Take note of this guy, he manages to get his name into the news all the time. The rumor is that if you say "Keystone XL" three times under a full moon, he will appear in front of you.
 
+### Pro-KXL
+
+Date        | Source                | Reference     | Quote
+---         | ---                   | -------       | ---------------------------------------------------
+2015-08-05  | New York Times        | @Rappeport2015| Ahead of Mr. O'Malley's appearance before the labor group on Thursday, a union leader has accused him, BloombergPolitics writes, "of 'pandering to extremist and elitist elements within the environmental movement' with his opposition to Keystone XL pipeline."
+
+## 2. Ongoing discourse
+
+### a. With regard to the KXL permit application
+
+### b. With regard to KXL and the Clinton campaign
+
+Date        | Source                | Reference     | Quote
+---         | ---                   | -------       | ---------------------------------------------------
+2015-07-11  | WSJ                   | @Meckler2015  | Hillary Clinton’s State Department Staff Kept Tight Rein on Records [...]. In one instance, her chief of staff, Cheryl Mills, told State Department records specialists she wanted to see all documents requested on the controversial Keystone XL pipeline, and later demanded that some be held back.
+2015-07-18  | Huffington Post       |@Blumenthal2015| Hillary Clinton’s Biggest Campaign Bundlers Are Fossil Fuel Lobbyists [...]. Bundler Gordon Giffin is a former lobbyist for TransCanada, the company working to build the controversial Keystone XL pipeline. Giffin sits on the board of Canadian Imperial Bank of Commerce, an investor in the pipeline. The Canadian bank paid Clinton $990,000 for speeches in the months leading up to her presidential announcement. Another Canadian financial institution with an interest in Keystone XL, TD Bank, paid her $651,000 for speaking engagements.
+
+## 7. "Quantum position"
+
+Date        | Source                | Reference     | Quote
+---         | ---                   | -------       | ---------------------------------------------------
+2015-07-11  | Brian Fallon          | @Ferguson2015 | "Or option 3 - lean into this to send a wink-wink to enviros while she continues to give her non-answer."
 
 <!--## Competitor's (Sanders') stance
 
