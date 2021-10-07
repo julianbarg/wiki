@@ -34,8 +34,9 @@ Date        | Source                | Reference     | Quote
 ---         | ---                   | -------       | ---------------------------------------------------
 2015-08-05  | New York Times        | @Rappeport2015| Ahead of Mr. O'Malley's appearance before the labor group on Thursday, a union leader has accused him, BloombergPolitics writes, "of 'pandering to extremist and elitist elements within the environmental movement' with his opposition to Keystone XL pipeline."
 2015-08-09  | Nikki Budzinski       |               | "I am monitoring the Keystone announcement and am in connection with policy on the issue related to the building trades."
-2015-08-27  | Gordon Giffin         |               | "[A]s you probably know there is a federal election campaign ongoing in Canada. The election is October 19. It would be prudent, I believe wearing my former ambassador hat, to avoid being seen to take a position on a high profile issue [Keystone XL] that could be argued to be intervention in that election."
+2015-08-12  | Amanda Renteria       |               | "Can we make sure that [Labor outreach] sees the statement [on KXL] before it goes out? Just want to make sure we don’t catch anyone by surprise. We are so close to getting [building] trades and if we do this right, it will be ok even though they won’t like it.
 2015-08-23  | Nikki Budzinski       |               | "I think with the trades one of the most important things is to provide [the building trades unions] a heads up, even if we’re going to be in different places [on KXL]. Not surprising I know, but the [building] trades are going to go nuclear (so to speak) on the Administration once this announcement [on the KXL permit decision] comes out."
+2015-08-27  | Gordon Giffin         |               | "[A]s you probably know there is a federal election campaign ongoing in Canada. The election is October 19. It would be prudent, I believe wearing my former ambassador hat, to avoid being seen to take a position on a high profile issue [Keystone XL] that could be argued to be intervention in that election."
 
 ### Other/undetermined
 
@@ -49,7 +50,9 @@ Date        | Source                | Reference     | Quote
 
 Date        | Source                | Reference     | Quote
 ---         | ---                   | -------       | ---------------------------------------------------
+2015-08-23  | Nikki Budzinski       |               | The Building Trades are flagging for me that they hear the Obama Administration will deny KXL on Monday. I just wanted to try to politically get ahead of this and where we are on the issue if this in fact happens. The trades are also hearing that [Hillary Rodham Clinton] will put out a statement stating that she encouraged Obama to take this position. Politically with the building trades, this would be a very dangerous posture.
 2015-08-23  | Pete Ogden            |               | "Maybe [the White House] decided to push [the KXL permit decision] until after the Canadian election on 10/19."
+
 
 ### b. With regard to KXL and the Clinton campaign
 
@@ -63,10 +66,10 @@ Date        | Source                | Reference     | Quote
 Date        | Source                | Reference     | Quote
 ---         | ---                   | -------       | ---------------------------------------------------
 2015-08-23  | Nikki Budzinski       |               | Ideally to get [taking a stance on KXL] passed [sic] the Sept 9 meeting with the Building trades would be a personal god-send [sic].
+2015-09-07  | Christina Reynolds    |               | I think the assumption was that once [Hillary Rodham Clinton] said [she was against KXL], it would break and would be good to back it up with the more fulsome plan.
 
 ## 5. Reconciling
 
- 
 <!--2015-08-23  | Nikki Budzinski       |               | 2. Could we include the terminology around "current baseload needs" in the current energy economy in both the fact sheet and Op Ed? This will at least tip the hat to where we are today with the acknowledgement that we are transitioning to green.-->
 
 Date        | Source                | Reference     | Quote
