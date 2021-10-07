@@ -19,6 +19,7 @@ Nikki Budzinski | Labor outreach
 
 Date        | Source                | Reference     | Quote
 ---         | ---                   | -------       | ---------------------------------------------------
+2015-02-27  | John Podesta          |               | "Doubt [Tom Steyer] will ask [Hillary Rodham Clinton] to say something on Keystone, but I suppose that's possible."
 2015-04-19  | Brian Fallon          | @Brian2015a   | "The enviros may latch onto this going forward. Have we discussed when she will come out against Keystone? After POTUS vetoes?"
 2015-05-15  | Bill McKibben*        | @Adler2015    | Bill McKibben, who founded 350.org and has led the fight to stop the Keystone XL pipeline, says he is confident Sanders understands the need to keep fossil fuels in the ground. Sanders has opposed Keystone, while Clinton has avoided taking a position on it. "He’s been the most consistent and proactive voice in the entire Keystone fight," writes McKibben in an email.
 2015-05-17  | Bill McKibben         | @Parker2015   | Mr. McKibben’s environmental organization, 350.org, has been trying to raise awareness about the ties it sees between lobbyists for the oil pipeline and former aides to Mrs. Clinton.
@@ -56,6 +57,7 @@ Date        | Source                | Reference     | Quote
 
 Date        | Source                | Reference     | Quote
 ---         | ---                   | -------       | ---------------------------------------------------
+2015-07-29  | Senator John Hoven    | @Snyder2015   | "A leading congressional supporter of the Keystone XL pipeline predicted President Barack Obama will reject the US$8-billion project when Congress is out of town in August. Senator John Hoeven, a North Dakota Republican, cited 'sources' Tuesday as he discussed the pipeline in a Senate floor speech without identifying where he got his information. 'What I'm hearing from multiple sources is that he is going to turn down Keystone when we're out in August,' Hoeven told Bloomberg BNA's Ari Natter after the speech. 'I got a couple sources, and that's what they're saying. But I can't tell you who.'"
 2015-08-23  | Nikki Budzinski       |               | The Building Trades are flagging for me that they hear the Obama Administration will deny KXL on Monday. I just wanted to try to politically get ahead of this and where we are on the issue if this in fact happens. The trades are also hearing that [Hillary Rodham Clinton] will put out a statement stating that she encouraged Obama to take this position. Politically with the building trades, this would be a very dangerous posture.
 2015-08-23  | Pete Ogden            |               | "Maybe [the White House] decided to push [the KXL permit decision] until after the Canadian election on 10/19."
 
@@ -106,6 +108,7 @@ Date        | Source                | Reference     | Quote
 
 Date        | Source                | Reference     | Quote
 ---         | ---                   | -------       | ---------------------------------------------------
+2015-07-27  | Mitchell W. Berger    |               | On keystone [sic], [r]efraining from taking a position hurt Al Gore on Homestead Air Force base. He declined to take a position for the same reason [Hillary Rodham Clinton] did on the pipe line; he initiated the review."
 2015-09-07  | Kristina Costa        |               | "Joel, we pumped up the climate impacts but in discussing with Jake decided we do still need to address why she’s making her position known, when she has previously said she will wait for the President to make a decision. Added a line about wanting to let voters know where she stands, and added a more expansive graf about making the US the leader in fighting climate change and becoming a clean energy superpower."
 2015-09-09  | John Podesta          |               | "[w]e can’t go in and out of that meeting with the [building trades unions] thinking she's on their side on [KXL]."
 
