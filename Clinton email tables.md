@@ -51,6 +51,7 @@ Date        | Source                | Reference     | Quote
 Date        | Source                | Reference     | Quote
 ---         | ---                   | ---           | ---------------------------------------------------
 2015-09-09  | John Podesta          |               | (An email to sombody in the White House) "[Hillary Rodham Clinton]" just told the Building Trades she is against Keystone. Didn't want to get a bunch of endorsements and then surprise them with that. It was respectfully received. We assume that will leak, but haven’t settled on how or whether to put that out. I wanted you to know for POTUS purposes but please don't share with the office next door."
+2015-09-21  | Mandy Grunwal         |               | "If we weren’t hitting the Administration [White House] with Keystone this week, I might be tempted, but I think that probably makes it a bad idea."
 2015-09-22  | Malia Fisher          |               | "Mark Murray pointing out that with the WH still undecided, HRC's position puts BIden [sic] in a bind with enviro left."
 
 ## 2. Ongoing discourse
