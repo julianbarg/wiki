@@ -56,7 +56,7 @@ Date        | Source                | Reference     | Quote
 Date        | Source                | Reference     | Quote
 ---         | ---                   | -------       | ---------------------------------------------------
 2015-07-11  | WSJ                   | @Meckler2015  | Hillary Clinton’s State Department Staff Kept Tight Rein on Records [...]. In one instance, her chief of staff, Cheryl Mills, told State Department records specialists she wanted to see all documents requested on the controversial Keystone XL pipeline, and later demanded that some be held back.
-2015-07-18  | Huffington Post       |@Blumenthal2015| Hillary Clinton’s Biggest Campaign Bundlers Are Fossil Fuel Lobbyists [...]. Bundler Gordon Giffin is a former lobbyist for TransCanada, the company working to build the controversial Keystone XL pipeline. Giffin sits on the board of Canadian Imperial Bank of Commerce, an investor in the pipeline. The Canadian bank paid Clinton $990,000 for speeches in the months leading up to her presidential announcement. Another Canadian financial institution with an interest in Keystone XL, TD Bank, paid her $651,000 for speaking engagements.
+2015-07-18  | Huffington Post       |@Blumenthal2015| Hillary Clinton’s Biggest Campaign Bundlers Are Fossil Fuel Lobbyists [...]. Bundler Gordon Giffin is a former lobbyist for TransCanada, the company working to build the controversial Keystone XL pipeline. Giffin sits on the board of Canadian Imperial Bank of Commerce, an investor in the pipeline. The Canadian bank paid Clinton \\\$990,000 for speeches in the months leading up to her presidential announcement. Another Canadian financial institution with an interest in Keystone XL, TD Bank, paid her \\\$651,000 for speaking engagements.
 
 ## 3. Anticipated effect
 
@@ -66,8 +66,11 @@ Date        | Source                | Reference     | Quote
 
 ## 5. Reconciling
 
+ 
+<!--2015-08-23  | Nikki Budzinski       |               | 2. Could we include the terminology around "current baseload needs" in the current energy economy in both the fact sheet and Op Ed? This will at least tip the hat to where we are today with the acknowledgement that we are transitioning to green.-->
+
 Date        | Source                | Reference     | Quote
----         | ---                   | -------       | --------------------------------------------------- <!--2015-08-23  | Nikki Budzinski       |               | 2. Could we include the terminology around “current baseload needs” in the current energy economy in both the fact sheet and Op Ed? This will at least tip the hat to where we are today with the acknowledgement that we are transitioning to green.-->
+---         | ---                   | -------       | ---------------------------------------------------
 2015-08-23  | Nikki Budzinski       |               | 4. Could we beef up the mentioning jobs? O'Malley made the mistake with the trades of stating that energy jobs are temporary. They really bristle at that. Could we mention that these are "jobs and careers" for many workers and as we transition [Hillary Rodham Clinton] wants to create more careers within the new energy economy? Careers is their buzz word. 5. As I mention above, the Trades will attack Obama on raising energy prices, could [Hillary Rodham Clinton]’s OpEd and Fact sheet mention that she wants to see protections for consumers for those potential rising prices? The Op Ed will be read as very celebratory, and maybe that’s it. But I think if we could incorporate a little of these suggestions above and tone, it could be helpful.
 
 ## 7. "Quantum position"
