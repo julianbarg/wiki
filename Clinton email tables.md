@@ -18,7 +18,7 @@ Nikki Budzinski | Labor outreach
 ### Anti-KXL
 
 Date        | Source                | Reference     | Quote
----         | ---                   | -------       | ---------------------------------------------------
+---         | ---                   | ---           | ---------------------------------------------------
 2015-02-27  | John Podesta          |               | "Doubt [Tom Steyer] will ask [Hillary Rodham Clinton] to say something on Keystone, but I suppose that's possible."
 2015-04-19  | Brian Fallon          | @Brian2015a   | "The enviros may latch onto this going forward. Have we discussed when she will come out against Keystone? After POTUS vetoes?"
 2015-05-15  | Bill McKibben*        | @Adler2015    | Bill McKibben, who founded 350.org and has led the fight to stop the Keystone XL pipeline, says he is confident Sanders understands the need to keep fossil fuels in the ground. Sanders has opposed Keystone, while Clinton has avoided taking a position on it. "He’s been the most consistent and proactive voice in the entire Keystone fight," writes McKibben in an email.
@@ -35,7 +35,7 @@ Date        | Source                | Reference     | Quote
 ### Pro-KXL
 
 Date        | Source                | Reference     | Quote
----         | ---                   | -------       | ---------------------------------------------------
+---         | ---                   | ---           | ---------------------------------------------------
 2015-08-05  | New York Times        | @Rappeport2015| Ahead of Mr. O'Malley's appearance before the labor group on Thursday, a union leader has accused him, BloombergPolitics writes, "of 'pandering to extremist and elitist elements within the environmental movement' with his opposition to Keystone XL pipeline."
 2015-08-09  | Nikki Budzinski       |               | "I am monitoring the Keystone announcement and am in connection with policy on the issue related to the building trades."
 2015-08-12  | Amanda Renteria       |               | "Can we make sure that [Labor outreach] sees the statement [on KXL] before it goes out? Just want to make sure we don’t catch anyone by surprise. We are so close to getting [building] trades and if we do this right, it will be ok even though they won’t like it.
@@ -65,14 +65,14 @@ Date        | Source                | Reference     | Quote
 ### b. With regard to KXL and the Clinton campaign
 
 Date        | Source                | Reference     | Quote
----         | ---                   | -------       | ---------------------------------------------------
+---         | ---                   | ---           | ---------------------------------------------------
 2015-07-11  | WSJ                   | @Meckler2015  | Hillary Clinton’s State Department Staff Kept Tight Rein on Records [...]. In one instance, her chief of staff, Cheryl Mills, told State Department records specialists she wanted to see all documents requested on the controversial Keystone XL pipeline, and later demanded that some be held back.
 2015-07-18  | Huffington Post       |@Blumenthal2015| Hillary Clinton’s Biggest Campaign Bundlers Are Fossil Fuel Lobbyists [...]. Bundler Gordon Giffin is a former lobbyist for TransCanada, the company working to build the controversial Keystone XL pipeline. Giffin sits on the board of Canadian Imperial Bank of Commerce, an investor in the pipeline. The Canadian bank paid Clinton \\\$990,000 for speeches in the months leading up to her presidential announcement. Another Canadian financial institution with an interest in Keystone XL, TD Bank, paid her \\\$651,000 for speaking engagements.
 
 ## 3. Anticipated effect
 
 Date        | Source                | Reference     | Quote
----         | ---                   | -------       | ---------------------------------------------------
+---         | ---                   | ---           | ---------------------------------------------------
 2015-08-23  | Nikki Budzinski       |               | "Ideally to get [taking a stance on KXL] passed [sic] the Sept 9 meeting with the Building trades would be a personal god-send [sic]."
 2015-09-07  | Nikki Budzinski       |               | "As the person who thought we needed to let the building trades know this [negative stance on KXL] was coming, I have reservations on the aggressive rollout timed to the meeting [sic]. I think it might be more natural to let it sit for a day knowing that it could leak and do [the announcement] the next day.""
 2015-09-07  | Kristina Schake       |               | "Thursday would be better press-wise so [Hillary Rodham Clinton's KXL announcement] doesn't compete with her Iran speech on Wednesday."
@@ -101,13 +101,13 @@ Date        | Source                | Reference     | Quote
 ## 7. "Quantum position"
 
 Date        | Source                | Reference     | Quote
----         | ---                   | -------       | ---------------------------------------------------
+---         | ---                   | ---           | ---------------------------------------------------
 2015-07-11  | Brian Fallon          | @Ferguson2015 | "Or option 3 - lean into this to send a wink-wink to enviros while she continues to give her non-answer."
 
 ## 8. Uncategorized
 
 Date        | Source                | Reference     | Quote
----         | ---                   | -------       | ---------------------------------------------------
+---         | ---                   | ---           | ---------------------------------------------------
 2015-07-27  | Mitchell W. Berger    |               | On keystone [sic], [r]efraining from taking a position hurt Al Gore on Homestead Air Force base. He declined to take a position for the same reason [Hillary Rodham Clinton] did on the pipe line; he initiated the review."
 2015-09-07  | Kristina Costa        |               | "Joel, we pumped up the climate impacts but in discussing with Jake decided we do still need to address why she’s making her position known, when she has previously said she will wait for the President to make a decision. Added a line about wanting to let voters know where she stands, and added a more expansive graf about making the US the leader in fighting climate change and becoming a clean energy superpower."
 2015-09-09  | John Podesta          |               | "[w]e can’t go in and out of that meeting with the [building trades unions] thinking she's on their side on [KXL]."
