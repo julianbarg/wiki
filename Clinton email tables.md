@@ -34,8 +34,7 @@ Date        | Source                | Reference     | Quote
 ---         | ---                   | -------       | ---------------------------------------------------
 2015-08-05  | New York Times        | @Rappeport2015| Ahead of Mr. O'Malley's appearance before the labor group on Thursday, a union leader has accused him, BloombergPolitics writes, "of 'pandering to extremist and elitist elements within the environmental movement' with his opposition to Keystone XL pipeline."
 2015-08-09  | Nikki Budzinski       |               | "I am monitoring the Keystone announcement and am in connection with policy on the issue related to the building trades."
-2015-08-27  | Gordon Giffin         |               | "[A]s you probably know there is a federal election campaign ongoing in Canada. The election is October 19. It would be prudent, I believe wearing my former ambassador hat, to avoid being seen to take a position on a high profile issue [Keystone XL] that could be argued to be intervention in that election."
-2015-08-09
+2015-08-27  | Gordon Giffin         |               | "[A]s you probably know there is a federal election campaign ongoing in Canada. The election is October 19. It would be prudent, I believe wearing my former ambassador hat, to avoid being seen to take a position on a high profile issue [Keystone XL] that could be argued to be intervention in that election.""
 2015-08-23  | Nikki Budzinski       |               | "I think with the trades one of the most important things is to provide [the building trades unions] a heads up, even if we’re going to be in different places [on KXL]. Not surprising I know, but the [building] trades are going to go nuclear (so to speak) on the Administration once this announcement [on the KXL permit decision] comes out."
 
 ### Other/undetermined
