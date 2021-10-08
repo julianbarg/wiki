@@ -15,6 +15,10 @@ Jake Sullivan   | Chief foreign policy advisor
 John Podesta    | Campaign chair
 Nikki Budzinski | Labor outreach
 
+## Abreviations
+
+* LCV: League of Conservation Voters
+
 ## 1. Allies & adversaries--potential and realized
 
 ### Anti-KXL
@@ -22,6 +26,7 @@ Nikki Budzinski | Labor outreach
 Date        | Source                | Reference     | Quote
 ---         | ---                   | ---           | ---------------------------------------------------
 2015-02-27  | John Podesta          |               | "Doubt [Tom Steyer] will ask [Hillary Rodham Clinton] to say something on Keystone, but I suppose that's possible."
+2015-04-11  | New Republic          | Leber2015a    | Little is known about [Hillary Clinton's] specific policies on the environment. She's never tweeted about climate change, and she’s steered clear of debates over the Keystone XL pipeline. "You won’t get me to talk about Keystone because I have steadily made clear that I’m not going to express an opinion," Clinton said in Canada the same week the Senate debated a Keystone bill. So far, the most promising sign that her campaign will be aggressive on the environment is her hiring former White House senior adviser John Podesta, who led the Obama administration’s recent strategy on climate.
 2015-04-19  | Brian Fallon          | @Brian2015a   | "The enviros may latch onto this going forward. Have we discussed when she will come out against Keystone? After POTUS vetoes?"
 2015-05-15  | Bill McKibben*        | @Adler2015    | Bill McKibben, who founded 350.org and has led the fight to stop the Keystone XL pipeline, says he is confident Sanders understands the need to keep fossil fuels in the ground. Sanders has opposed Keystone, while Clinton has avoided taking a position on it. "He’s been the most consistent and proactive voice in the entire Keystone fight," writes McKibben in an email.
 2015-05-17  | Bill McKibben         | @Parker2015   | Mr. McKibben’s environmental organization, 350.org, has been trying to raise awareness about the ties it sees between lobbyists for the oil pipeline and former aides to Mrs. Clinton.
@@ -32,6 +37,8 @@ Date        | Source                | Reference     | Quote
 2015-07-27  | The New Republic      | @Leber2015    | Climate Hawks Vote said in a statement that "Clinton’s climate plan is remarkable for what it does’t say, yet: no effort to keep fossil fuels in the ground, no price on carbon; no word on Keystone XL, Arctic oil, or other carbon bombs; no word on fracking; no call for adaptation."
 2015-09-22 |Tiernan Sittenfeld (LCV)|@Sittenfeld2015| "We are thrilled that Secretary Clinton has continued to build on her longtime environmental leadership by publicly opposing the dirty and dangerous Keystone XL tar sands pipeline. This is exactly the kind of leadership we need in order to leave a healthy planet for our children and grandchildren. It is more clear than ever that pumping the dirtiest oil on the planet across America’s heartland so that it can be shipped overseas would take our country in the exact wrong direction. Secretary Clinton’s recent clean energy proposal, coupled with her opposition to drilling in the Arctic Ocean and now to Keystone XL, is both inspiring and exciting."
 2015-09-23  | 350.org               | @Boeve2015    | "Make no mistake: today is clear proof that social movements move politics. Thanks to thousands of dedicated activists around the country who spent years putting their bodies on the line to protect our climate, we’ve taken [Hillary Rodham Clinton's] 'inclination to approve' Keystone XL, and turned it into yet another call for rejection. Her position on Keystone should set an important precedent for her policies going forward: we cannot afford to approve projects that make climate change worse."
+2015-11-06  | Dan Weiss (LCV)       |               | "Thank you for your leadership against KXL. Beginning [with] your Canada speech 5.5 years ago! Your vision & leadership helped lead the way…again."
+2015-11-06  | John Podesta          |               | (Responding to email from Dan Weiss of the League of Conservation Voters on his 5.5 year leadership against KXL) "Thanks Dan. Walk down memory lane."
 
 \* Take note of this guy, he manages to get his name into the news all the time. The rumor is that if you say "Keystone XL" three times under a full moon, he will appear in front of you.
 
@@ -67,15 +74,17 @@ Date        | Source                | Reference     | Quote
 2014-04-22  | Jake Sullivan         |               | (Responding to the above email by John Podesta) "I've heard May 28 (timed to [US Senate] recess)."
 2015-05-12  | Eryn Sepp             |               | (In an email with potential interview questions for John Podesta) What are your views on the Keystone XL pipeline? Should the State Department issue the Presidential permit for this project? (Or if the State Dept decision has been announced by the time of the luncheon, what are your views on the decision?).
 2015-05-18  | Peter "Pete" Ogden    |               | "Jake [Sullivan] asked that I share this memo with you on a potential response to the KXL decision. We heard a rumor that a decision could come as early as this Thursday, though had previously heard it would not be made until next week."
+2015-07-28  | Jesse Ferguson        |               | "Sam Frizell (Time) is wondering if Podesta is advising HRC on Keystone policy. Noting that Podesta recused himself from advising the WH/POTUS on Keystone, since he was already opposed, Sam is asking about his status advising HRC on the issue."
 2015-07-29  | Senator John Hoven    | @Snyder2015   | A leading congressional supporter of the Keystone XL pipeline predicted President Barack Obama will reject the US$8-billion project when Congress is out of town in August. Senator John Hoeven, a North Dakota Republican, cited "sources" Tuesday as he discussed the pipeline in a Senate floor speech without identifying where he got his information. "What I'm hearing from multiple sources is that he is going to turn down Keystone when we're out in August," Hoeven told Bloomberg BNA's Ari Natter after the speech. "I got a couple sources, and that's what they're saying. But I can't tell you who." [...] Hoeven said on the Senate floor that Obama would wait until the August recess because the timing would mean less "pushback" from Congress.
 2015-07-29  | Josh Saks, NWF        | @Snyder2015   | "We're confident President Obama will reject the Keystone XL tarsands pipeline based on his own criteria that it not increase climatedisrupting carbon pollution--the only question is when that decision will come"
 2015-08-09  | CBC                   | @Panetta2015  | A source involved in the [KXL] project said the company is consulting lawyers on the mechanics of a NAFTA challenge, and weighing the legal and political implications. He said the main suspense now is how Obama will make his big announcement--quietly, in a mid-summer Friday afternoon statement, or boldly from a platform like his upcoming Aug. 31 trip to a climate-change conference in Alaska. "There's a broad acceptance that the decision's been made," he said, adding that different White House employees had suggested a rejection's coming. "The rumour is that the decision to deny has been made, and they're just waiting for the right time and venue."
 2015-08-18  | John Podesta          |               | "Now if POTUS would finally kill Keystone all could be good in the kingdom."
+2015-08-21  |Mike Dorning (Bloomberg)|              | (In an email to John Podesta) "re. Keystone. We're hearing decision likely next week, all indications point to rejection. Editors are very anxious to break story. Appreciate anything you share anonymously re. What decision is or when it will come."
 2015-08-21  | Jake Sullivan         |               | (In response to a question by Maya Harris whether the plan is to take a stance on KXL only after the permit decision is made) "If rumors are true that it will be next week or week after then yes."
 2015-08-23  | Nikki Budzinski       |               | "The Building Trades are flagging for me that they hear the Obama Administration will deny KXL on Monday. I just wanted to try to politically get ahead of this and where we are on the issue if this in fact happens. The trades are also hearing that [Hillary Rodham Clinton] will put out a statement stating that she encouraged Obama to take this position. Politically with the building trades, this would be a very dangerous posture."
 2015-08-23  | Pete Ogden            |               | "Maybe [the White House] decided to push [the KXL permit decision] until after the Canadian election on 10/19."
+2015-09-17  | Barack Obama          | @Feldman2013  | "Now, I know there's been, for example, a lot of controversy surrounding the proposal to build a pipeline, the Keystone pipeline, that would carry oil from Canadian tar sands down to refineries in the Gulf. And the State Department is going through the final stages of evaluating the proposal. That's how it’s always been done. But I do want to be clear: Allowing the Keystone pipeline to be built requires a finding that doing so would be in our nation's interest. And our national interest will be served only if this project does not significantly exacerbate the problem of carbon pollution. The net effects of the pipeline’s impact on our climate will be absolutely critical to determining whether this project is allowed to go forward. It's relevant."
 2015-10-29  | Juliet Eilperin (Washington Post) |   | (In an email to John Podesta) "I can’t tell if they’d be more likely to do it before, or after, Trudeau takes office--there would be arguments either way."
-
 
 ### b. With regard to KXL and the Clinton campaign
 
@@ -92,7 +101,7 @@ Date        | Source                | Reference     | Quote
 
 Date        | Source                | Reference     | Quote
 ---         | ---                   | ---           | ---------------------------------------------------
-2015-08-07  | 
+2015-08-06  | Kristina Schake       |               | (Re: Action Items from Strategy Mtg--Keystone press plan) "Colbert Show in October in NYC. Need to give them a date."
 2015-08-23  | Nikki Budzinski       |               | "Ideally to get [taking a stance on KXL] passed [sic] the Sept 9 meeting with the Building trades would be a personal god-send [sic]."
 2015-09-07  | Nikki Budzinski       |               | "As the person who thought we needed to let the building trades know this [negative stance on KXL] was coming, I have reservations on the aggressive rollout timed to the meeting [sic]. I think it might be more natural to let it sit for a day knowing that it could leak and do [the announcement] the next day.""
 2015-09-07  | Kristina Schake       |               | "Thursday would be better press-wise so [Hillary Rodham Clinton's KXL announcement] doesn't compete with her Iran speech on Wednesday."
