@@ -5,11 +5,13 @@ bibliography: bibliography.bib
 [[_TOC_]]
 
 * Back to [[Application suspension episode]]
-
-## People
+ 
+## People (excerpt)
 
 Name            | Role
 ---             | ---
+Brian Fallon    | Press secretary
+Jake Sullivan   | Chief foreign policy advisor
 John Podesta    | Campaign chair
 Nikki Budzinski | Labor outreach
 
@@ -61,8 +63,11 @@ Date        | Source                | Reference     | Quote
 
 Date        | Source                | Reference     | Quote
 ---         | ---                   | -------       | ---------------------------------------------------
+2015-05-12  | Eryn Sepp             |               | (In an email with potential interview questions for John Podesta) What are your views on the Keystone XL pipeline? Should the State Department issue the Presidential permit for this project? (Or if the State Dept decision has been announced by the time of the luncheon, what are your views on the decision?).
 2015-07-29  | Senator John Hoven    | @Snyder2015   | "A leading congressional supporter of the Keystone XL pipeline predicted President Barack Obama will reject the US$8-billion project when Congress is out of town in August. Senator John Hoeven, a North Dakota Republican, cited 'sources' Tuesday as he discussed the pipeline in a Senate floor speech without identifying where he got his information. 'What I'm hearing from multiple sources is that he is going to turn down Keystone when we're out in August,' Hoeven told Bloomberg BNA's Ari Natter after the speech. 'I got a couple sources, and that's what they're saying. But I can't tell you who.'"
+2015-07-29  | Josh Saks, NWF        | @Snyder2015   | "We're confident President Obama will reject the Keystone XL tarsands pipeline based on his own criteria that it not increase climatedisrupting carbon pollution--the only question is when that decision will come"
 2015-08-09  | CBC                   | @Panetta2015  | A source involved in the [KXL] project said the company is consulting lawyers on the mechanics of a NAFTA challenge, and weighing the legal and political implications. He said the main suspense now is how Obama will make his big announcement--quietly, in a mid-summer Friday afternoon statement, or boldly from a platform like his upcoming Aug. 31 trip to a climate-change conference in Alaska. "There's a broad acceptance that the decision's been made," he said, adding that different White House employees had suggested a rejection's coming. "The rumour is that the decision to deny has been made, and they're just waiting for the right time and venue."
+2015-08-18  | John Podesta          |               | "Now if POTUS would finally kill Keystone all could be good in the kingdom."
 2015-08-21  | Jake Sullivan         |               | (In response to a question by Maya Harris whether the plan is to take a stance on KXL only after the permit decision is made) "If rumors are true that it will be next week or week after then yes."
 2015-08-23  | Nikki Budzinski       |               | "The Building Trades are flagging for me that they hear the Obama Administration will deny KXL on Monday. I just wanted to try to politically get ahead of this and where we are on the issue if this in fact happens. The trades are also hearing that [Hillary Rodham Clinton] will put out a statement stating that she encouraged Obama to take this position. Politically with the building trades, this would be a very dangerous posture."
 2015-08-23  | Pete Ogden            |               | "Maybe [the White House] decided to push [the KXL permit decision] until after the Canadian election on 10/19."
