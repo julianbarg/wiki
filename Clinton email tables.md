@@ -160,7 +160,7 @@ Date        | Source                | Reference     | Quote
 2015-08-07  | Dan Schwerin          |               | "We are trying to find a good way to leak her opposition to the pipeline without her having to actually say it and give up her principled stand about not second-guessing the President in public."
 2015-09-08  | Brian Fallon          |               | "I think we could seem consistent with our past statements about not wanting to get ahead of POTUS on Keystone if her position merely leaked out of the labor [unions] meeting. That would seem like a private comment that she didn’t intend to become public — to an unfriendly audience, no less — and so it might achieve the same effect of getting her on the record on this issue, but with less perception that she is putting a finger to the wind. I just worry that announcing our position so fulsomely in an oped amounts to leading with our chin and will inspire loud cries of hypocrisy from reporters."
 
-## 8. Other
+## 8. Other/uncategorized
 
 Date        | Source                | Reference     | Quote
 ---         | ---                   | ---           | ---------------------------------------------------
