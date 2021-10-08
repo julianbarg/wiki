@@ -135,8 +135,8 @@ Year | Month | Day  | Event
 </br>|       | 07   | President rejects KXL application
 2016 | Oct   | 21   | WikiLeaks publishes Clinton campaigns internal emails, including on KXL decision making [@Biesecker2016]
 2017 | Jan   | 24   | New administration takes over White House
-     |       |      | President signs "Memorandum on Construction of the Keystone XL Pipeline" [@Trump2017]
-     | Mar   | 24   | President approves KXL permit
+</br>|       |      | President signs "Memorandum on Construction of the Keystone XL Pipeline" [@Trump2017]
+</br>| Mar   | 24   | President approves KXL permit
 <!--</br>|       | 18   | Clinton campaign "heard a rumor that a decision could come as early as this Thursday" and prepares a reaction [@Ogden2015]-->
 <!--</br>| June  | 04   | Candidate Perry in his announcement speech: "On day one, I will also sign an executive order approving the construction of the Keystone Pipeline." [@Perry2015]-->
 <!--</br>|       | 25   | Clinton team still discusses KXL. "'[Option] (1) Don't comment and hope it goes away' [...] 'Or option 3 - lean into this to send a wink-wink to enviros while she continues to give her non-answer'" [@Ferguson2015].-->
