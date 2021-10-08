@@ -114,42 +114,43 @@ Year | Month | Day  | Event
 </br>|       | 29   | US Senate passes Keystone XL Pipeline Approval Act with votes from 53 Republicans and 9 Democrats [@Davenport2015]
 </br>| Feb   | 24   | US President vetoes Keystone XL Pipeline Approval Act [@Obama2015]
 </br>| April | 12   | Clinton announces presidential campaign
-</br>|       | 19   | Clinton campaign manager Robby Mook raises KXL question: "The enviros may latch onto this going forward. Have we discussed when she will come out against Keystone? After POTUS vetoes?". The team discusses avoidance tactics: "[...] if we want to have her express skepticism we can do so through a spox [spokesperson] answer to question, using our QA" [@Brian2015].
-</br>|       | 22   | Clinton campaign discusses delaying a statement until May Congress recess [@Sullivan2015]
-</br>| May   | 10   | Sanders uses KXL to differentiate himself: "I'm not quite sure Hillary Clinton has come out with a position on that" [@Kaplan2015]. The comment enters the Clinton campaign's news review the next day [@Phillips2015a].
-</br>|       | 14   | Bill McKibben, founder of 350.org, criticizes Clinton on KXL "[Sanders has] been the most consistent and proactive voice in the entire Keystone fight" [@Adler2015]. The comment enters the Clinton campaign's news review the next day [@Phillips2015].
-</br>|       | 18   | Clinton campaign "heard a rumor that a decision could come as early as this Thursday" and prepares a reaction [@Ogden2015]
-</br>| June  | 04   | Candidate Perry in his announcement speech: "On day one, I will also sign an executive order approving the construction of the Keystone Pipeline." [@Perry2015]
+</br>|       | 19   | Clinton campaign begins discussing KXL stance. Campaign manager Robby Mook: "The enviros may latch onto this going forward. Have we discussed when she will come out against Keystone? After POTUS vetoes?". The team discusses avoidance tactics: "[...] if we want to have her express skepticism we can do so through a spox [spokesperson] answer to question, using our QA" [@Brian2015].
+</br>|       | 22   | Clinton campaign anticipates upcoming permit decision by White House, either the next day or timed to May Congress recess [@Sullivan2015]. It is the first of many such rumors (see [[Table on ongoing permit application discourse|Clinton email tables#a-with-regard-to-the-kxl-permit-application]])
+</br>| May   | 10   | Sanders uses KXL to differentiate himself: "I'm not quite sure Hillary Clinton has come out with a position on that" [@Kaplan2015]. The comment enters the Clinton campaign's news review the next day [@Phillips2015a]. He will keep using KXL to differentiate himself (see [[Table on Competitors|Clinton email tables#6-competitors]])
+</br>|       | 14   | Bill McKibben, founder of 350.org, criticizes Clinton on KXL "[Sanders has] been the most consistent and proactive voice in the entire Keystone fight" [@Adler2015]. The comment enters the Clinton campaign's news review the next day [@Phillips2015]. The issue keeps getting raised by environmental groups (see [[Table on anti-KXL groups|Clinton email tables#anti-kxl]])
+<!--</br>|       | 18   | Clinton campaign "heard a rumor that a decision could come as early as this Thursday" and prepares a reaction [@Ogden2015]-->
+<!--</br>| June  | 04   | Candidate Perry in his announcement speech: "On day one, I will also sign an executive order approving the construction of the Keystone Pipeline." [@Perry2015]-->
 </br>| July  | 10   | In a non-public email, League of Conservation Voters suggests edits to Clinton campaign responses in LCV questionnaire: "it’s hard to imagine we can move forward [with an endorsement] until [Hillary] makes clear she now opposes KXL" [@Sullivan2015a]
-</br>|       | 25   | Clinton team still discusses KXL. "'[Option] (1) Don't comment and hope it goes away' [...] 'Or option 3 - lean into this to send a wink-wink to enviros while she continues to give her non-answer'" [@Ferguson2015].
-</br>|       | 27   | Clinton presents her climate plan. When asked about KXL: "I will refrain from commenting [...]" [@Foran2015]. Environmental groups positive reception of her plan is overshadowed by their concern over KXL [@Miller2015].
-</br>|       | 28   | Sanders attacks Clinton on KXL: "It is hard for me to understand how one can be concerned about climate change but not vigorously oppose the Keystone pipeline" [@Strauss2015].
-</br>| Aug   | 06   | Clinton team considers KXL statement at Colbert Show in Oct [@Schaka2015], later that day it is "in a holding pattern again on KXL" [@Sullivan2015b]
-</br>|       | 07   | The final stance is still being discussed: "'is she coming out against Keystone XL?' [...] 'We are trying to find a good way to leak her opposition to the pipeline without her having to actually say it and give up her principled stand about not second-guessing the President in public'" [@Schwerin2015]. At the same time, the stance is impacted by the unfolding Hillary Clinton email controversy: "We could even have her come out against Keystone on Monday as well (not sure where that stands), which will solicit criticism but that might help distract from emails" [@Palmieri2015].
-</br>|       | 09   | CBC News talks to a source inside TransCanada. TransCanada believes rejection is imminent, considers NAFTA lawsuit or re-filing application after election [@Panetta2015].
-</br>|       | 14   | Clinton team shares rumors that president will deny KXL on a Aug 24 or 25. "well [sic] this would be great" [@Schwerin2015a].
-</br>|       | 19   | Clinton campaign director Podesta: "Now if POTUS would finally kill Keystone all could be good in the kingdom" [@Podesta2015]
-</br>|       |      | Clinton criticizes the president's _delay_ on KXL decision
-</br>|       | 20   | NABTU reaches out to Clinton campaign regarding a potential decision on KXL by the president four days later. Clinton Labor Outreach Director makes clear that an approving statement by Clinton campaign would endanger union relations [@Budzinski2015].
-</br>|       | 22   | Clinton campaign prepares op-ed "that should help soften the blow to the [NABTU] of the KXL decision" [@Budzinski2015]. The statement suggests pipeline safety measures to create work for specific unions (see [[Quotes|Application suspension episode#pipeline-safety-unions]]).
-</br>|       | 23   | Rumored date of presidents decision on KXL is now late October. "Maybe they decided to push it until after the Canadian election on 10/19" [@Budzinski2015]. On the potential of KXL op-ed, Clinton campaign Labour Outreach Director remarks: "Ideally to get passed [sic] the Sept 9 meeting with the [NABTU] would be a personal god-send" [@Budzinski2015]. Labour Outreach Director also suggests specific language for the op-ed to appease unions, such as "Careers is their buzz word" [@Budzinski2015].
+<!--</br>|       | 25   | Clinton team still discusses KXL. "'[Option] (1) Don't comment and hope it goes away' [...] 'Or option 3 - lean into this to send a wink-wink to enviros while she continues to give her non-answer'" [@Ferguson2015].-->
+<!--</br>|       | 27   | Clinton presents her climate plan. When asked about KXL: "I will refrain from commenting [...]" [@Foran2015]. Environmental groups positive reception of her plan is overshadowed by their concern over KXL [@Miller2015].-->
+<!--</br>|       | 28   | Sanders attacks Clinton on KXL: "It is hard for me to understand how one can be concerned about climate change but not vigorously oppose the Keystone pipeline" [@Strauss2015].-->
+<!--</br>| Aug   | 06   | Clinton team considers KXL statement at Colbert Show in Oct [@Schaka2015], later that day it is "in a holding pattern again on KXL" [@Sullivan2015b]-->
+<!--</br>|       | 07   | The final stance is still being discussed: "'is she coming out against Keystone XL?' [...] 'We are trying to find a good way to leak her opposition to the pipeline without her having to actually say it and give up her principled stand about not second-guessing the President in public'" [@Schwerin2015]. At the same time, the stance is impacted by the unfolding Hillary Clinton email controversy: "We could even have her come out against Keystone on Monday as well (not sure where that stands), which will solicit criticism but that might help distract from emails" [@Palmieri2015].-->
+<!--</br>|       | 09   | CBC News talks to a source inside TransCanada. TransCanada believes rejection is imminent, considers NAFTA lawsuit or re-filing application after election [@Panetta2015].-->
+<!--</br>|       | 14   | Clinton team shares rumors that president will deny KXL on a Aug 24 or 25. "well [sic] this would be great" [@Schwerin2015a].-->
+<!--</br>|       | 19   | Clinton campaign director Podesta: "Now if POTUS would finally kill Keystone all could be good in the kingdom" [@Podesta2015]-->
+</br>|       | 20   | Building trades unions (NATBU) reaches out to Clinton campaign regarding a potential decision on KXL by the president four days later. Clinton labor outreach director Nikki Budzinski makes clear that an approving statement by Clinton campaign would endanger their relationship with these influential unions [@Budzinski2015]. Union relations continue to be a key issue with regards to taking a negative stance on KXL (see [[Table on pro-KXL groups|Clinton email tables#pro-kxl]])
+</br>|       | 22   | Clinton campaign prepares op-ed "that should help soften the blow to the [NABTU] of the KXL decision" [@Budzinski2015]. The statement suggests pipeline safety measures to create work for specific unions (see [[Quotes|Application suspension episode#pipeline-safety-unions]], compare also to [[Table on reconciling|Clinton email tables#5-reconciling]]).
+<!--</br>|       | 23   | Rumored date of presidents decision on KXL is now late October. "Maybe they decided to push it until after the Canadian election on 10/19" [@Budzinski2015]. On the potential of KXL op-ed, Clinton campaign Labour Outreach Director remarks: "Ideally to get passed [sic] the Sept 9 meeting with the [NABTU] would be a personal god-send" [@Budzinski2015]. Labour Outreach Director also suggests specific language for the op-ed to appease unions, such as "Careers is their buzz word" [@Budzinski2015].-->
 </br>|       | 27   | The US ambassador to Canada--who had previously worked for TransCanada--notes in an email to Clinton campaign director Podesta that a comment on KXL "could be argued to be intervention in [the Canadian] election" [@Giffin2015].
 </br>| Sep   | 07   | Clinton campaign puts off KXL decision again [@Budzinski2015a].
-</br>|       | 7-9  | Clinton campaign continues Aug 23 discussion of KXL op-ed. The discussion shows a range of dimensions considered by the team as framings--consistency, developments, climate change, (political) energy and tonality, timing, language, job creation, data as an afterthought. See [[Clinton campaign--KXL dimensions]].
+<!--</br>|       | 7-9  | Clinton campaign continues Aug 23 discussion of KXL op-ed. The discussion shows a range of dimensions considered by the team as framings--consistency, developments, climate change, (political) energy and tonality, timing, language, job creation, data as an afterthought. See [[Clinton campaign--KXL dimensions]].-->
 </br>|       | 09   | Clinton meets with NABTU, informs them of anti-KXL stance. LIUNA in particular maintains critical stance: "we should not be surprised if LIUNA still puts out a critical statement in response to our statement when [the op-ed] goes out. [...] You might even notice them reaching out to Republicans, that is for show" [@Budzinski2015b].
 </br>|       |      | Clinton campaign drafts new responses to League of Conservative Voters questionnaire from July. The new response is a solid and concise rundown of activists' anti-KXL rhetorics [@Ogden2015a].
 </br>|       | 17   | A Clinton campaign staff member quotes Obama as saying in a speech that the KXL decision hinges on its calculated net climate impacts [@Fisher2015].
+</br>|       | 18   | Clinton criticizes the president's _delay_ on KXL decision [@Merica2015]
 </br>|       | 21   | Clinton campaign director Podesta: "She's at the Des Moines Register ed bd tomorrow. Will say she's against if asked. Otherwise we will do later in the week" [@Podesta2015a].
 </br>|       | 22   | Clinton comes out as opposing KXL
-</br>|       | 29   | LIUNA posts statement in support of KXL unrelated policy proposal by Clinton campaign
+</br>|       | 29   | LIUNA posts statement in support of a policy proposal by Clinton campaign that is unrelated to KXL
 </br>| Oct   | 19   | Canadian federal election
 </br>| Nov   | 03   | TransCanada asks White House to suspend KXL application
 </br>|       | 07   | President rejects KXL application
 2016 | Oct   | 21   | WikiLeaks publishes Clinton campaigns internal emails, including on KXL decision making [@Biesecker2016]
-2017 | Jan   | 24   | President signs "Memorandum on Construction of the Keystone XL Pipeline" [@Trump2017]
+2017 | Jan   | 24   | New administration takes over White House
+     |       |      | President signs "Memorandum on Construction of the Keystone XL Pipeline" [@Trump2017]
      | Mar   | 24   | President approves KXL permit
 
-## Quotes
+<!--## Quotes
 
 ### Pipeline safety--unions
 
@@ -182,9 +183,9 @@ Aug 23, 2015
 > 4. Could we beef up the mentioning jobs? O'Malley made the mistake with the trades of stating that energy jobs are temporary. They really bristle at that. Could we mention that these are "jobs and careers" for many workers and as we transition HRC wants to create more careers within the new energy economy? Careers is their buzz word.
 > 5. As I mention above, the Trades will attack Obama on raising energy prices, could HRC's OpEd and Fact sheet mention that she wants to see protections for consumers for those potential rising prices?
 >
-> -- @Budzinski2015
+> -- @Budzinski2015-->
 
-## Sources
+<!--## Sources
 
 Data        | Source            | Title                                                                         | Reference     | Link
 :-:         | :---------------: | ------------------------------------------------------------- | ------------------            | ---
@@ -208,7 +209,7 @@ Data        | Source            | Title                                         
 2017-01-24  | White House       | Memorandum on Construction of the Keystone XL Pipeline                        | @Trump2017    | [[Link|https://www.govinfo.gov/content/pkg/DCPD-201700068/pdf/DCPD-201700068.pdf]]
 -           | WikiLeaks         | The Podesta Emails                                                            |               | [[Link|https://wikileaks.org/podesta-emails/]]
 2017-03-24  | CNN               | Trump administration approves Keystone XL pipeline                            | @Labott2017   | [[Link|https://www.cnn.com/2017/03/23/politics/keystone-xl-pipeline-trump-approve/index.html]]
--           | Congress.gov      | S.1 - Keystone XL Pipeline Approval Act                                       |               | [[Link|https://www.congress.gov/bill/114th-congress/senate-bill/1]]
+-           | Congress.gov      | S.1 - Keystone XL Pipeline Approval Act                                       |               | [[Link|https://www.congress.gov/bill/114th-congress/senate-bill/1]]-->
 
 ---
 
