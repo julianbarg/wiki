@@ -44,6 +44,8 @@ The emails show frequent considerations of the "logistics" of taking a stance in
 <!--There are *more* or *less* certain information--e.g., the abovementioned rumors--that are part of the discourse studied by the campaign, which in turn influences the campaign's discursive actions. The release of new information is another temporal element. -->
 **(3)** The campaign shows extensive considerations around the topic of maximizing the effect of their participation in discourse. **(4)** The emails highlight introspective and consideration around identity and morals before participation in the discourse. **(5)** The emails indicate that the drafting of a compromise is--or at least can be--an inherently cynical process that is concerned not as much with subject matter as it is with interests and trade-offs. In other words, an actor can create the letter of a compromise without supporting the spirit. **(6)** The team, the public, and other actors monitor and compare the stance of e.g., competitors with the stance the Clinton campaign. **(7)** The emails show attempts to signal a position to certain groups without explicitly taking a position--a "quantum position" if you would like.
 
+### 1. Alllies and adversaries
+
 <!--The emails make frequent references to unions
 The emails feature rumors regarding the president that cause Hillary to hold of
 The emails consider how statements make maximum effect
