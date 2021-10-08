@@ -72,7 +72,8 @@ Date        | Source                | Reference     | Quote
 2015-08-21  | Jake Sullivan         |               | (In response to a question by Maya Harris whether the plan is to take a stance on KXL only after the permit decision is made) "If rumors are true that it will be next week or week after then yes."
 2015-08-23  | Nikki Budzinski       |               | "The Building Trades are flagging for me that they hear the Obama Administration will deny KXL on Monday. I just wanted to try to politically get ahead of this and where we are on the issue if this in fact happens. The trades are also hearing that [Hillary Rodham Clinton] will put out a statement stating that she encouraged Obama to take this position. Politically with the building trades, this would be a very dangerous posture."
 2015-08-23  | Pete Ogden            |               | "Maybe [the White House] decided to push [the KXL permit decision] until after the Canadian election on 10/19."
-2015-09-07  | Amanda Renteria       |               | "Fyi - she will lean into this on wed in a labor exec mtg. It could end up leaking. So we def want to get [the Energy infrastructure fact sheet & KXL oped] ready."
+2015-10-29  | Juliet Eilperin (Washington Post) |   | (In an email to John Podesta) "I can’t tell if they’d be more likely to do it before, or after, Trudeau takes office--there would be arguments either way."
+
 
 ### b. With regard to KXL and the Clinton campaign
 
@@ -82,6 +83,7 @@ Date        | Source                | Reference     | Quote
 2015-05-14  | Politico              | @Karni2015    | Among [the corrected passages in the book "Clinton Cash"], Schweizer says in the original version of the book that TD Bank, a major shareholder in the Keystone XL pipeline, paid Bill Clinton for speeches and then said it would 'begin selling its $1.6 billion worth of shares in the massive but potentially still-born [sic] Keystone XL crude pipeline project' after Hillary Clinton left office. But as his source on the sale of TD Bank’s shares, Schweizer used a press release that was revealed to be fake in 2013.
 2015-07-11  | WSJ                   | @Meckler2015  | Hillary Clinton’s State Department Staff Kept Tight Rein on Records [...]. In one instance, her chief of staff, Cheryl Mills, told State Department records specialists she wanted to see all documents requested on the controversial Keystone XL pipeline, and later demanded that some be held back.
 2015-07-18  | Huffington Post       |@Blumenthal2015| Hillary Clinton’s Biggest Campaign Bundlers Are Fossil Fuel Lobbyists [...]. Bundler Gordon Giffin is a former lobbyist for TransCanada, the company working to build the controversial Keystone XL pipeline. Giffin sits on the board of Canadian Imperial Bank of Commerce, an investor in the pipeline. The Canadian bank paid Clinton \\\$990,000 for speeches in the months leading up to her presidential announcement. Another Canadian financial institution with an interest in Keystone XL, TD Bank, paid her \\\$651,000 for speaking engagements.
+2015-09-07  | Amanda Renteria       |               | "Fyi - she will lean into this on wed in a labor exec mtg. It could end up leaking. So we def want to get [the Energy infrastructure fact sheet & KXL oped] ready."
 
 ## 3. Anticipated effect
 
@@ -138,13 +140,14 @@ Date        | Source                | Reference     | Quote
 2015-07-11  | Brian Fallon          | @Ferguson2015 | "Or option 3 - lean into this to send a wink-wink to enviros while she continues to give her non-answer."
 2015-09-08  | Brian Fallon          |               | "I think we could seem consistent with our past statements about not wanting to get ahead of POTUS on Keystone if her position merely leaked out of the labor [unions] meeting. That would seem like a private comment that she didn’t intend to become public — to an unfriendly audience, no less — and so it might achieve the same effect of getting her on the record on this issue, but with less perception that she is putting a finger to the wind. I just worry that announcing our position so fulsomely in an oped amounts to leading with our chin and will inspire loud cries of hypocrisy from reporters."
 
-## 8. Uncategorized
+## 8. Other
 
 Date        | Source                | Reference     | Quote
 ---         | ---                   | ---           | ---------------------------------------------------
 2015-07-27  | Mitchell W. Berger    |               | On keystone [sic], [r]efraining from taking a position hurt Al Gore on Homestead Air Force base. He declined to take a position for the same reason [Hillary Rodham Clinton] did on the pipe line; he initiated the review."
 2015-09-07  | Kristina Costa        |               | "Joel, we pumped up the climate impacts but in discussing with Jake [Sullivan] decided we do still need to address why she’s making her position known, when she has previously said she will wait for the President to make a decision. Added a line about wanting to let voters know where she stands, and added a more expansive graf about making the US the leader in fighting climate change and becoming a clean energy superpower."
 2015-09-09  | John Podesta          |               | "[w]e can’t go in and out of that meeting with the [building trades unions] thinking she's on their side on [KXL]."
+2015-09-22  | Hillary Clinton       |               | "I’ve got a responsibility to you and other voters who ask me about [KXL]. And I think it is imperative that we look at the Keystone Pipeline as what I believe it is —a distraction from the important work we have to do to combat climate change, and unfortunately, from my perspective, one that interferes with our ability to move forward to deal with all the other issues. Therefore, I oppose it. And I oppose it because I don’t think it’s in the best interest of what we need to do to combat climate change. I will be rolling out in a few days my plan for a North American approach to fighting climate change and clean energy. Because for me, we need to be transitioning from fossil fuels—I know it will take time--to clean renewable energy."
 
 <!--## Competitor's (Sanders') stance
 
