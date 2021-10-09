@@ -72,6 +72,10 @@ The Clinton campaign decides not to go through with the statement which would ha
 
 ### 2. Ongoing discourse
 
+Potential pushback from the building trades unions prompts the Clinton campaign to delay a statement on KXL from August to September. The Clinton campaign wants to take the stance to ease pressure from environmental groups and in particular to earn the endorsement of the League of Conservation Voters. Why did candidate Hillary Clinton stay silent on KXL in the first place?
+
+When Hillary Clinton first begins her campaign in April, the campaign team discusses taking a stance on KXL and notes the upcoming permit decision: "The enviros may latch onto this going forward. Have we discussed when she will come out against Keystone? After POTUS vetoes?" (yes, this is the same quote as above). The campaign team, and in particular John Podesta--who had previously been affiliated with the resistance against KXL (see [[Table on anti-KXL groups|Clinton email tables#anti-kxl]])--actively monitor the discourse on KXL, and in particular the rumors around an imminent rejection of the permit application. John Podesta on April 22: "Are you ready for a keystone announcement [by President Obama] tomorrow? Have no knowledge, but can’t figure out why he’s headed to the everglades [sic]." Jake Sullivan, chief foreign policy advisor, in response: "I've heard May 28 (timed to [US Senate] recess)." Over time, reports or rumors regarding an upcoming permit decision keep emerging. Most notably, Senator John Hoeven on July 28 states on the Senat floor: "What I’m hearing from multiple sources is that he is going to turn down Keystone when [the Senate is] out [on recess] in August" [@Snyder2015]. Later in an interview he clarifies: "got a couple sources, and that’s what they’re saying. But I can’t tell you who" [@Snyder2015].
+
 <!--The emails make frequent references to unions
 The emails feature rumors regarding the president that cause Hillary to hold of
 The emails consider how statements make maximum effect
