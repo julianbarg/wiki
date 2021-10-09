@@ -46,6 +46,8 @@ The emails show frequent considerations of the "logistics" of taking a stance in
 
 ### 1. Alllies and adversaries
 
+
+
 <!--The emails make frequent references to unions
 The emails feature rumors regarding the president that cause Hillary to hold of
 The emails consider how statements make maximum effect
@@ -66,6 +68,10 @@ Identity-->
 ### Additional dimension: Clinton email leak
 
 Where originally, the pressure of environmentalists on Clinton made the defeat of KXL seem more likely, the leak of Clinton's emails ironically inverted this effect slightly. The brought to light the calculative approach that Clinton took with regard to the issue. Commentators saw her move in a new light: The calculative approach confirmed in the eyes of commentators the impression that Clinton was less of a woman of conviction, and more of a untrostworthy populist (needs references/triangulation). The leak had an effect of cancelling out the positiv effect she seeked to gain from the original move. Finally, the "meta dimension" of the issue seems to have paralized the Clinton campaign itself--"do we worry that publishing an oped that leans this aggressively into our newfound position on Keystone will be greeted cynically and perhaps as part of some manufactured attempt to project sincerity?" [@Brian2015]. Members of the campaign spend weeks deliberating on how to come into the open with their position on KXL.
+
+## Conclusion
+
+Back to the original motivation of the literature, on demonstrating the relationship between discourse and institutional change. Discourse, at least at a surface level, cannot fully explain institutional change. To do so, one needs to enter relatively deep, and confront a lot of processes that may seem like noise. The frames that arise can stabilize and constitute new institutional arrangements. A difference need to be drawn between micro-level processes that change relatively benign things such as an individual pipeline and more radical, wide-reaching changes that occur over, say, decades. We see in this case study many of the frames drawn up in a relatively cynical fashion to accomplish strategic goals. At what point do these frames come to be seen in a less cynical fashion, so internalized that they constitute a new institutional status quo?
 
 ## Abbreviations
 
