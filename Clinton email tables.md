@@ -47,7 +47,7 @@ Date        | Source                | Reference     | Quote
 
 Date        | Source                | Reference     | Quote
 ---         | ---                   | ---           | ---------------------------------------------------
-2015-08-05  | New York Times        | @Rappeport2015| Ahead of Mr. O'Malley's appearance before the labor group on Thursday, a union leader has accused him, BloombergPolitics writes, "of 'pandering to extremist and elitist elements within the environmental movement' with his opposition to Keystone XL pipeline."
+2015-08-05  | New York Times        | @Rappeport2015| Ahead of Mr. O'Malley's appearance before the labor group on Thursday, a union leader has accused him, Bloomberg Politics quotes, "of 'pandering to extremist and elitist elements within the environmental movement' with his opposition to Keystone XL pipeline."
 2015-08-09  | Nikki Budzinski       |               | "I am monitoring the Keystone announcement and am in connection with policy on the issue related to the building trades."
 2015-08-12  | Amanda Renteria       |               | "Can we make sure that [Labor outreach] sees the statement [on KXL] before it goes out? Just want to make sure we don’t catch anyone by surprise. We are so close to getting [building] trades and if we do this right, it will be ok even though they won’t like it.
 2015-08-23  | Nikki Budzinski       |               | "I think with the trades one of the most important things is to provide [the building trades unions] a heads up, even if we’re going to be in different places [on KXL]. Not surprising I know, but the [building] trades are going to go nuclear (so to speak) on the Administration once this announcement [on the KXL permit decision] comes out."
