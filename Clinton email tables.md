@@ -91,9 +91,7 @@ Date        | Source                | Reference     | Quote
 2015-09-17  | Barack Obama          | @Feldman2013  | "Now, I know there's been, for example, a lot of controversy surrounding the proposal to build a pipeline, the Keystone pipeline, that would carry oil from Canadian tar sands down to refineries in the Gulf. And the State Department is going through the final stages of evaluating the proposal. That's how it’s always been done. But I do want to be clear: Allowing the Keystone pipeline to be built requires a finding that doing so would be in our nation's interest. And our national interest will be served only if this project does not significantly exacerbate the problem of carbon pollution. The net effects of the pipeline’s impact on our climate will be absolutely critical to determining whether this project is allowed to go forward. It's relevant."
 2015-10-29  | Juliet Eilperin (Washington Post) |   | (In an email to John Podesta) "I can’t tell if they’d be more likely to do it before, or after, Trudeau takes office--there would be arguments either way."
 
-### b. Hillary Clinton public position
-
-### c. With regard to KXL and the Clinton campaign
+### b. With regard to KXL and the Clinton campaign
 
 Date        | Source                | Reference     | Quote
 ---         | ---                   | ---           | ---------------------------------------------------
@@ -105,6 +103,8 @@ Date        | Source                | Reference     | Quote
 2015-07-27  | Tiernan Sittenfeld    |               | "I assume this will be a surprise to none of you, but the tar sands listserve just lit up about Sec. Clinton's comments on KXL in [Iowa] today. And apparently, Ed Shultz will be discussing on his show today. As you know, we are continuing to push for a rejection [by Hillary Clinton] asap. Can't come soon enough!"
 2015-08-07  | Gordon D. Giffin      |               | "I note from the press accounts that Sec. Clinton may be considering a more direct statement on the pending permit application for the KXL pipeline. I have a few thoughts to share for your consideration."
 2015-09-07  | Amanda Renteria       |               | "Fyi - she will lean into this on wed in a labor exec mtg. It could end up leaking. So we def want to get [the Energy infrastructure fact sheet & KXL oped] ready."
+
+<!--### b. Hillary Clinton public position-->
 
 ## 3. Anticipated effect
 
