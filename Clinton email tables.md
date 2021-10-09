@@ -91,7 +91,9 @@ Date        | Source                | Reference     | Quote
 2015-09-17  | Barack Obama          | @Feldman2013  | "Now, I know there's been, for example, a lot of controversy surrounding the proposal to build a pipeline, the Keystone pipeline, that would carry oil from Canadian tar sands down to refineries in the Gulf. And the State Department is going through the final stages of evaluating the proposal. That's how it’s always been done. But I do want to be clear: Allowing the Keystone pipeline to be built requires a finding that doing so would be in our nation's interest. And our national interest will be served only if this project does not significantly exacerbate the problem of carbon pollution. The net effects of the pipeline’s impact on our climate will be absolutely critical to determining whether this project is allowed to go forward. It's relevant."
 2015-10-29  | Juliet Eilperin (Washington Post) |   | (In an email to John Podesta) "I can’t tell if they’d be more likely to do it before, or after, Trudeau takes office--there would be arguments either way."
 
-### b. With regard to KXL and the Clinton campaign
+### b. Hillary Clinton public position
+
+### c. With regard to KXL and the Clinton campaign
 
 Date        | Source                | Reference     | Quote
 ---         | ---                   | ---           | ---------------------------------------------------
