@@ -129,7 +129,7 @@ Throughout the primaries, the other candidates Sanders and O'Malley are hounding
 
 ### 7. Strategic use of ambiguity
 
-Ambiguity is not a flaw but a feature in discourse.
+In the discourse on KXL, the Clinton campaign team often views ambiguity not as a flaw, but as a feature. Early on, Jake Sullivan, Chief foreign policy advisor indicates that he would like to avoid for Hillary Clinton to take a stance in person, in order to avoid the questions on her shift: "[I]f we want to have [Hillary Clinton] express skepticism [on KXL] we can do so through a [spokesperson] answer to question, using our Q[&]A".
 
 ### Additional dimension: Clinton email leak
 
