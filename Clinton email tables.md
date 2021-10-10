@@ -75,7 +75,7 @@ Date        | Source                | Ref.          | Quote
 
 ### a. With regard to the KXL permit application
 
-Date        | Source                | Reference     | Quote
+Date        | Source                | Ref.          | Quote
 ---         | ---                   | ---           | ---------------------------------------------------
 2015-04-22  | John Podesta          |               | (In an email to Jake Sullivan) "Are you ready for a keystone announcement [by the White House] tomorrow? Have no knowledge, but can't figure out why he's headed to the everglades."
 2014-04-22  | Jake Sullivan         |               | (Responding to the above email by John Podesta) "I've heard May 28 (timed to [US Senate] recess)."
