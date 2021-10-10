@@ -93,6 +93,10 @@ Besides the timing--or rather the decision on action or inaction--the content of
 >
 > --Brian Fallon
 
+### 5. Reconciling
+
+When--or rather after--the campaign team has made the decision to draft a stance against KXL, the work of *reconciling* this position with the stakeholders and allies begins. The emails highlight the inherently cynical nature of this undertaking. Rather than weighing the merit of different positions against each other, and creating a "blend" or compromise, it is a very superficial process of finding issues that can be traded off against each other. Sometimes, there are simple ways to appease one side of a debate. Nikki Budzinski: "Could we beef up the mentioning jobs? O'Malley made the mistake with the trades of stating that energy jobs are temporary. They really bristle at that. Could we mention that these are 'jobs and careers' for many workers and as we transition [Hillary Clinton] wants to create more careers within the new energy economy? Careers is their buzz word." Other times, the trade-offs are more complex, and more material.
+
 <!--The emails make frequent references to unions
 The emails feature rumors regarding the president that cause Hillary to hold of
 The emails consider how statements make maximum effect
@@ -202,7 +206,7 @@ Year | Month | Day  | Event
 <!--</br>|       | 23   | Rumored date of presidents decision on KXL is now late October. "Maybe they decided to push it until after the Canadian election on 10/19" [@Budzinski2015]. On the potential of KXL op-ed, Clinton campaign Labour Outreach Director remarks: "Ideally to get passed [sic] the Sept 9 meeting with the [NABTU] would be a personal god-send" [@Budzinski2015]. Labour Outreach Director also suggests specific language for the op-ed to appease unions, such as "Careers is their buzz word" [@Budzinski2015].-->
 <!--</br>|       | 7-9  | Clinton campaign continues Aug 23 discussion of KXL op-ed. The discussion shows a range of dimensions considered by the team as framings--consistency, developments, climate change, (political) energy and tonality, timing, language, job creation, data as an afterthought. See [[Clinton campaign--KXL dimensions]].-->
 
-<!--## Quotes
+## Quotes
 
 ### Pipeline safety--unions
 
@@ -235,7 +239,7 @@ Aug 23, 2015
 > 4. Could we beef up the mentioning jobs? O'Malley made the mistake with the trades of stating that energy jobs are temporary. They really bristle at that. Could we mention that these are "jobs and careers" for many workers and as we transition HRC wants to create more careers within the new energy economy? Careers is their buzz word.
 > 5. As I mention above, the Trades will attack Obama on raising energy prices, could HRC's OpEd and Fact sheet mention that she wants to see protections for consumers for those potential rising prices?
 >
-> -- @Budzinski2015-->
+> -- @Budzinski2015
 
 <!--## Sources
 
