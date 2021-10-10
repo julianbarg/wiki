@@ -12,6 +12,7 @@ Name                | Role
 ---                 | ---
 Brian Fallon        | Press secretary
 Jake Sullivan       | Chief foreign policy advisor
+Joel Benenson       | Chief strategist
 John Podesta        | Campaign chair
 Nikki Budzinski     | Labor outreach
 Valerie Alexander   | Spokesperson and senior communications advisor
