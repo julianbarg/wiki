@@ -28,7 +28,7 @@ Valerie Alexander   | Spokesperson and senior communications advisor
 
 ### a. Anti-KXL
 
-Date        | Source                | Reference     | Quote
+Date        | Source                | Ref.          | Quote
 ---         | ---                   | ---           | ---------------------------------------------------
 2015-02-27  | John Podesta          |               | "Doubt [Tom Steyer] will ask [Hillary Rodham Clinton] to say something on Keystone, but I suppose that's possible."
 2015-04-11  | New Republic          | @Leber2015a   | Little is known about [Hillary Clinton's] specific policies on the environment. She's never tweeted about climate change, and she’s steered clear of debates over the Keystone XL pipeline. "You won’t get me to talk about Keystone because I have steadily made clear that I’m not going to express an opinion," Clinton said in Canada the same week the Senate debated a Keystone bill. So far, the most promising sign that her campaign will be aggressive on the environment is her hiring former White House senior adviser John Podesta, who led the Obama administration’s recent strategy on climate.
@@ -63,7 +63,7 @@ Date        | Source                | Reference     | Quote
 
 ### Other/undetermined
 
-Date        | Source                | Reference     | Quote
+Date        | Source                | Ref.          | Quote
 ---         | ---                   | ---           | ---------------------------------------------------
 2015-08-07  | TransCanada           | @Panetta2015a | "One expert said he'd advise the company to hold off, and hope a more pipeline-friendly administration takes office in 2017. The U.S. government has a 13-0 record in NAFTA cases. A suit would likely fail, cost the company a few million dollars, and possibly antagonize the U.S. government, said David Gantz, who was been [sic] a panelist on NAFTA cases and who teaches trade law at the University of Arizona."
 2015-09-07  | Kristina Costa        |               | "Joel, we pumped up the climate impacts but in discussing with Jake [Sullivan] decided we do still need to address why she’s making her position known, when she has previously said she will wait for the President to make a decision. Added a line about wanting to let voters know where she stands, and added a more expansive graf about making the US the leader in fighting climate change and becoming a clean energy superpower."
@@ -96,7 +96,7 @@ Date        | Source                | Reference     | Quote
 
 ### b. With regard to KXL and the Clinton campaign
 
-Date        | Source                | Reference     | Quote
+Date        | Source                | Ref.          | Quote
 ---         | ---                   | ---           | ---------------------------------------------------
 2015-03-18  | The Hill              | @Cama2015     | An environmental activist group is filing a request for former Secretary of State Hillary Clinton's private emails regarding the Keystone XL pipeline. Following news that Clinton exclusively used a private email account during her tenure as secretary, Friends of the Earth said some of those communications might reveal important details about the State Department's consideration of Keystone.  
 2015-05-14  | Politico              | @Karni2015    | Among [the corrected passages in the book "Clinton Cash"], Schweizer says in the original version of the book that TD Bank, a major shareholder in the Keystone XL pipeline, paid Bill Clinton for speeches and then said it would 'begin selling its $1.6 billion worth of shares in the massive but potentially still-born [sic] Keystone XL crude pipeline project' after Hillary Clinton left office. But as his source on the sale of TD Bank’s shares, Schweizer used a press release that was revealed to be fake in 2013.
@@ -111,7 +111,7 @@ Date        | Source                | Reference     | Quote
 
 ## 3. Anticipated effect
 
-Date        | Source                | Reference     | Quote
+Date        | Source                | Ref.          | Quote
 ---         | ---                   | ---           | ---------------------------------------------------
 2015-08-06  | Kristina Schake       |               | (Re: Action Items from Strategy Mtg--Keystone press plan) "Colbert Show in October in NYC. Need to give them a date."
 2015-08-07  | Kristina Schake       |               | (Not related to KXL) "[W]e are thinking we shouldn’t put out the statement [on the Hillary Clinton email controversy] at this point because it is so late in day on a Friday the press is bound to respond negatively"
@@ -128,7 +128,7 @@ Date        | Source                | Reference     | Quote
 
 ## 4. Introspective
 
-Date        | Source                | Reference     | Quote
+Date        | Source                | Ref.          | Quote
 ---         | ---                   | ---           | ---------------------------------------------------
 2015-09-07  | Joel Benenson         |               | "This op-ed [on KXL] makes her seem totally political. Her reason for being against it is because 'she can't stay silent on an issue that matters to so many'?\? [sic] She has been silent. I don’t think this construct will fly."
 2015-09-07  | Joel Benenson         |               | "I think structurally, we have to hang this on the dramatic changes since the application [for KXL] was filed [...]. And we have to make her a visionary on clean energy and environment, not the policy director in chief."
@@ -141,7 +141,7 @@ Date        | Source                | Reference     | Quote
 
 <!--2015-08-23  | Nikki Budzinski       |               | 2. Could we include the terminology around "current baseload needs" in the current energy economy in both the fact sheet and Op Ed? This will at least tip the hat to where we are today with the acknowledgement that we are transitioning to green.-->
 
-Date        | Source                | Reference     | Quote
+Date        | Source                | Ref.          | Quote
 ---         | ---                   | ---           | ---------------------------------------------------
 2015-05-18  | Jake Sullivan         |               | "The rail/pipeline safety stuff I care a little less about [compared to KXL], but there is also a natural tie-in there, because in the absence of a pipeline we're going to have to improve the rest of our infrastructure."
 2015-08-23  | Nikki Budzinski       |               | "4. Could we beef up the mentioning jobs? O'Malley made the mistake with the trades of stating that energy jobs are temporary. They really bristle at that. Could we mention that these are "jobs and careers" for many workers and as we transition [Hillary Rodham Clinton] wants to create more careers within the new energy economy? Careers is their buzz word. 5. As I mention above, the Trades will attack Obama on raising energy prices, could [Hillary Rodham Clinton]’s OpEd and Fact sheet mention that she wants to see protections for consumers for those potential rising prices? The Op Ed will be read as very celebratory, and maybe that’s it. But I think if we could incorporate a little of these suggestions above and tone, it could be helpful."
@@ -151,7 +151,7 @@ Date        | Source                | Reference     | Quote
 
 ## 6 Competitors
 
-Date        | Source                | Reference     | Quote
+Date        | Source                | Ref.          | Quote
 ---         | ---                   | ---           | ---------------------------------------------------
 2015-05-07  | Bloomberg             | @Przybyla2015 | [A]reas where Sanders is in a position to draw stark contrasts with Clinton include [...] her stance on the Keystone XL pipeline. As secretary of state, Clinton said she was "inclined" to approve the pipeline. Since then, much like on the [Trans-Pacific Partnership], Clinton has been silent on Keystone.
 2015-05-10  | CBS News              | @Kaplan2015   | Sanders is hesitant to criticize Clinton, saying that he respects and admires her. But pressed on the question of why he would make a better Democratic nominee, he points to three things [including] the work he has done opposing the Keystone XL pipeline. "I'm not quite sure Hillary Clinton has come out with a position on that," he said.
@@ -164,7 +164,7 @@ Date        | Source                | Reference     | Quote
 
 ## 7. "Quantum position"
 
-Date        | Source                | Reference     | Quote
+Date        | Source                | Ref.          | Quote
 ---         | ---                   | ---           | ---------------------------------------------------
 2015-05-19  | Jake Sullivan         | @Brian2015    | "[I]f we want to have [Hillary Clinton] express skepticism [on KXL] we can do so through a [spokesperson] answer to question, using our Q[&]A."
 2015-07-28  | Hillary Clinton       | @Merica2015a  | "I am not going to second guess (President Barack Obama) because I was in a position to set this in motion. [...] I want to wait and see what he and Secretary Kerry decide. [...] If it is undecided when I become president, I will answer your question."
