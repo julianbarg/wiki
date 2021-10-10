@@ -28,7 +28,7 @@ Trevor Houser       | Energy advisor
 * LCV: League of Conservation Voters
 * LIUNA: Laborers' International Union of North America
 
-## Narrative
+## Background
 
 On November 3, 2015 TransCanada asks the State Department to suspend the permit application for its KXL permit application, a move that a White House speaker calls "unusual" [@Chiacu2015]--likely an understatement. The move highlights the extraordinary uncertainty faced by KXL. At the time, the pipeline had been under review for over half a decade. In 2012, the Department of State rejected the project for technical reasons, and TransCanada resubmited the application months later (see [[timeline|Application suspension episode#timeline]]). Previous environmental impact statements by the State Department had looked positive. However, in the second half of 2014 the oil price halfs, from over \\\$100 to about \\\$50. Cue unexpected consequences. On Febuary 4, 2015 the Environmental Protection Agency (EPA) asks the State Department to revisit their analysis [@Harder2015]. Not to worry--the EPA had reanalysed KXL before, without changing the final outcome [@Goodman2014]. But the changed data basis now is a cause for concern. Before the price drop, transportation cost were a negligable factor for the Canadian oil sands industry. Now, the construction of KXL could make the difference between oil fields in Canada being developed or not--the calculated climate impacts of KXL could look significantly worse.
 
