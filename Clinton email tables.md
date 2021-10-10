@@ -11,6 +11,7 @@ bibliography: bibliography.bib
 Name                | Role
 ---                 | ---
 Brian Fallon        | Press secretary
+Dan Schwerin        | Director of speechwriting
 Jake Sullivan       | Chief foreign policy advisor
 Jim Margolis        | Senior media advisor
 Joel Benenson       | Chief strategist
