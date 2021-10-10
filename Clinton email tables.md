@@ -26,7 +26,7 @@ Valerie Alexander   | Spokesperson and senior communications advisor
 
 ## 1. Allies & adversaries--potential and realized
 
-### Anti-KXL
+### a. Anti-KXL
 
 Date        | Source                | Reference     | Quote
 ---         | ---                   | ---           | ---------------------------------------------------
@@ -47,7 +47,7 @@ Date        | Source                | Reference     | Quote
 
 \* Take note of this guy, he manages to get his name into the news all the time. The rumor is that if you say "Keystone XL" three times under a full moon, he will appear in front of you.
 
-### Pro-KXL
+### b. Pro-KXL
 
 Date        | Source                | Reference     | Quote
 ---         | ---                   | ---           | ---------------------------------------------------
