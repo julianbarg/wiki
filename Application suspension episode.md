@@ -86,7 +86,7 @@ To participate in discourse is not as easy as drafting a statement and then rele
 
 ### 4. Introspective
 
-Besides the timing--or rather the decision on action or inaction--the content of discursive action is also subject to debate. A determinant factor proves to be not merit or the subject matter, but questions of consistency with past statements, of identity, or of how the statements will reflect on Hillary Clinton . The perceived shift, 
+Besides the timing--or rather the decision on action or inaction--the content of discursive action is also subject to debate. A determinant factor proves to be not merit or the subject matter, but questions of consistency with past statements, of identity, or of how the statements will reflect on Hillary Clinton. Joel Benenson, chief strategist: "This op-ed [on KXL] makes her seem totally political. Her reason for being against it is because 'she can’t stay silent on an issue that matters to so many\'?\? [sic] She has been silent. I don’t think this construct will fly.". The perceived shift, 
 
 <!--The emails make frequent references to unions
 The emails feature rumors regarding the president that cause Hillary to hold of
