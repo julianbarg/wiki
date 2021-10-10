@@ -19,7 +19,7 @@ John Podesta        | Campaign chair
 Nikki Budzinski     | Labor outreach
 Valerie Alexander   | Spokesperson and senior communications advisor
 
-## Abreviations
+## Abbreviations
 
 * LCV: League of Conservation Voters
 * LIUNA: Laborers' International Union of North America
