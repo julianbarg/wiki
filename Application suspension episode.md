@@ -149,7 +149,7 @@ Back to the original motivation of the literature, on demonstrating the relation
 
 ## President & presidential candidates position on KXL *
 
-Name            | R/D   | Role                  | Year  | Month | Day   |Position on KXL                   
+Name            | R/D   | Role                  | Y     | M     | D     |Position on KXL                   
 --------        | ---   | ---                   | ---   | ---   | ---   | --------------------------------------------
 Bernie Sanders  | D     | Candidate             | -     |       |       | Longstanding critic of KXL
 Martin O'Malley | D     | Candidate             | 2014  | Nov   | 17    | Posts on Twitter: "We need a jobs agenda that meets our climate challenge. I hope the Senate rejects #KeystoneXL: it's too much CO2, & not nearly enough jobs"
@@ -177,7 +177,7 @@ Barack Obama    | D     | President             |       | Nov   | 07    | Reject
 
 ## Timeline
 
-Year | Month | Day  | Event
+Y    | M     | D    | Event
 ---  | ---   | ---  | ------------------------------------------
 2010 | Oct   | 15   | Secretary of State Clinton "inclined" to approve what can from context be assumed to be KXL
 2011 | Dec   | 17   | Republicans attach a rider to payroll tax cuts bill requiring the President to decide on KXL within 60 days
