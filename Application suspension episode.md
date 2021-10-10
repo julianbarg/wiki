@@ -121,6 +121,12 @@ Identity-->
 * The limits to agency--unexpected consequences--touch on it!
 * Rumors influence statements and decisions--touch on it!-->
 
+### 6. Competitors
+
+[There could be a paragraph about statements on KXL and Clinton from competitors here. I decided it's not that important or interesting, or this may work without it. There is probably something important or interesting there though, not sure. I should probably give at least one quote to convey the atmosphere? Regardless, this should be short. Should be moved?]
+
+Throughout the primaries, the other candidates Sanders and O'Malley are hounding Clinton on KXL. Bernie Sanders: "I believe along with Pope Francis and almost all scientists that climate change is threatening this planet in a horrendous ways and that we have to be aggresive in transforming our energy system away from fossil fuel and defeat–and defeat!–the Keystone pipeline. That is not Hillary Clinton's position" [@Tapper2015]. 
+
 ### 7. Strategic use of ambiguity
 
 Ambiguity is not a flaw but a feature in discourse.
