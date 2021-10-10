@@ -61,7 +61,7 @@ The previous section laid out the field of potential intervenors from the perspe
 
 The leaked emails showcase how KXL continuously interefered with the Clinton's other policy goals. The Clinton campaign team frequent considers the "logistics" of taking a stance in the KXl discourse. There are seven dimensions that the campaign considers before taking a stance. **(1)**There are potential and realized allies and adversary, whereby the realization of an ally--for instance through an official endorsement or donation--provides one temporal element. **(2)** The team monitors the discourse as it partains to KXL and the Clinton campaign. Most importantly, the campaign has some ideas of how the discourse may develop in the future, but with significant uncertainty--think the abovementioned rumors. The release of new information--uncertain or not--is another temporal element.
 <!--There are *more* or *less* certain information--e.g., the abovementioned rumors--that are part of the discourse studied by the campaign, which in turn influences the campaign's discursive actions. The release of new information is another temporal element. -->
-**(3)** The campaign shows extensive considerations around the topic of maximizing the effect of their participation in discourse. **(4)** The emails highlight introspective and consideration around identity and morals before participation in the discourse. **(5)** The emails indicate that the drafting of a compromise is--or at least can be--an inherently cynical process that is concerned not as much with subject matter as it is with interests and trade-offs. In other words, an actor can create the letter of a compromise without supporting the spirit. **(6)** The team, the public, and other actors monitor and compare the stance of e.g., competitors with the stance the Clinton campaign. **(7)** The emails show attempts to signal a position to certain groups without explicitly taking a position--a "quantum position" if you would like. Note: where the emails refer to publicly available data, this data is provided rather than references to the emails.
+**(3)** The campaign shows extensive considerations around the topic of maximizing the effect of their participation in discourse. **(4)** The emails highlight introspective and consideration around identity and morals before participation in the discourse. **(5)** The emails indicate that the drafting of a compromise is--or at least can be--an inherently cynical process that is concerned not as much with subject matter as it is with interests and trade-offs. In other words, an actor can create the letter of a compromise without supporting the spirit. **(6)** The team, the public, and other actors monitor and compare the stance of e.g., competitors with the stance the Clinton campaign. **(7)** The emails show attempts to signal a position to certain groups without explicitly taking a position--a strategic use of ambiguity, or "quantum position" if you like. Note: where the emails refer to publicly available data, this data is provided rather than references to the emails.
 
 ### 1. Allies and adversaries
 
@@ -84,7 +84,7 @@ Should the Clinton campaign release a statement on KXL if the team assumes that 
 
 ### 3. Anticipated effect
 
-To participate in discourse is not as easy as drafting a statement and then releasing it. The Clinton campaign teams considerations indicate that the same statement, sent at different times of the week, can have very different effects. There is the obvious step of pushing the release of a statemen back to take place after the meeting with key stakeholders, the building trades unions. Nikki Budzinski: "Ideally to get [taking a stance on KXL] passed [sic] the Sept 9 meeting with the Building trades would be a personal god-send [sic]". Even then, it is not as easy as just waiting until *after* the meeting. Nikki Budzinski again: "I have reservations on the aggressive rollout timed to the meeting. I think it might be more natural to let it sit for a day knowing that it could leak and do [the announcement] the next day". Besides concerns regarding the stakeholer and potential ally, the campaign teams considers the schedule of unrelated events. "Thursday would be better press-wise so [Hillary Clinton’s KXL announcement] doesn’t compete with her Iran speech on Wednesday." "We could even have her come out against Keystone on Monday as well (not sure where that stands), which will solicit criticism but that might help distract from [Hillary Clinton email controversy]." See [[Table on anticipated effect|Clinton email tables#3-anticipated-effect]].
+To participate in discourse is not as easy as drafting a statement and then releasing it. The Clinton campaign teams considerations indicate that the same statement, sent at different times of the week, can have very different effects. There is the obvious step of pushing the release of a statemen back to take place after the meeting with key stakeholders, the building trades unions. Nikki Budzinski: "Ideally to get [taking a stance on KXL] passed [sic] the Sept 9 meeting with the Building trades would be a personal god-send [sic]". Even then, it is not as easy as just waiting until *after* the meeting. Nikki Budzinski again: "I have reservations on the aggressive rollout timed to the meeting. I think it might be more natural to let it sit for a day knowing that it could leak and do [the announcement] the next day". Besides concerns regarding the stakeholer and potential ally, the campaign teams considers the schedule of unrelated events. "Thursday would be better press-wise so [Hillary Clinton’s KXL announcement] doesn’t compete with her Iran speech on Wednesday." "We could even have her come out against Keystone on Monday as well (not sure where that stands), which will solicit criticism but that might help distract from [Hillary Clinton email controversy]." See further [[Table on anticipated effect|Clinton email tables#3-anticipated-effect]].
 
 ### 4. Introspective
 
@@ -102,6 +102,8 @@ When--or rather after--the campaign team has made the decision to draft a stance
 > 
 > --Trevor Houser, Energy advisor (see [[Section Quotes|Application suspension episode#pipeline-safety-unions]] for full quote)
 
+See further [[Table on anticipated effect|Clinton email tables#3-anticipated-effect]].
+
 <!--The emails make frequent references to unions
 The emails feature rumors regarding the president that cause Hillary to hold of
 The emails consider how statements make maximum effect
@@ -118,6 +120,10 @@ Identity-->
 * The wildcard Trump--the art of botchering a deal--got it!
 * The limits to agency--unexpected consequences--touch on it!
 * Rumors influence statements and decisions--touch on it!-->
+
+### 7. Strategic use of ambiguity
+
+Ambiguity is not a flaw but a feature in discourse.
 
 ### Additional dimension: Clinton email leak
 
