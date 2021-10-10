@@ -14,6 +14,7 @@ bibliography: bibliography.bib
 Name                | Role
 ---                 | ---
 Brian Fallon        | Press secretary
+Dan Schwerin        | Director of speechwriting
 Jake Sullivan       | Chief foreign policy advisor
 Jim Margolis        | Senior media advisor
 Joel Benenson       | Chief strategist
@@ -88,7 +89,7 @@ To participate in discourse is not as easy as drafting a statement and then rele
 
 ### 4. Introspective
 
-Besides the timing--or rather the decision on action or inaction--the content of discursive action is also subject to debate. A determinant factor proves to be not merit or the subject matter, but questions of consistency with past statements, of identity, or of how the statements will reflect on Hillary Clinton. Joel Benenson, chief strategist: "This op-ed [on KXL] makes her seem totally political. Her reason for being against it is because 'she can’t stay silent on an issue that matters to so many\'?\? [sic] She has been silent. I don’t think this construct will fly.". The perceived shift, from 'inclined' to approve, to not interfering with a process that she initiated, to finally coming out against KXL is the biggest challenge to the campaign. Jim Margolis, Senior media advisor: "[What Brian Fallon pointed out] has been bothering me as well. We repeatedly said we couldn’t [take a stance on KXL] and then launch an op Ed [sic] without much explanation." Taking an honest stance on KLX proves to be unworkable: 
+Besides the timing--or rather the decision on action or inaction--the content of discursive action is also subject to debate. A determinant factor proves to be not merit or the subject matter, but questions of consistency with past statements, of identity, or of how the statements will reflect on Hillary Clinton. Joel Benenson, chief strategist: "This op-ed [on KXL] makes her seem totally political. Her reason for being against it is because 'she can't stay silent on an issue that matters to so many\'?\? [sic] She has been silent. I don’t think this construct will fly.". The perceived shift, from 'inclined' to approve, to not interfering with a process that she initiated (see [[Section Ambiguity|Application suspension episode#7-strategic-use-of-ambiguity]]), to finally coming out against KXL is the biggest challenge to the campaign. Jim Margolis, Senior media advisor: "[What Brian Fallon pointed out] has been bothering me as well. We repeatedly said we couldn’t [take a stance on KXL] and then launch an op Ed [sic] without much explanation." Taking an honest stance on KLX proves to be unworkable: 
 
 > Given that we just offered an apology on [the Hillary Clinton email controversy] that some reporters think happened 'on a dime' after months of resistance, do we worry that publishing an oped that leans this aggressively into our newfound position on Keystone will be greeted cynically and perhaps as part of some manufactured attempt to project sincerity? I think we could seem consistent with our past statements about not wanting to get ahead of POTUS on Keystone if her position merely leaked out of the labor meeting. That would seem like a private comment that she didn't intend to become public — to an unfriendly audience, no less — and so it might achieve the same effect of getting her on the record on this issue, but with less perception that she is putting a finger to the wind. I just worry that announcing our position so fulsomely in an oped amounts to leading with our chin and will inspire loud cries of hypocrisy from reporters.
 >
@@ -129,7 +130,9 @@ Throughout the primaries, the other candidates Sanders and O'Malley are hounding
 
 ### 7. Strategic use of ambiguity
 
-In the discourse on KXL, the Clinton campaign team often views ambiguity not as a flaw, but as a feature. Early on, Jake Sullivan, Chief foreign policy advisor indicates that he would like to avoid for Hillary Clinton to take a stance in person, in order to avoid the questions on her shift: "[I]f we want to have [Hillary Clinton] express skepticism [on KXL] we can do so through a [spokesperson] answer to question, using our Q[&]A".
+In the discourse on KXL, the Clinton campaign team often views ambiguity not as a flaw, but as a feature. Early on, Jake Sullivan, Chief foreign policy advisor indicates that he would like to avoid for Hillary Clinton to take a stance in person, in order to avoid the questions on this shift: "[I]f we want to have [Hillary Clinton] express skepticism [on KXL] we can do so through a [spokesperson] answer to question, using our Q[&]A". The team also discusses taking advantage of the fact that Campaign chair John Podesta is a well-known KXL-opponent. When Time Magazine sends a press question regarding his role in advising Hillary Clinton on KXL, Brian Fallon quickly comes up with a way of signaling without commiting: "option 3 - lean into this to send a wink-wink to enviros while [Hillary Clinton] continues to give her non-answer" [@Ferguson2015]. Dan Schwerin, Director of speechwriting summarizes the campaign's strategy in the following fashion: "We are trying to find a good way to leak her opposition to the pipeline without her having to actually say it and give up her principled stand about not second-guessing the President in public". Eventually, the campaign team lands on the following language to sidestep the question: ""
+
+relays the challenges that arise from taking an ambiguous stance
 
 ### Additional dimension: Clinton email leak
 
@@ -170,11 +173,6 @@ Barack Obama    | D     | President             |       | Nov   | 07    | Reject
 ### Republican primaries--timeline
 
 [[/uploads/republican_primaries_2016.png|frame, width=600px, alt=Source: https://www.realclearpolitics.com/epolls/2016/president/us/2016_republican_presidential_nomination-3823.html]]
-
-## People
-
-* John Podesta: Clinton campaign director
-* Nikki Budzinski: Clinton Labor Outreach Director
 
 ## Timeline
 
