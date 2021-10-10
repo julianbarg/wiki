@@ -49,7 +49,7 @@ Date        | Source                | Ref.          | Quote
 
 ### b. Pro-KXL
 
-Date        | Source                | Reference     | Quote
+Date        | Source                | Ref           | Quote
 ---         | ---                   | ---           | ---------------------------------------------------
 2015-08-05  | New York Times        | @Eidelson2015 | Terry O'Sullivan, president of LIUNA in an open letter to O'Malley: "[Rejecting KXL is] an attack on the jobs of thousands of members of the Laborers International Union of North America. [...] It is absurd pandering to extremist and elitist elements within the environmental movement"
 2015-08-09  | Nikki Budzinski       |               | "I am monitoring the Keystone announcement and am in connection with policy on the issue related to the building trades."
