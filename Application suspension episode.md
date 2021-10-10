@@ -142,11 +142,6 @@ Where originally, the pressure of environmentalists on Clinton made the defeat o
 
 Back to the original motivation of the literature, on demonstrating the relationship between discourse and institutional change. Discourse, at least at a surface level, cannot fully explain institutional change. To do so, one needs to enter relatively deep, and confront a lot of processes that may seem like noise. The frames that arise can stabilize and constitute new institutional arrangements. A difference need to be drawn between micro-level processes that change relatively benign things such as an individual pipeline and more radical, wide-reaching changes that occur over, say, decades. We see in this case study many of the frames drawn up in a relatively cynical fashion to accomplish strategic goals. At what point do these frames come to be seen in a less cynical fashion, so internalized that they constitute a new institutional status quo? Is there a transition from a cynical view to taken-for-grantedness? And if so, how does this transition take place?-->
 
-## Abbreviations
-
-* LIUNA: Labourers' International Union of North America
-* NABTU: North America's Building Trades Unions
-
 ## President & presidential candidates position on KXL *
 
 Name            | R/D   | Role                  | Y     | M     | D     |Position on KXL                   
