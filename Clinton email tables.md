@@ -164,7 +164,9 @@ Date        | Source                | Ref.          | Quote
 2015-09-23  | Jesse Lehrich         |               | "Martin O'Malley responded more aggressively [to her KXL announcement], claiming that [Hillary Rodham Clinton] is not a leader and that on one issue after the next, she's made her decisions out of convenience nad not conviction."
 2015-11-05  | Bernie Sanders        | @Linskey2015  | [Bernie Sanders] pointed to [Hillary Rodham Clinton's] recent decision to oppose the construction of the Keystone XL pipeline, an issue that was being studied by the State Department when she was in charge of it. 'How many years do you have to think about whether or not we excavate and transport the dirtiest fuel in the world?' he said. 'It didn’t take me too long to think about that.'
 
-## 7. "Quantum position"
+## 7. Ambiguity
+
+**Or: _quantum position_**
 
 Date        | Source                | Ref.          | Quote
 ---         | ---                   | ---           | ---------------------------------------------------
