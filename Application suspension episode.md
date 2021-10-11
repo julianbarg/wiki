@@ -230,7 +230,7 @@ Y    | M     | D    | Event
 ## Hillary Clinton's stance
 
 Y    | M    | D     | Ref.          | Quote
----  |---   |---    | -----         | ---------------------------------------------
+---  |---   |---    | ---------     | ---------------------------------------------
 2010 | 10   | 15    | @Clinton2010  | "[W]e've not yet signed off on it. But we are inclined to do so and we are for several reasons--going back to one of your original questions--we're either going to be dependent on dirty oil from the Gulf or dirty oil from Canada."
 2014 | 06   | 15    | @Offman2014   | "[T]his particular decision is a very difficult one because there are so many factors at play. I can't really comment at great length because I had responsibility for it and it's been passed on and it wouldn't be appropriate, but I hope that Canadians appreciate that the United States government – the Obama administration – is trying to get it right. And getting it right doesn't mean you will agree or disagree with the decision, but that it will be one based on the best available evidence and all of the complex local, state, federal, interlocking laws and concerns." (Follow-up question) *So do you personally believe that the U.S. should go ahead with the pipeline?* "I can't respond."
 2015 | 01   | 21    | @Thomas2015   | "We have differences and you won’t get me to talk about Keystone because I have steadily made clear that I’m not going to express an opinion [...] It is in our process and that’s where it belongs."
