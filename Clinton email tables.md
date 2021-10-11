@@ -149,7 +149,7 @@ Date        | Source                | Ref.          | Quote
 2015-09-08  | Nikki Budzinski       |               | "I would prefer language [on KXL] a little less bold from the labor [unions] perspective. I worry it will be interpreted to reflect on similar future projects."
 2015-09-29  | Nikki Budzinski       |               | "I thought you would appreciate that our first statement of support today came from LIUNA on repeal of the Cadillac tax. We couldn't get 'em on Keystone, but there is more then one way to skin a cat;) ha."
 
-## 6 Competitors
+## 6. Competitors
 
 Date        | Source                | Ref.          | Quote
 ---         | ---                   | ---           | ---------------------------------------------------
