@@ -6,7 +6,7 @@ bibliography: bibliography.bib
 
 * Back to [[Application suspension episode]]
  
- Note: to keep this document concise, a few quotes that fell into multiple categories have been removed from all but one.
+Note: to keep this document concise, a few quotes that fell into multiple categories have been removed from all but one.
  
 ## People (excerpt)
 
