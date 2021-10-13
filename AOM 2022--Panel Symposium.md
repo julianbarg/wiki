@@ -2,9 +2,15 @@
 bibliography: bibliography.bib
 ---
 
-# AOM 2022--Panel Symposium on reliability & validity in learning
+# AOM 2022
 
 [[_TOC_]]
+
+## Topic
+
+Manipulation of public opinion. Including, but not limited to: greenwashing [@Lyon2015], the funding of shadow groups... 
+
+Phenomena such as greenwashing, manipulation of public opinion, 
 
 ## People
 
