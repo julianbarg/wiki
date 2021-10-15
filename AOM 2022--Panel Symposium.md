@@ -8,9 +8,7 @@ bibliography: bibliography.bib
 
 ## Topic
 
-Manipulation of public opinion. Including, but not limited to: greenwashing [@Lyon2015], the funding of shadow groups... 
-
-Phenomena such as greenwashing, manipulation of public opinion, 
+Manipulation of public opinion [@Oliver1991]. Including, but not limited to: greenwashing [@Lyon2015], the funding of shadow groups [@Farrell2016], and the open dissimination of false or intentionally misleading information [@Cappellaro2021].
 
 ## People
 
