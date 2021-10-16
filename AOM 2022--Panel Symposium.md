@@ -10,7 +10,7 @@ bibliography: bibliography.bib
 
 **Who we manpulate outselves, and how we manipulate others. Rediscovering the spectrum.**
 
-> McCoy: Did we aggresively fight against some of the science? Yes. Did we hide our science? Absolutely not. Did we join some of these shadow groups to work against some of the early efforts? Yes, that is true. But there is nothing illegal about that. You know, we were looking out for our investments. You know, we were looking out for our shareholders. [...] And you're not going to be able to just switch to battery operated vehicles or wind for your electricity. And just having that conversation around why that's not possible in the next ten years is critically important to the work that we do. And that is in every phase. That is in the Senate, that is in the House. That is with the administration. [...] Or something like climate change. There is forest fires. There is an increase of, you know, .001 Celsius. That does not affect people's everyday lives. [...] 
+> McCoy: Did we aggresively fight against some of the science? Yes. Did we hide our science? Absolutely not. Did we join some of these shadow groups to work against some of the early efforts? Yes, that is true. But there is nothing illegal about that. You know, we were looking out for our investments. You know, we were looking out for our shareholders. [...] And you're not going to be able to just switch to battery operated vehicles or wind for your electricity. And just having that conversation around why that is not possible in the next ten years is critically important to the work that we do. And that is in every phase. That is in the Senate, that is in the House. That is with the administration. [...] Or something like climate change. There is forest fires. There is an increase of, you know, .001 Celsius. That does not affect people's everyday lives. [...] 
 > 
 > [...]
 > 
@@ -34,7 +34,7 @@ bibliography: bibliography.bib
 >
 > Carter: Who is the crucial guys [sic] for you?
 > 
-> McCoy: Well, Senator Capito, who chairs the Senate and who is the ranking [most senior] of Environment and Public Works. Joe Manchin--I talk to his office every week. He is the kingmaker on this, because he is a Democrat from West Virginia, which is a very conservative state. So, he is... And he is not shy about--sort of--staking his claim early and completely changing the debate. So on the Democrat side, we look for the moderates on these issues. So it's the Manchins. It is the Sinemas. It is the Testers. [...] [One of the] other ones that are not talked about is Senator Coons--who is from Delaware--who has a very close relationship with Senator Biden. So we have been working with his office. As a matter of fact, our CEO is talking to him next Tuesday.
+> McCoy: Well, Senator Capito, who chairs the Senate and who is the ranking [most senior] of Environment and Public Works. Joe Manchin--I talk to his office every week. He is the kingmaker on this, because he is a Democrat from West Virginia, which is a very conservative state. So, he is... And he is not shy about--sort of--staking his claim early and completely changing the debate. So on the Democrat side, we look for the moderates on these issues. So it is the Manchins. It is the Sinemas. It is the Testers. [...] [One of the] other ones that are not talked about is Senator Coons--who is from Delaware--who has a very close relationship with Senator Biden. So we have been working with his office. As a matter of fact, our CEO is talking to him next Tuesday.
 > 
 > [...]
 > 
