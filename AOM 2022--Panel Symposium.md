@@ -36,11 +36,11 @@ bibliography: bibliography.bib
 >
 > McCoy: Cause there is a germaneness, right? That does not make any sense for a highway bill. Why would you put in something on emissions reductions on [sic] climate change to oil refineries in a highway bill? So--and people say--that does not make any sense. So that--so then you get to the germaneness--say--that should not be in this bill.
 > 
-> [;@Thomson2021]
+> [@Carter2021;@Thomson2021]
 >
 > [...] 
 > 
->  McCoy: When you have an opportunity to talk to a Member of Congress, you know, the, you know--I, I liken it to fishing. Alright? You, you know, you have bait, you throw that bait out, you know, it is all these opportunities that you use, and--to use the fishing analogy again--just to kind of reel them in, because they are a captive audience. They know they need you and I need them. 
+>  McCoy: When you have an opportunity to talk to a Member of Congress, you know, the, you know--I, [smiling] I liken it to fishing. Alright? You, you know, you have bait, you throw that bait out, you know, it is all these opportunities that you use, and--to use the fishing analogy again--just to kind of reel them in, because they are a captive audience. They know they need you and I need them. 
 > 
 > [@Thomson2021]
 > 
@@ -49,22 +49,20 @@ bibliography: bibliography.bib
 > Carter: Who is the crucial guys [sic] for you?
 > 
 > McCoy: Well, Senator Capito, who chairs the Senate and who is the ranking [most senior] of Environment and Public Works. Joe Manchin--I talk to his office every week. He is the kingmaker on this, because he is a Democrat from West Virginia, which is a very conservative state. So, he is... And he is not shy about--sort of--staking his claim early and completely changing the debate. So on the Democrat side, we look for the moderates on these issues. So it is the Manchins. It is the Sinemas. It is the Testers. [...] [One of the] other ones that are not talked about is Senator Coons--who is from Delaware--who has a very close relationship with Senator Biden. So we have been working with his office. As a matter of fact, our CEO is talking to him next Tuesday.
+>
+> [@Carter2021]
 > 
 > [...]
 >
-> You want to be able to go to one of the chiefs. And so the chief knows you, and you can go to the chiefs and say 'look, we have got this issue, we need congressman so-and-so to be able to--to introduce this bill, we need him to make a floor statement, we need him to send the letter. You name it, we [unintelligible] for everything.
-> 
-> [...]
-> 
-> Easley: The executive branch and regulatory team for Exxon had extraordinary success over the last four years, in large part because the [Trump] administration was so predisposed to--you know--to helping. [...]
-> 
-> Carter: What were the big wins you got out of Trump?
-> 
-> Easley: (Laughs) You should google 'ExxonMobil announcement' and 'Donald Trump'. So, he live Facebooked from the West Wing our big drill in the Gulf project. He mentioned us in two States of the Union [Addresses]. We were able to get investor-state dispute settlement protection in NAFTA. We were able to rationalize the permit environment and, you know, get tonnes of permits out. I mean--the wins are such that it would difficult to categorize them all. I mean, tax has to be the biggest one, right? The reduction of the corporate rate was, you know, it was probably worth billions to Exxon. So yeah, there were a lot of wins.
+> You want to be able to go to the chief. And so the chief knows you, and you can go to the chief and say 'look, we have got this issue, we need congressman so-and-so to be able to--to introduce this bill, we need him to make a floor statement, we need him to send the letter. You name it, we [unintelligible] for everything.
 >
+> [@Thomson2021]
+> 
 > [...]
 > 
 > We do not want it to be us to have these conversations, especially in a hearing. It is getting our associations to step in, and have those conversations, and answer those tough questions. And be the--for the lack of a better term--the whipping boy for some of these members of congress. [...] Our CEO was invited to a hearing from a Member of Congress, who we know is just going to rip him to shreds when he goes there. The main thing that they are looking at is just to get ExxonMobil in front of a congresional hearing so they can rip us apart.
+> 
+> [@Thomson2021]
 > 
 > [...]
 > 
@@ -74,7 +72,7 @@ bibliography: bibliography.bib
 >
 > McCoy: You know there is no cleaning it up. So there has to be that component as well as--how can we get it out of the waterways?
 > 
-> Carter: Yeah. So that is the strategy for keeping Exxon's name away. DO people know that Exxon makes that chemical at all?
+> Carter: Yeah. So that is the strategy for keeping Exxon's name away. Do people know that Exxon makes that chemical at all?
 >
 > McCoy: No.
 > 
@@ -84,11 +82,13 @@ bibliography: bibliography.bib
 >
 > Cartner: So you have managed to lobby successfully on that while keeping it completely...
 >
-> McCoy: Yeah. I mean it is--- the good thing is that the debate is not who makes it. I think the debate is: it is here, it is an effective chemical, we need this chemical. Or we have needed this chemical. How can we either safely use it or eliminate it. There is not the debate right now about who manufactures it, thankfully.
+> McCoy: Yeah. I mean it is--the good thing is that the debate is not who makes it. I think the debate is: it is here, it is an effective chemical, we need this chemical. Or we have needed this chemical. How can we either safely use it or eliminate it. There is not the debate right now about who manufactures it, thankfully.
 > 
 > Cartner: How much money do you guys make from this chemical? Is it lucrative?
 > 
 > McCoy: I mean, it is not a big business. It is, for a company ExxonMobil size it is probably a few hundred million. Which is not big. But it is enogh that it gets our attention.
+> 
+> [@Carter2021a]
 > 
 > [...]
 >
@@ -98,12 +98,26 @@ bibliography: bibliography.bib
 >
 > McCoy: Unfortunately. [...] You start to have this legislation, we see this legislation, we are like 'holy crap. This is legislation, this is a chemical that we manufacture. This is a chemical that we use.'
 > 
+> [@Carter2021a]
+>
 > [...]
 > 
 > Cartner: Your position would be to show that you are doing enough on recycling to make these products, but to oppose, but to oppose banning plastics of--you know, plastic straws or bags, or whatever they try and ban. Because you are saying that when it becomes a government issue it is out of your controll. Is that, is that right?
 > 
 > McCoy: Right. You, you want to get smart on it, right, because you know it is coming. But so you want to get--it is just like on climate change, right? So when climate chnge came--well, it is here. Well, when it started, you start to have conversations to say--well, you cannot completely change the electric grid from coal and gas into wind, and here is why. It is the same conversation. You cannot bane plastics because here is why. Or you cannot recycle, you know, legislate a hundred percent recycling, because here is why. It is just not technologically feasible. So we are doing the research. We are looking at our markets. We are looking at the chemistry. And we are hoping to come up with, with--if not solutions, at least some reasons and some talking points to have with members of congress. So that is part of everything that is happening with individual companies, with our trade associations, American Chemistry Council. American Chemistry Council is at the state level, they are at the federal level, they are internation. So they have a really good viewpoint of the chemical landscape. And, and we are a part of all of those conversations there, because we would prefer model legislation that the American Chemistry Council would put forth as opposed to, say, a super super progressive member of Congress that puts forth--that puts forth a comprehensive piece of plastics legislation. We prefer it come from us rather [than] from them.
 > 
+> [@Carter2021a]
+> 
+> [...]
+> 
+> Easley: The executive branch and regulatory team for Exxon had extraordinary success over the last four years, in large part because the [Trump] administration was so predisposed to--you know--to helping. [...]
+> 
+> Carter: What were the big wins you got out of Trump?
+> 
+> Easley: (Laughs) You should google 'ExxonMobil announcement' and 'Donald Trump'. So, he live Facebooked from the West Wing our big drill in the Gulf project. He mentioned us in two States of the Union [Addresses]. We were able to get investor-state dispute settlement protection in NAFTA. We were able to rationalize the permit environment and, you know, get tonnes of permits out. I mean--the wins are such that it would difficult to categorize them all. I mean, tax has to be the biggest one, right? The reduction of the corporate rate was, you know, it was probably worth billions to Exxon. So yeah, there were a lot of wins.
+> 
+> [@Carter2021]
+>
 > Keith McCoy, Lawrence Carter, Dan Easley
 > @Carter2021
 
