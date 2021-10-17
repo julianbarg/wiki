@@ -28,7 +28,7 @@ bibliography: bibliography.bib
 >
 > Yeah. I mean it is--the good thing is that the debate is not who makes it. I think the debate is: it is here, it is an effective chemical, we need this chemical. Or we have needed this chemical. How can we either safely use it or eliminate it. There is not the debate right now about who manufactures it, thankfully.
 
-> Covert interview with Keith McCoy, Senior Director of Federal Relations at ExxonMobil [@Carter2021, @Carter2021a, @Tomson2021]
+Covert interview between Keith McCoy, Senior Director of Federal Relations at ExxonMobil and Lawrence Carter of Unearthed who poses as a recruiter [@Carter2021, @Carter2021a, @Tomson2021]. Unearthed is an investigative journalism project by Greenpeace UK.
 
 ## Full transcribed recordings of the interview with Keith McCoy and a transcribed note from Dan Easley
 
