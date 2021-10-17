@@ -12,35 +12,47 @@ bibliography: bibliography.bib
 
 > McCoy: Did we aggresively fight against some of the science? Yes. Did we hide our science? Absolutely not. Did we join some of these shadow groups to work against some of the early efforts? Yes, that is true. But there is nothing illegal about that. You know, we were looking out for our investments. You know, we were looking out for our shareholders. [...] And you're not going to be able to just switch to battery operated vehicles or wind for your electricity. And just having that conversation around why that is not possible in the next ten years is critically important to the work that we do. And that is in every phase. That is in the Senate, that is in the House. That is with the administration. [...] Or something like climate change. There is forest fires. There is an increase of, you know, .001 Celsius. That does not affect people's everyday lives. [...] 
 > 
+> [@Lawrence2021]
+> 
 > [...]
 > 
 > McCoy: Nobody is going to propose a tax on all Americans. And the cynical side of me says 'yeah, we kind of know that.' But it gives us a talking point that we can say: 'well, what is ExxxonMobil for?'--'well, we're for a carbon tax.' [...]
 >
 > Carter: What you said was just really interesting. So it is basically never going to happen--right?--is the calculation?
 > 
-> McCoy: Yeah. No, it is not going to--carbon tax is not going to happen. [...]
+> McCoy: Yeah. No, it is not going to--carbon tax is not going to happen. [...] And, the bottom line is, it is going to take political courage, political will in order to get something done. And that does not exist in politics, it just does not. [...]
 > 
 > Carter: So, this helps me understand a little bit why suddenly a lot of US oil majors are talking about a carbon tax. Because, it sounds pretty..."
 > 
 > McCoy: Well, I... The cynical side of me, they have got nothing else. So, it is an easy talking point to say: 'Look, I am for a carbon tax.' [...] So, that is the talking point. That is, in my mind, an effective advocacy tool.
 >
+> [@Lawrence2021;@Thomson2021]
+> 
 > [...]
 >
-> McCoy: We're playing defense because President Biden is talking about this big infrastructure package, and he is going to pay for it by increasing corporate taxes. [...] You stick to highways and bridges then a lot of the negative stuff starts to come out.
+> McCoy: We're playing defense because President Biden is talking about this big infrastructure package, and he is going to pay for it by increasing corporate taxes. [...] So that is a completely different conversation. When you stick to roads an bridges, and instead of a two trillion dollar bill it is an 800 billion dollar bill--if you lower that threshold, you stick to highways and bridges then a lot of the negative stuff starts to come out.
 >
 > Carter: For you guys.
 >
-> McCoy: Cause there is a germaneness, right? That does not make any sense for a highway bill. Why would you put in something on emissions reductions on [sic] climate change to oil refineries in a highway bill? [...] 
+> McCoy: Cause there is a germaneness, right? That does not make any sense for a highway bill. Why would you put in something on emissions reductions on [sic] climate change to oil refineries in a highway bill? So--and people say--that does not make any sense. So that--so then you get to the germaneness--say--that should not be in this bill.
+> 
+> [;@Thomson2021]
+>
+> [...] 
+> 
+>  McCoy: When you have an opportunity to talk to a Member of Congress, you know, the, you know--I, I liken it to fishing. Alright? You, you know, you have bait, you throw that bait out, you know, it is all these opportunities that you use, and--to use the fishing analogy again--just to kind of reel them in, because they are a captive audience. They know they need you and I need them. 
+> 
+> [@Thomson2021]
+> 
+> [...]
 >
 > Carter: Who is the crucial guys [sic] for you?
 > 
 > McCoy: Well, Senator Capito, who chairs the Senate and who is the ranking [most senior] of Environment and Public Works. Joe Manchin--I talk to his office every week. He is the kingmaker on this, because he is a Democrat from West Virginia, which is a very conservative state. So, he is... And he is not shy about--sort of--staking his claim early and completely changing the debate. So on the Democrat side, we look for the moderates on these issues. So it is the Manchins. It is the Sinemas. It is the Testers. [...] [One of the] other ones that are not talked about is Senator Coons--who is from Delaware--who has a very close relationship with Senator Biden. So we have been working with his office. As a matter of fact, our CEO is talking to him next Tuesday.
 > 
 > [...]
-> 
->  McCoy: When you have an opportunity to talk to a Member of Congress, you know, the, you know--I, I liken it to fishing. Alright? You, you know, you have bait, you throw that bait out, you know, it is all these opportunities that you use, and--to use the fishing analogy again--just to kind of reel them in, because they are a captive audience. They know they need you and I need them. 
-> 
-> [@Thomson2021]
+>
+> You want to be able to go to one of the chiefs. And so the chief knows you, and you can go to the chiefs and say 'look, we have got this issue, we need congressman so-and-so to be able to--to introduce this bill, we need him to make a floor statement, we need him to send the letter. You name it, we [unintelligible] for everything.
 > 
 > [...]
 > 
@@ -50,6 +62,12 @@ bibliography: bibliography.bib
 > 
 > Easley: (Laughs) You should google 'ExxonMobil announcement' and 'Donald Trump'. So, he live Facebooked from the West Wing our big drill in the Gulf project. He mentioned us in two States of the Union [Addresses]. We were able to get investor-state dispute settlement protection in NAFTA. We were able to rationalize the permit environment and, you know, get tonnes of permits out. I mean--the wins are such that it would difficult to categorize them all. I mean, tax has to be the biggest one, right? The reduction of the corporate rate was, you know, it was probably worth billions to Exxon. So yeah, there were a lot of wins.
 >
+> [...]
+> 
+> We do not want it to be us to have these conversations, especially in a hearing. It is getting our associations to step in, and have those conversations, and answer those tough questions. And be the--for the lack of a better term--the whipping boy for some of these members of congress. [...] Our CEO was invited to a hearing from a Member of Congress, who we know is just going to rip him to shreds when he goes there. The main thing that they are looking at is just to get ExxonMobil in front of a congresional hearing so they can rip us apart.
+> 
+> [...]
+> 
 > McCoy: We got API [American Petroleum Institute] to pay attention to it. As part of the subcommitte we were able to have it on the agenda on a consistent basis. And then from that, we were able to feed in paper, and some of our research, and talking points to API. And so then the API staff person that worked on that issue, we said, you know: 'Hey Tom, you know, you need to go to the [Capitol] Hill and you need to have a conversation with the committee.' Or 'Tom, can you put together a group of us, and we can have a conversation with the, ehm, with whatever committee'--Environment and Public works, Energy and Commerce committee. Whatever committees were talking about this--'can you get a coalition of us together and have this.' Under the guise of API. So we go in under the umbrella of API. [...] So API goes up the [Capitol] Hill as API with coalitions. They get partners--they try to bring in some other partners such as the National Association of Manufacturers, the US Chamber of Commerce, American Fuels and Petrochemicals associations (AFPM)--which is a natural partner on this because that is the association for refineries. So you bring in AFPM and you build this coalition of just associations so now you can start having letters and conversations. And it's just associations, no companies. So you start to build out a coalition of associations. Now, companies feed into that, privately, when we have meetings. But the public face of it are the associations. They go to the [Capitol] Hill, they have these conversations. They talk about the use of these chemicals. They talk about the manufcturing of these chemicals. They talk about the alternatives for [sic] these chemicals. And that temps down the rhetoric. It tamps down the excitement. [...] You know the debate is--the debate right now is forever chemicals. So once it is in the waterway...
 > 
 > Carter: It is there.
