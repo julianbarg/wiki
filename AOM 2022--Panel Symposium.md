@@ -38,14 +38,51 @@ bibliography: bibliography.bib
 > 
 > [...]
 > 
+>  McCoy: When you have an opportunity to talk to a Member of Congress, you know, the, you know--I, I liken it to fishing. Alright? You, you know, you have bait, you throw that bait out, you know, it is all these opportunities that you use, and--to use the fishing analogy again--just to kind of reel them in, because they are a captive audience. They know they need you and I need them. [@Thomson2021]
+> 
+> [...]
+> 
 > Easley: The executive branch and regulatory team for Exxon had extraordinary success over the last four years, in large part because the [Trump] administration was so predisposed to--you know--to helping. [...]
 > 
 > Carter: What were the big wins you got out of Trump?
 > 
 > Easley: (Laughs) You should google 'ExxonMobil announcement' and 'Donald Trump'. So, he live Facebooked from the West Wing our big drill in the Gulf project. He mentioned us in two States of the Union [Addresses]. We were able to get investor-state dispute settlement protection in NAFTA. We were able to rationalize the permit environment and, you know, get tonnes of permits out. I mean--the wins are such that it would difficult to categorize them all. I mean, tax has to be the biggest one, right? The reduction of the corporate rate was, you know, it was probably worth billions to Exxon. So yeah, there were a lot of wins.
 >
-> McCoy: We got API [American Petroleum Institute] to pay attention to it. As part of the subcommitte we were able to have it on the agenda on a consistent basis. And then from that, we were able to feed in paper, and some of our research, and talking points to API. And so then the API staff person that worked on that issue, we said, you know: 'Hey Tom, you know, you need to go to the [Capitol] Hill and you need to have a conversation with the committee.' Or 'Tom, can you put together a group of us, and we can have a conversation with the, ehm, with whatever committee'--Environment and Public works, Energy and Commerce committee. Whatever committees were talking about this--'can you get a coalition of us together and have this.' Under the guise of API. So we go in under the umbrella of API. [...] So API goes up the [Capitol] Hill as API with coalitions. They get partners--they try to bring in some other partners such as the National Association of Manufacturers, the US Chamber of Commerce, American Fuels and Petrochemicals associations (AFPM)--which is a natural partner on this because that is the association for refineries.
-
+> McCoy: We got API [American Petroleum Institute] to pay attention to it. As part of the subcommitte we were able to have it on the agenda on a consistent basis. And then from that, we were able to feed in paper, and some of our research, and talking points to API. And so then the API staff person that worked on that issue, we said, you know: 'Hey Tom, you know, you need to go to the [Capitol] Hill and you need to have a conversation with the committee.' Or 'Tom, can you put together a group of us, and we can have a conversation with the, ehm, with whatever committee'--Environment and Public works, Energy and Commerce committee. Whatever committees were talking about this--'can you get a coalition of us together and have this.' Under the guise of API. So we go in under the umbrella of API. [...] So API goes up the [Capitol] Hill as API with coalitions. They get partners--they try to bring in some other partners such as the National Association of Manufacturers, the US Chamber of Commerce, American Fuels and Petrochemicals associations (AFPM)--which is a natural partner on this because that is the association for refineries. So you bring in AFPM and you build this coalition of just associations so now you can start having letters and conversations. And it's just associations, no companies. So you start to build out a coalition of associations. Now, companies feed into that, privately, when we have meetings. But the public face of it are the associations. They go to the [Capitol] Hill, they have these conversations. They talk about the use of these chemicals. They talk about the manufcturing of these chemicals. They talk about the alternatives for [sic] these chemicals. And that temps down the rhetoric. It tamps down the excitement. [...] You know the debate is--the debate right now is forever chemicals. So once it is in the waterway...
+> 
+> Carter: It is there.
+>
+> McCoy: You know there is no cleaning it up. So there has to be that component as well as--how can we get it out of the waterways?
+> 
+> Carter: Yeah. So that is the strategy for keeping Exxon's name away. DO people know that Exxon makes that chemical at all?
+>
+> McCoy: No.
+> 
+> Carter: No one knows.
+>
+> McCoy: No. Nobody.
+>
+> Cartner: So you have managed to lobby successfully on that while keeping it completely...
+>
+> McCoy: Yeah. I mean it is--- the good thing is that the debate is not who makes it. I think the debate is: it is here, it is an effective chemical, we need this chemical. Or we have needed this chemical. How can we either safely use it or eliminate it. There is not the debate right now about who manufactures it, thankfully.
+> 
+> Cartner: How much money do you guys make from this chemical? Is it lucrative?
+> 
+> McCoy: I mean, it is not a big business. It is, for a company ExxonMobil size it is probably a few hundred million. Which is not big. But it is enogh that it gets our attention.
+> 
+> [...]
+>
+> McCoy: We manufacture PFAS, the chemical. We use it in our firefighting equipment. So we have pushed our associations to be out front on that. To say some things about that, whether it is API [American Petroleum Institute]--we belong to the American Cemical Council--the American Chemical Council to say some things about PFAS that we definitely do not want to be out front talking about. [...] We think if word got out that ExxonMobil manufactured those chemicals, that ExxonMobil uses those chemicals--it is a talking point, you know. It becomes the ExxonMobil chemical and that--and that is just going to hurt the effort. [...] You know, they start talking about how this is an ExxonMobil chemical and ExxonMobil is poisoning our waterways, we cann--the debate is pretty much over.
+> 
+> Cartner: I see.
+>
+> McCoy: Unfortunately. [...] You start to have this legislation, we see this legislation, we are like 'holy crap. This is legislation, this is a chemical that we manufacture. This is a chemical that we use.'
+> 
+> [...]
+> 
+> Cartner: Your position would be to show that you are doing enough on recycling to make these products, but to oppose, but to oppose banning plastics of--you know, plastic straws or bags, or whatever they try and ban. Because you are saying that when it becomes a government issue it is out of your controll. Is that, is that right?
+> 
+> McCoy: Right. You, you want to get smart on it, right, because you know it is coming. But so you want to get--it is just like on climate change, right? So when climate chnge came--well, it is here. Well, when it started, you start to have conversations to say--well, you cannot completely change the electric grid from coal and gas into wind, and here is why. It is the same conversation. You cannot bane plastics because here is why. Or you cannot recycle, you know, legislate a hundred percent recycling, because here is why. It is just not technologically feasible. So we are doing the research. We are looking at our markets. We are looking at the chemistry. And we are hoping to come up with, with--if not solutions, at least some reasons and some talking points to have with members of congress. So that is part of everything that is happening with individual companies, with our trade associations, American Chemistry Council. American Chemistry Council is at the state level, they are at the federal level, they are internation. So they have a really good viewpoint of the chemical landscape. And, and we are a part of all of those conversations there, because we would prefer model legislation that the American Chemistry Council would put forth as opposed to, say, a super super progressive member of Congress that puts forth--that puts forth a comprehensive piece of plastics legislation. We prefer it come from us rather [than] from them.
 > 
 > Keith McCoy, Lawrence Carter, Dan Easley
 > @Carter2021
