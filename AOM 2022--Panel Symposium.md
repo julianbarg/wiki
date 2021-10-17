@@ -17,6 +17,8 @@ bibliography: bibliography.bib
 > You want to be able to go to the chief. And so the chief knows you, and you can go to the chief and say 'look, we have got this issue, we need congressman so-and-so to be able to--to introduce this bill, we need him to make a floor statement, we need him to send the letter.' [...]
 >
 > We do not want it to be us to have these conversations, especially in a hearing. It is getting our associations to step in, and have those conversations, and answer those tough questions. And be the--for the lack of a better term--the whipping boy for some of these members of congress. [...]
+> 
+> Excerpts from a covert interview between Keith McCoy, Senior Director of Federal Relations at ExxonMobil and Lawrence Carter of Unearthed who poses as a recruiter [@Carter2021; @Carter2021a; @Thomson2021]. Unearthed is an investigative journalism project by Greenpeace UK.
 
 <!-- > You know the debate is--the debate right now is forever chemicals. So once it is in the waterway... You know there is no cleaning it up. So there has to be that component as well as--how can we get it out of the waterways?
 > 
@@ -27,8 +29,6 @@ bibliography: bibliography.bib
 > Interviewer: So you have managed to lobby successfully on that while keeping it completely...
 >
 > Yeah. I mean it is--the good thing is that the debate is not who makes it. I think the debate is: it is here, it is an effective chemical, we need this chemical. Or we have needed this chemical. How can we either safely use it or eliminate it. There is not the debate right now about who manufactures it, thankfully.-->
-> 
-> Excerpts from a covert interview between Keith McCoy, Senior Director of Federal Relations at ExxonMobil and Lawrence Carter of Unearthed who poses as a recruiter [@Carter2021; @Carter2021a; @Thomson2021]. Unearthed is an investigative journalism project by Greenpeace UK.
 
 In June 2021, a Greenpeace-affiliated journalist posed as a recruiter on Zoom and interviewed two high-profile ExxonMobil lobbyists. The interviews provide insights on malicious PR practices that environmental groups have raised concerns about for a while.
 
