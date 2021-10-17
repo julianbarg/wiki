@@ -18,7 +18,7 @@ bibliography: bibliography.bib
 
 > We do not want it to be us to have these conversations, especially in a hearing. It is getting our associations to step in, and have those conversations, and answer those tough questions. And be the--for the lack of a better term--the whipping boy for some of these members of congress. [...]
 
-<!--> You know the debate is--the debate right now is forever chemicals. So once it is in the waterway... You know there is no cleaning it up. So there has to be that component as well as--how can we get it out of the waterways?
+<!-- > You know the debate is--the debate right now is forever chemicals. So once it is in the waterway... You know there is no cleaning it up. So there has to be that component as well as--how can we get it out of the waterways?
 > 
 > Interviewer: Yeah. So that is the strategy for keeping Exxon's name away. Do people know that Exxon makes that chemical at all? No one knows.
 >
