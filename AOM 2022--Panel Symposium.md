@@ -10,6 +10,34 @@ bibliography: bibliography.bib
 
 **Who we manpulate outselves, and how we manipulate others. Rediscovering the spectrum.**
 
+> Did we aggresively fight against some of the science? Yes. Did we hide our science? Absolutely not. Did we join some of these shadow groups to work against some of the early efforts? Yes, that is true. But there is nothing illegal about that. You know, we were looking out for our investments. You know, we were looking out for our shareholders.
+
+> Nobody is going to propose a tax on all Americans. And the cynical side of me says 'yeah, we kind of know that.' But it gives us a talking point that we can say: 'well, what is ExxxonMobil for?'--'well, we're for a carbon tax.'
+
+> You want to be able to go to the chief. And so the chief knows you, and you can go to the chief and say 'look, we have got this issue, we need congressman so-and-so to be able to--to introduce this bill, we need him to make a floor statement, we need him to send the letter.'
+
+> We do not want it to be us to have these conversations, especially in a hearing. It is getting our associations to step in, and have those conversations, and answer those tough questions. And be the--for the lack of a better term--the whipping boy for some of these members of congress.
+
+> You know the debate is--the debate right now is forever chemicals. So once it is in the waterway...
+> 
+> Interviewer: It is there.
+>
+> You know there is no cleaning it up. So there has to be that component as well as--how can we get it out of the waterways?
+> 
+> Interviewer: Yeah. So that is the strategy for keeping Exxon's name away. Do people know that Exxon makes that chemical at all?
+>
+> No.
+> 
+> Interviewer: No one knows.
+>
+> No. Nobody.
+>
+> Interviewer: So you have managed to lobby successfully on that while keeping it completely...
+>
+> Yeah. I mean it is--the good thing is that the debate is not who makes it. I think the debate is: it is here, it is an effective chemical, we need this chemical. Or we have needed this chemical. How can we either safely use it or eliminate it. There is not the debate right now about who manufactures it, thankfully.
+> 
+> Covert interview with Keith McCoy, Senior Director of Federal Relations at ExxonMobil [@Carter2021, @Carter2021a, @Tomson2021]
+
 ## Full transcribed recordings of the interview with Keith McCoy and a transcribed note from Dan Easley
 
 Article 1: [[https://unearthed.greenpeace.org/2021/06/30/exxon-climate-change-undercover/]]
@@ -52,11 +80,11 @@ Note: Unearthed is an investigative journalism project by Greenpeace UK. Channel
 >
 > [@Carter2021]
 
-> You want to be able to go to the chief. And so the chief knows you, and you can go to the chief and say 'look, we have got this issue, we need congressman so-and-so to be able to--to introduce this bill, we need him to make a floor statement, we need him to send the letter. You name it, we [unintelligible] for everything.
+> McCoy: You want to be able to go to the chief. And so the chief knows you, and you can go to the chief and say 'look, we have got this issue, we need congressman so-and-so to be able to--to introduce this bill, we need him to make a floor statement, we need him to send the letter.' You name it, we [unintelligible] for everything.
 >
 > [@Thomson2021]
 
-> We do not want it to be us to have these conversations, especially in a hearing. It is getting our associations to step in, and have those conversations, and answer those tough questions. And be the--for the lack of a better term--the whipping boy for some of these members of congress. [...] Our CEO was invited to a hearing from a Member of Congress, who we know is just going to rip him to shreds when he goes there. The main thing that they are looking at is just to get ExxonMobil in front of a congresional hearing so they can rip us apart.
+> McCoy: We do not want it to be us to have these conversations, especially in a hearing. It is getting our associations to step in, and have those conversations, and answer those tough questions. And be the--for the lack of a better term--the whipping boy for some of these members of congress. [...] Our CEO was invited to a hearing from a Member of Congress, who we know is just going to rip him to shreds when he goes there. The main thing that they are looking at is just to get ExxonMobil in front of a congresional hearing so they can rip us apart.
 > 
 > [@Thomson2021]
 
@@ -94,7 +122,7 @@ Note: Unearthed is an investigative journalism project by Greenpeace UK. Channel
 
 > Cartner: Your position would be to show that you are doing enough on recycling to make these products, but to oppose, but to oppose banning plastics of--you know, plastic straws or bags, or whatever they try and ban. Because you are saying that when it becomes a government issue it is out of your controll. Is that, is that right?
 > 
-> McCoy: Right. You, you want to get smart on it, right, because you know it is coming. But so you want to get--it is just like on climate change, right? So when climate chnge came--well, it is here. Well, when it started, you start to have conversations to say--well, you cannot completely change the electric grid from coal and gas into wind, and here is why. It is the same conversation. You cannot bane plastics because here is why. Or you cannot recycle, you know, legislate a hundred percent recycling, because here is why. It is just not technologically feasible. So we are doing the research. We are looking at our markets. We are looking at the chemistry. And we are hoping to come up with, with--if not solutions, at least some reasons and some talking points to have with members of congress. So that is part of everything that is happening with individual companies, with our trade associations, American Chemistry Council. American Chemistry Council is at the state level, they are at the federal level, they are internation. So they have a really good viewpoint of the chemical landscape. And, and we are a part of all of those conversations there, because we would prefer model legislation that the American Chemistry Council would put forth as opposed to, say, a super super progressive member of Congress that puts forth--that puts forth a comprehensive piece of plastics legislation. We prefer it come from us rather [than] from them.
+> McCoy: Right. You, you want to get smart on it, right, because you know it is coming. But so you want to get--it is just like on climate change, right? So when climate change came--well, it is here. Well, when it started, you start to have conversations to say--well, you cannot completely change the electric grid from coal and gas into wind, and here is why. It is the same conversation. You cannot bane plastics because here is why. Or you cannot recycle, you know, legislate a hundred percent recycling, because here is why. It is just not technologically feasible. So we are doing the research. We are looking at our markets. We are looking at the chemistry. And we are hoping to come up with, with--if not solutions, at least some reasons and some talking points to have with members of congress. So that is part of everything that is happening with individual companies, with our trade associations, American Chemistry Council. American Chemistry Council is at the state level, they are at the federal level, they are internation. So they have a really good viewpoint of the chemical landscape. And, and we are a part of all of those conversations there, because we would prefer model legislation that the American Chemistry Council would put forth as opposed to, say, a super super progressive member of Congress that puts forth--that puts forth a comprehensive piece of plastics legislation. We prefer it come from us rather [than] from them.
 > 
 > [@Carter2021a]
 
