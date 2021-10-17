@@ -30,14 +30,14 @@ bibliography: bibliography.bib
 >
 > Yeah. I mean it is--the good thing is that the debate is not who makes it. I think the debate is: it is here, it is an effective chemical, we need this chemical. Or we have needed this chemical. How can we either safely use it or eliminate it. There is not the debate right now about who manufactures it, thankfully.-->
 
-In June 2021, a Greenpeace-affiliated journalist posed as a recruiter on Zoom and interviewed two high-profile ExxonMobil lobbyists. The interviews provide insights on malicious PR practices that environmental groups have raised concerns about for a while.
+In June 2021, a Greenpeace-affiliated journalist poses as a recruiter on Zoom and interviews two high-profile ExxonMobil lobbyists. The interviews provide insights on malicious PR practices that environmental groups and scholars have discussed for a while. The financing of shadow groups [@Farrell2016]. Lobbying [@Fleming2014]. And the carbon tax "support" provides an interesting angle on greenwashing [@Lyon2015].
 
 
 ## Full transcribed recordings of the interview with Keith McCoy and a transcribed note from Dan Easley
 
-Article 1: [[https://unearthed.greenpeace.org/2021/06/30/exxon-climate-change-undercover/]]
-Article 2: [[https://unearthed.greenpeace.org/2021/07/01/exxon-undercover-pfas-plastic-chemicals/]]
-Article 3: [[https://www.channel4.com/news/revealed-exxonmobils-lobbying-war-on-climate-change-legislation]]
+* Article 1: [[https://unearthed.greenpeace.org/2021/06/30/exxon-climate-change-undercover/]]
+* Article 2: [[https://unearthed.greenpeace.org/2021/07/01/exxon-undercover-pfas-plastic-chemicals/]]
+* Article 3: [[https://www.channel4.com/news/revealed-exxonmobils-lobbying-war-on-climate-change-legislation]]
 
 Note: Unearthed is an investigative journalism project by Greenpeace UK. Channel 4 provides some snippets that are not available in the Unearthed cut. Unfortunately, neither Greenpeace nor Channel 4 have made the full interview available. The interview features numerous jump cuts, which are highlighted in the video. Where there is a cut between interviewer and interviewee though, sometimes the cut is not obvious--this only becomes obvious when comparing the Unearthed cut and the Channel 4 cut. Altogether, some caution with regard to contextualization of individual statements may be warranted.
 
