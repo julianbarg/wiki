@@ -38,7 +38,9 @@ bibliography: bibliography.bib
 > 
 > [...]
 > 
->  McCoy: When you have an opportunity to talk to a Member of Congress, you know, the, you know--I, I liken it to fishing. Alright? You, you know, you have bait, you throw that bait out, you know, it is all these opportunities that you use, and--to use the fishing analogy again--just to kind of reel them in, because they are a captive audience. They know they need you and I need them. [@Thomson2021]
+>  McCoy: When you have an opportunity to talk to a Member of Congress, you know, the, you know--I, I liken it to fishing. Alright? You, you know, you have bait, you throw that bait out, you know, it is all these opportunities that you use, and--to use the fishing analogy again--just to kind of reel them in, because they are a captive audience. They know they need you and I need them. 
+> 
+> [@Thomson2021]
 > 
 > [...]
 > 
