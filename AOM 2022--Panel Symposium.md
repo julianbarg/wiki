@@ -118,7 +118,7 @@ bibliography: bibliography.bib
 > 
 > [@Carter2021]
 >
-> Keith McCoy, Lawrence Carter, Dan Easley in @Carter2021, @Carter2021a, and @Thomas2021
+> Keith McCoy, Lawrence Carter, Dan Easley in @Carter2021, @Carter2021a, and @Thomson2021
 
 In June 2021, a Greenpeace-affiliated journalist posed as a recruiter on Zoom and interviewed two high-profile ExxonMobil lobbyists. The interviews provide insights on malicious PR practices that environmental groups have raised concerns about for a while.
 
