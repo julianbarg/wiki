@@ -12,7 +12,7 @@ bibliography: bibliography.bib
 
 > McCoy: Did we aggresively fight against some of the science? Yes. Did we hide our science? Absolutely not. Did we join some of these shadow groups to work against some of the early efforts? Yes, that is true. But there is nothing illegal about that. You know, we were looking out for our investments. You know, we were looking out for our shareholders. [...] And you're not going to be able to just switch to battery operated vehicles or wind for your electricity. And just having that conversation around why that is not possible in the next ten years is critically important to the work that we do. And that is in every phase. That is in the Senate, that is in the House. That is with the administration. [...] Or something like climate change. There is forest fires. There is an increase of, you know, .001 Celsius. That does not affect people's everyday lives. [...] 
 > 
-> [@Lawrence2021]
+> [@Carter2021]
 > 
 > [...]
 > 
@@ -26,7 +26,7 @@ bibliography: bibliography.bib
 > 
 > McCoy: Well, I... The cynical side of me, they have got nothing else. So, it is an easy talking point to say: 'Look, I am for a carbon tax.' [...] So, that is the talking point. That is, in my mind, an effective advocacy tool.
 >
-> [@Lawrence2021;@Thomson2021]
+> [@Carter2021;@Thomson2021]
 > 
 > [...]
 >
