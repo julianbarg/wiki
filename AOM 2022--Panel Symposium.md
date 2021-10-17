@@ -8,7 +8,7 @@ bibliography: bibliography.bib
 
 ## Topic
 
-**Who we manpulate outselves, and how we manipulate others. Rediscovering the spectrum.**
+**Manipulating ourselves, more so manipulating others. Rediscovering the spectrum.**
 
 > Did we aggresively fight against some of the science? Yes. Did we hide our science? Absolutely not. Did we join some of these shadow groups to work against some of the early efforts? Yes, that is true. But there is nothing illegal about that. You know, we were looking out for our investments. You know, we were looking out for our shareholders. [...]
 > 
