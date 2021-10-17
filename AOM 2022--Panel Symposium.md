@@ -27,7 +27,7 @@ bibliography: bibliography.bib
 > Interviewer: So you have managed to lobby successfully on that while keeping it completely...
 >
 > Yeah. I mean it is--the good thing is that the debate is not who makes it. I think the debate is: it is here, it is an effective chemical, we need this chemical. Or we have needed this chemical. How can we either safely use it or eliminate it. There is not the debate right now about who manufactures it, thankfully.
-> 
+
 > Covert interview with Keith McCoy, Senior Director of Federal Relations at ExxonMobil [@Carter2021, @Carter2021a, @Tomson2021]
 
 ## Full transcribed recordings of the interview with Keith McCoy and a transcribed note from Dan Easley
