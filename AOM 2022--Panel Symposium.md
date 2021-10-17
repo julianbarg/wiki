@@ -12,13 +12,13 @@ bibliography: bibliography.bib
 
 > Did we aggresively fight against some of the science? Yes. Did we hide our science? Absolutely not. Did we join some of these shadow groups to work against some of the early efforts? Yes, that is true. But there is nothing illegal about that. You know, we were looking out for our investments. You know, we were looking out for our shareholders.
 
-> Nobody is going to propose a tax on all Americans. And the cynical side of me says 'yeah, we kind of know that.' But it gives us a talking point that we can say: 'well, what is ExxxonMobil for?'--'well, we're for a carbon tax.'
+> Nobody is going to propose a tax on all Americans. And the cynical side of me says 'yeah, we kind of know that.' But it gives us a talking point that we can say: 'well, what is ExxonMobil for?'--'well, we're for a carbon tax.'
 
 > You want to be able to go to the chief. And so the chief knows you, and you can go to the chief and say 'look, we have got this issue, we need congressman so-and-so to be able to--to introduce this bill, we need him to make a floor statement, we need him to send the letter.'
 
 > We do not want it to be us to have these conversations, especially in a hearing. It is getting our associations to step in, and have those conversations, and answer those tough questions. And be the--for the lack of a better term--the whipping boy for some of these members of congress.
 
-> You know the debate is--the debate right now is forever chemicals. So once it is in the waterway... You know there is no cleaning it up. So there has to be that component as well as--how can we get it out of the waterways?
+<!--> You know the debate is--the debate right now is forever chemicals. So once it is in the waterway... You know there is no cleaning it up. So there has to be that component as well as--how can we get it out of the waterways?
 > 
 > Interviewer: Yeah. So that is the strategy for keeping Exxon's name away. Do people know that Exxon makes that chemical at all? No one knows.
 >
@@ -26,7 +26,7 @@ bibliography: bibliography.bib
 >
 > Interviewer: So you have managed to lobby successfully on that while keeping it completely...
 >
-> Yeah. I mean it is--the good thing is that the debate is not who makes it. I think the debate is: it is here, it is an effective chemical, we need this chemical. Or we have needed this chemical. How can we either safely use it or eliminate it. There is not the debate right now about who manufactures it, thankfully.
+> Yeah. I mean it is--the good thing is that the debate is not who makes it. I think the debate is: it is here, it is an effective chemical, we need this chemical. Or we have needed this chemical. How can we either safely use it or eliminate it. There is not the debate right now about who manufactures it, thankfully.-->
 
 Covert interview between Keith McCoy, Senior Director of Federal Relations at ExxonMobil and Lawrence Carter of Unearthed who poses as a recruiter [@Carter2021; @Carter2021a; @Thomson2021]. Unearthed is an investigative journalism project by Greenpeace UK.
 
@@ -42,7 +42,7 @@ Note: Unearthed is an investigative journalism project by Greenpeace UK. Channel
 > 
 > [@Carter2021]
 
-> McCoy: Nobody is going to propose a tax on all Americans. And the cynical side of me says 'yeah, we kind of know that.' But it gives us a talking point that we can say: 'well, what is ExxxonMobil for?'--'well, we're for a carbon tax.' [...]
+> McCoy: Nobody is going to propose a tax on all Americans. And the cynical side of me says 'yeah, we kind of know that.' But it gives us a talking point that we can say: 'well, what is ExxonMobil for?'--'well, we're for a carbon tax.' [...]
 >
 > Carter: What you said was just really interesting. So it is basically never going to happen--right?--is the calculation?
 > 
