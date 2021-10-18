@@ -25,7 +25,7 @@ Article                     | Summary
 Article         | </br>
 ---             | ---
 @Aplin1980      | :heavy_check_mark: 
-@Siegel2007     | :white_flower: 
+@Siegel2007     | :star: 
 @Fleming2014    |
 
 ---
