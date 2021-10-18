@@ -8,10 +8,10 @@ bibliography: bibliography.bib
 
 ## Overview
 
-Article                     | Context                                   | Concepts
----                         | ---                                       | ---
-[[Aplin & Hegarty 1980]]    | Congress members' perception of lobbying  | Inducement, perusasion, coercion, obligation
-[[Siegel 2007]]             | South Korean corporations' political ties | Negative ties
+Article                     | Context                                   | Level     | Methods   | Concepts
+---                         | ---                                       | ---       | ---       | ---
+[[Aplin & Hegarty 1980]]    | Congress members' perception of lobbying  | Meso      | Quant     | Inducement, perusasion, coercion, obligation
+[[Siegel 2007]]             | South Korean corporations' political ties | Macro     | Mixed     | Negative ties
 
 ## Article summaries
 
