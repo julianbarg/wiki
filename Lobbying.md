@@ -18,7 +18,7 @@ Article                     | Context                                   | Concep
 Article                     | Summary
 ---                         | ------------
 [[Aplin & Hegarty 1980]]    | There are different ways of making an impact on Congress--they are used to different degrees by different stakeholders
-[[Siegel 2007]]             |
+[[Siegel 2007]]             | Government ties matter in a liberal (capitalist) system like they do in state capitalism. Ties cannot only be positive or neutral, but also a liability!
 
 ## Master list
 
