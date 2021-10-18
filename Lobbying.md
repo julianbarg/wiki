@@ -23,9 +23,9 @@ Article                     | Summary
 ## Master list
 
 Article         | </br>
----             | ---
+---             | :-:
 @Aplin1980      | :heavy_check_mark: 
-@Siegel2007     | * 
+@Siegel2007     | __*__
 @Fleming2014    |
 
 ---
