@@ -31,7 +31,7 @@ Article         | </br>
 @Siegel2007     | __\*__
 @Santos2009     |
 @Fleming2014    |
-@Delmas2016     |
+@Delmas2016     | __\*__
 @Ridge2017      |
 
 ---
