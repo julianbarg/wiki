@@ -20,7 +20,7 @@ John Podesta        | Campaign chair
 Nikki Budzinski     | Labor outreach
 Valerie Alexander   | Spokesperson and senior communications advisor
 Trevor Houser       | Energy advisor
-Table: People (excerpt)
+Table: **People (excerpt)**
 
 ###### Abbreviations
 
