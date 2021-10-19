@@ -22,12 +22,11 @@ Valerie Alexander   | Spokesperson and senior communications advisor
 Trevor Houser       | Energy advisor
 Table: **People (excerpt)**
 
-###### Abbreviations
-
 Abbreviation    |   
 ---             | ---
 LCV             | League of Conservation Voters
 LIUNA           | Laborers' International Union of North America
+Table: Abbreviations
 
 ## Overview
 
@@ -184,8 +183,6 @@ Back to the original motivation of the literature, on demonstrating the relation
 
 ## Tables
 
-###### President & presidential candidates position on KXL *
-
 Name            | R/D   | Role                  | Y     | M     | D     |Position on KXL                   
 --------        | ---   | ---                   | ---   | ---   | ---   | --------------------------------------------
 Bernie Sanders  | D     | Candidate             | -     |       |       | Longstanding critic of KXL
@@ -205,10 +202,9 @@ Chris Christie  | R     | Candidate             |       |       | 29    | States
 Hillary Clinton | D     | Presidential nominee  |       | Sept  | 22    | Comes out as opposing KXL
 Donald Trump    | R     | Presidential nominee  |       | Oct   | 27    | On a campaign rally: "So, the Keystone pipeline, first of all, I would approve it, cause it's thousands of jobs, ok, I would approve it so fast. So fast. And Hillary should have approved it. You know, Hillary wanted to approve it but she has been dragged so far left that she is, you know, forget it, a disaster. So, I would approve it. But with that being said: I may want to make a better dead. Because you know what, we are bringing oil from Canada, right? I may say 'I want 10%'. We're going to aprove it but I want 10%, 15%. Cause the truth is that the Keystone Pipeline was better [more important for the US] a while ago than it is now. [...] So I would approve it, because I love the jobs of building it. I love the jobs of building it. But I may just say 'maybe we should get 10%, 15%, maybe 20% as that oil flows through our land.' You know, maybe we should do that. So, I'm going to look into that. But when I approve it, I'll tell you what, when I approve it, it will be a great deal for the United States. It will not be like, cause right now what we are doing is we are approving it, we are not really getting anything, they are putting it underground [...] but, we are not getting, we are not getting anything much for it. When I get finished with the Keystone, they will be happy, and we will be happy. Ok? So it will be good" [@Trump2015]. 
 Barack Obama    | D     | President             |       | Nov   | 07    | Rejects KXL permit application
+Table: **President & presidential candidates position on KXL** *
 
 \* Does not include candidates that withdrew during the primaries
-
-###### Timeline
 
 Y    | M     | D    | Event
 ---  | ---   | ---  | ------------------------------------------
@@ -243,6 +239,7 @@ Y    | M     | D    | Event
 2017 | Jan   | 24   | New administration takes over White House
 </br>|       |      | President signs "Memorandum on Construction of the Keystone XL Pipeline" [@Trump2017]
 </br>| Mar   | 24   | President approves KXL permit
+Table: **Timeline**
 <!--</br>|       | 18   | Clinton campaign "heard a rumor that a decision could come as early as this Thursday" and prepares a reaction [@Ogden2015]-->
 <!--</br>| June  | 04   | Candidate Perry in his announcement speech: "On day one, I will also sign an executive order approving the construction of the Keystone Pipeline." [@Perry2015]-->
 <!--</br>|       | 25   | Clinton team still discusses KXL. "'[Option] (1) Don't comment and hope it goes away' [...] 'Or option 3 - lean into this to send a wink-wink to enviros while she continues to give her non-answer'" [@Ferguson2015].-->
@@ -256,8 +253,6 @@ Y    | M     | D    | Event
 <!--</br>|       | 23   | Rumored date of presidents decision on KXL is now late October. "Maybe they decided to push it until after the Canadian election on 10/19" [@Budzinski2015]. On the potential of KXL op-ed, Clinton campaign Labour Outreach Director remarks: "Ideally to get passed [sic] the Sept 9 meeting with the [NABTU] would be a personal god-send" [@Budzinski2015]. Labour Outreach Director also suggests specific language for the op-ed to appease unions, such as "Careers is their buzz word" [@Budzinski2015].-->
 <!--</br>|       | 7-9  | Clinton campaign continues Aug 23 discussion of KXL op-ed. The discussion shows a range of dimensions considered by the team as framings--consistency, developments, climate change, (political) energy and tonality, timing, language, job creation, data as an afterthought. See [[Clinton campaign--KXL dimensions]].-->
 
-###### Hillary Clinton's stance
-
 Y    | M    | D     | Ref.          | Quote
 ---  |---   |---    | --------      | ---------------------------------------------
 2010 | Oct  | 15    | @Clinton2010  | "[W]e've not yet signed off on it. But we are inclined to do so and we are for several reasons--going back to one of your original questions--we're either going to be dependent on dirty oil from the Gulf or dirty oil from Canada."
@@ -265,12 +260,12 @@ Y    | M    | D     | Ref.          | Quote
 2015 | Jan  | 21    | @Thomas2015   | "We have differences and you won't get me to talk about Keystone because I have steadily made clear that I’m not going to express an opinion [...] It is in our process and that’s where it belongs."
 </br>| July | 28    | @Merica2015a  | "I am not going to second guess [President Barack Obama] because I was in a position to set this in motion, [...] I want to wait and see what he and Secretary Kerry decide."
 </br>| Sept | 22    | @Bradner2015  | "I think it is imperative that we look at the Keystone pipeline as what I believe it is--a distraction from important work we have to do on climate change. And unfortunately from my perspective, one that interferes with our ability to move forward with all the other issues. Therefore I oppose it."
+Table: **Hillary Clinton's stance**
 
 ## Illustrations
 
-###### Republican primaries: Timeline
-
-![Source: https://www.realclearpolitics.com/epolls/2016/president/us/2016_republican_presidential_nomination-3823.html](/uploads/republican_primaries_2016.png){#id .class width=75% height=75%}
+![Republican primaries: Timeline](/uploads/republican_primaries_2016.png){#id .class width=75% height=75%}
+[[Source: Source: https://www.realclearpolitics.com/epolls/2016/president/us/2016_republican_presidential_nomination-3823.html]]
 
 ## Appendix
 
