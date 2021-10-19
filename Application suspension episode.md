@@ -9,6 +9,8 @@ bibliography: bibliography.bib
 * Back to [[KXL episodes]]
 * [[Clinton email tables]]
 
+###### People (excerpt)
+
 Name                | Role
 ---                 | ---
 Brian Fallon        | Press secretary
@@ -20,21 +22,21 @@ John Podesta        | Campaign chair
 Nikki Budzinski     | Labor outreach
 Valerie Alexander   | Spokesperson and senior communications advisor
 Trevor Houser       | Energy advisor
-Table: **People (excerpt)**
+
+###### Abbreviations
 
 Abbreviation    |   
 ---             | ---
 LCV             | League of Conservation Voters
 LIUNA           | Laborers' International Union of North America
-Table: **Abbreviations**
 
-# Overview
+## Overview
 
 Throwback: the Nebraska episode featured the suspension of discourse as participants engaged in a side conflict. From May 2012 until September 2015, TransCanada is drawn into a lawsuit on Nebraska law LB1161--a discourse that is only tangentially related to the merits of KXL. The supporters of KXL employed their agency in creating a pathway toward a swift realization of the pipeline by allowing the governor to greenlight the project by law. Their counterparts, the activists, in response successfully targeted the new rules in court. As a follow-up, this episode takes an inside look at the construction or emergence--depending on how agentic you would like to see the focal actors--of another moment of suspense. 
 
 On this document: Data & methods contains a couple of notes that mostly apply to this specific episode, and which lean on @Hardy2020 as well as @Maguire2013. the Background section introduces the KXL developments in 2015: from a bipartisan effort to greenlight the pipeline in congress in January, to presidential hopeful Hillary Clinton speaking out against KXL September, and in November TransCanada asking for the application to be suspended before the president rejects the permit application four days later. The developments throughout the year largely hinge on Hillary Clinton's stance on the issue, as perception slowly shifts and KXL emerges as a partisan issue. The section on KXL from a Clinton campaign perspective constitutes an inductive coding of the campaign team's emails on KXL.
 
-# Data & methods
+## Data & methods
 
 The approach taken in this study borrows from @Hardy2020 as well as @Maguire2013. In the first stage of analysis I looked at the administrative history of the KXL application across it history of over ten years. I quickly noticed that KXL was discussed in parallel or consecutively on many different administrative levels and outside of the administrative system. To realize the KXL project, TransCanada would need to obtain *all of* the relevant permits, some of which needed to be renewed or were challenged again in court after some time. The most important events (as of late 2021) take place between August 2009 when TransCanada first applies for a permit in Canada, and January 2021, when KXL comes to a (preliminary?) end after the US president cancels the key permit. The process offers us the unique opportunity to analyse a discourse of national and international interest as a quasi-repeat sample. Hence, we can avoid sampling on the outcome, and view both the company's successful and unsuccessful attempts of securing permits. Using this repeat sample alleviates some of the concerns around "hypermascular" actors with high degrees of agency in the discourse literature [@Suddaby2017].
 
@@ -47,7 +49,7 @@ Finally, I conducted an iterative, inductive coding of the episodes that feature
 <!--In the third step, I identified a number of episodes that were promising candidates to contain as strong interactive element. In contrast to the existing literature, these are episodes where the status quo is suspended, as this suspension indicates a temporary deadlock between at least two actors. [The rest of this paragraph would in a more advanced version contain a description of the identified episodes, probably in conjunction with a table. I would probably describe in particular the diverse sets of actors involved in the episodes].-->
 
 
-# Background
+## Background
 
 On November 3, 2015 TransCanada asks the State Department to suspend the permit application for its KXL permit application, a move that a White House speaker calls "unusual" [@Chiacu2015]--likely an understatement. The move highlights the extraordinary uncertainty faced by KXL. At the time, the pipeline had been under review for over half a decade. In 2012, the Department of State rejected the project for technical reasons, and TransCanada resubmitted the application months later (see [[timeline|Application suspension episode#timeline]]). Previous environmental impact statements by the State Department had looked positive. However, in the second half of 2014 the oil price halfs, from over \\\$100 to about \\\$50. There are unexpected consequences to this unanticipated development. On February 4, 2015 the Environmental Protection Agency (EPA) asks the State Department to revisit their analysis [@Harder2015]. Not to worry--the EPA had reanalyzed KXL before, without changing the final outcome [@Goodman2014]. But the changed data basis now is a cause for concern. Before the price drop, transportation cost were a negligible factor for the Canadian oil sands industry. Now, the construction of KXL could make the difference between oil fields in Canada being developed or not--the calculated climate impacts of KXL could look significantly worse.
 
@@ -71,7 +73,7 @@ Despite the bipartisan nature of the Keyston XL Pipeline Approval Act in January
 <!--*Take note* of the uncertainty even in that statement. Notably, in the [[full remarks|https://2009-2017.state.gov/secretary/20092013clinton/rm/2010/10/149542.htm]] Clinton never once refers to KXL. Rather, she takes a question on the Alberta Clipper pipeline--which was placed in service half a year before the remarks. Clinton then makes the above remarks that all observers assume refers to KXL. -->
 In 2015, after she announces her candidacy, Clinton is frequently pressed to take a stance on KXL, which emerges as one of the most controversial election issues (both KXL *and* her stance). From TransCanada's perspective, under a future Republican president, chances would be that the pipeline would be approved. Under both a future Democratic president or the current president, KXL's fate would be *truly* uncertain. That is *until* the Clinton campaign finally takes a stance on September 22, 2015 (see [[timeline|Application suspension episode#timeline]]). 
 
-# KXL from a Clinton campaign perspective
+## KXL from a Clinton campaign perspective
 
 > "[Y]ou won't get me to talk about Keystone because I have steadily made clear that I’m not going to express an opinion [...] It is in our process and that’s where it belongs."
 >
@@ -92,7 +94,7 @@ The following represents an inductive coding of the Clinton emails. What emerges
 
 <!--There are seven dimensions that the campaign considers before taking a stance. **(1)**There are potential and realized allies and adversary, whereby the realization of an ally--for instance through an official endorsement or donation--provides one temporal element. **(2)** The team monitors the discourse as it pertains to KXL and the Clinton campaign. Most importantly, the campaign has some ideas of how the discourse may develop in the future, but with significant uncertainty--think the above-mentioned rumors. The release of new information--uncertain or not--is another temporal element. **(3)** The campaign shows extensive considerations around the topic of maximizing the effect of their participation in discourse. **(4)** The emails highlight introspective and consideration around identity and morals before participation in the discourse. **(5)** The emails indicate that the drafting of a compromise is--or at least can be--an inherently cynical process that is concerned not as much with subject matter as it is with interests and trade-offs. In other words, an actor can create the letter of a compromise without supporting the spirit. **(6)** The team, the public, and other actors monitor and compare the stance of e.g., competitors with the stance the Clinton campaign. **(7)** The emails show attempts to signal a position to certain groups without explicitly taking a position--a strategic use of ambiguity, or "quantum position" if you like. Note: where the emails refer to publicly available data, this data is provided rather than references to the emails.-->
 
-## 1. Allies and adversaries
+### 1. Allies and adversaries
 
 On April 12, Hillary Clinton announces her run for presidency. Just a week later, the campaign team identifies KXL as a critical issue for her candidacy. Brian Fallon, press secretary: "The enviros may latch onto this going forward. Have we discussed when she will come out against Keystone? After POTUS vetoes?"--the veto likely referring to the upcoming Keystone XL permit decision (see Section [[Ongoing discourse|Application suspension episode#ongoing-discourse]]). Most of the statements by environmental groups are somewhat vague, but clearly show that their support or opposition to Clinton's presidency hinges on KXL. For instance, Jamie Henn of 350.org: "We all remember when Clinton said she was 'inclined' to approve Keystone XL. If the pipeline goes through, she'll shoulder part of the blame, and this protest today will be just a small taste of actions to come" [@Goodman2015]. At least one of the campaign's allies however directly asks the campaign to take a anti-KXL stance in exchange for support in the elections--Tiernan Sittenfeld of the League of Conservation Voters in an email to John Podesta, campaign chair of the Clinton campaign: "[I]t's hard to imagine we [the League of Conservation Voters] can move forward [with an endorsement] until she makes clear she now opposes KXL" [@Sullivan2015a]. See further [[Table 1a on anti-kxl allies and adversaries|Clinton email tables#a-anti-kxl]].
 
@@ -102,7 +104,7 @@ Before in-person talks take place between Hillary Clinton and the building trade
 
 The Clinton campaign decides not to go through with the statement which would have given a negative stance on KXL. Instead, the team takes advantage of an upcoming meeting with the unions and arranges for Hillary Clinton to disclose their negative stance in said meeting. By delaying the statement and speaking to the unions first, the Clinton campaign avoids the negative respoinse that O'Malley's discursive action had elicited: "The meeting this afternoon with [Hillary Clinton] and [the building trades unions] went very very well. After the meeting there was a lot of talk about appreciation for her willingness to be candid and up front with them on a difficult issue like KXL. We are on track for other [building] trades [unions'] endorsements in the coming weeks" [@Budzinski2015b]. See further [[Table 1b on pro-KXL groups|Clinton email tables#b-pro-kxl]].
 
-## 2. Ongoing discourse
+### 2. Ongoing discourse
 
 <!--Potential pushback from the building trades unions prompts the Clinton campaign to delay a statement on KXL from August to September. The Clinton campaign wants to take the stance to ease pressure from environmental groups and in particular to earn the endorsement of the League of Conservation Voters. Why did candidate Hillary Clinton stay silent on KXL in the first place?-->
 
@@ -128,7 +130,7 @@ Besides the timing--or rather the decision on action or inaction--the content of
 
 See further [[Table 4 on introspective|Clinton email tables#4-introspective]].
 
-## 5. Reconciling
+### 5. Reconciling
 
 When--or rather after--the campaign team has made the decision to draft a stance against KXL, the work of *reconciling* this position with the stakeholders and allies begins. The emails highlight the inherently cynical nature of this undertaking. Rather than weighing the merit of different positions against each other, and creating a "blend" or compromise, it is a very superficial process of finding issues that can be traded off against each other. Sometimes, there are simple ways to appease one side of a debate. Nikki Budzinski: "Could we beef up the mentioning jobs? O'Malley made the mistake with the trades of stating that energy jobs are temporary. They really bristle at that. Could we mention that these are 'jobs and careers' for many workers and as we transition [Hillary Clinton] wants to create more careers within the new energy economy? Careers is their buzz word" (for the full quote, see [[Section Quotes|Application suspension episode#appease-unions]]). Other times, the trade-offs are more complex, and more material. Eventually, the campaign team decides to draft an op-ed that uses KXL to pivot to energy infrastructure, including climate change--for strategic reasons, to appear less narrow and take weight of the KXL decision. To soften the blow from the building trades unions, the campaign team drafts measures that would create work for the members of specific unions. The team is very upfront about this: 
 
@@ -155,13 +157,13 @@ Identity-->
 * The limits to agency--unexpected consequences--touch on it!
 * Rumors influence statements and decisions--touch on it!-->
 
-## 6. Competitors
+### 6. Competitors
 
 [There could be a paragraph about statements on KXL and Clinton from competitors here. I decided it's not that important or interesting, or this may work without it. There is probably something important or interesting there though, not sure. I should probably give at least one quote to convey the atmosphere? Regardless, this should be short. Should be moved?]
 
 Throughout the primaries, the other candidates Sanders and O'Malley are hounding Clinton on KXL. Bernie Sanders: "I believe along with Pope Francis and almost all scientists that climate change is threatening this planet in a horrendous ways and that we have to be aggressive in transforming our energy system away from fossil fuel and defeat–and defeat!–the Keystone pipeline. That is not Hillary Clinton's position" [@Tapper2015]. See further [[Table 6 on competitors|Clinton email tables#6-competitors]].
 
-## 7. Strategic use of ambiguity
+### 7. Strategic use of ambiguity
 
 *Or: quantum position*
 
@@ -181,7 +183,9 @@ Where originally, the pressure of environmentalists on Clinton made the defeat o
 
 Back to the original motivation of the literature, on demonstrating the relationship between discourse and institutional change. Discourse, at least at a surface level, cannot fully explain institutional change. To do so, one needs to enter relatively deep, and confront a lot of processes that may seem like noise. The frames that arise can stabilize and constitute new institutional arrangements. A difference need to be drawn between micro-level processes that change relatively benign things such as an individual pipeline and more radical, wide-reaching changes that occur over, say, decades. We see in this case study many of the frames drawn up in a relatively cynical fashion to accomplish strategic goals. At what point do these frames come to be seen in a less cynical fashion, so internalized that they constitute a new institutional status quo? Is there a transition from a cynical view to taken-for-grantedness? And if so, how does this transition take place?-->
 
-# Tables
+## Tables
+
+###### President & presidential candidates position on KXL *
 
 Name            | R/D   | Role                  | Y     | M     | D     |Position on KXL                   
 --------        | ---   | ---                   | ---   | ---   | ---   | --------------------------------------------
@@ -202,9 +206,10 @@ Chris Christie  | R     | Candidate             |       |       | 29    | States
 Hillary Clinton | D     | Presidential nominee  |       | Sept  | 22    | Comes out as opposing KXL
 Donald Trump    | R     | Presidential nominee  |       | Oct   | 27    | On a campaign rally: "So, the Keystone pipeline, first of all, I would approve it, cause it's thousands of jobs, ok, I would approve it so fast. So fast. And Hillary should have approved it. You know, Hillary wanted to approve it but she has been dragged so far left that she is, you know, forget it, a disaster. So, I would approve it. But with that being said: I may want to make a better dead. Because you know what, we are bringing oil from Canada, right? I may say 'I want 10%'. We're going to aprove it but I want 10%, 15%. Cause the truth is that the Keystone Pipeline was better [more important for the US] a while ago than it is now. [...] So I would approve it, because I love the jobs of building it. I love the jobs of building it. But I may just say 'maybe we should get 10%, 15%, maybe 20% as that oil flows through our land.' You know, maybe we should do that. So, I'm going to look into that. But when I approve it, I'll tell you what, when I approve it, it will be a great deal for the United States. It will not be like, cause right now what we are doing is we are approving it, we are not really getting anything, they are putting it underground [...] but, we are not getting, we are not getting anything much for it. When I get finished with the Keystone, they will be happy, and we will be happy. Ok? So it will be good" [@Trump2015]. 
 Barack Obama    | D     | President             |       | Nov   | 07    | Rejects KXL permit application
-Table: **President & presidential candidates position on KXL** *
 
 \* Does not include candidates that withdrew during the primaries
+
+###### Timeline
 
 Y    | M     | D    | Event
 ---  | ---   | ---  | ------------------------------------------
@@ -239,7 +244,6 @@ Y    | M     | D    | Event
 2017 | Jan   | 24   | New administration takes over White House
 </br>|       |      | President signs "Memorandum on Construction of the Keystone XL Pipeline" [@Trump2017]
 </br>| Mar   | 24   | President approves KXL permit
-Table: **Timeline**
 <!--</br>|       | 18   | Clinton campaign "heard a rumor that a decision could come as early as this Thursday" and prepares a reaction [@Ogden2015]-->
 <!--</br>| June  | 04   | Candidate Perry in his announcement speech: "On day one, I will also sign an executive order approving the construction of the Keystone Pipeline." [@Perry2015]-->
 <!--</br>|       | 25   | Clinton team still discusses KXL. "'[Option] (1) Don't comment and hope it goes away' [...] 'Or option 3 - lean into this to send a wink-wink to enviros while she continues to give her non-answer'" [@Ferguson2015].-->
@@ -253,6 +257,8 @@ Table: **Timeline**
 <!--</br>|       | 23   | Rumored date of presidents decision on KXL is now late October. "Maybe they decided to push it until after the Canadian election on 10/19" [@Budzinski2015]. On the potential of KXL op-ed, Clinton campaign Labour Outreach Director remarks: "Ideally to get passed [sic] the Sept 9 meeting with the [NABTU] would be a personal god-send" [@Budzinski2015]. Labour Outreach Director also suggests specific language for the op-ed to appease unions, such as "Careers is their buzz word" [@Budzinski2015].-->
 <!--</br>|       | 7-9  | Clinton campaign continues Aug 23 discussion of KXL op-ed. The discussion shows a range of dimensions considered by the team as framings--consistency, developments, climate change, (political) energy and tonality, timing, language, job creation, data as an afterthought. See [[Clinton campaign--KXL dimensions]].-->
 
+###### Hillary Clinton's stance
+
 Y    | M    | D     | Ref.          | Quote
 ---  |---   |---    | --------      | ---------------------------------------------
 2010 | Oct  | 15    | @Clinton2010  | "[W]e've not yet signed off on it. But we are inclined to do so and we are for several reasons--going back to one of your original questions--we're either going to be dependent on dirty oil from the Gulf or dirty oil from Canada."
@@ -260,7 +266,6 @@ Y    | M    | D     | Ref.          | Quote
 2015 | Jan  | 21    | @Thomas2015   | "We have differences and you won't get me to talk about Keystone because I have steadily made clear that I’m not going to express an opinion [...] It is in our process and that’s where it belongs."
 </br>| July | 28    | @Merica2015a  | "I am not going to second guess [President Barack Obama] because I was in a position to set this in motion, [...] I want to wait and see what he and Secretary Kerry decide."
 </br>| Sept | 22    | @Bradner2015  | "I think it is imperative that we look at the Keystone pipeline as what I believe it is--a distraction from important work we have to do on climate change. And unfortunately from my perspective, one that interferes with our ability to move forward with all the other issues. Therefore I oppose it."
-Table: **Hillary Clinton's stance**
 
 # Illustrations
 
