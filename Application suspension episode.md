@@ -9,8 +9,6 @@ bibliography: bibliography.bib
 * Back to [[KXL episodes]]
 * [[Clinton email tables]]
 
-###### People (excerpt)
-
 Name                | Role
 ---                 | ---
 Brian Fallon        | Press secretary
@@ -22,6 +20,7 @@ John Podesta        | Campaign chair
 Nikki Budzinski     | Labor outreach
 Valerie Alexander   | Spokesperson and senior communications advisor
 Trevor Houser       | Energy advisor
+Table: People (excerpt)
 
 ###### Abbreviations
 
