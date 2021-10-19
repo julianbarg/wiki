@@ -264,7 +264,7 @@ Table: **Hillary Clinton's stance**
 
 ## Figures
 
-![Republican primaries timeline](/uploads/republican_primaries_2016.png){#id .class width=75% height=75%}
+![Republican primaries timeline](/uploads/republican_primaries_2016.png){width=75% height=75%}
 
 [[Source: https://www.realclearpolitics.com/epolls/2016/president/us/2016_republican_presidential_nomination-3823.html]]
 
