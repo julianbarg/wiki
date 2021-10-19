@@ -66,7 +66,7 @@ Despite the bipartisan nature of the Keyston XL Pipeline Approval Act in January
 
 > [W]e've not yet signed off on it. But we are inclined to do so and we are for several reasons -- going back to one of your original questions -- we're either going to be dependent on dirty oil from the Gulf or dirty oil from Canada.
 >
-> --@Clinton2010
+> --Hillary Clinton on October 15, 2010 [@Clinton2010]
 
 <!--*Take note* of the uncertainty even in that statement. Notably, in the [[full remarks|https://2009-2017.state.gov/secretary/20092013clinton/rm/2010/10/149542.htm]] Clinton never once refers to KXL. Rather, she takes a question on the Alberta Clipper pipeline--which was placed in service half a year before the remarks. Clinton then makes the above remarks that all observers assume refers to KXL. -->
 In 2015, after she announces her candidacy, Clinton is frequently pressed to take a stance on KXL, which emerges as one of the most controversial election issues (both KXL *and* her stance). From TransCanada's perspective, under a future Republican president, chances would be that the pipeline would be approved. Under both a future Democratic president or the current president, KXL's fate would be *truly* uncertain. That is *until* the Clinton campaign finally takes a stance on September 22, 2015 (see [[timeline|Application suspension episode#timeline]]). 
@@ -75,7 +75,7 @@ In 2015, after she announces her candidacy, Clinton is frequently pressed to tak
 
 > "[Y]ou won't get me to talk about Keystone because I have steadily made clear that I’m not going to express an opinion [...] It is in our process and that’s where it belongs."
 >
-> Hillary Clinton on January 21, 2015 [@Thomas2015]
+> --Hillary Clinton on January 21, 2015 [@Thomas2015]
 
 <!--While the data regarding the TransCanada perspective on KXL discourse is thin, a rich public dataset exists on the major moving part and source of uncertainty: in October 2016, just ahead of the Presidential-->
 The previous section laid out the field of potential intervenors from the perspective of TransCanada. For a period of time, the major source of uncertainty is the Clinton campaign--the only party in the cohort not to take a position. In 2016 when WikiLeaks released thousands of her campaigns emails the world received some insight into why the Clinton campaign did not take a stance sooner. From the emails we can learn about the Clinton campaign's potential and realized allies and how they affect the teams *discursive actions*. The emails also provide us with a more fine-grained and visceral experience of participating in discourse in a social world. The events laid out below take place in 2015 starting on April 12 when Clinton announces her campaign. Although the temporal dimension is omitted in this section, it matters insofar as from the Clinton campaign's point of view processes and concerns become more clear over time, culminating in her statements on September 22 (see also [[Table on Hillary Clinton's stance below|Application suspension episode#hillary-clinton-s-stance]]):
