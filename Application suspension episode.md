@@ -267,13 +267,13 @@ Y    | M    | D     | Ref.          | Quote
 </br>| July | 28    | @Merica2015a  | "I am not going to second guess [President Barack Obama] because I was in a position to set this in motion, [...] I want to wait and see what he and Secretary Kerry decide."
 </br>| Sept | 22    | @Bradner2015  | "I think it is imperative that we look at the Keystone pipeline as what I believe it is--a distraction from important work we have to do on climate change. And unfortunately from my perspective, one that interferes with our ability to move forward with all the other issues. Therefore I oppose it."
 
-# Illustrations
+## Illustrations
 
-##### Republican primaries: Timeline
+###### Republican primaries: Timeline
 
 ![Source: https://www.realclearpolitics.com/epolls/2016/president/us/2016_republican_presidential_nomination-3823.html](/uploads/republican_primaries_2016.png){#id .class width=75% height=75%}
 
-# Appendix
+## Appendix
 
 ###### Additional Quotes
 
