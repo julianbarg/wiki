@@ -262,10 +262,11 @@ Y    | M    | D     | Ref.          | Quote
 </br>| Sept | 22    | @Bradner2015  | "I think it is imperative that we look at the Keystone pipeline as what I believe it is--a distraction from important work we have to do on climate change. And unfortunately from my perspective, one that interferes with our ability to move forward with all the other issues. Therefore I oppose it."
 Table: **Hillary Clinton's stance**
 
-## Illustrations
+## Figures
 
-![Republican primaries: Timeline](/uploads/republican_primaries_2016.png){#id .class width=75% height=75%}
-[[Source: Source: https://www.realclearpolitics.com/epolls/2016/president/us/2016_republican_presidential_nomination-3823.html]]
+![Republican primaries timeline](/uploads/republican_primaries_2016.png){#id .class width=75% height=75%}
+
+[[Source: https://www.realclearpolitics.com/epolls/2016/president/us/2016_republican_presidential_nomination-3823.html]]
 
 ## Appendix
 
