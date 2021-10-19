@@ -12,6 +12,7 @@ Article                     | Context                                   | Level 
 ----                        | --------                                  | ---       | ---       | -------
 [[Aplin & Hegarty 1980]]    | Congress members' perception of lobbying  | Meso      | Quant     | Inducement, perusasion, coercion, obligation
 [[Siegel 2007]]             | South Korean corporations' political ties | Macro/meso| Mixed     | Negative ties
+[[Santos & Eisenhardt 2009]]| 5 nascent firms                           | Micro/meso| Qual      | Claiming, demarcating, controlling
 [[Delmas 2016]]             | 460 firm-year observations (US)           | Macro     | Quant     | Issue salience
 
 ## Article summaries
