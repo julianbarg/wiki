@@ -207,7 +207,7 @@ Barack Obama    | D     | President             |       | Nov   | 07    | Reject
 
 ### Republican primaries--timeline
 
-[[/uploads/republican_primaries_2016.png|frame, width=600px, alt=Source: https://www.realclearpolitics.com/epolls/2016/president/us/2016_republican_presidential_nomination-3823.html]]
+![test](/uploads/republican_primaries_2016.png){#id .class width=75% height=75%}
 
 ## Timeline
 
