@@ -18,6 +18,7 @@ Article                     | Context                                   | Level 
 [[Santos & Eisenhardt 2009]]| 5 firms in nascent industries             | Micro/meso| Qual      | Claiming, demarcating, controlling
 [[Delmas 2016]]             | 460 firm-year observations (US)           | Macro     | Quant     | Issue salience
 [[Ridge et al 2017]]        | S&P 500 lobbying expanditure & breadth    | Macro     | Quant     | Lobbying breadth, political connectedness
+[[Aranda & Simons 2018]]    | 27 US state-level smoking bans            | Macro     | Quant     | Protests, astroturfing lobbying
 Table: **Overview**
 
 Article                     | Summary
@@ -30,6 +31,7 @@ Article                     | Summary
 [[Santos & Eisenhardt 2009]]| The tricks that firms play to controll a market--e.g., acquire and dispose of potential competitors, negotiate in bad faith.
 [[Delmas 2016]]             | Both firms with above and below average environmental performance engage in lobbying--with different goals!
 [[Ridge et al 2017]]        | Lobbying success requires good ratio of depth (spending) and breadth, connectedness through well connected board members or employment of professional lobbyists.
+[[Aranda & Simons 2018]]    | Protests meet counterprotests by astroturfers, lobbying efforts. These affect institutional change.
 Table: **Article summaries**
 
 Article         | Title                                                                                 | </br>
@@ -44,6 +46,7 @@ Article         | Title                                                         
 @Delmas2016     | Corporate Environmental Performance and Lobbying                                      | :clock4:
 @Gond2016       | To Frack or Not to Frack? The Interaction of Justification and Power in a Sustaina... | 
 @Ridge2017      | Beyond Lobbying Expenditures: How Lobbying Breadth and Political Connectedness ...    | :clock4:
+@Aranda2018     | On Two Sides of the Smoke Screen: How Activist Organizations and Corporations use ... |
 Table: **Master list**
 
 ---
