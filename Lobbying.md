@@ -34,7 +34,7 @@ Article         | </br>
 ---             | :-:
 @Aplin1980      | :heavy_check_mark: 
 @Allen1982      | :clock3:
-@Allen1982      | :clock3:
+@DAveni1993     | :clock3:
 @Siegel2007     | :clock3:
 @Santos2009     | :clock6:
 @Fleming2014    |
