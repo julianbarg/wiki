@@ -9,7 +9,7 @@ bibliography: bibliography.bib
 ## Tables
 
 Article                     | Context                                   | Level     | Methods   | Concepts
-----                        | --------                                  | ---       | ---       | -------
+-----                       | --------                                  | ---       | ---       | ---------
 [[Aplin & Hegarty 1980]]    | Congress members' perception of lobbying  | Meso      | Quant     | Inducement, perusasion, coercion, obligation
 [[Siegel 2007]]             | South Korean corporations' political ties | Macro/meso| Mixed     | Negative ties
 [[Santos & Eisenhardt 2009]]| 5 firms in nascent industries             | Micro/meso| Qual      | Claiming, demarcating, controlling
