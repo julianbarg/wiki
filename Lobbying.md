@@ -14,6 +14,7 @@ Article                     | Context                                   | Level 
 [[Allen & Panian 1982]]     | 242 large American (?) corporations       | Macro     | Quant     | Power, relationships, family
 [[D'Aveni & Kesner 1993]]   | 106 US tender offers                      | Macro     | Quant     | Power, prestige
 [[Siegel 2007]]             | South Korean corporations' political ties | Macro/meso| Mixed     | Negative ties
+[[Westphal & Bednar 2008]]  | Top management teams at 1,000 companies   | Micro     | Quant     | Ingratiation, persuasion
 [[Santos & Eisenhardt 2009]]| 5 firms in nascent industries             | Micro/meso| Qual      | Claiming, demarcating, controlling
 [[Delmas 2016]]             | 460 firm-year observations (US)           | Macro     | Quant     | Issue salience
 [[Ridge et al 2017]]        | S&P 500 lobbying expanditure & breadth    | Macro     | Quant     | Lobbying breadth, political connectedness
@@ -25,6 +26,7 @@ Article                     | Summary
 [[Allen & Panian 1982]]     | If the CEO is a member of the owner family, he is less likely to be removed in times of poor firm performance.
 [[D'Aveni & Kesner 1993]]   | Bidder and target membership in same social circles predicts tender offer success.
 [[Siegel 2007]]             | Government ties matter in a liberal (capitalist) system like they do in state capitalism. Ties cannot only be positive or neutral, but also a liability!
+[[Westphal & Bednar 2008]]  | CEOs employ interpersonal behavior with institutional investors toward ends such as increased compensation.
 [[Santos & Eisenhardt 2009]]| The tricks that firms play to controll a market--e.g., acquire and dispose of potential competitors, negotiate in bad faith.
 [[Delmas 2016]]             | Both firms with above and below average environmental performance engage in lobbying--with different goals!
 [[Ridge et al 2017]]        | Lobbying success requires good ratio of depth (spending) and breadth, connectedness through well connected board members or employment of professional lobbyists.
@@ -36,6 +38,7 @@ Article         | </br>
 @Allen1982      | :clock3:
 @DAveni1993     | :clock3:
 @Siegel2007     | :clock3:
+@Westphal2008   | :clock3:
 @Santos2009     | :clock6:
 @Fleming2014    |
 @Delmas2016     | :clock4:
