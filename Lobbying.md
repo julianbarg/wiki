@@ -46,7 +46,7 @@ Article         | Title                                                         
 @Delmas2016     | Corporate Environmental Performance and Lobbying                                      | :clock4:
 @Gond2016       | To Frack or Not to Frack? The Interaction of Justification and Power in a Sustaina... | 
 @Ridge2017      | Beyond Lobbying Expenditures: How Lobbying Breadth and Political Connectedness ...    | :clock4:
-@Aranda2018     | On Two Sides of the Smoke Screen: How Activist Organizations and Corporations use ... |
+@Aranda2018     | On Two Sides of the Smoke Screen: How Activist Organizations and Corporations use ... | :clock3:
 Table: **Master list**
 
 ---
