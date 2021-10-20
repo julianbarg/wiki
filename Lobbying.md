@@ -17,7 +17,7 @@ Article                     | Context                                   | Level 
 [[Westphal & Bednar 2008]]  | Top management teams at 1,000 companies   | Micro     | Quant     | Ingratiation, persuasion
 [[Santos & Eisenhardt 2009]]| 5 firms in nascent industries             | Micro/meso| Qual      | Claiming, demarcating, controlling
 [[Delmas 2016]]             | 460 firm-year observations (US)           | Macro     | Quant     | Issue salience
-[[Gond et al 2016]]         | Discourse on lobbying in Québec           | Meso      | Qual      | Authority, coercion, manipulation, domination
+[[Gond et al 2016]]         | Discourse on lobbying in Québec           | Micro/meso| Qual      | Authority, coercion, manipulation, domination
 [[Ridge et al 2017]]        | S&P 500 lobbying expanditure & breadth    | Macro     | Quant     | Lobbying breadth, political connectedness
 [[Aranda & Simons 2018]]    | 27 US state-level smoking bans            | Macro     | Quant     | Protests, astroturfing lobbying
 Table: **Overview**
