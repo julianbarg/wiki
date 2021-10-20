@@ -21,7 +21,7 @@ Table: **Overview**
 Article                     | Summary
 ---                         | ------------
 [[Aplin & Hegarty 1980]]    | There are different ways of making an impact on Congress--they are used to different degrees by different stakeholders.
-[[Allen & Panian 1982]]     | If the 
+[[Allen & Panian 1982]]     | If the CEO is a member of the owner family, he is less likely to be removed in times of poor firm performance.
 [[Siegel 2007]]             | Government ties matter in a liberal (capitalist) system like they do in state capitalism. Ties cannot only be positive or neutral, but also a liability!
 [[Santos & Eisenhardt 2009]]| The tricks that firms play to controll a market--e.g., acquire and dispose of potential competitors, negotiate in bad faith.
 [[Delmas 2016]]             | Both firms with above and below average environmental performance engage in lobbying--with different goals!
@@ -31,6 +31,7 @@ Table: **Article summaries**
 Article         | </br>
 ---             | :-:
 @Aplin1980      | :heavy_check_mark: 
+@Allen1982      | :clock3:
 @Allen1982      | :clock3:
 @Siegel2007     | :clock3:
 @Santos2009     | :clock6:
