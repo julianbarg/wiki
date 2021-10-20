@@ -33,7 +33,7 @@ Article                     | Summary
 Table: **Article summaries**
 
 Article         | Title                                                                                 | </br>
-------          | ------------------------------------------------------------------------------------- | :-:
+--------------  | -----------------------------                                                         | :-:
 @Aplin1980      | Political Influence: Strategies Employed by Organizations to Impact Legislation ...   | :heavy_check_mark:
 @Allen1982      | Power, Performance, and Succession in the Large Corporation                           | :clock3:
 @DAveni1993     | Top Managerial Prestige, Power and Tender Offer Response: A Study of Elite Social ... | :clock3:
