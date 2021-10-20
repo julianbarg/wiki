@@ -17,6 +17,7 @@ Article                     | Context                                   | Level 
 [[Westphal & Bednar 2008]]  | Top management teams at 1,000 companies   | Micro     | Quant     | Ingratiation, persuasion
 [[Santos & Eisenhardt 2009]]| 5 firms in nascent industries             | Micro/meso| Qual      | Claiming, demarcating, controlling
 [[Delmas 2016]]             | 460 firm-year observations (US)           | Macro     | Quant     | Issue salience
+[[Gond et al 2016]]         | Discourse on lobbying in Québec           | Meso      | Qual      | Authority, coercion, manipulation, domination
 [[Ridge et al 2017]]        | S&P 500 lobbying expanditure & breadth    | Macro     | Quant     | Lobbying breadth, political connectedness
 [[Aranda & Simons 2018]]    | 27 US state-level smoking bans            | Macro     | Quant     | Protests, astroturfing lobbying
 Table: **Overview**
@@ -30,6 +31,7 @@ Article                     | Summary
 [[Westphal & Bednar 2008]]  | CEOs employ interpersonal behavior with institutional investors toward ends such as increased compensation.
 [[Santos & Eisenhardt 2009]]| The tricks that firms play to controll a market--e.g., acquire and dispose of potential competitors, negotiate in bad faith.
 [[Delmas 2016]]             | Both firms with above and below average environmental performance engage in lobbying--with different goals!
+[[Gond et al 2016]]         | The industry-government alliance on fracking in Québec and how it failed against civil society.
 [[Ridge et al 2017]]        | Lobbying success requires good ratio of depth (spending) and breadth, connectedness through well connected board members or employment of professional lobbyists.
 [[Aranda & Simons 2018]]    | Protests meet counterprotests by astroturfers, lobbying efforts. These affect institutional change.
 Table: **Article summaries**
