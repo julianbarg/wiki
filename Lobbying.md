@@ -32,18 +32,18 @@ Article                     | Summary
 [[Ridge et al 2017]]        | Lobbying success requires good ratio of depth (spending) and breadth, connectedness through well connected board members or employment of professional lobbyists.
 Table: **Article summaries**
 
-Article         | </br>
----             | :-:
-@Aplin1980      | :heavy_check_mark: 
-@Allen1982      | :clock3:
-@DAveni1993     | :clock3:
-@Siegel2007     | :clock3:
-@Westphal2008   | :clock3:
-@Santos2009     | :clock6:
-@Fleming2014    |
-@Delmas2016     | :clock4:
-@Gond2016       | 
-@Ridge2017      | :clock4:
+Article         | Title                                                                                 | </br>
+---             | ---                                                                                   | :-:
+@Aplin1980      | Political Influence: Strategies Employed by Organizations to Impact Legislation ...   | :heavy_check_mark:
+@Allen1982      | Power, Performance, and Succession in the Large Corporation                           | :clock3:
+@DAveni1993     | Top Managerial Prestige, Power and Tender Offer Response: A Study of Elite Social ... | :clock3:
+@Siegel2007     | Contingent Political Capital and International Alliances: Evidence from South Korea   | :clock3:
+@Westphal2008   | The Pacification of Institutional Investors                                           | :clock3:
+@Santos2009     | Constructing Markets and Shaping Boundaries: Entrepreneurial Power in Nascent Fields  | :clock6:
+@Fleming2014    | Power in Management and Organization Science                                          | 
+@Delmas2016     | Corporate Environmental Performance and Lobbying                                      | :clock4:
+@Gond2016       | To Frack or Not to Frack? The Interaction of Justification and Power in a Sustaina... | 
+@Ridge2017      | Beyond Lobbying Expenditures: How Lobbying Breadth and Political Connectedness ...    | :clock4:
 Table: **Master list**
 
 ---
