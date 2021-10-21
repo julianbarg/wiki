@@ -38,16 +38,9 @@ Table: **Table 1: Empirical Examples**
 >
 > Yeah. I mean it is--the good thing is that the debate is not who makes it. I think the debate is: it is here, it is an effective chemical, we need this chemical. Or we have needed this chemical. How can we either safely use it or eliminate it. There is not the debate right now about who manufactures it, thankfully.-->
 
-In June 2021, a Greenpeace-affiliated journalist poses as a recruiter on Zoom and interviews two high-profile ExxonMobil lobbyists. The interviews provide insights on malicious PR practices that environmental groups and scholars have discussed for a while. The financing of shadow groups [@Farrell2016]. Lobbying [@Fleming2014]. And the carbon tax "support" provides an interesting angle on greenwashing [@Lyon2015].
-
-
-
-
-<!--The fossil industry knew about climate change. Facebook actively researched its ill effects on society. -->
+In June 2021, a Greenpeace-affiliated journalist poses as a recruiter on Zoom and interviews two high-profile ExxonMobil lobbyists (see Table 1). The interviews provides a rare inside perspective on malicious PR practices. The financing of shadow groups to support questionable research. The poisoning of public discourse through bad faith statements. And the influencing of public officials to a degree that would make a cynic blush. The investigative journalism piece might be the most concise, but it is not the only one in terms of annecdotal evidence. It comes after 
 
 <!--@Oliver1991 provides us with a spectrum of potential responses to institutional pressure. There were inquiries into the full range of responses, most notably by Kim Elsbach [@Elsbach1994, @Elsbach1998]. -->
-
-<!--Manipulation of public opinion [@Oliver1991]. Including, but not limited to: greenwashing [@Lyon2015], the funding of shadow groups [@Farrell2016], and the open dissimination of false or intentionally misleading information [@Cappellaro2021]. Also, the gray areas, where -->
 
 <!--## People-->
 
