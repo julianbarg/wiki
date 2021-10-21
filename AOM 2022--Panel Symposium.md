@@ -10,6 +10,18 @@ bibliography: bibliography.bib
 
 **Manipulating ourselves, more so manipulating others. Rediscovering the spectrum.**
 
+<!--The situation is dire.-->
+The need for institutional change--by any other name--are in everybody's mouth with regard to climate change and other environmental grand challenges. Sustainability has gone mainstream [@Ergene2020]. Since the call for *action* has been made, what has been the *reaction*? We can think of potential reactions as a spectrum, ranging from acquiscence to avoidance and manipulation [@Oliver1991]. The empirical exploration of the landscape--at least that by our discipline--has landed mostly in the middle of the road. The decoupling literature touches on companies "faking it" but focuses mostly on those with good intentions who "muddle through" [@Crilly2012; Bromley2012]. The greenwashing literature puts the possibility of misinformation out there but knows many reasons of why this would unknowingly happen [@Lyon2015]. And the management literature on climate change does not cover the big polluters--for instance the top 50 fossil fuel companies, which account for 50% of global emissions [@Griffin2017]--who might have an interest in defiance or manipulation [check articles for names].
+
+
+
+@Oliver1991 provides us with a spectrum of potential responses to institutional pressure. There were inquiries into the full range of responses, most notably by Kim Elsbach [@Elsbach1994, @Elsbach1998]. 
+
+
+
+
+
+
 > Did we aggresively fight against some of the science? Yes. Did we hide our science? Absolutely not. Did we join some of these shadow groups to work against some of the early efforts? Yes, that is true. But there is nothing illegal about that. You know, we were looking out for our investments. You know, we were looking out for our shareholders. [...]
 > 
 > Nobody is going to propose a tax on all Americans. And the cynical side of me says 'yeah, we kind of know that.' But it gives us a talking point that we can say: 'well, what is ExxonMobil for?'--'well, we're for a carbon tax.' [...]
