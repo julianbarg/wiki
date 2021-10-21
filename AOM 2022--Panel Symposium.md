@@ -19,7 +19,7 @@ The need for institutional change--by any other name--are in everybody's mouth w
 -->
 
 </br>                               | Quote
----                                 | ---
+---                                 | ------------------------
 Manipulation: scientific discourse  | Did we aggresively fight against some of the science? Yes. Did we hide our science? Absolutely not. Did we join some of these shadow groups to work against some of the early efforts? Yes, that is true. But there is nothing illegal about that. You know, we were looking out for our investments. You know, we were looking out for our shareholders.
 Manipulation: public discourse      | Nobody is going to propose a tax on all Americans. And the cynical side of me says 'yeah, we kind of know that.' But it gives us a talking point that we can say: 'well, what is ExxonMobil for?'--'well, we're for a carbon tax.'
 Manipulation: regulatory discourse  | You want to be able to go to the chief. And so the chief knows you, and you can go to the chief and say 'look, we have got this issue, we need congressman so-and-so to be able to--to introduce this bill, we need him to make a floor statement, we need him to send the letter.'
