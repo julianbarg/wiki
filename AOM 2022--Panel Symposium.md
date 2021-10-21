@@ -42,6 +42,10 @@ In June 2021, a Greenpeace-affiliated journalist poses as a recruiter on Zoom an
 
 > *Annotation*: These are deliberately crass examples to make the point for looking at the spectrum of responses to institutional pressure. The argument--for now--is not how prevalent these extreme responses are, but that they exist. Ideally, the examples should also show that the phenomenon is relevant and worthy of our research attention.
 
+### Where should we look, what research can we build on?
+
+@Oliver1991 offers us a great starting point to find research that may be relevant to the phenomenon at hand.
+
 <!--@Oliver1991 provides us with a spectrum of potential responses to institutional pressure. There were inquiries into the full range of responses, most notably by Kim Elsbach [@Elsbach1994, @Elsbach1998]. -->
 
 <!--## People-->
