@@ -11,8 +11,8 @@ bibliography: bibliography.bib
 Article                     | Context                                   | Level     | Methods   | Concepts
 -----                       | ---------                                 | ---       | ---       | ---------
 [[Aplin & Hegarty 1980]]    | Congress members' perception of lobbying  | Meso      | Quant     | Inducement, perusasion, coercion, obligation
-[[Allen & Panian 1982]]     | 242 large American (?) corporations       | Macro     | Quant     | Power, relationships, family
-[[D'Aveni & Kesner 1993]]   | 106 US tender offers                      | Macro     | Quant     | Power, prestige
+<!--[[Allen & Panian 1982]]     | 242 large American (?) corporations       | Macro     | Quant     | Power, relationships, family
+-->[[D'Aveni & Kesner 1993]]   | 106 US tender offers                      | Macro     | Quant     | Power, prestige
 [[Siegel 2007]]             | South Korean corporations' political ties | Macro/meso| Mixed     | Negative ties
 [[Westphal & Bednar 2008]]  | Top management teams at 1,000 companies   | Micro     | Quant     | Ingratiation, persuasion
 [[Santos & Eisenhardt 2009]]| 5 firms in nascent industries             | Micro/meso| Qual      | Claiming, demarcating, controlling
