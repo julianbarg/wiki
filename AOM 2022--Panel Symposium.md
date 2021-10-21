@@ -44,7 +44,9 @@ In June 2021, a Greenpeace-affiliated journalist poses as a recruiter on Zoom an
 
 ### Where should we look, what research can we build on?
 
-@Oliver1991 offers us a great starting point to find research that may be relevant to the phenomenon at hand.
+Let's return to the spectrum of strategic responses to institutional pressure laid out by @Oliver1991. There are two strands of research. There are a few prominent ethnographic works. [@Santos2009] features examples of manipulation. Companies claim markets by engaging in bad faith negotiations with competitors to buy time, by acquiring potential competitors to protect their monopoly position, and by entering into alliances with the declared purpose of delaying large firms' market entries. The data is quite clear in that the research subjcts themselves describe how they manipulate potential competitors. On the other hand, in terms of the empirical context studied it is rater far removed from the issue of grand challenges such as climate change. Another works by Eisenhardt that is more adjacent to our subject of interest is her research on the environmental legitimacy of the Californian cattle industry, which features denial [@Eisenhard1994]. There is further the work of @Elabach1998 hospital billing which covers intimidation and and bureacracy as means of defiance. Quantitative work on lobbying, and other work in the area of nonmarket strategy may potentially show how widespread activities on the manipulation end of the spectrum are. But the existing quantitative work has revealed little in terms of processes and consequences of manipulative practices [e.g., @Ridge2017; @Delmas2016; @Aranda2018].
+
+> *Annotation*: This section takes @Oliver1991 as a starting point to identify potentially relevant research. It also picks up work on lobbying that has been procured from @Fleming2014.
 
 <!--@Oliver1991 provides us with a spectrum of potential responses to institutional pressure. There were inquiries into the full range of responses, most notably by Kim Elsbach [@Elsbach1994, @Elsbach1998]. -->
 
