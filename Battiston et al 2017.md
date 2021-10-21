@@ -3,9 +3,10 @@ bibliography: 'bibliography.bib'
 display_metadata: false
 ---
 
+# @Battiston2017
+
 _Back to [[Barg & Zbaracki]]_
 
-# @Battiston2017
 
 * University of Zurich
 * Portfolio of 50 largest listed European banks
