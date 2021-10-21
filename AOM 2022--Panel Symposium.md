@@ -26,7 +26,7 @@ Manipulation:<br/> regulatory discourse | You want to be able to go to the chief
 Avoidance:<br/> regulatory discourse    | We do not want it to be us to have these conversations, especially in a hearing. It is getting our associations to step in, and have those conversations, and answer those tough questions. And be the--for the lack of a better term--the whipping boy for some of these members of congress. 
 Table: **Table 1: Empirical Examples**
 
-*Note*. Excerpts from a covert interview between Keith McCoy, Senior Director of Federal Relations at ExxonMobil and Lawrence Carter of Unearthed who poses as a recruiter [@Carter2021; @Carter2021a; @Thomson2021]. Unearthed is an investigative journalism project by Greenpeace UK. Full transcriped interview at <http://wiki.jbarg.net/ExxonMobil%20lobbyist%20interviews.md>.
+* *Note*. Excerpts from a covert interview between Keith McCoy, Senior Director of Federal Relations at ExxonMobil and Lawrence Carter of Unearthed who poses as a recruiter [@Carter2021; @Carter2021a; @Thomson2021]. Unearthed is an investigative journalism project by Greenpeace UK. Full transcriped interview at <http://wiki.jbarg.net/ExxonMobil%20lobbyist%20interviews.md>.
 
 <!-- > You know the debate is--the debate right now is forever chemicals. So once it is in the waterway... You know there is no cleaning it up. So there has to be that component as well as--how can we get it out of the waterways?
 > 
