@@ -11,11 +11,9 @@ bibliography: bibliography.bib
 **Lying to others, more so than lying to ourselves. Putting manipulation back onto the spectrum**
 
 <!--The situation is dire.-->
-Sustainability has gone mainstream [@Ergene2020]. The pressure for institutional change to combat climate change and tackle to other environmental grand challenges is now top of mind for many. How serious are we about this need for significant change? How have corporations responded to the call for action? Before looking at any data, one could imagine two general responses: compliance and resistance. @Oliver1991 covers the general question of strategic responses to institutional pressure and adds more facets: 
+Sustainability has gone mainstream [@Ergene2020]. The pressure for institutional change to combat climate change and tackle to other environmental grand challenges is now top of mind for many. How serious are we about this need for significant change? How have corporations responded to the call for action? Before looking at any data, one could imagine two general responses: compliance and resistance. @Oliver1991 covers the general question of strategic responses to institutional pressure and adds more facets (See Figure 1). Actors can acquiesce, compromise, avoid, defy, or manipulate institutional processes, where e.g., defiance may involve attacking the source of institutional pressure. Oliver's theoretical work provides a very decent taxology--what did the empirical strain of research find?
 
-![Olicer (1991) Table 2](/uploads/Oliver_Table_2.png){width=650px}
-
-cannot or do not want to
+![Figure 1: Olicer (1991) Table 2](/uploads/Oliver_Table_2.png){width=650px}
 
 We can think of potential reactions as a spectrum, ranging from acquiescence  to avoidance and manipulation [@Oliver1991]. 
 
