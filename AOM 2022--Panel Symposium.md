@@ -62,7 +62,9 @@ Kim Elsbach         | Weighing in on her experience in the field and how that mi
 Giulia Cappellaro   | Contributing her experience with researching disinformation by Italian mafia
 Lyon Montgomery     | Greenwashing, problems of information asymmetry as alternative explanation
 Christine Beckman   | Somewhat recent coauthored editorial on grand challenges, somewhat related experience in the field
-Klaus Rerup         | Estonia research--experience with manipulation
+Nicholas Poggioli   |
+Pasi Heikkurinen    |
+<!--Klaus Rerup         | Estonia research--experience with manipulation-->
 
 <!--@Oliver1991 provides us with a spectrum of potential responses to institutional pressure. There were inquiries into the full range of responses, most notably by Kim Elsbach [@Elsbach1994, @Elsbach1998]. -->
 
