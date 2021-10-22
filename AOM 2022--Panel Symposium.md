@@ -44,13 +44,16 @@ In June 2021, a Greenpeace-affiliated journalist poses as a recruiter on Zoom an
 >
 > Yeah. I mean it is--the good thing is that the debate is not who makes it. I think the debate is: it is here, it is an effective chemical, we need this chemical. Or we have needed this chemical. How can we either safely use it or eliminate it. There is not the debate right now about who manufactures it, thankfully.-->
 
-> *Annotation*: These are deliberately crass examples to make the point for looking at the spectrum of responses to institutional pressure. The argument--for now--is not how prevalent these extreme responses are, but that they exist. Ideally, the examples should also show that the phenomenon is relevant and worthy of our research attention.
 
 ### Where should we look, what research can we build on?
 
+These are deliberately crass examples to make the point for looking at the spectrum of responses to institutional pressure. The argument--for now--is not how prevalent these extreme responses are, but that they exist. Ideally, the examples should also show that the phenomenon is relevant and worthy of our research attention.
+
+If they do exist, then we need a language to talk about it.
+
 Let's return to the spectrum of strategic responses to institutional pressure laid out by @Oliver1991. There are two strands of research. There are a few prominent ethnographic works. [@Santos2009] features examples of manipulation. Companies claim markets by engaging in bad faith negotiations with competitors to buy time, by acquiring potential competitors to protect their monopoly position, and by entering into alliances with the declared purpose of delaying large firms' market entries. The data is quite clear in that the research subjcts themselves describe how they manipulate potential competitors. On the other hand, in terms of the empirical context studied it is rater far removed from the issue of grand challenges such as climate change. Some works by Elsbach are more adjacent to our phenomenon of interest, like her research on the environmental legitimacy of the Californian cattle industry, which features denial [@Elsbach1994], or her work hospital billing which covers intimidation and and bureacracy as means of defiance [@Elsbach1998]. Quantitative work on lobbying, and other work in the area of nonmarket strategy may potentially show how widespread activities on the manipulation end of the spectrum are. But the existing quantitative work has revealed little in terms of processes and consequences of manipulative practices [e.g., @Ridge2017; @Delmas2016; @Aranda2018].
 
-> *Annotation*: This section takes @Oliver1991 as a starting point to identify potentially relevant research. It also picks up work on lobbying that has been procured from @Fleming2014. The idea is to look at work that is further removed and draw on that work to create a research agenda for the intersection that has been identified in the first paragraph/section. I am currently compiling my material into a table flesh out this section, see: <http://wiki.jbarg.net/Lobbying.md>.
+<!--> *Annotation*: This section takes @Oliver1991 as a starting point to identify potentially relevant research. It also picks up work on lobbying that has been procured from @Fleming2014. The idea is to look at work that is further removed and draw on that work to create a research agenda for the intersection that has been identified in the first paragraph/section. I am currently compiling my material into a table flesh out this section, see: <http://wiki.jbarg.net/Lobbying.md>.-->
 
 ## Potential participants
 
