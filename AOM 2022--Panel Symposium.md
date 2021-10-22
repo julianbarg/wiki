@@ -70,7 +70,7 @@ Steve Maguire       | Is the discourse working despite misinformation?
 Juliane Reinecke    | Contributing her recent interest on post-truth (EGOS panel), hypocrisy
 Kim Elsbach         | Weighing in on her experience in the field and how that might compare to the climate arena
 Giulia Cappellaro   | Contributing her experience with researching disinformation by Italian mafia
-Lyon Montgomery     | Greenwashing, problems of information asymmetry as alternative explanation
+Tom Lyon            | Greenwashing, problems of information asymmetry as alternative explanation
 Christine Beckman   | Somewhat recent coauthored editorial on grand challenges, somewhat related experience in the field
 Nicholas Poggioli   |
 Pasi Heikkurinen    |
