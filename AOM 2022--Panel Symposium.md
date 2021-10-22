@@ -45,6 +45,25 @@ Let's return to the spectrum of strategic responses to institutional pressure la
 
 > *Annotation*: This section takes @Oliver1991 as a starting point to identify potentially relevant research. It also picks up work on lobbying that has been procured from @Fleming2014. The idea is to look at work that is further removed and draw on that work to create a research agenda for the intersection that has been identified in the first paragraph/section. I am currently compiling my material into a table flesh out this section, see: <http://wiki.jbarg.net/Lobbying.md>.
 
+## Potential participants
+
+Participant         | Role
+---                 | -----------
+Wren Montgomery     | Greenwashing and beyond
+Daniel Nyberg       | On the side the existing literature in sustainability
+Bobby Banerjee      | Critical perspective
+Melissa Aronczyk    | Expanding on her experience with green PR [@Aronczyk2019]
+Mark Zbaracki       | Discussant
+Andy Hoffman        | Devil's advocate against focusing too much on manipulation, defiance
+Cynthia Hardy       | Is the discourse working despite misiniformation?
+Steve Maguire       | Is the discourse working despite misiniformation?
+Juliane Reinecke    | Contributing her recent interest on post-truth (EGOS panel), hypocrisy
+Kim Elsbach         | Weighing in on her experience in the field and how that might compare to the climate arena
+Giulia Cappellaro   | Contributing her experience with researching disinformation by Italian mafia
+Lyon Montgomery     | Greenwashing, problems of information asymmetry as alternative explanation
+Christine Beckman   | Somewhat recent coauthored editorial on grand challenges, somewhat related experience in the field
+Klaus Rerup         | Estonia research--experience with manipulation
+
 <!--@Oliver1991 provides us with a spectrum of potential responses to institutional pressure. There were inquiries into the full range of responses, most notably by Kim Elsbach [@Elsbach1994, @Elsbach1998]. -->
 
 <!--## People-->
