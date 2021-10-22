@@ -13,7 +13,7 @@ bibliography: bibliography.bib
 <!--The situation is dire.-->
 Sustainability has gone mainstream [@Ergene2020]. The pressure for institutional change to combat climate change and tackle to other environmental grand challenges is now top of mind for many. How serious are we about this need for significant change? How have corporations responded to the call for action? Before looking at any data, one could imagine two general responses: compliance and resistance. @Oliver1991 covers the general question of strategic responses to institutional pressure and adds more facets: 
 
-![Olicer (1991) Table 2](/uploads/Oliver_Table_2.png){width=500px}
+![Olicer (1991) Table 2](/uploads/Oliver_Table_2.png){width=650px}
 
 cannot or do not want to
 
