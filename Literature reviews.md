@@ -6,14 +6,13 @@ bibliography: bibliography.bib
 
 [[_TOC_]]
 
-## Abbreviations
+## Tables
 
 Abbreviation    |
 ---             | ---
 JOM             | Journal of Management
 WOS             | Web of Science
-
-## Overview
+Table: Abbreviations
 
 Method               | @Aguilera2021      | @Hannigan2019      | @Marescaux2021     | @Oliveira2019      | @Radic2021         | @Rietveld2021      | @Zhong2021
 ---                  | ---                | ---                | ---                | ---                | ---                | ---                | ---
@@ -25,6 +24,7 @@ VOSviewer***         | :x:                | :x:                | :heavy_check_ma
 Citation network**** | :x:                | :x:*****           | :x:                | :x:                | :x:                | :heavy_check_mark: | :x:
 EBSCO                | :heavy_check_mark: | :x:                | :x:                | :heavy_check_mark: | :x:                | :x:                | :heavy_check_mark:
 Cutoff (# citations) | :x:                | :x:                | :x:                | :x:                | :x:                | :heavy_check_mark: | :x:
+Table: Overview
 
 \* Automated coding using topic modeling
 
@@ -36,8 +36,6 @@ Cutoff (# citations) | :x:                | :x:                | :x:            
 
 \***** Topic modeling yielded a relational network, see [[Figure 6|Literature reviews#figure-6]]
 
-## Papers
-
 Reference       | Journal   | Literature                                        | Sample size   | Source
 -------         | ---       | ---------                                         | ---           | ----
 @Aguilera2021   | JOM       | Corporate governance & environmental outcomes     | 124           | FT 50
@@ -47,8 +45,7 @@ Reference       | Journal   | Literature                                        
 @Radic2021      | JOM       | Privatization                                     | 316           | WOS
 @Rietveld2021   | JOM       | Platform Competition                              | 333           | FT 50 via WOS
 @Zhong2021      | JOM       | Workplace deviance--consequences for actors       | 110           | ? via EBSCO, WOS
-
-## Data collection and analysis
+Table: Papers
 
 Reference       |                   | Description               | Note
 ---             | ----              | ---                       | ---------
@@ -106,44 +103,33 @@ Reference       |                   | Description               | Note
 </br>           | Paper selection 3 | Iteration                 | Using new terms identified in previous step
 </br>           | Data analysis 1   | Classification            | No description of process--coding?
 </br>           | Data analysis 2   | Framework                 | Graphical representation of all concepts
+Table: Data collection and analysis
 
 ## Figures
 
 ### Figure 1
 
-**Marescaux (2021) Figure 1**
-
-[[/uploads/marescaux_2021_figure_1.jpg|frame, alt=Marescaux (2021) Figure 1, width=750px]]
+![Marescaux (2021) Figure 1](/uploads/marescaux_2021_figure_1.jpg){width=750px}
 
 ### Figure 2
 
-**Rietvald & Schilling (2021) Figure 1**
-
-[[/uploads/rietvald_schilling_figure_1.jpg|frame, alt=Rietvald & Schilling (2021) Figure 1, width=550px]]
+![Rietvald & Schilling (2021) Figure 1](/uploads/rietvald_schilling_figure_1.jpg){width=550px}
 
 ### Figure 3
 
-**Rietvald & Schilling (2021) Figure 2**
-
-[[/uploads/rietvald_schilling_figure_2.jpg|frame, alt=Rietvald & Schilling (2021) Figure 2, width=650px]]
+![Rietvald & Schilling (2021) Figure 2](/uploads/rietvald_schilling_figure_2.jpg){width=650px}
 
 ### Figure 4
 
-**Oliveira & Lumineau (2019) Figure A (appendix)**
-
-[[/uploads/oliveira_lumineau_2019_figure_a.jpg|frame, alt=Oliveira & Lumineau (2019) Figure A, width=500px]]
+![Oliveira & Lumineau (2019) Figure A](/uploads/oliveira_lumineau_2019_figure_a.jpg){width=500px}
 
 ### Figure 5
 
-**Oliveira & Lumineau (2019) Figure 1**
-
-[[/uploads/oliveira_lumineau_2019_figure_1.png|frame, alt=Oliveira & Lumineau (2019) Figure 1, width=500px]]
+![Oliveira & Lumineau (2019) Figure 1](/uploads/oliveira_lumineau_2019_figure_1.png){width=500px}
 
 ### Figure 6
 
-**Hannigan et al (2019) Figure A2 (appendix)**
-
-[[/uploads/hannigan_et_al_2019_fig_A2.jpg|frame, alt=Hannigan et al. (2019) Figure A2, width=750px]]
+![Hannigan et al (2019) Figure A2 (appendix)](/uploads/hannigan_et_al_2019_fig_A2.jpg){width=750px}
 
 ---
 
