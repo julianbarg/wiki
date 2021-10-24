@@ -26,7 +26,7 @@ Placeholder text
 
 ## Flowchart
 
-![Figure 1: Corpus selection--flowchart](/uploads/flowchart.jpg){width=100%}
+![Figure 1: Corpus selection--flowchart](/uploads/flowchart.jpg){width=63%}
 
 ---
 
