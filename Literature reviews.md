@@ -14,7 +14,7 @@ JOM             | Journal of Management
 WOS             | Web of Science
 Table: Abbreviations
 
-Method               | @Aguilera2021      | @Hannigan2019      | @Marescaux2021     | @Oliveira2019      | @Radic2021         | @Rietveld2021      | @Zhong2021
+<!--Method               | @Aguilera2021      | @Hannigan2019      | @Marescaux2021     | @Oliveira2019      | @Radic2021         | @Rietveld2021      | @Zhong2021
 ---                  | ---                | ---                | ---                | ---                | ---                | ---                | ---
 Using FT 50          | :heavy_check_mark: | :x:                | :x:                | :x:                | :x:                | :heavy_check_mark: | :x:
 Using WOS categories | :x:                | :heavy_check_mark: | :heavy_check_mark: | :x:                | :heavy_check_mark: | :x:                | :x:
@@ -24,7 +24,7 @@ VOSviewer***         | :x:                | :x:                | :heavy_check_ma
 Citation network**** | :x:                | :x:*****           | :x:                | :x:                | :x:                | :heavy_check_mark: | :x:
 EBSCO                | :heavy_check_mark: | :x:                | :x:                | :heavy_check_mark: | :x:                | :x:                | :heavy_check_mark:
 Cutoff (# citations) | :x:                | :x:                | :x:                | :x:                | :x:                | :heavy_check_mark: | :x:
-Table: Overview
+Table: Overview-->
 
 \* Automated coding using topic modeling
 
