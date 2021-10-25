@@ -26,7 +26,7 @@ After creating an initial search list, we begin the creation of our corpus. (4) 
 
 ## Tables
 
-Journal                         | <>
+Journal                         | <br/>
 ---                             | ---
 Academy of Management Journal   | FT 50
 Organization and Environment    | Specialty
