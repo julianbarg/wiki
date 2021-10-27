@@ -5,7 +5,7 @@ bibliography: bibliography.bib
 # Greenwashing--recent trends in the literature
 
 Article         | Stream                | Sample                            | Concepts
----             | ---                   | ---                               | ---
+------          | ---                   | -------                           | ---------
 @Lyon2015       | Greenwashing          | 98 Articles on Greenwashing       | Deception
 @Fabrizio2019   | Corporate disclosure  | 5,252 corporate survey responses  | Reluctant disclosure, linguistic obfuscation
 Table: Overview
