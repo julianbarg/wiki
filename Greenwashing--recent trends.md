@@ -4,10 +4,17 @@ bibliography: bibliography.bib
 
 # Greenwashing--recent trends in the literature
 
-Article     | Focus
----         | ---
-<br/>       |
+Article         | Stream                | Sample                            | Concepts
+---             | ---                   | ---                               | ---
+@Lyon2015       | Greenwashing          | 98 Articles on Greenwashing       | Deception
+@Fabrizio       | Corporate disclosure  | 5,252 corporate survey responses  | Reluctant disclosure, linguistic obfuscation
 Table: Overview
+
+Article         | Synopsis
+---             | ---
+@Fabrizio2019   | Linguistic analysis of obfuscation--readability or Fog index.
+@Lyon2015       | Taxonomy. Clarifying difference between conceptualizations such as decoupling, symbolic management, and economic models of greenwashing.
+Table: Findings
 
 Article                             |Journal| Status           | W/J| Title
 ------------                        | :-:   | :-:              | :-:| ------------------------------------
@@ -16,7 +23,7 @@ Article                             |Journal| Status           | W/J| Title
 [[Torelli et al 2020]]              | BSE*  | :clock3:         | W+J| Greenwashing and environmental communication: Effects on stakeholders' perceptions
 [[Gatti, Seele and Rademacher 2019]]|IJCSR**| :clock12:        | J+W| Grey zone in--greenwash out. A review of greenwashing research and implications for the voluntary-mandatory transition of CSR
 [[Seele & Gatti 2017]]              | BSE   | :clock12:        | J+W| Greenwashing Revisited: In Search of a Typology and Accusation-Based Definition Incorporating Legitimacy Strategies
-[[Pope & Waeras 2016]]              | JBE   | :clock12:        | J  | CSR-Washing is Rare: A Conceptual Framework, Literature Review, and Critique
+[[Pope & Waeraas 2016]]             | JBE   | :clock12:        | J  | CSR-Washing is Rare: A Conceptual Framework, Literature Review, and Critique
 [[Lyon & Montgomery 2015]]          | O&E   |:heavy_check_mark:| J  | The Means and End of Greenwash
 Table: Master list
 
