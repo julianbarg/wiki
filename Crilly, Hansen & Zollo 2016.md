@@ -6,6 +6,7 @@ bibliography: bibliography.bib
 
 [[_TOC_]]
 
+* Related to [[Greenwashing--map]]
 * See also [[Greenwashing--recent trends]]
 
 ## One-paragraph summary
