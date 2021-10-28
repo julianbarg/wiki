@@ -10,6 +10,7 @@ Article         | Stream                | Sample                                
 @Carlos2018     | Impression management |1,486 DJSI member firms' disclosure decision|Quant     | Strategic silence, hipocrisy
 @Testa2018      | Greenwashing          |ESG data--~22,000 company-year observations| Quant     | Brownwashing 
 @Crilly2016     | Decoupling            |Interviews, sustainability reports, ratings| Mixed     | Implementors, decouplers
+@Ioannou2016    | Legitimacy            |CSR action--~1,400 company-year observations| Quant    | Internal, external action
 @Lyon2015       | Greenwashing          | 98 Articles on Greenwashing               | Lit review| Deception
 Table: Overview
 
@@ -33,6 +34,7 @@ Article                           |Journal| Status           | W/J| Title
 [[Testa et al 2018]]              | BSE   | :clock4:         | J  | Does it pay to be a greenwasher or a brownwasher?
 [[Seele & Gatti 2017]]            | BSE   | :clock12:        | J+W| Greenwashing Revisited: In Search of a Typology and Accusation-Based Definition Incorporating Legitimacy Strategies
 [[Crilly, Hansen & Zollo 2016]]   | AMJ   | :clock4:         | J  | The Grammar of Decoupling: A Cognitive-Linguistic Perspective on Firms’ Sustainability Claims and Stakeholders’ Interpretation
+[[Hawn & Ioannou 2016]]           | SMJ   | :clock4:         | J  | Mind the Gap: The Interplay Between External and Internal Actions in the Case of Corporate Social Responsibility
 [[Pope & Waeraas 2016]]           | JBE   | :clock12:        | J  | CSR-Washing is Rare: A Conceptual Framework, Literature Review, and Critique
 [[Lyon & Montgomery 2015]]        | O&E   |:heavy_check_mark:| J  | The Means and End of Greenwash
 Table: Master list
