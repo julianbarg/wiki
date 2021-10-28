@@ -11,7 +11,7 @@ bibliography: bibliography.bib
 
 ## One-paragraph summary
 
-Greenwashers use another language than implementors. Implementors use exclusive language ("but", "only", "if" etc.) to qualify their statements, whereas greenwashers use more inclusive language such as "and", and "additionally". The mental load of being less trushfull and carefully scripting language is mentally taxing, hence the language used is more simple. Specialist stakeholders may be able to see through. Authors also consider the possibility that stakeholders have a stake in the companies success, and thus incur a bias when observing the company's performance.
+Greenwashers use another language than implementors. Implementors use exclusive language ("but", "only", "if" etc.) to qualify their statements, whereas greenwashers use more inclusive language such as "and", and "additionally". The mental load of being less truthfull and carefully scripting language is mentally taxing, but with each iteration the language becomes more simple and streamlined. Specialist stakeholders may be able to see through greenwashing. Authors also consider the possibility that stakeholders have a stake in the company's success, and thus incur a bias when observing the company's performance.
 
 ## Important points
 * Authors call for the application of a cognitive-linguistic lense for a wider range of corporate communications (p. 724).
