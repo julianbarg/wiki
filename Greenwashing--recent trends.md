@@ -10,7 +10,7 @@ Article         | Stream                | Sample                                
 @Carlos2018     | Impression management |1,486 DJSI member firms' disclosure decision|Quant     | Strategic silence, hipocrisy
 @Testa2018      | Greenwashing          |ESG data--~22,000 company-year observations| Quant     | Brownwashing 
 @Crilly2016     | Decoupling            |Interviews, sustainability reports, ratings| Mixed     | Implementors, decouplers
-@Ioannou2016    | Legitimacy            |CSR action--~1,400 company-year observations| Quant    | Internal, external action
+@Hawn2016       | Legitimacy            |CSR action--~1,400 company-year observations| Quant    | Internal, external action
 @Lyon2015       | Greenwashing          | 98 Articles on Greenwashing               | Lit review| Deception
 Table: Overview
 
@@ -20,6 +20,7 @@ Article         | Synopsis
 @Carlos2018     | When reports mention e.g., protests or boycot threats a firm is less likely to disclose a positive environmental signal--DJSI certification.
 @Testa2018      | (In)coherence between environmental action & communication--greenwashers do not benefit, but brownwashers are punished in financial performance.
 @Crilly2016     | Implementors use more precise exclusive language ("versus", "but", "only"), decouplers make grand claims using inclusive language ("and", "all", "also").
+@Hawn2016       |
 @Lyon2015       | Taxonomy. Clarifying difference between conceptualizations such as decoupling, symbolic management, and economic models of greenwashing.
 Table: Findings
 
