@@ -7,7 +7,7 @@ bibliography: bibliography.bib
 Article         | Stream                | Sample                                    | Type      | Concepts
 -----------     | ------                | ----------------                          | ---       | ---------------
 @Fabrizio2019   | Corporate disclosure  | 5,252 corporate survey responses          | Quant     | Reluctant disclosure, linguistic obfuscation
-@Carlos2018     | Impression management |1,486 DJSI member firms' disclosure decision|Quant    | Strategic silence, hipocrisy
+@Carlos2018     | Impression management |1,486 DJSI member firms' disclosure decision|Quant     | Strategic silence, hipocrisy
 @Testa2018      | Greenwashing          |ESG data--~22,000 company-year observations| Quant     | Brownwashing 
 @Crilly2016     | Decoupling            |Interviews, sustainability reports, ratings| Mixed     | Implementors, decouplers
 @Lyon2015       | Greenwashing          | 98 Articles on Greenwashing               | Lit review| Deception
@@ -18,7 +18,7 @@ Article         | Synopsis
 @Fabrizio2019   | Linguistic analysis of obfuscation--readability or Fog index. Corporations use more obfuscation when communicating negative information.
 @Carlos2018     | When reports mention e.g., protests or boycot threats a firm is less likely to disclose a positive environmental signal--DJSI certification.
 @Testa2018      | (In)coherence between environmental action & communication--greenwashers do not benefit, but brownwashers are punished in financial performance.
-@Crilly2016     | 
+@Crilly2016     | Implementors use more precise exclusive language ("versus", "but", "only"), decouplers make grand claims using inclusive language ("and", "all", "also").
 @Lyon2015       | Taxonomy. Clarifying difference between conceptualizations such as decoupling, symbolic management, and economic models of greenwashing.
 Table: Findings
 
@@ -32,7 +32,7 @@ Article                           |Journal| Status           | W/J| Title
 [[Carlos & Lewis 2018]]           | ASQ   | :clock4:         | J  | Strategic Silence: Withholding Certification Status as a Hypocrisy Avoidance Tactic        
 [[Testa et al 2018]]              | BSE   | :clock4:         | J  | Does it pay to be a greenwasher or a brownwasher?
 [[Seele & Gatti 2017]]            | BSE   | :clock12:        | J+W| Greenwashing Revisited: In Search of a Typology and Accusation-Based Definition Incorporating Legitimacy Strategies
-[[Crilly, Hansen & Zollo 2016]]   | AMJ   | :clock4          | J  | The Grammar of Decoupling: A Cognitive-Linguistic Perspective on Firms’ Sustainability Claims and Stakeholders’ Interpretation
+[[Crilly, Hansen & Zollo 2016]]   | AMJ   | :clock4:         | J  | The Grammar of Decoupling: A Cognitive-Linguistic Perspective on Firms’ Sustainability Claims and Stakeholders’ Interpretation
 [[Pope & Waeraas 2016]]           | JBE   | :clock12:        | J  | CSR-Washing is Rare: A Conceptual Framework, Literature Review, and Critique
 [[Lyon & Montgomery 2015]]        | O&E   |:heavy_check_mark:| J  | The Means and End of Greenwash
 Table: Master list
