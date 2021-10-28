@@ -5,7 +5,7 @@ bibliography: bibliography.bib
 # Greenwashing--recent trends in the literature
 
 Article         | Stream                | Sample                                    | Type      | Concepts
-------          | ---                   | -------                                   | ---       | ---------
+-----           | ---                   | -------                                   | ---       | -------
 @Fabrizio2019   | Corporate disclosure  | 5,252 corporate survey responses          | Quant     | Reluctant disclosure, linguistic obfuscation
 @Carlos2018     | Impression management |1,486 DJSI member firms' disclosure decision| Quant    | Strategic silence, hipocrisy
 @Testa2018      | Greenwashing          |ESG data--~22,000 company-year observations| Quant     | Brownwashing 
