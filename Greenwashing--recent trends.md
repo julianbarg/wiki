@@ -20,7 +20,7 @@ Article         | Synopsis
 @Carlos2018     | When reports mention e.g., protests or boycot threats a firm is less likely to disclose a positive environmental signal--DJSI certification.
 @Testa2018      | (In)coherence between environmental action & communication--greenwashers do not benefit, but brownwashers are punished in financial performance.
 @Crilly2016     | Implementors use more precise exclusive language ("versus", "but", "only"), decouplers make grand claims using inclusive language ("and", "all", "also").
-@Hawn2016       |
+@Hawn2016       | Firms should strike the balance between interally and externally oriented CSR actions--a bit more outside communication helps financial performance.
 @Lyon2015       | Taxonomy. Clarifying difference between conceptualizations such as decoupling, symbolic management, and economic models of greenwashing.
 Table: Findings
 
