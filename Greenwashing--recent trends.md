@@ -10,8 +10,9 @@ Article         | Stream                | Sample                                
 @Carlos2018     | Impression management |1,486 DJSI member firms' disclosure decision|Quant     | Strategic silence, hipocrisy
 @Testa2018      | Greenwashing          |ESG data--~22,000 company-year observations| Quant     | Brownwashing 
 @Crilly2016     | Decoupling            |Interviews, sustainability reports, ratings| Mixed     | Implementors, decouplers
-@Hawn2016       | Legitimacy            |CSR action--~1,400 company-year observations| Quant    | Internal, external action
+@Hawn2016       | Legitimacy            |CSR action--~1,400 company-year observations|Quant     | Internal, external action
 @Marquis2016    | Greenwashing          | 4,750 firms from 45 countries over 4 years| Quant     | Selective disclosure
+@Kim2015        | Greenwashing          | 
 @Lyon2015       | Greenwashing          | 98 Articles on Greenwashing               | Lit review| Deception
 Table: Overview
 
@@ -23,6 +24,7 @@ Article         | Synopsis
 @Crilly2016     | Implementors use more precise exclusive language ("versus", "but", "only"), decouplers make grand claims using inclusive language ("and", "all", "also").
 @Hawn2016       | Firms should strike the balance between interally and externally oriented CSR actions--a bit more outside communication helps financial performance.
 @Marquis2016    | Measuring selective disclosure as how much information is disclosed vs. how relevant it is. Under public scrutiny, firms disclosre less selectively.
+@Kim2015        |
 @Lyon2015       | Taxonomy. Clarifying difference between conceptualizations such as decoupling, symbolic management, and economic models of greenwashing.
 Table: Findings
 
@@ -40,6 +42,7 @@ Article                           |Journal| Status           | W/J| Title
 [[Hawn & Ioannou 2016]]           | SMJ   | :clock5:         | J  | Mind the Gap: The Interplay Between External and Internal Actions in the Case of Corporate Social Responsibility
 [[Marquis, Toffel & Zhou 2016]]   |Org Sci| :clock4:         | J  | Scrutiny, Norms, and Selective Disclosure: A Global Study of Greenwashing
 [[Pope & Waeraas 2016]]           | JBE   | :clock12:        | J  | CSR-Washing is Rare: A Conceptual Framework, Literature Review, and Critique
+[[Kim & Lyon 2015]]               |Org Sci| :clock5:         | J  | Greenwash vs. Brownwash: Exaggeration and Undue Modesty in Corporate Sustainability Disclosure
 [[Lyon & Montgomery 2015]]        | O&E   |:heavy_check_mark:| J  | The Means and End of Greenwash
 Table: Master list
 
