@@ -12,7 +12,7 @@ Article         | Stream                | Sample                                
 @Crilly2016     | Decoupling            |Interviews, sustainability reports, ratings| Mixed     | Implementors, decouplers
 @Hawn2016       | Legitimacy            |CSR action--~1,400 company-year observations|Quant     | Internal, external action
 @Marquis2016    | Greenwashing          | 4,750 firms from 45 countries over 4 years| Quant     | Selective disclosure
-@Kim2015        | Greenwashing          | 
+@Kim2015        | Greenwashing          | 54 US utility firms voluntary disclosure  | Quant     | Brownwashing, decoupling
 @Lyon2015       | Greenwashing          | 98 Articles on Greenwashing               | Lit review| Deception
 Table: Overview
 
@@ -24,7 +24,7 @@ Article         | Synopsis
 @Crilly2016     | Implementors use more precise exclusive language ("versus", "but", "only"), decouplers make grand claims using inclusive language ("and", "all", "also").
 @Hawn2016       | Firms should strike the balance between interally and externally oriented CSR actions--a bit more outside communication helps financial performance.
 @Marquis2016    | Measuring selective disclosure as how much information is disclosed vs. how relevant it is. Under public scrutiny, firms disclosre less selectively.
-@Kim2015        |
+@Kim2015        | Firms consider their disclosure level independent from their environmental activities. Firms might *brownwash* to cater to investors.
 @Lyon2015       | Taxonomy. Clarifying difference between conceptualizations such as decoupling, symbolic management, and economic models of greenwashing.
 Table: Findings
 
