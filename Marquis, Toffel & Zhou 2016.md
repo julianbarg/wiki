@@ -16,9 +16,3 @@ Constructing a variable on *selective disclosure magnitude*, representing how mu
 ---
 
 ## References
-
-## One-page summary
-
-## Important points
-
-## Reactions
