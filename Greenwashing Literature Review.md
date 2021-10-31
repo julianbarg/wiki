@@ -6,30 +6,50 @@ bibliography: bibliography.bib
 
 [[_TOC_]]
 
-The declared intention of this literature review is to illuminate a *broad* phenomenon. Specifically, we aim to include in the final corpus recent trends ranging from *woke washing* [@Sobande2019] and *symbolic civil rights* [@Edelman2016; @Buchter2021] to such extremes as *eco-criminality* [@Torelli2020]. To shed light on a diverse literature, we follow the model of @Oliveira2019 for a broad literature search: we will make a dedicated effort at the start of our search to identify additional keywords *before* the we create the final corpus within relevant disciplines [see also @Marescaux2021]. For an overview of our methodology, see [[Figure 1|Greenwashing Literature Review#figures]].
+The declared intention of this literature review is to illuminate a *broad* phenomenon. Specifically, we aim to include in the final corpus recent trends ranging from *woke washing* [@Sobande2019] and *symbolic civil rights* [@Edelman2016; @Buchter2021] to such extremes as *eco-criminality* [@Torelli2020]. To shed light on a diverse literature, we follow the model of @Oliveira2019 for a broad literature search: we will make a dedicated effort at the start of our search to identify additional keywords *before* the we create the final corpus within relevant disciplines [see also @Marescaux2021]. For a step-by-step of our methodology, see [[Table 1|Greenwashing Literature Review#tables]].
 
-\(1) We study existing reviews on greenwashing. In particular, this review builds on @Lyon2015 and hence covers the years 2014 to 2021. We have already reviwed a number of recent reviews and highly cited articles [e.g., @Torelli2020; @Szabo2020; @Gatti2019; @Carlos2018; @Marquis2016] (2) To caputure the breadth of the greenwashing phenomenon, we first conduct an exploratory search. We have already conduct a full-text search within the EBSCO Business Source Complete database and extract paragraphs that contain the word greenwashing or greenwash. This exploratory search yielded 1,265 articles. (3) From the extracted paragraphs, we compile a list of greenwashing-ajacent phenomena--these are our initial keywords.
+\(1) We study existing reviews on greenwashing. In particular, this review builds on @Lyon2015 and hence covers the years 2014 to 2021. We have already reviewed a number of recent reviews and highly cited articles [e.g., @Torelli2020; @Szabo2020; @Gatti2019; @Carlos2018; @Marquis2016] (2) To caputure the breadth of the greenwashing phenomenon, we first conduct an exploratory search. We have already conduct a full-text search within the EBSCO Business Source Complete database and extract paragraphs that contain the word greenwashing or greenwash. This exploratory search yielded 1,265 articles. (3) From the extracted paragraphs, we compile a list of greenwashing-ajacent phenomena--these are our initial keywords.
 
 > *Annotation*: I used "woke washing" as a litmus test to see if we can land on that by only searching abstracts instead of conducting a full-text search. Unfortunately, we could not. Conducting a full-text search yields a much bigger initial corpus: ~1,200 articles instead of 300. But I think it is justified that step if we want to conduct a literature analysis that includes new trends such as "woke washing". We can conduct a full-text search using either EBSCO or ABI/INFORM as you did in your original review. We could also combine both. However, EBSCO yields slightly more results, and on a cursory glimpse it seemed that all results from ABI/INFORM are also included in the EBSCO search. EBSCO seems to be the preferred choice in JOM--none of the recent reviews I checked use ABI/INFORM. EBSCO also has the advantage of being able to export a list of results, which I can then feed into a script to download a large share of the articles. UWO has access to EBSCO Business Source Complete. There is a higher tier, Business Source Ultimate, which offers access to a couple hundred more journals, but I don't know how relevant those are to us.
 
 > *Annotation 2*: The initial step of extracting relevant keywords would be relatively easy to delegate. All that needs to be done here is to open the pdf, search for "greenwash" and look in the containing paragraphs for similar keywords.
 
-After creating an initial search list, we begin the creation of our corpus. (4) Our journals of interest include all FT 50 journal, and a list of journals at the intersection of sustainability and organization theory such as Organization & Environment [cf. @Rietveld2021]. For the final journal list see Table 1. (5) We search for our initial list of keywords in only our journals of interests. This search is limited to titles, keywords, and abstracts. (6) To ensure coverage of articles that are yet to be indexed, we manually review the latest issues of our journals of interest. (7) We begin an iterative selection of our final corpus. The initial corpus consists of the articles obtained in step five and six. (8) The articles are manually coded for relevance. An articles is included in the final corpus when all coders agree that it is relevant. The coders resolv instances of divergent coding in discussion. This manual review may also yield new keywords that result in more articles being added to the initial corpus.
+After creating an initial search list, we begin the creation of our corpus. (4) Our journals of interest include all FT 50 journal, and a list of journals at the intersection of sustainability and organization theory such as Organization & Environment [cf. @Rietveld2021]. For the final journal list see [[Table 3|Greenwashing Literature Review#tables]]. (5) We search for our initial list of keywords in only our journals of interests. This search is limited to titles, keywords, and abstracts. (6) To ensure coverage of articles that are yet to be indexed, we manually review the latest issues of our journals of interest. (7) We begin an iterative selection of our final corpus. The initial corpus consists of the articles obtained in step five and six. (8) The articles are manually coded for relevance. An articles is included in the final corpus when all coders agree that it is relevant. The coders resolv instances of divergent coding in discussion. This manual review may also yield new keywords that result in more articles being added to the initial corpus.
 
 ## Quantitative analysis
 
 \(9) We conduct a quantitative analysis of the resulting corpus. This qualitative analysis includes a citation analysis and the creation of a topic model. We carry out the citation analysis using both VOSviewer [@Marescaux2021] and citation gecko. The citation analysis identifies articles that are cited by many works in our resulting corpus--these are articles that have informed the research on greenwashing but do not use this terminology. These identified articles are candidates for inclusion of our review, hence we add them to initial corpus from step seven. We also conduct an analysis of works that three or more of the articles in our corpus. This analysis of citing works ensures convergence: if our literature search so far has been exhaustive, no additional relevant articles in journals of interest should be found now. Next, we create a topic model based on the articles in the final corpus. The topic model allows us to identify latent patterns in our corpus [@Hannigan2019; @Sarta2021]. For instance, articles may cover related phenomena but not include the same keywords. In other words, the topic model allows us to identify connections between articles that have not been made by the authors themselves. These latent categories then inform the structure of the final literature review.
 
-## Figures
-
-![Figure 1: Corpus selection--flowchart](/uploads/flowchart.jpg){width=63%}
-
 ## Tables
+
+<br/>       | Step                                          | Description
+--:         | --------                                      | ----------------------
+Phase 1     | **Demarcation of greenwashing**               | 
+<br/>       | *Step 1*: Literature reviews etc.             | We iteratively identify (a) reviews and articles that otherwise (b) synthesize or (c) expand the existing greenwashing space.<br/>---<br/>Preliminary total: 11 (see Table 11)
+<br/>       | *Step 2*: Exploratory search                  | Article full-text search using EBSCO Business Soucre complete, 2014 and later.<br/>Preliminary total: 1,265
+Table : **Table 1: Step-by-step of methods**
+<!--![Figure 1: Corpus selection--flowchart](/uploads/flowchart.jpg){width=63%}-->
+
+Article             | Type              | Title
+---------           | ---               | ------------------
+@Nemes2021          | Synthesis         | An Integrated Framework to Assess Greenwashing
+@deFreitasNetto2020 | Review            | Concepts and forms of greenwashing: a systematic review
+@Szabo2020          | Synthesis         | Perceived Greenwashing: The Effects of Green Marketing on Environmental and Product Perceptions
+@Torelli2020        | Synthesis         | Greenwashing and environmental communication: Effects on stakeholders' perceptions
+@Fabrizio2019       | Expansion         | Reluctant Disclosure and Transparency: Evidence from Environmental Disclosures
+@Carlos2018         | Expansion         | Strategic Silence: Withholding Certification Status as a Hypocrisy Avoidance Tactic
+@Testa2018          | Synthesis         | Does it pay to be a greenwasher or a brownwasher?
+@Pope2016           | Review/synthesis  | CSR-Washing is Rare: A Conceptual Framework, Literature Review, and Critique
+@Marquis2016        | Expansion         | Scrutiny, Norms, and Selective Disclosure: A Global Study of Greenwashing
+@Crilly2016         | Expansion         | The Grammar of Decoupling: A Cognitive-Linguistic Perspective on Firms’ Sustainability Claims and Stakeholders’ Interpretation
+@Lyon2015           | Review            | The Means and End of Greenwash
+Table: **Table: Reviews and impactful articles
 
 Journal                         | <br/>
 ---                             | ---
 Academy of Management Journal   | FT 50
 Organization and Environment    | Specialty
+Table: **Table 3: Selected journals**
 
 ---
 
