@@ -22,12 +22,13 @@ After creating an initial search list, we begin the creation of our corpus. (4) 
 
 ## Tables
 
-<br/>       | Step                                          | Description
+<br/>       | <br/>                                         | Description
 --:         | --------                                      | ----------------------
-Phase 1     | **Demarcation of greenwashing**               | 
-<br/>       | *Step 1*: Literature reviews etc.             | We iteratively identify (a) reviews and articles that otherwise (b) synthesize or (c) expand the existing greenwashing space.<br/>---<br/>Preliminary total: 11 (see Table 11)
-<br/>       | *Step 2*: Exploratory search                  | Article full-text search using EBSCO Business Soucre complete, 2014 and later.<br/>Preliminary total: 1,265
-Table : **Table 1: Step-by-step of methods**
+Phase 1     | **Demarcation of greenwashing**               | The first phase of our search capture the breadth of the greenwashing literature
+<br/>       | *Step 1*: Literature reviews etc.             | We iteratively identify (a) reviews and articles that otherwise (b) synthesize or (c) expand the existing greenwashing space.<br/>---<br/>Preliminary article count: 11 (see Table 11)
+<br/>       | *Step 2*: Exploratory search                  | We conduct a full-text search for "greenwash" and "greenwashing" using EBSCO Business Source Complete, and extract paragraphs with the keywords. Limited to 2014 and after.<br/>---<br/>Preliminary article count: 1,265
+<br/>       | *Step 3*: Search term list                    | 
+Table: **Table 1: Step-by-step of methods**
 <!--![Figure 1: Corpus selection--flowchart](/uploads/flowchart.jpg){width=63%}-->
 
 Article             | Type              | Title
@@ -43,7 +44,7 @@ Article             | Type              | Title
 @Marquis2016        | Expansion         | Scrutiny, Norms, and Selective Disclosure: A Global Study of Greenwashing
 @Crilly2016         | Expansion         | The Grammar of Decoupling: A Cognitive-Linguistic Perspective on Firms’ Sustainability Claims and Stakeholders’ Interpretation
 @Lyon2015           | Review            | The Means and End of Greenwash
-Table: **Table: Reviews and impactful articles
+Table: **Table 2: Reviews, syntheses, and notable expansions of the greenwashing literature**
 
 Journal                         | <br/>
 ---                             | ---
