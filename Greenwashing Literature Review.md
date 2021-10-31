@@ -58,10 +58,58 @@ Article             | Type              | Title
 @Lyon2015           | Review            | The Means and End of Greenwash
 Table: **Table 2: Reviews, syntheses, and notable expansions of the greenwashing literature**
 
-Journal                         | <br/>
----                             | ---
-Academy of Management Journal   | FT 50
-Organization and Environment    | Specialty
+FT 50 Journals                                      | Organization and environment  | Interdisciplinary
+---                                                 | ---                                   | ---
+Academy of Management Journal                       | Organization & Environment            | Nature Sustainability
+Academy of Management Review                        | Business Stategy and the environment  | Nature Climate Change
+Accounting, Organizations & Society                 | Journal of the Association of Environmental & Resource Economists         | Annual Review of Environment and Resources
+Administrative Science Quarterly                    | Journal of Environmental Economics and Management                         | WIREs Climate Change
+American Economic Review                            | Environmental and Resource Economics  | Sustainability
+Contemporary Accounting Research                    | Business Ethics Quarterly             |
+Econometrica                                        | 
+Entrepreneurship Theory & Practice                  |
+Harvard Business Review                             |
+Human Relations                                     |
+Human Resource Management                           |
+Information Systems Research                        |
+Journal of Accounting and Economics                 |
+Journal of Accounting Research                      |
+Journal of Applied Psychology                       |
+Journal of Business Ethics                          |
+Journal of Business Venturing                       |
+Journal of Consumer Psychology                      |
+Journal of Consumer Research                        |
+Journal of Finance                                  |
+Journal of Financial and Quantitative Analysis      |
+Journal of Financial Economics                      |
+Journal of International Business Studies           |
+Journal of Management                               |
+Journal of Management Information Systems           |
+Journal of Management Studies                       |
+Journal of Marketing                                |
+Journal of Marketing Research                       |
+Journal of Operations Management                    |
+Journal of Political Economy                        |
+Journal of the Academy of Marketing Science         |
+Management Science                                  |
+Manufacturing and Service Operations Management     |
+Marketing Science                                   |
+MIS Quarterly                                       |
+Operations Research                                 |
+Organization Science                                |
+Organization Studies                                |
+Organizational Behavior and Human Decision Processes|
+Production and Operations Management                |
+Quarterly Journal of Economics                      |
+Research Policy                                     |
+Review of Accounting Studies                        |
+Review of Economic Studies                          |
+Review of Finance                                   |
+Review of Financial Studies                         |
+Sloan Management Review                             |
+Strategic Entrepreneurship Journal                  |
+Strategic Management Journal                        |
+The Accounting Review                               |
 Table: **Table 3: Selected journals**
 
 ---
