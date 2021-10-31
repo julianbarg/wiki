@@ -31,7 +31,7 @@ After creating an initial search list, we begin the creation of our corpus. (4) 
 **Phase 2:**| **Selection of corpus**                       |
 <br/>       | *Step 4: Journal selection*                   | We create a list of relevant journals to limit the breadth of our final search. The list includes FT 50 journals, and other journals that publish at the intersection of organizations and the environment such as Organization & Environment (see Table 3).
 <br/>       | *Step 5: Initial corpus*                      | We obtain our initial corpus by searching for our initial keywords within the titles, abstracts, and keywords of articles that were published in 2014 and after in our selected journals.
-<br/>       | *Step 6: Manual search*                       | We manually review recent issues of our journals of interest for relevant articles that may not have been indexed yet.
+<br/>       | *Step 6: Manual search*                       | We manually skim recent issues of our journals of interest for relevant articles that may not have been indexed yet.
 <br/>       | *Step 7: Iterative corpus selection*\*        | We begin the iterative selection of our final corpus, starting with the initial corpus from steps six and seven. Where steps eight and nine surface additional relevant keywords or articles, they are added to the initial corpus.
 <br/>       | *Step 8: Manual review*                       | All authors manually code the articles for relevant. Where there is agreement, the article enters the final corpus or is dropped. Instances of divergent coding are resolved in discussion. The authors also identify additional keywords for the search in step seven in this step.
 **Phase 3:**| **Quantitative analysis**
