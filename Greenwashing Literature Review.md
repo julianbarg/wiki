@@ -23,7 +23,7 @@ After creating an initial search list, we begin the creation of our corpus. (4) 
 ## Tables
 
 <br/>       | <br/>                                         | Description
---:         | --------                                      | ----------------------
+--:         | --------                                      | ---------------------
 **Phase 1:**| **Demarcation of greenwashing**               | The first phase of our search capture the breadth of the greenwashing literature
 <br/>       | *Step 1: Literature reviews etc.*             | We iteratively identify (a) reviews and articles that otherwise (b) synthesize or (c) expand the existing greenwashing space.<br/>---<br/>Preliminary article count: 11 (see Table 11)
 <br/>       | *Step 2: Exploratory search*                  | We conduct a full-text search for "greenwash" and "greenwashing" using EBSCO Business Source Complete, and extract paragraphs with the keywords. Limited to 2014 and after.<br/>---<br/>Preliminary article count: 1,265
@@ -33,8 +33,11 @@ After creating an initial search list, we begin the creation of our corpus. (4) 
 <br/>       | *Step 5: Initial corpus*                      | We obtain our initial corpus by searching for our initial keywords within the titles, abstracts, and keywords of articles that were published in 2014 and after in our selected journals.
 <br/>       | *Step 6: Manual search*                       | We manually review recent issues of our journals of interest for relevant articles that may not have been indexed yet.
 <br/>       | *Step 7: Iterative corpus selection*\*        | We begin the iterative selection of our final corpus, starting with the initial corpus from steps six and seven. Where steps eight and nine surface additional relevant keywords or articles, they are added to the initial corpus.
+<br/>       | *Step 8: manual review*                       | All authors manually code the articles for relevant. Where there is agreement, the article enters the final corpus or is dropped. Instances of divergent coding are resolved in discussion. The authors also identify additional keywords for the search in step seven in this step.
 Table: **Table 1: Step-by-step of methods**
 <!--![Figure 1: Corpus selection--flowchart](/uploads/flowchart.jpg){width=63%}-->
+
+\* Iterative steps
 
 Article             | Type              | Title
 ---------           | ---               | ------------------
