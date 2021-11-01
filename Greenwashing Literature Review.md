@@ -58,7 +58,7 @@ Article             | Type              | Title
 @Lyon2015           | Review            | The Means and End of Greenwash
 Table: **Table 2: Reviews, syntheses, and notable expansions of the greenwashing literature**
 
-Group               | Journal
+Group                           | Journal
 ---                             | ---
 FT 50                           | All current FT 50 journals
 Organization and environment    | Organization & Environment
