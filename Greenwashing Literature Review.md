@@ -59,7 +59,7 @@ Article             | Type              | Title
 Table: **Table 2: Reviews, syntheses, and notable expansions of the greenwashing literature**
 
 Group                           | Journal
-----                            | ---
+-----                           | ---
 FT 50                           | All current FT 50 journals
 Organization and environment    | Organization & Environment
 Organization and environment    | Business Stategy and the Environment
