@@ -40,6 +40,7 @@ Article                           |Journal| Status           | W/J| Title
 [[Gatti, Seele & Rademacher 2019]]|IJCSR**| :clock12:        | J+W| Grey zone in--greenwash out. A review of greenwashing research and implications for the voluntary-mandatory transition of CSR
 [[Carlos & Lewis 2018]]           | ASQ   | :clock4:         | J  | Strategic Silence: Withholding Certification Status as a Hypocrisy Avoidance Tactic        
 [[Testa et al 2018]]              | BSE   | :clock4:         | J  | Does it pay to be a greenwasher or a brownwasher?
+[[Berrone et al 2017]]            | JBE   | :clock12:        | J  | Does Greenwashing Pay Off? Understanding the Relationship Between Environmental Actions and Environmental Legitimacy
 [[Guo et al 2017]]                | JBE   | :clock12:        | J  | A Path Analysis of Greenwashing in a Trust Crisis Among Chinese Energy Companies: The Role of Brand Legitimacy and Brand Loyalty
 [[Seele & Gatti 2017]]            | BSE   | :clock12:        | J+W| Greenwashing Revisited: In Search of a Typology and Accusation-Based Definition Incorporating Legitimacy Strategies
 [[Crilly, Hansen & Zollo 2016]]   | AMJ   | :clock4:         | J  | The Grammar of Decoupling: A Cognitive-Linguistic Perspective on Firms’ Sustainability Claims and Stakeholders’ Interpretation
