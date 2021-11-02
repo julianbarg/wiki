@@ -6,7 +6,7 @@ bibliography: bibliography.bib
 
 Article         | Stream                | Sample                                    | Type      | Concepts
 -----------     | ---                   | ----------------                          | ---       | ----------
-@Nemes2021      | Greenwashing          | Multidisciplinary literature review       | Theory    | Greenwashing checklist
+@Nemes2021      | Greenwashing          | Multidisciplinary literature review       | Theory    | Greenwashing as checklist or umbrella term
 @Fabrizio2019   | Corporate disclosure  | 5,252 corporate survey responses          | Quant     | Reluctant disclosure, linguistic obfuscation
 @Carlos2018     | Impression management |1,486 DJSI member firms' disclosure decision|Quant     | Strategic silence, hipocrisy
 @Testa2018      | Greenwashing          |ESG data--~22,000 company-year observations| Quant     | Brownwashing 
@@ -19,6 +19,7 @@ Table: Overview
 
 Article         | Synopsis
 ---             | ---------------
+@Nemes2021      | Greenwashing can be intentional or unintentional, and can be commited by many organizations, not only corporations. It ranges from exaggeration to fabrication. 
 @Fabrizio2019   | Linguistic analysis of obfuscation--readability or Fog index. Corporations use more obfuscation when communicating negative information.
 @Carlos2018     | When reports mention e.g., protests or boycot threats a firm is less likely to disclose a positive environmental signal--DJSI certification.
 @Testa2018      | (In)coherence between environmental action & communication--greenwashers do not benefit, but brownwashers are punished in financial performance.
