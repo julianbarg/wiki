@@ -21,6 +21,7 @@ Table: **Overview**
 Article         | Synopsis
 ---             | ---------------
 @Nemes2021      | Greenwashing can be intentional or unintentional, and can be commited by many organizations, not only corporations. It ranges from exaggeration to fabrication. 
+@Szabo2020      | B corporations deliberately use images, videos and social media. Users respond to greenwashing negatively, but providing more information reduces greenwashing perception--irrespective of truthfulness!
 @Fabrizio2019   | Linguistic analysis of obfuscation--readability or Fog index. Corporations use more obfuscation when communicating negative information.
 @Carlos2018     | When reports mention e.g., protests or boycot threats a firm is less likely to disclose a positive environmental signal--DJSI certification.
 @Testa2018      | (In)coherence between environmental action & communication--greenwashers do not benefit, but brownwashers are punished in financial performance.
