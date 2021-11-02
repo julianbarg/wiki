@@ -7,7 +7,7 @@ bibliography: bibliography.bib
 Article         | Stream                | Sample                                    | Type      | Concepts
 -----------     | ---                   | ----------------                          | ---       | ----------
 @Nemes2021      | Greenwashing          | Multidisciplinary literature review       | Theory    | Greenwashing as checklist or umbrella term
-@Szabo2020      | Greenwashing          | 17 interviews/166 survey participants     | Mixed     | Website design
+@Szabo2020      | Greenwashing          | 17 interviews/166 survey participants     | Mixed     | Greenwashing perceptions, interactivity
 @Fabrizio2019   | Corporate disclosure  | 5,252 corporate survey responses          | Quant     | Reluctant disclosure, linguistic obfuscation
 @Carlos2018     | Impression management |1,486 DJSI member firms' disclosure decision|Quant     | Strategic silence, hipocrisy
 @Testa2018      | Greenwashing          |ESG data--~22,000 company-year observations| Quant     | Brownwashing 
@@ -31,26 +31,27 @@ Article         | Synopsis
 @Lyon2015       | Taxonomy. Clarifying difference between conceptualizations such as decoupling, symbolic management, and economic models of greenwashing.
 Table: Findings
 
-Article                           |Journal| Status           | W/J| Title
-------------                      | :-:   | :-:              | :-:| ------------------------------------
-[[Nemes et al 2021]]              | CSSN  | :clock10:        | W  | An Integrated Framework to Assess Greenwashing
-[[Szabo & Webster 2021]]          | JBE   | :clock12:        | W  | Perceived Greenwashing: The Effects of Green Marketing on Environmental and Product Perceptions
-[[Torelli et al 2020]]            | BSE*  | :clock3:         | W+J| Greenwashing and environmental communication: Effects on stakeholders' perceptions
-[[Fabrizio & Kim 2019]]           |Org Sci| :clock7:         | J  | Reluctant Disclosure and Transparency: Evidence from Environmental Disclosures
-[[Gatti, Seele & Rademacher 2019]]|IJCSR**| :clock12:        | J+W| Grey zone in--greenwash out. A review of greenwashing research and implications for the voluntary-mandatory transition of CSR
-[[Carlos & Lewis 2018]]           | ASQ   | :clock4:         | J  | Strategic Silence: Withholding Certification Status as a Hypocrisy Avoidance Tactic        
-[[Testa et al 2018]]              | BSE   | :clock4:         | J  | Does it pay to be a greenwasher or a brownwasher?
-[[Berrone et al 2017]]            | JBE   | :clock12:        | J  | Does Greenwashing Pay Off? Understanding the Relationship Between Environmental Actions and Environmental Legitimacy
-[[Guo et al 2017]]                | JBE   | :clock12:        | J  | A Path Analysis of Greenwashing in a Trust Crisis Among Chinese Energy Companies: The Role of Brand Legitimacy and Brand Loyalty
-[[Seele & Gatti 2017]]            | BSE   | :clock12:        | J+W| Greenwashing Revisited: In Search of a Typology and Accusation-Based Definition Incorporating Legitimacy Strategies
-[[Crilly, Hansen & Zollo 2016]]   | AMJ   | :clock4:         | J  | The Grammar of Decoupling: A Cognitive-Linguistic Perspective on Firms’ Sustainability Claims and Stakeholders’ Interpretation
-[[Hawn & Ioannou 2016]]           | SMJ   | :clock5:         | J  | Mind the Gap: The Interplay Between External and Internal Actions in the Case of Corporate Social Responsibility
-[[Marquis, Toffel & Zhou 2016]]   |Org Sci| :clock4:         | J  | Scrutiny, Norms, and Selective Disclosure: A Global Study of Greenwashing
-[[Pope & Waeraas 2016]]           | JBE   | :clock12:        | J  | CSR-Washing is Rare: A Conceptual Framework, Literature Review, and Critique
-[[Du 2015]]                       | JBE   | :clock12:        | J  | How the Market Values Greenwashing? Evidence from China
-[[Kim & Lyon 2015]]               |Org Sci| :clock5:         | J  | Greenwash vs. Brownwash: Exaggeration and Undue Modesty in Corporate Sustainability Disclosure
-[[Lyon & Montgomery 2015]]        | O&E   |:heavy_check_mark:| J  | The Means and End of Greenwash
-[[Parguel et al 2015]]            | IJA***| :clock12:        | J  | Can evoking nature in advertising mislead consumers? The power of 'executional greenwashing'
+Article                                 |Journal| Status           | W/J| Title
+------------                            | :-:   | :-:              | :-:| ------------------------------------
+[[Nemes et al 2021]]                    | CSSN  | :clock10:        | W  | An Integrated Framework to Assess Greenwashing
+[[Szabo & Webster 2021]]                | JBE   | :clock12:        | W  | Perceived Greenwashing: The Effects of Green Marketing on Environmental and Product Perceptions
+[[Torelli et al 2020]]                  | BSE*  | :clock3:         | W+J| Greenwashing and environmental communication: Effects on stakeholders' perceptions
+[[Fabrizio & Kim 2019]]                 |Org Sci| :clock7:         | J  | Reluctant Disclosure and Transparency: Evidence from Environmental Disclosures
+[[Gatti, Seele & Rademacher 2019]]      |IJCSR**| :clock12:        | J+W| Grey zone in--greenwash out. A review of greenwashing research and implications for the voluntary-mandatory transition of CSR
+[[Carlos & Lewis 2018]]                 | ASQ   | :clock4:         | J  | Strategic Silence: Withholding Certification Status as a Hypocrisy Avoidance Tactic        
+[[Testa et al 2018]]                    | BSE   | :clock4:         | J  | Does it pay to be a greenwasher or a brownwasher?
+[[Berrone et al 2017]]                  | JBE   | :clock12:        | J  | Does Greenwashing Pay Off? Understanding the Relationship Between Environmental Actions and Environmental Legitimacy
+[[Guo et al 2017]]                      | JBE   | :clock12:        | J  | A Path Analysis of Greenwashing in a Trust Crisis Among Chinese Energy Companies: The Role of Brand Legitimacy and Brand Loyalty
+[[Seele & Gatti 2017]]                  | BSE   | :clock12:        | J+W| Greenwashing Revisited: In Search of a Typology and Accusation-Based Definition Incorporating Legitimacy Strategies
+[[Crilly, Hansen & Zollo 2016]]         | AMJ   | :clock4:         | J  | The Grammar of Decoupling: A Cognitive-Linguistic Perspective on Firms’ Sustainability Claims and Stakeholders’ Interpretation
+[[Hawn & Ioannou 2016]]                 | SMJ   | :clock5:         | J  | Mind the Gap: The Interplay Between External and Internal Actions in the Case of Corporate Social Responsibility
+[[Marquis, Toffel & Zhou 2016]]         |Org Sci| :clock4:         | J  | Scrutiny, Norms, and Selective Disclosure: A Global Study of Greenwashing
+[[Pope & Waeraas 2016]]                 | JBE   | :clock12:        | J  | CSR-Washing is Rare: A Conceptual Framework, Literature Review, and Critique
+[[Du 2015]]                             | JBE   | :clock12:        | J  | How the Market Values Greenwashing? Evidence from China
+[[Kim & Lyon 2015]]                     |Org Sci| :clock5:         | J  | Greenwash vs. Brownwash: Exaggeration and Undue Modesty in Corporate Sustainability Disclosure
+[[Lyon & Montgomery 2015]]              | O&E   |:heavy_check_mark:| J  | The Means and End of Greenwash
+[[Parguel et al 2015]]                  | IJA***| :clock12:        | J  | Can evoking nature in advertising mislead consumers? The power of 'executional greenwashing'
+[[Nyilasy, Gangadharbatla & Paladino 2014]]|JBE | :clock12:        | J  | Perceived Greenwashing: The Interactive Effects of Green Advertising and Corporate Environmental Performance on Consumer Reactions
 Table: Master list
 
 \* BSE: Business Strategy and the Environment
