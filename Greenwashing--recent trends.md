@@ -16,7 +16,7 @@ Article         | Stream                | Sample                                
 @Marquis2016    | Greenwashing          | 4,750 firms from 45 countries over 4 years| Quant     | Selective disclosure
 @Kim2015        | Greenwashing          | 54 US utility firms voluntary disclosure  | Quant     | Brownwashing, decoupling
 @Lyon2015       | Greenwashing          | 98 Articles on Greenwashing               | Lit review| Deception
-Table: Overview
+Table: **Overview**
 
 Article         | Synopsis
 ---             | ---------------
@@ -29,7 +29,7 @@ Article         | Synopsis
 @Marquis2016    | Measuring selective disclosure as how much information is disclosed vs. how relevant it is. Under public scrutiny, firms disclosre less selectively.
 @Kim2015        | Firms consider their disclosure level independent from their environmental activities. Firms might *brownwash* to cater to investors.
 @Lyon2015       | Taxonomy. Clarifying difference between conceptualizations such as decoupling, symbolic management, and economic models of greenwashing.
-Table: Findings
+Table: **Findings**
 
 Article                                 |Journal| Status           | W/J| Title
 ------------                            | :-:   | :-:              | :-:| ------------------------------------
@@ -52,7 +52,7 @@ Article                                 |Journal| Status           | W/J| Title
 [[Lyon & Montgomery 2015]]              | O&E   |:heavy_check_mark:| J  | The Means and End of Greenwash
 [[Parguel et al 2015]]                  | IJA***| :clock12:        | J  | Can evoking nature in advertising mislead consumers? The power of 'executional greenwashing'
 [[Nyilasy, Gangadharbatla & Paladino 2014]]|JBE | :clock12:        | J  | Perceived Greenwashing: The Interactive Effects of Green Advertising and Corporate Environmental Performance on Consumer Reactions
-Table: Master list
+Table: **Master list**
 
 \* BSE: Business Strategy and the Environment
 \** IJCSR: International Journal of CSR
