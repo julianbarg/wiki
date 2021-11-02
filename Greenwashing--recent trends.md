@@ -47,6 +47,7 @@ Article                           |Journal| Status           | W/J| Title
 [[Hawn & Ioannou 2016]]           | SMJ   | :clock5:         | J  | Mind the Gap: The Interplay Between External and Internal Actions in the Case of Corporate Social Responsibility
 [[Marquis, Toffel & Zhou 2016]]   |Org Sci| :clock4:         | J  | Scrutiny, Norms, and Selective Disclosure: A Global Study of Greenwashing
 [[Pope & Waeraas 2016]]           | JBE   | :clock12:        | J  | CSR-Washing is Rare: A Conceptual Framework, Literature Review, and Critique
+[[Du 2015]]                       | JBE   | :clock12:        | J  | How the Market Values Greenwashing? Evidence from China
 [[Kim & Lyon 2015]]               |Org Sci| :clock5:         | J  | Greenwash vs. Brownwash: Exaggeration and Undue Modesty in Corporate Sustainability Disclosure
 [[Lyon & Montgomery 2015]]        | O&E   |:heavy_check_mark:| J  | The Means and End of Greenwash
 [[Parguel et al 2015]]            | IJA***| :clock12:        | J  | Can evoking nature in advertising mislead consumers? The power of 'executional greenwashing'
