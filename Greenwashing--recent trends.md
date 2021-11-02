@@ -6,6 +6,7 @@ bibliography: bibliography.bib
 
 Article         | Stream                | Sample                                    | Type      | Concepts
 -----------     | ---                   | ----------------                          | ---       | ----------
+@Nemes2021      | Greenwashing          | Multidisciplinary literature review       | Theory    | Greenwashing checklist
 @Fabrizio2019   | Corporate disclosure  | 5,252 corporate survey responses          | Quant     | Reluctant disclosure, linguistic obfuscation
 @Carlos2018     | Impression management |1,486 DJSI member firms' disclosure decision|Quant     | Strategic silence, hipocrisy
 @Testa2018      | Greenwashing          |ESG data--~22,000 company-year observations| Quant     | Brownwashing 
@@ -44,10 +45,12 @@ Article                           |Journal| Status           | W/J| Title
 [[Pope & Waeraas 2016]]           | JBE   | :clock12:        | J  | CSR-Washing is Rare: A Conceptual Framework, Literature Review, and Critique
 [[Kim & Lyon 2015]]               |Org Sci| :clock5:         | J  | Greenwash vs. Brownwash: Exaggeration and Undue Modesty in Corporate Sustainability Disclosure
 [[Lyon & Montgomery 2015]]        | O&E   |:heavy_check_mark:| J  | The Means and End of Greenwash
+[[Parguel et al 2015]]            | IJA***| :clock12:        | J  | Can evoking nature in advertising mislead consumers? The power of 'executional greenwashing'
 Table: Master list
 
 \* BSE: Business Strategy and the Environment
 \** IJCSR: International Journal of CSR
+\*** IJA: International Journal of Advertising
 
 ---
 
