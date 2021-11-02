@@ -7,7 +7,8 @@ bibliography: bibliography.bib
 Article         | Stream                | Sample                                    | Type      | Concepts
 -----------     | ---                   | ----------------                          | ---       | ----------
 @Nemes2021      | Greenwashing          | Multidisciplinary literature review       | Theory    | Greenwashing as checklist or umbrella term
-@Szabo2020      | Greenwashing          | 17 interviews/166 survey participants     | Mixed     | Greenwashing perceptions, interactivity
+@Szabo2020      | Greenwashing          | 17 interviews/166 experiment participants | Mixed     | Greenwashing perceptions, interactivity
+@Torelli2020    | Greenwashing          | 128 students                              | Experiment| Corporate, strategic, dark, product, level greenw.
 @Fabrizio2019   | Corporate disclosure  | 5,252 corporate survey responses          | Quant     | Reluctant disclosure, linguistic obfuscation
 @Carlos2018     | Impression management |1,486 DJSI member firms' disclosure decision|Quant     | Strategic silence, hipocrisy
 @Testa2018      | Greenwashing          |ESG data--~22,000 company-year observations| Quant     | Brownwashing 
@@ -21,6 +22,7 @@ Table: **Overview**
 Article         | Synopsis
 ---             | ---------------
 @Nemes2021      | Greenwashing can be intentional or unintentional, and can be commited by many organizations, not only corporations. It ranges from exaggeration to fabrication. 
+@Torelli2020    | Impact on observer perception of greenwashing depends on the level that occurs at: corporate, strategic, dark or product level. 
 @Szabo2020      | B corporations deliberately use images, videos and social media. Users respond to greenwashing negatively, but providing more information reduces greenwashing perception--irrespective of truthfulness!
 @Fabrizio2019   | Linguistic analysis of obfuscation--readability or Fog index. Corporations use more obfuscation when communicating negative information.
 @Carlos2018     | When reports mention e.g., protests or boycot threats a firm is less likely to disclose a positive environmental signal--DJSI certification.
