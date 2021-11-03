@@ -23,6 +23,7 @@ Table: **Overview**
 Article         | Synopsis
 ---             | ---------------
 @Nemes2021      | Greenwashing can be intentional or unintentional, and can be commited by many organizations, not only corporations. It ranges from exaggeration to fabrication. 
+@deFreitasNetto2020 | Greenwashing can take place at the organizational or product level, through specific, misleading claims or through implications. 
 @Torelli2020    | Impact on observer perception of greenwashing depends on the level that occurs at: corporate, strategic, dark or product level. 
 @Szabo2020      | B corporations deliberately use images, videos and social media. Users respond to greenwashing negatively, but providing more information reduces greenwashing perception--irrespective of truthfulness!
 @Fabrizio2019   | Linguistic analysis of obfuscation--readability or Fog index. Corporations use more obfuscation when communicating negative information.
