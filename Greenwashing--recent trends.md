@@ -11,6 +11,7 @@ Article         | Stream                | Sample                                
 @Szabo2020      | Greenwashing          | 17 interviews/166 experiment participants | Mixed     | Greenwashing perceptions, interactivity
 @Torelli2020    | Greenwashing          | 128 students                              | Experiment| Corporate, strategic, dark, product, level greenw.
 @Fabrizio2019   | Corporate disclosure  | 5,252 corporate survey responses          | Quant     | Reluctant disclosure, linguistic obfuscation
+@Gatti2019      | Greenwashing          | 74 articles                               | Review    |
 @Carlos2018     | Impression management |1,486 DJSI member firms' disclosure decision|Quant     | Strategic silence, hipocrisy
 @Testa2018      | Greenwashing          |ESG data--~22,000 company-year observations| Quant     | Brownwashing 
 @Siano2017      | Greenwashing          | Case study of VW incl. 8 interviews       | Qual      | Deceptive manipulation
