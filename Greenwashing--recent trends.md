@@ -13,6 +13,7 @@ Article         | Stream                | Sample                                
 @Fabrizio2019   | Corporate disclosure  | 5,252 corporate survey responses          | Quant     | Reluctant disclosure, linguistic obfuscation
 @Carlos2018     | Impression management |1,486 DJSI member firms' disclosure decision|Quant     | Strategic silence, hipocrisy
 @Testa2018      | Greenwashing          |ESG data--~22,000 company-year observations| Quant     | Brownwashing 
+@Siano2017      | Greenwashing          | Case study of VW incl. 8 interviews       | Qual      | Deceptive manipulation
 @Crilly2016     | Decoupling            |Interviews, sustainability reports, ratings| Mixed     | Implementors, decouplers
 @Hawn2016       | Legitimacy            |CSR action--~1,400 company-year observations|Quant     | Internal, external action
 @Marquis2016    | Greenwashing          | 4,750 firms from 45 countries over 4 years| Quant     | Selective disclosure
@@ -29,6 +30,7 @@ Article         | Synopsis
 @Fabrizio2019   | Linguistic analysis of obfuscation--readability or Fog index. Corporations use more obfuscation when communicating negative information.
 @Carlos2018     | When reports mention e.g., protests or boycot threats a firm is less likely to disclose a positive environmental signal--DJSI certification.
 @Testa2018      | (In)coherence between environmental action & communication--greenwashers do not benefit, but brownwashers are punished in financial performance.
+@Siano2017      | The Volkswagen emissions scandal represents a new quality of greenwashing--deliberate manipulation through a physical artifact and software.
 @Crilly2016     | Implementors use more precise exclusive language ("versus", "but", "only"), decouplers make grand claims using inclusive language ("and", "all", "also").
 @Hawn2016       | Firms should strike the balance between interally and externally oriented CSR actions--a bit more outside communication helps financial performance.
 @Marquis2016    | Measuring selective disclosure as how much information is disclosed vs. how relevant it is. Under public scrutiny, firms disclosre less selectively.
@@ -39,8 +41,8 @@ Table: **Findings**
 Article                                 |Journal| Status           | W/J| Title
 ------------                            | :-:   | :-:              | :-:| ------------------------------------
 [[Nemes et al 2021]]                    | CSSN  | :clock10:        | W  | An Integrated Framework to Assess Greenwashing
-[[Szabo & Webster 2021]]                | JBE   | :clock12:        | W  | Perceived Greenwashing: The Effects of Green Marketing on Environmental and Product Perceptions
 [[de Freitas Netto et al 2020]]         | Other | :clock12:        | W  | Concepts and forms of greenwashing: a systematic review
+[[Szabo & Webster 2020]]                | JBE   | :clock12:        | W  | Perceived Greenwashing: The Effects of Green Marketing on Environmental and Product Perceptions
 [[Torelli et al 2020]]                  | BSE*  | :clock3:         | W+J| Greenwashing and environmental communication: Effects on stakeholders' perceptions
 [[Fabrizio & Kim 2019]]                 |Org Sci| :clock7:         | J  | Reluctant Disclosure and Transparency: Evidence from Environmental Disclosures
 [[Gatti, Seele & Rademacher 2019]]      |IJCSR**| :clock12:        | J+W| Grey zone in--greenwash out. A review of greenwashing research and implications for the voluntary-mandatory transition of CSR
@@ -49,7 +51,7 @@ Article                                 |Journal| Status           | W/J| Title
 [[Berrone et al 2017]]                  | JBE   | :clock12:        | J  | Does Greenwashing Pay Off? Understanding the Relationship Between Environmental Actions and Environmental Legitimacy
 [[Guo et al 2017]]                      | JBE   | :clock12:        | J  | A Path Analysis of Greenwashing in a Trust Crisis Among Chinese Energy Companies: The Role of Brand Legitimacy and Brand Loyalty
 [[Seele & Gatti 2017]]                  | BSE   | :clock12:        | J+W| Greenwashing Revisited: In Search of a Typology and Accusation-Based Definition Incorporating Legitimacy Strategies
-[[Siano et al 2017]]                    | JBR***| :clock1:         | J  | 
+[[Siano et al 2017]]                    | JBR***| :clock1:         | J  | Concepts and forms of greenwashing: a systematic review
 [[Crilly, Hansen & Zollo 2016]]         | AMJ   | :clock4:         | J  | The Grammar of Decoupling: A Cognitive-Linguistic Perspective on Firms’ Sustainability Claims and Stakeholders’ Interpretation
 [[Hawn & Ioannou 2016]]                 | SMJ   | :clock5:         | J  | Mind the Gap: The Interplay Between External and Internal Actions in the Case of Corporate Social Responsibility
 [[Marquis, Toffel & Zhou 2016]]         |Org Sci| :clock4:         | J  | Scrutiny, Norms, and Selective Disclosure: A Global Study of Greenwashing
