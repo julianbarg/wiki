@@ -43,11 +43,11 @@ Table: **Findings**
 Article                                 |Journal| Status           | Depth   |W/J| Title
 ------------                            | :-:   | :-:              | :-:     |:-:| ------------------------------------
 [[Nemes et al 2021]]                    | CSSN  |:heavy_check_mark:|:clock10:| W | An Integrated Framework to Assess Greenwashing
-[[de Freitas Netto et al 2020]]         | Other |:heavy_check_mark:|:clock12:| W | Concepts and forms of greenwashing: a systematic review
-[[Szabo & Webster 2020]]                | JBE   |:heavy_check_mark:|:clock12:| W | Perceived Greenwashing: The Effects of Green Marketing on Environmental and Product Perceptions
+[[de Freitas Netto et al 2020]]         | Other |:heavy_check_mark:|:clock6:| W | Concepts and forms of greenwashing: a systematic review
+[[Szabo & Webster 2020]]                | JBE   |:heavy_check_mark:|:clock5:| W | Perceived Greenwashing: The Effects of Green Marketing on Environmental and Product Perceptions
 [[Torelli et al 2020]]                  | BSE*  |:heavy_check_mark:|:clock3: |W+J| Greenwashing and environmental communication: Effects on stakeholders' perceptions
 [[Fabrizio & Kim 2019]]                 |Org Sci|:heavy_check_mark:|:clock7: | J | Reluctant Disclosure and Transparency: Evidence from Environmental Disclosures
-[[Gatti, Seele & Rademacher 2019]]      |IJCSR**| :x:              |:clock12:|J+W| Grey zone in--greenwash out. A review of greenwashing research and implications for the voluntary-mandatory transition of CSR
+[[Gatti, Seele & Rademacher 2019]]      |IJCSR**| :x:              |:clock6: |J+W| Grey zone in--greenwash out. A review of greenwashing research and implications for the voluntary-mandatory transition of CSR
 [[Carlos & Lewis 2018]]                 | ASQ   |:heavy_check_mark:|:clock4: | J | Strategic Silence: Withholding Certification Status as a Hypocrisy Avoidance Tactic        
 [[Testa et al 2018]]                    | BSE   |:heavy_check_mark:|:clock4: | J | Does it pay to be a greenwasher or a brownwasher?
 [[Berrone et al 2017]]                  | JBE   |:x:               |:clock12:| J | Does Greenwashing Pay Off? Understanding the Relationship Between Environmental Actions and Environmental Legitimacy
