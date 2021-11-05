@@ -29,7 +29,7 @@ Article         | Synopsis
 @Szabo2020      | B corporations deliberately use images, videos and social media. Users respond to greenwashing negatively, but providing more information reduces greenwashing perception--irrespective of truthfulness!
 @Torelli2020    | Impact on observer perception of greenwashing depends on the level that occurs at: corporate, strategic, dark or product level. 
 @Fabrizio2019   | Linguistic analysis of obfuscation--readability or Fog index. Corporations use more obfuscation when communicating negative information.
-@Gatti2019      | 
+@Gatti2019      | Greenwashing poses a problem for the rise of CSR. (Publicized) voluntary efforts should be considered as legal responsibilities.
 @Carlos2018     | When reports mention e.g., protests or boycot threats a firm is less likely to disclose a positive environmental signal--DJSI certification.
 @Testa2018      | (In)coherence between environmental action & communication--greenwashers do not benefit, but brownwashers are punished in financial performance.
 @Siano2017      | The Volkswagen emissions scandal represents a new quality of greenwashing--deliberate manipulation through a physical artifact and software.
