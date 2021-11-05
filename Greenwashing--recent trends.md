@@ -14,6 +14,7 @@ Article         | Stream                | Sample                                
 @Gatti2019      | Greenwashing          | 74 articles                               | Review    | Voluntary/mandatory CSR
 @Carlos2018     | Impression management |1,486 DJSI member firms' disclosure decision|Quant     | Strategic silence, hipocrisy
 @Testa2018      | Greenwashing          |ESG data--~22,000 company-year observations| Quant     | Brownwashing 
+@Seele2017      | Greenwashing          | -                                         | Theory    | False/genuine/no/potential greenwashing
 @Siano2017      | Greenwashing          | Case study of VW incl. 8 interviews       | Qual      | Deceptive manipulation
 @Crilly2016     | Decoupling            |Interviews, sustainability reports, ratings| Mixed     | Implementors, decouplers
 @Hawn2016       | Legitimacy            |CSR action--~1,400 company-year observations|Quant     | Internal, external action
@@ -32,6 +33,7 @@ Article         | Synopsis
 @Gatti2019      | Greenwashing poses a problem for the rise of CSR. (Publicized) voluntary efforts should be considered as legal responsibilities.
 @Carlos2018     | When reports mention e.g., protests or boycot threats a firm is less likely to disclose a positive environmental signal--DJSI certification.
 @Testa2018      | (In)coherence between environmental action & communication--greenwashers do not benefit, but brownwashers are punished in financial performance.
+@Seele2017      | 
 @Siano2017      | The Volkswagen emissions scandal represents a new quality of greenwashing--deliberate manipulation through a physical artifact and software.
 @Crilly2016     | Implementors use more precise exclusive language ("versus", "but", "only"), decouplers make grand claims using inclusive language ("and", "all", "also").
 @Hawn2016       | Firms should strike the balance between interally and externally oriented CSR actions--a bit more outside communication helps financial performance.
@@ -52,7 +54,7 @@ Article                                 |Journal| Status           | Depth   |W/
 [[Testa et al 2018]]                    | BSE   |:heavy_check_mark:|:clock4: | J | Does it pay to be a greenwasher or a brownwasher?
 [[Berrone et al 2017]]                  | JBE   |:x:               |:clock12:| J | Does Greenwashing Pay Off? Understanding the Relationship Between Environmental Actions and Environmental Legitimacy
 [[Guo et al 2017]]                      | JBE   |:x:               |:clock12:| J | A Path Analysis of Greenwashing in a Trust Crisis Among Chinese Energy Companies: The Role of Brand Legitimacy and Brand Loyalty
-[[Seele & Gatti 2017]]                  | BSE   |:x:               |:clock12:        | J+W| Greenwashing Revisited: In Search of a Typology and Accusation-Based Definition Incorporating Legitimacy Strategies
+[[Seele & Gatti 2017]]                  | BSE   |:x:               |:clock12:| J+W| Greenwashing Revisited: In Search of a Typology and Accusation-Based Definition Incorporating Legitimacy Strategies
 [[Siano et al 2017]]                    | JBR***|:heavy_check_mark:|:clock1: | J | Concepts and forms of greenwashing: a systematic review
 [[Crilly, Hansen & Zollo 2016]]         | AMJ   |:heavy_check_mark:|:clock4: | J | The Grammar of Decoupling: A Cognitive-Linguistic Perspective on Firms’ Sustainability Claims and Stakeholders’ Interpretation
 [[Hawn & Ioannou 2016]]                 | SMJ   |:heavy_check_mark:|:clock5: | J | Mind the Gap: The Interplay Between External and Internal Actions in the Case of Corporate Social Responsibility
