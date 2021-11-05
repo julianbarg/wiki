@@ -54,7 +54,7 @@ Article                                 |Journal| Status           | Depth   |W/
 [[Testa et al 2018]]                    | BSE   |:heavy_check_mark:|:clock4: | J | Does it pay to be a greenwasher or a brownwasher?
 [[Berrone et al 2017]]                  | JBE   |:x:               |:clock12:| J | Does Greenwashing Pay Off? Understanding the Relationship Between Environmental Actions and Environmental Legitimacy
 [[Guo et al 2017]]                      | JBE   |:x:               |:clock12:| J | A Path Analysis of Greenwashing in a Trust Crisis Among Chinese Energy Companies: The Role of Brand Legitimacy and Brand Loyalty
-[[Seele & Gatti 2017]]                  | BSE   |:x:               |:clock12:| J+W| Greenwashing Revisited: In Search of a Typology and Accusation-Based Definition Incorporating Legitimacy Strategies
+[[Seele & Gatti 2017]]                  | BSE   |:heavy_check_mark:| :clock8:|J+W| Greenwashing Revisited: In Search of a Typology and Accusation-Based Definition Incorporating Legitimacy Strategies
 [[Siano et al 2017]]                    | JBR***|:heavy_check_mark:|:clock1: | J | Concepts and forms of greenwashing: a systematic review
 [[Crilly, Hansen & Zollo 2016]]         | AMJ   |:heavy_check_mark:|:clock4: | J | The Grammar of Decoupling: A Cognitive-Linguistic Perspective on Firms’ Sustainability Claims and Stakeholders’ Interpretation
 [[Hawn & Ioannou 2016]]                 | SMJ   |:heavy_check_mark:|:clock5: | J | Mind the Gap: The Interplay Between External and Internal Actions in the Case of Corporate Social Responsibility
