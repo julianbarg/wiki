@@ -23,6 +23,18 @@ Article         | Stream                | Sample                                
 @Lyon2015       | Greenwashing          | 98 Articles on Greenwashing               | Lit review| Deception
 Table: **Overview**
 
+Article         | Concept                  
+---             | ---                      
+@Szabo2020      | Bluewashing
+@Torelli2020    | Eco-mafia/eco-criminality
+@Gatti2019      | Poorwashing, CSR washing, bluewashing, corporate hypocrisy
+@Seele2017      | Poorwashing, CSR washing, bluewashing, corporate hypocrisy
+@Siano2017      | Deceptive manipulation
+@Marquis2016    | Bluewashing
+
+
+Table: **Alternative concepts and extensions**
+
 Article         | Synopsis
 ---             | ---------------
 @Nemes2021      | Greenwashing can be intentional or unintentional, and can be commited by many organizations, not only corporations. It ranges from exaggeration to fabrication. 
