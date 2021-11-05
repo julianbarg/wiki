@@ -33,7 +33,7 @@ Article         | Synopsis
 @Gatti2019      | Greenwashing poses a problem for the rise of CSR. (Publicized) voluntary efforts should be considered as legal responsibilities.
 @Carlos2018     | When reports mention e.g., protests or boycot threats a firm is less likely to disclose a positive environmental signal--DJSI certification.
 @Testa2018      | (In)coherence between environmental action & communication--greenwashers do not benefit, but brownwashers are punished in financial performance.
-@Seele2017      | The important step in greenwashing is the accusation--toward a discursive (my words) constitution of greenwash. Article stays very shallow though.
+@Seele2017      | The important step in greenwashing is the accusation--toward a discursive (my words) constitution of greenwash. Article stays shallow though.
 @Siano2017      | The Volkswagen emissions scandal represents a new quality of greenwashing--deliberate manipulation through a physical artifact and software.
 @Crilly2016     | Implementors use more precise exclusive language ("versus", "but", "only"), decouplers make grand claims using inclusive language ("and", "all", "also").
 @Hawn2016       | Firms should strike the balance between interally and externally oriented CSR actions--a bit more outside communication helps financial performance.
