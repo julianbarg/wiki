@@ -31,7 +31,7 @@ Article         | Concept
 @Seele2017      | Poorwashing, CSR washing, bluewashing, corporate hypocrisy
 @Siano2017      | Deceptive manipulation
 @Marquis2016    | Bluewashing
-@Pope2016       | CSR-washing
+@Pope2016       | CSR-washing, pinkwashing (breast cancerl awareness), bluewashing
 
 
 Table: **Alternative concepts and extensions**
