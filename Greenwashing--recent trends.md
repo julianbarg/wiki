@@ -31,10 +31,12 @@ Article         | Concept
 @Seele2017      | Poorwashing, CSR washing, bluewashing, corporate hypocrisy
 @Siano2017      | Deceptive manipulation
 @Marquis2016    | Bluewashing
-@Pope2016       | CSR-washing, pinkwashing (breast cancerl awareness), bluewashing
-
-
+@Pope2016       | CSR-washing, pinkwashing (breast cancer awareness), bluewashing, decoupling, public relations invention, window dressing, ceremonial behavior, lip service, green spin, corporate hypocrisy.
 Table: **Alternative concepts and extensions**
+
+<!--Article         | Statements on literature
+---             | ---
+@Pope2016       | Greenwashing is a common topic in academia and news.-->
 
 Article         | Synopsis
 ---             | ---------------
@@ -51,6 +53,7 @@ Article         | Synopsis
 @Crilly2016     | Implementors use more precise exclusive language ("versus", "but", "only"), decouplers make grand claims using inclusive language ("and", "all", "also").
 @Hawn2016       | Firms should strike the balance between interally and externally oriented CSR actions--a bit more outside communication helps financial performance.
 @Marquis2016    | Measuring selective disclosure as how much information is disclosed vs. how relevant it is. Under public scrutiny, firms disclosre less selectively.
+@Pope2016       | Find evidence for decoupling for almost every global CSR initiative, but no evidence that public are aware of the CSR claims that are being made.
 @Kim2015        | Firms consider their disclosure level independent from their environmental activities. Firms might *brownwash* to cater to investors.
 @Lyon2015       | Taxonomy--difference between e.g., conceptualizations decoupling, symbolic management, and economic models of greenwashing etc. Calling for more systematic categorizing.
 Table: **Findings**
