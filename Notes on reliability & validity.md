@@ -10,7 +10,7 @@ bibliography: bibliography.bib
     * The action behind social inaction
 
 ## About
-
+ 
 The original task at hand was to create a structure for a paper on reliability and validity. This has now evolved since the idea is in the room of submitting a proposal for a IDG. To qualify for an IDG, the project should be distincti from the prior work--including specifically @Rerup2021. Of course the two are not mutually exclusive--we can submit something for an IDG and write an article as if the IDG project never existed. Why waste our time doing two different things though, when the two can be easily integrated.
 
 Here I lay out two preliminary proposals for baking reliability and validity into something new, Trojan horses if you would like. The first one draws novelty from integrating the phenomena I typically work on. This constitutes a more phenomenon-driven approach. A low hanging fruit that I grasp for is the concept or phenomenon _Anthropocene_. The Anthropocene is a relatively ambiguous concept, often just an umbrella term for everything man-made and polluting. It should be mentioned though, the Anthropocene can signify so much more: there is a lot of social science built in, regarding the intertwined character of nature and human society [@Reyers2018]. But that would be the Anthropocene as a theory? The second proposal is more literature based, starting from @Ergene2020 and expioring how we can contribute to that discourse.
@@ -34,8 +34,8 @@ The Anthropocene is a nice starting point because it is inherently about organis
                 * Could also benefit from extensive discourse on IPCC outcomes and execution/communication
                     * E.g., @Hollin2015, @Dannenberg2017
             * Could be repeated for other issues such as rain forest protection, though they are interelated--rain forest protection is motivated by climate change
-        * Lower right: Instances where people discover something new but no one believes them
-            * A lot of that is covered just above, not sure how to make that work
+        * Bottom right: Instances where people discover something new but have trouble getting heard
+            * Some of that is covered just above, not sure how to make that work
                 * Maybe that could be a transition: we have seen low reliability--high validity learning, now, what does science think about this?
             * Literatures to draw on:
                 * Social-ecological systems (SES)
@@ -46,11 +46,27 @@ The Anthropocene is a nice starting point because it is inherently about organis
                     * In a way, this area of science has already discovered reliability
                     * Is not low reliabielity--high validity, but demonstrates the principle. Contrast to "traditional" modern science that views nature, technology, economy, culture, politics as distinct fields [or pillars, @Reyers2018: p. 270] that are researched by different disciplines.
                         * Maybe the distinction is what we can use to get to talking about what learning often involves--the creation of potentially useful knowledge that never lives up to its full potential because ot does get to the point where it is widely shared.
-                * Going back to @Camilleri2019 and snowball
+                * Going back to @Attari2010 and @Camilleri2019 and snowball
+                    * Studies showing the gap between commonly held beliefs and valid knowledge
                     * Literature that shows the gap between "established" expert knowledge and commonly held beliefs
                     * Maybe these could be taken as demonstrations of Social-Ecological Systems, which was the last bullet point
-                    * Potential bridge to top left quadrant
-        *
+                    * Potential bridge to top left quadrant 
+        * Moving from bottom right to top left: inbetweener groups who have some valid ideas and some popular support (reliability)
+            * Popular movements/trends that are not entirely anchored in valid knowledge--hit or miss
+            * This started with me thinking denial and realizing these trends can only partially be described as invalid--compared to the more truly invalid in the next section
+                * They are important groups, but don't quite fit the mold. They don't break the mold though, as they help illuminate the concepts. And we can utilize them in the subsequent sections to demonstrate some important processes/interactions.
+            * Social movements/grassroots literature
+                * Your Sierra Club, greenpeace and the likes go here.
+                    * Exemplify how social movements primarily push for action with little interest for precise details
+                    * Here, what matters is that popular movement inquiry can still result the creation of valid knowledge--e.g., Greenpeace intuition on Global Climate Coalition disinformation campaigns
+            * Also business sustainability: popular trends in business that may not hold up to scrutiny
+                * This would lead to the two literatures on fads and on sustainability
+                    * @Abrahamson1996 meets @Wright2017
+                    * Similar to above, can still result in accurate knowledge: e.g., in @Wright2017 firms begin the process with valid, albeit vague, concerns about climate change
+            * Most appropriate would be to combine the two
+            * Then, use them to transition to the top right
+        * Top right--scrambling for support with little concern validity
+            * For both of these, I have very little supporting
     
 ---
 
