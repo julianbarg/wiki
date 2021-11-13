@@ -47,10 +47,14 @@ The Anthropocene is a nice starting point because it is inherently about organis
                     * Is not low reliabielity--high validity, but demonstrates the principle. Contrast to "traditional" modern science that views nature, technology, economy, culture, politics as distinct fields [or pillars, @Reyers2018: p. 270] that are researched by different disciplines.
                         * Maybe the distinction is what we can use to get to talking about what learning often involves--the creation of potentially useful knowledge that never lives up to its full potential because ot does get to the point where it is widely shared.
                 * Going back to @Attari2010 and @Camilleri2019 and snowball
-                    * Studies showing the gap between commonly held beliefs and valid knowledge
+                    * Studies showing the gap between commonly held beliefs and valid knowledge--misconceptualizations
                     * Literature that shows the gap between "established" expert knowledge and commonly held beliefs
                     * Maybe these could be taken as demonstrations of Social-Ecological Systems, which was the last bullet point
                     * Potential bridge to top left quadrant 
+        * Trending to the top left: our knowledge gaps--personified            
+            * As the last bullet point demonstrated, there are many things we collectively get wrong--but it would be wrong to think of this as organising
+                    
+                    
         * Moving from bottom right to top left: inbetweener groups who have some valid ideas and some popular support (reliability)
             * Popular movements/trends that are not entirely anchored in valid knowledge--hit or miss
             * This started with me thinking denial and realizing these trends can only partially be described as invalid--compared to the more truly invalid in the next section
@@ -65,7 +69,7 @@ The Anthropocene is a nice starting point because it is inherently about organis
                     * Similar to above, can still result in accurate knowledge: e.g., in @Wright2017 firms begin the process with valid, albeit vague, concerns about climate change
             * Most appropriate would be to combine the two
             * Then, use them to transition to the top right
-        * Top right--scrambling for support with little concern validity
+        * Top left--scrambling for support with little concern validity
             * For both of these, I have very little supporting
     
 ---
