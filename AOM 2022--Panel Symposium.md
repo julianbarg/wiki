@@ -4,6 +4,22 @@ bibliography: bibliography.bib
 
 # AOM 2022
 
+## Disambiguating deceptive discourse--dang difficult
+
+</br>                                   | Quote
+---                                     | --------------
+Manipulation:<br/> scientific discourse | Did we aggressively fight against some of the science? Yes. Did we hide our science? Absolutely not. Did we join some of these shadow groups to work against some of the early efforts? Yes, that is true. But there is nothing illegal about that. You know, we were looking out for our investments. You know, we were looking out for our shareholders.
+Manipulation:<br/> public discourse     | Nobody is going to propose a tax on all Americans. And the cynical side of me says 'yeah, we kind of know that.' But it gives us a talking point that we can say: 'well, what is ExxonMobil for?'--'well, we're for a carbon tax.'
+Manipulation:<br/> regulatory discourse | You want to be able to go to the chief. And so the chief knows you, and you can go to the chief and say 'look, we have got this issue, we need congressman so-and-so to be able to--to introduce this bill, we need him to make a floor statement, we need him to send the letter.'
+Avoidance:<br/> regulatory discourse    | We do not want it to be us to have these conversations, especially in a hearing. It is getting our associations to step in, and have those conversations, and answer those tough questions. And be the--for the lack of a better term--the whipping boy for some of these members of congress. 
+Table: **Table 1: Empirical Examples**
+
+* *Note*. Excerpts from a covert interview between Keith McCoy, Senior Director of Federal Relations at ExxonMobil and Lawrence Carter of Unearthed who poses as a recruiter [@Carter2021; @Carter2021a; @Thomson2021]. Unearthed is an investigative journalism project by Greenpeace UK. Full transcriped interview at <http://wiki.jbarg.net/ExxonMobil%20lobbyist%20interviews.md>.
+
+This month, Congress is taking aim at the oil industry. It is the scene that the industry wanted to avoid: oil executives, albeit lining up on zoom instead of on a bench, being cross-examined by lawmaker. Reminiscent of the famous tobacco industry hearing from 1994.
+
+
+
 ## From lying to ourselves to lying to others: Putting manipulation back onto the spectrum
 
 <!--The situation is dire.-->
@@ -18,15 +34,8 @@ Take for instance the qualitative work of [@Wright2017] on businesses' reframing
 
 ## A case in point: the fossil fuel industry
 
-</br>                                   | Quote
----                                     | --------------
-Manipulation:<br/> scientific discourse | Did we aggressively fight against some of the science? Yes. Did we hide our science? Absolutely not. Did we join some of these shadow groups to work against some of the early efforts? Yes, that is true. But there is nothing illegal about that. You know, we were looking out for our investments. You know, we were looking out for our shareholders.
-Manipulation:<br/> public discourse     | Nobody is going to propose a tax on all Americans. And the cynical side of me says 'yeah, we kind of know that.' But it gives us a talking point that we can say: 'well, what is ExxonMobil for?'--'well, we're for a carbon tax.'
-Manipulation:<br/> regulatory discourse | You want to be able to go to the chief. And so the chief knows you, and you can go to the chief and say 'look, we have got this issue, we need congressman so-and-so to be able to--to introduce this bill, we need him to make a floor statement, we need him to send the letter.'
-Avoidance:<br/> regulatory discourse    | We do not want it to be us to have these conversations, especially in a hearing. It is getting our associations to step in, and have those conversations, and answer those tough questions. And be the--for the lack of a better term--the whipping boy for some of these members of congress. 
-Table: **Table 1: Empirical Examples**
 
-* *Note*. Excerpts from a covert interview between Keith McCoy, Senior Director of Federal Relations at ExxonMobil and Lawrence Carter of Unearthed who poses as a recruiter [@Carter2021; @Carter2021a; @Thomson2021]. Unearthed is an investigative journalism project by Greenpeace UK. Full transcriped interview at <http://wiki.jbarg.net/ExxonMobil%20lobbyist%20interviews.md>.
+
 
 In June 2021, a Greenpeace-affiliated journalist poses as a recruiter on Zoom and interviews two high-profile ExxonMobil lobbyists (see Table 1). The interviews provides a rare inside perspective on malicious PR practices. The financing of shadow groups to support questionable research. The poisoning of public discourse through bad faith statements. And the influencing of public officials to a degree that would make a cynic blush. The interview data follows a slew of other revelations on the climate denial scene [@Farrell2016]. Also on ExxonMobil, journalists and researchers conducted archival research and interviews with former employees. Their inquiries show that that Exxon in the 70s and 80s, prior to the merger with Mobil, understood climate change well before opposing climate action in the 90s [@Banerjee2015; @Supran2017; @Supran2020]. A comparable study has been conducted on Total, with similar findings [@Bonneuil2021]. Finally, there is the curious case of a prominent climate denialist who switched teams and in the process spilled the beans on the practices of the Cato institute, a libertarian think tank cofounded by Charles Koch [@Gunther2017].
 
