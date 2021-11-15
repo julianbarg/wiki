@@ -16,7 +16,9 @@ Table: **Table 1: Empirical Examples**
 
 * *Note*. Excerpts from a covert interview between Keith McCoy, Senior Director of Federal Relations at ExxonMobil and Lawrence Carter of Unearthed who poses as a recruiter [@Carter2021; @Carter2021a; @Thomson2021]. Unearthed is an investigative journalism project by Greenpeace UK. Full transcriped interview at <http://wiki.jbarg.net/ExxonMobil%20lobbyist%20interviews.md>.
 
-This month, Congress is taking aim at the oil industry. It is the scene that the industry wanted to avoid: oil executives, albeit lining up on zoom instead of on a bench, being cross-examined by lawmaker. Reminiscent of the famous tobacco industry hearing from 1994.
+This month, Congress is taking aim at the oil industry. It is the scene that the industry wanted to avoid: oil executives, albeit lining up on zoom instead of on a bench, being cross-examined by lawmaker--reminiscent of the 1994 tobacco industry hearings that heralded the downfall of "big tobacco". The hearings were preceded by two two ominous events. In the archives, 
+
+
 
 
 
