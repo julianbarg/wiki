@@ -10,3 +10,5 @@ bibliography.bib
     * [[https://thehill.com/policy/energy-environment/572262-vermont-claims-in-new-lawsuit-oil-companies-misled-public-on]]
 
 ---
+
+## References
