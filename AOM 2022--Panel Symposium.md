@@ -4,7 +4,7 @@ bibliography: bibliography.bib
 
 # AOM 2022
 
-## Disambiguating deceptive discourse--dang difficult
+## Disambiguating deceptive discourse--dang difficult, dude!
 
 </br>                                   | Quote
 ---                                     | --------------
@@ -16,40 +16,24 @@ Table: **Table 1: Empirical Examples**
 
 * *Note*. Excerpts from a covert interview between Keith McCoy, Senior Director of Federal Relations at ExxonMobil and Lawrence Carter of Unearthed who poses as a recruiter [@Carter2021; @Carter2021a; @Thomson2021]. Unearthed is an investigative journalism project by Greenpeace UK. Full transcriped interview at <http://wiki.jbarg.net/ExxonMobil%20lobbyist%20interviews.md>.
 
-This month, Congress is taking aim at the oil industry. It is the scene that the industry wanted to avoid: oil executives, albeit lining up on zoom instead of on a bench, being cross-examined by lawmaker--reminiscent of the 1994 tobacco industry hearings that heralded the downfall of "big tobacco". The hearings were preceded by two two ominous events. Research highlighted that ExxonMobil and Total executives gained a good understanding of climate change in the 1980s, only to purposely channel money to a so-called climate "shadow group" to undermine climate action in the 1990s [@Supran2017; @Supran2020; @Bonneuil2021]. And then, the "smoking gun": an investigative journalist coaxed a senior ExxonMobil lobbyist into a fake interview. The interview revealed the strategy behind many of the oil giants lobbying and advocacy activities (see table 1).
+This month, Congress is taking aim at the oil industry. It is the scene that the industry wanted to avoid: oil executives, lining up on zoom instead of on a bench, being cross-examined by lawmakers. A scene reminiscent of the 1994 tobacco industry hearing that heralded the downfall of "big tobacco". The fossil fuel hearing was preceded by two two ominous events. First, research highlighted that ExxonMobil and Total executives gained a good understanding of climate change in the 1980s, only to purposely channel money to a so-called climate "shadow group" to undermine climate action in the 1990s [@Supran2017; @Supran2020; @Bonneuil2021]. And then, the "smoking gun": an investigative journalist coaxed a senior ExxonMobil lobbyist into a fake interview. The interview revealed the strategy behind many of the oil giants lobbying and advocacy activities (see table 1).
 
+This case of climate misinformation is one that a researcher in the field would be unlikely to encounter, an extreme context [@Hallgren2018]. There is an air of illegality. If approached, a manager at one of the indicted companies would do well to claim innocence, for instance by feigning ignorance. That resulting data would then lend itself to either a decoupling, or to a symbolic management interpretation of the data by the research. 
 
-
-
+However, now our context has been tossed into the center of attention. The anthropocene has arrived on the stage and it directs our attention at what is unsustainable [@Ergene2020]. A few industries play disproportional roles, such as mining, chemical, agriculture, fishing, and in particular the fossil fuel industry. ExxonMobil may be an extreme case, but it has become an important case.
 
 ## From lying to ourselves to lying to others: Putting manipulation back onto the spectrum
 
 <!--The situation is dire.-->
-Sustainability has gone mainstream [@Ergene2020]. The pressure for institutional change to combat climate change and to tackle other environmental grand challenges is now top of mind for many. How serious are we about this need for significant change? How have corporations responded to the call for action? Have they been honest? Or have they been lying to us? Or have we been lying to ourselves? Before looking at any data, one could imagine corporations pursuing two general responses: compliance and resistance (these might not be mutually excluseive). @Oliver1991 offers a more differentiated taxonomy in her work on the more general phenomenon of strategic responses to institutional processes (See Figure 1). Actors can acquiesce, compromise, avoid, defy, or manipulate institutional processes, where e.g., defiance may involve attacking the source of institutional pressure. Oliver's theoretical work provides a very decent taxonomy--what did the empirical strain of research find?
+<!--Sustainability has gone mainstream [@Ergene2020]. The pressure for institutional change to combat climate change and to tackle other environmental grand challenges is now top of mind for many. How serious are we about this need for significant change? How have corporations responded to the call for action? Have they been honest? Or have they been lying to us? Or have we been lying to ourselves? Before looking at any data, one could imagine corporations pursuing two general responses: compliance and resistance (these might not be mutually excluseive). @Oliver1991 offers a more differentiated taxonomy in her work on the more general phenomenon of strategic responses to institutional processes (See Figure 1). Actors can acquiesce, compromise, avoid, defy, or manipulate institutional processes, where e.g., defiance may involve attacking the source of institutional pressure. Oliver's theoretical work provides a very decent taxonomy--what did the empirical strain of research find?-->
 
 ![Figure 1: Oliver (1991) Table 2](/uploads/Oliver_Table_2.png){width=650px}
 
 There are different strands of empirical research that could talk to the question at hand, the three most fitting of which we shall cover briefly. All three of them have mostly landed in the middle of the road on Oliver's spectrum. (1) The decoupling literature touches on companies lying--"faking it"--but focuses mostly on those with good intentions who "muddle through" [@Crilly2012; @Bromley2012]. (2) The greenwashing literature calls out gaps between reporting and reality, but more than on manipulation and misinformation it focuses on the many reasons for discrepancies that are out of a company's control [@Lyon2015]. 
 
-\(3) Finally, the management literature more widely has turned to climate change. Climate change is a relatively centralized phenomenon, with the top 50 fossil fuel companies accounting for roughly 50% of global emissions [@Griffin2017]. The focus of research however is more on EverydayCorp and Average Manager, MBA--actors who are removed from the major emissions by several degrees [e.g., @Howard-Grenville2014; @Etzion2018]. These actors are *not able to acquiesce* and effectively tackle the challenges. *Nor can they defy and manipulate* institutional processes. We would have to turn to the source of pollution to find actors with an interest or even need for defiance and manipulation--actors who display the more extreme end of the spectrum that the title alludes to. The next section gathers deliberately pointed recent examples from the fossil fuel industry.<!--
+<!--\(3) Finally, the management literature more widely has turned to climate change. Climate change is a relatively centralized phenomenon, with the top 50 fossil fuel companies accounting for roughly 50% of global emissions [@Griffin2017]. The focus of research however is more on EverydayCorp and Average Manager, MBA--actors who are removed from the major emissions by several degrees [e.g., @Howard-Grenville2014; @Etzion2018]. These actors are *not able to acquiesce* and effectively tackle the challenges. *Nor can they defy and manipulate* institutional processes. We would have to turn to the source of pollution to find actors with an interest or even need for defiance and manipulation--actors who display the more extreme end of the spectrum that the title alludes to. The next section gathers deliberately pointed recent examples from the fossil fuel industry.-->
+<!--
 Take for instance the qualitative work of [@Wright2017] on businesses' reframing of climate change. Their sample includes an energy company, but not -->
-
-## A case in point: the fossil fuel industry
-
-
-
-
-In June 2021, a Greenpeace-affiliated journalist poses as a recruiter on Zoom and interviews two high-profile ExxonMobil lobbyists (see Table 1). The interviews provides a rare inside perspective on malicious PR practices. The financing of shadow groups to support questionable research. The poisoning of public discourse through bad faith statements. And the influencing of public officials to a degree that would make a cynic blush. The interview data follows a slew of other revelations on the climate denial scene [@Farrell2016]. Also on ExxonMobil, journalists and researchers conducted archival research and interviews with former employees. Their inquiries show that that Exxon in the 70s and 80s, prior to the merger with Mobil, understood climate change well before opposing climate action in the 90s [@Banerjee2015; @Supran2017; @Supran2020]. A comparable study has been conducted on Total, with similar findings [@Bonneuil2021]. Finally, there is the curious case of a prominent climate denialist who switched teams and in the process spilled the beans on the practices of the Cato institute, a libertarian think tank cofounded by Charles Koch [@Gunther2017].
-
-<!-- > You know the debate is--the debate right now is forever chemicals. So once it is in the waterway... You know there is no cleaning it up. So there has to be that component as well as--how can we get it out of the waterways?
-> 
-> Interviewer: Yeah. So that is the strategy for keeping Exxon's name away. Do people know that Exxon makes that chemical at all? No one knows.
->
-> No. Nobody.
->
-> Interviewer: So you have managed to lobby successfully on that while keeping it completely...
->
-> Yeah. I mean it is--the good thing is that the debate is not who makes it. I think the debate is: it is here, it is an effective chemical, we need this chemical. Or we have needed this chemical. How can we either safely use it or eliminate it. There is not the debate right now about who manufactures it, thankfully.-->
 
 
 ### Where should we look, what research can we build on?
