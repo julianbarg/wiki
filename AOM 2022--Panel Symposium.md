@@ -4,7 +4,7 @@ bibliography: bibliography.bib
 
 # AOM 2022
 
-## Disambiguating deceptive discourse--dang difficult, dude!
+## Disambiguating deceptive discourse: dang, devilishly difficult, dudes! --Duh, dummy!
 
 </br>                                   | Quote
 ---                                     | --------------
@@ -20,11 +20,18 @@ This month, Congress is taking aim at the oil industry. It is the scene that the
 
 This case of climate misinformation is one that a researcher in the field would be unlikely to encounter, an extreme context [@Hallgren2018]. There is an air of illegality. If approached, a manager at one of the indicted companies would do well to claim innocence, for instance by feigning ignorance. That resulting data would then lend itself to either a decoupling, or to a symbolic management interpretation of the data by the research. 
 
-However, now our context has been tossed into the center of attention. The anthropocene has arrived on the stage and it directs our attention at what is unsustainable [@Ergene2020]. A few industries play disproportional roles, such as mining, chemical, industrialized agriculture and fishing, and in particular the fossil fuel industry. ExxonMobil may be an extreme case, but it has become an important case--in the fossil fuel industry, emissions are highly concentrated [@Griffin2017]. In other words, what ExxonMobil, the actions of one company, can have global consequences.
+However, now our context has been tossed into the center of attention. The anthropocene has arrived on the stage and it directs our attention at what is unsustainable [@Ergene2020]. A few industries play disproportional roles, such as mining, chemical, industrialized agriculture and fishing, and in particular the fossil fuel industry. ExxonMobil may be an extreme case, but it has become an important case--in the fossil fuel industry, emissions are highly concentrated [@Griffin2017]. In quantitative models, companies like ExxonMobil and their emisions constitute outliers that can drive findings. To make statements about a population of companies, one has to remove them. In other words, what ExxonMobil does--the actions of one company--can have global consequences.
 
 ## The first step toward disambiguation: Putting manipulation back onto the spectrum
 
-What strands of research could help us to disambiguate the actions of ExxonMobil, of the tobacco industry before it? And, just to drive home that this is not an isolated phenomenon, how about the discourse on pesticide use [@Maguire2009], or on resource extraction in indigenous lands [@Whiteman2016;@Banerjee2008].
+What strands of research could help us to disambiguate the actions of ExxonMobil, of the tobacco industry before it? How do we appropriately parse the discourse on pesticide use [@Maguire2009], or on resource extraction in indigenous lands [@Whiteman2016;@Banerjee2008]?
+
+
+
+
+
+
+
 
 There are different strands of empirical research that could talk to the question at hand, the three most fitting of which we shall cover briefly. All three of them have mostly landed in the middle of the road on Oliver's spectrum. (1) The decoupling literature touches on companies lying--"faking it"--but focuses mostly on those with good intentions who "muddle through" [@Crilly2012; @Bromley2012]. (2) The greenwashing literature calls out gaps between reporting and reality, but more than on manipulation and misinformation it focuses on the many reasons for discrepancies that are out of a company's control [@Lyon2015]. 
 
