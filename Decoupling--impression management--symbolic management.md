@@ -25,11 +25,12 @@ Article                             |Journal| Short title
 ------------                        | :-:   | ------------------------------------
 [[Westphal, Zhu & Kunapuli 2021]]   | SO    | Seeking input when the train has left the station
 [[Westphal & Park 2020]]            | Book  | Symbolic Management
+[[Durand, Hawn & Ioannou 2019]]     | AMR   | Willing *and* able
 [[Schnackenberg et al 2019]]        | AMA   | Capitalizing on Categories of Social Construction
 [[Forbes & Jermier 2011]]           |Chapter| The New Corporate Environmentalism and the Symbolic Management of Organizational Culture
 [[Delmas & Montes-Sancho 2016]]     | SMJ   | Voluntary agreements to improve environmental quality
 [[Zilber 2006]]                     | AMJ   | The Work of the Symbolic in Institutional Processes
-[[Westphal & Zajac 1998]]           | The Symbolic Management of Stockholders
+[[Westphal & Zajac 1998]]           | ASQ   | The Symbolic Management of Stockholders
 Table: **Overview**
 
 Stream              | Article                   | Status    | Depth  
@@ -49,7 +50,7 @@ Decoupling          | @Westphal2001             | :x:       | :clock12:
 Decoupling          | @Weaver1999               | :x:       | :clock12:
 Symbolic Management | @Westphal2021             | :x:       | :clock12:
 Symbolic Management | @Westphal2020             | :x:       | :clock12:
-Symbolic Management |
+Symbolic Management | @Durand2019               | :x:       | :clock3:
 Symbolic Management | @Schnackenberg2019        | :x:       | :clock12:
 Symbolic Management | @Forbes2011               | :x:       | :clock12:
 Symbolic Management | @Delmas2010               | :x:       | :clock12:
