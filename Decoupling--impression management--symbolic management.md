@@ -5,7 +5,7 @@ bibliography: bibliography.bib
 ## Overview
 
 Article                             |Journal| Short title
-------------                        | :-:   | ------------------------------------
+------------                        | :-:   | ------------------------
 [[Jacqueminet 2020]]                |Org Sci| Practice implementation within a multidivisional firm
 [[Jacqueminet & Durand 2019]]       | AMJ   | Ups and downs
 [[Carlos & Lewis 2018]]             | ASQ   | Strategic Silence
@@ -22,7 +22,7 @@ Article                             |Journal| Short title
 Table: **Overview--Decoupling**
 
 Article                             |Journal| Short title
-------------                        | :-:   | ------------------------------------
+------------                        | :-:   | ------------------------
 [[Westphal, Zhu & Kunapuli 2021]]   | SO    | Seeking input when the train has left the station
 [[Westphal & Park 2020]]            | Book  | Symbolic Management
 [[Durand, Hawn & Ioannou 2019]]     | AMR   | Willing *and* able
@@ -31,7 +31,7 @@ Article                             |Journal| Short title
 [[Delmas & Montes-Sancho 2016]]     | SMJ   | Voluntary agreements to improve environmental quality
 [[Zilber 2006]]                     | AMJ   | The Work of the Symbolic in Institutional Processes
 [[Westphal & Zajac 1998]]           | ASQ   | The Symbolic Management of Stockholders
-Table: **Overview**
+Table: **Overview--Symbolic Management**
 
 Stream              | Article                   | Status    | Depth  
 ----                | --------                  | :-:       | :-:    
