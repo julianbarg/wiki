@@ -14,9 +14,11 @@ Article                             |Journal| Short title
 [[Crilly, Hansen & Zollo 2016]]     | AMJ   | The Grammar of Decoupling
 [[Haack & Schoeneborn 2014]]        | AMR   | Is Decoupling Becoming Decoupled from Institutional Theory?
 [[Wijen 2014]]                      | AMR   | Means versus Ends in Opaque Institutional Fields
+[[Pache & Santos 2013]]             | AMJ   | Inside the hybrid organization
 [[Bromley & Powell 2012]]           | AMA   | From Smoke and Mirrors to Walking the Talk
 [[Crilly, Zollo & Hansen 2012]]     | AMJ   | Faking It or Muddling Through?
 [[Sandholtz 2012]]                  |Org Stu| Making Standards Stick
+[[Boiral 2007]]                     |Org Sci| Corporate Greening Through ISO 14001
 [[Westphal & Zajac 2001]]           | ASQ   | Decoupling Policy from Practice
 [[Weaver, Trevino & Cochran 1999]]  | AMJ   | Integrated and Decoupled Corporate Social Performance
 Table: **Overview--Decoupling**
@@ -34,7 +36,8 @@ Article                             |Journal| Short title
 [[Schnackenberg et al 2019]]        | AMA   | Capitalizing on Categories of Social Construction
 [[Cuypers, Koh & Wang 2016]]        |Org Stu| Sincerity in Corporate Philanthropy, Stakeholder Perceptions and Firm Value
 [[Marquis, Toffel & Zhou 2016]]     |Org Sci| Scrutiny, Norms, and Selective Disclosure
-[[Smith & Chae]]                    | SMJ   | "We do what we must, and call it by the best names"
+[[Smith & Chae 2016]]               | SMJ   | "We do what we must, and call it by the best names"
+[[Marquis & Qian 2014]]             |Org Sci| Corporate Social Responsibility Reporting in China
 [[Markoczy et al 2013]]             | SMJ   | Social network contingency, symbolic management, and boundary stretching
 [[Forbes & Jermier 2011]]           |Chapter| The New Corporate Environmentalism and the Symbolic Management of Organizational Culture
 [[Delmas & Montes-Sancho 2010]]     | SMJ   | Voluntary agreements to improve environmental quality
@@ -53,9 +56,11 @@ Decoupling              | @Whiteman2016             | :x:       | :clock11:
 Decoupling              | @Crilly2016               | :x:       | :clock3:
 Decoupling              | @Haack2014                | :x:       | :clock3:
 Decoupling              | @Wijen2014                | :x:       | :clock3:
+Decoupling              | @Pache2013                | :x:       | :clock12:
 Decoupling              | @Bromley2012              | :x:       | :clock3:
 Decoupling              | @Crilly2012               | :x:       | :clock3:
 Decoupling              | @Sandholtz2012            | :x:       | :clock12:
+Decoupling              | @Boiral2007               | :x:       | :clock2:
 Decoupling              | @Westphal2001             | :x:       | :clock12:
 Decoupling              | @Weaver1999               | :x:       | :clock12:
 Impression Management   | @Shi2018                  | :x:       | :clock12:
@@ -66,6 +71,7 @@ Symbolic Management     | @Schnackenberg2019        | :x:       | :clock12:
 Symbolic Management     | @Cuypers2016              | :x:       | :clock12:
 Symbolic Management     | @Marquis2016              | :x:       | :clock5:
 Symbolic Management     | @Markoczy2013             | :x:       | :clock12:
+Symbolic Management     | @Marquis2014              | :x:       | :clocl12:
 Symbolic Management     | @Forbes2011               | :x:       | :clock12:
 Symbolic Management     | @Delmas2010               | :x:       | :clock12:
 Symbolic Management     | @Zilber2006               | :x:       | :clock6:
