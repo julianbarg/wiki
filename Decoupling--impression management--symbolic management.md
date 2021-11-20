@@ -2,6 +2,10 @@
 bibliography: bibliography.bib
 ---
 
+* To [[Decoupling]]
+* To [[Impression Management]]
+* To [[Symbolic Management]]
+
 ## Overview
 
 Article                             |Journal| Short title
