@@ -71,7 +71,7 @@ Symbolic Management     | @Schnackenberg2019        | :x:       | :clock12:
 Symbolic Management     | @Cuypers2016              | :x:       | :clock12:
 Symbolic Management     | @Marquis2016              | :x:       | :clock5:
 Symbolic Management     | @Markoczy2013             | :x:       | :clock12:
-Symbolic Management     | @Marquis2014              | :x:       | :clocl12:
+Symbolic Management     | @Marquis2014              | :x:       | :clock12:
 Symbolic Management     | @Forbes2011               | :x:       | :clock12:
 Symbolic Management     | @Delmas2010               | :x:       | :clock12:
 Symbolic Management     | @Zilber2006               | :x:       | :clock6:
