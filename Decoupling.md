@@ -23,12 +23,13 @@ Table: **Overview--Decoupling**-->
 
 Article                 |Journal| Status | Depth     | Short title
 ---------               | :-:   | :-:    | :-:       | ---------------
+@Haack2021              | AMR   | :x:    | :clock12: | A Bait-and-Switch Model of Corporate Social Responsibility
 @Jacqueminet2020        |Org Sci| :x:    | :clock12: | Practice implementation within a multidivisional firm
 @Jacqueminet2019        | AMJ   | :x:    | :clock12: | Ups and downs
 @Carlos2018             | ASQ   | :x:    | :clock4:  | Strategic Silence
-@Wang2018a              | SMJ   | :x:    | :clock12  | Government's green grip
+@Wang2018a              | SMJ   | :x:    | :clock12: | Government's green grip
 @Luo2017                | AMJ   | :x:    | :clock12: | Whose Call to Answer
-@Guillen2016            | ASQ   | :x:    | :clock12  | State Capacity, Minority Shareholder Protections, and Stock Market Development
+@Guillen2016            | ASQ   | :x:    | :clock12: | State Capacity, Minority Shareholder Protections, and Stock Market Development
 @Heese2016              | AMJ   | :x:    | :clock3:  | Selective Regulator Decoupling and Organizations’ Strategic Responses
 @Whiteman2016           | AMD   | :x:    | :clock11: | Decoupling Rape
 @Crilly2016             | AMJ   | :x:    | :clock3:  | The Grammar of Decoupling
