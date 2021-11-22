@@ -24,6 +24,8 @@ Table: **Overview--Decoupling**-->
 Article                 |Journal| Status | Depth     | Short title
 ---------               | :-:   | :-:    | :-:       | ---------------
 @Haack2021              | AMR   | :x:    | :clock12: | A Bait-and-Switch Model of Corporate Social Responsibility
+@deBree2020             |Org Stu| :x:    | :clock12: | De- and Recoupling and Public Regulation 
+@Hengst2020             | AMJ   | :x:    | :clock12: | Toward a Process Theory of Making Sustainability Strategies Legitimate in Action
 @Jacqueminet2020        |Org Sci| :x:    | :clock12: | Practice implementation within a multidivisional firm
 @Jacqueminet2019        | AMJ   | :x:    | :clock12: | Ups and downs
 @Carlos2018             | ASQ   | :x:    | :clock4:  | Strategic Silence
