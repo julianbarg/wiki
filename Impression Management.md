@@ -14,6 +14,7 @@ Article                 |Journal| Status | Depth     | Short title
 @Shi2018                | SMJ   | :x:    | :clock12: | Is regulatory adoption ceremonial?
 @Carlos2018             | ASQ   | :x:    | :clock4:  | Strategic Silence
 @McDonnell2013          | ASQ   | :x:    | :clock12: | Keeping up Appearances
+@Westphal2012           | ASQ   | :x:    | :clock12: | Helping Other CEOs Avoid Bad Press
 @Graffin2011            | SMJ   | :x:    | :clock12: | What's all that (strategic) noise?
 @Westphal2010           | AMJ   | :x:    | :clock12: | A Matter of Appearances
 @Bolino2008             | JOM   | :x:    | :clock12: | A Multi-Level Review of Impression Management Motives and Behaviors
