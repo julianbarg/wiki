@@ -21,6 +21,7 @@ Article                 |Journal| Status | Depth     | Short title
 @Tata2015               | JBE   | :x:    | :clock12: | CSR Communication
 @Desai2014              | SO    | :x:    | :clock12: | Does disclosure matter?
 @McDonnell2013          | ASQ   | :x:    | :clock12: | Keeping up Appearances
+@Mishina2012            | SMJ   | :x:    | :clock12: | The Decision to Blow the Whistle
 @Westphal2012           | ASQ   | :x:    | :clock12: | Helping Other CEOs Avoid Bad Press
 @Westphal2012a          | Other | :x:    | :clock12: | Unintended agency
 @Graffin2011            | SMJ   | :x:    | :clock12: | What's all that (strategic) noise?
@@ -28,6 +29,7 @@ Article                 |Journal| Status | Depth     | Short title
 @Bolino2008             | JOM   | :x:    | :clock12: | A Multi-Level Review of Impression Management Motives and Behaviors
 @Bansal2006             | JBE   | :x:    | :clock12: | Seeing Is (Not) Believing
 @Bansal2004             | AMJ   | :x:    | :clock12: | Talking Trash
+@Gundlach2003           | AMR   | :x:    | :clock12: | The Decision to Blow the Whistle
 @Arndt2000              | ASQ   | :x:    | :clock12: | Presenting Structural Innovation in an Institutional Environment
 @Bolino1999             | AMR   | :x:    | :clock12: | Citizenship and Impression Management
 @Elsbach1998            |Org Sci| :x:    | :clock6:  | Averting Expected Challenges Through Anticipatory Impression Management
