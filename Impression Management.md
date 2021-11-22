@@ -18,6 +18,7 @@ Article                 |Journal| Status | Depth     | Short title
 @Busenbark2017          | SMJ   | :x:    | :clock12: | Foreshadowing as Impression Management
 @Hayward2017            | AMJ   | :x:    | :clock12: | Pseudo-Precision?
 @Whittington2016        | SMJ   | :x:    | :clock12: | Cheap talk?
+@Tata2015               | JBE   | :x:    | :clock12: | CSR Communication
 @Desai2014              | SO    | :x:    | :clock12: | Does disclosure matter?
 @McDonnell2013          | ASQ   | :x:    | :clock12: | Keeping up Appearances
 @Westphal2012           | ASQ   | :x:    | :clock12: | Helping Other CEOs Avoid Bad Press
