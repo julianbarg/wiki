@@ -13,6 +13,8 @@ Article                 |Journal| Status | Depth     | Short title
 @Morales-Raya2019       | O&E   | :x:    | :clock12: | To Be or to Seem
 @Shi2018                | SMJ   | :x:    | :clock12: | Is regulatory adoption ceremonial?
 @Carlos2018             | ASQ   | :x:    | :clock4:  | Strategic Silence
+@McDonnell2013          | ASQ   | :x:    | :clock12: | Keeping up Appearances
+@Graffin2011            | SMJ   | :x:    | :clock12: | What's all that (strategic) noise?
 @Westphal2010           | AMJ   | :x:    | :clock12: | A Matter of Appearances
 @Bolino2008             | JOM   | :x:    | :clock12: | A Multi-Level Review of Impression Management Motives and Behaviors
 @Bansal2006             | JBE   | :x:    | :clock12: | Seeing Is (Not) Believing
