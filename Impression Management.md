@@ -18,8 +18,10 @@ Article                 |Journal| Status | Depth     | Short title
 @Busenbark2017          | SMJ   | :x:    | :clock12: | Foreshadowing as Impression Management
 @Hayward2017            | AMJ   | :x:    | :clock12: | Pseudo-Precision?
 @Whittington2016        | SMJ   | :x:    | :clock12: | Cheap talk?
+@Desai2014              | SO    | :x:    | :clock12: | Does disclosure matter?
 @McDonnell2013          | ASQ   | :x:    | :clock12: | Keeping up Appearances
 @Westphal2012           | ASQ   | :x:    | :clock12: | Helping Other CEOs Avoid Bad Press
+@Westphal2012a          | Other | :x:    | :clock12: | Unintended agency
 @Graffin2011            | SMJ   | :x:    | :clock12: | What's all that (strategic) noise?
 @Westphal2010           | AMJ   | :x:    | :clock12: | A Matter of Appearances
 @Bolino2008             | JOM   | :x:    | :clock12: | A Multi-Level Review of Impression Management Motives and Behaviors
