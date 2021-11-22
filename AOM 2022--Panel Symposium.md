@@ -24,8 +24,7 @@ However, now our context has been tossed into the center of attention. The anthr
 
 ## The first step toward disambiguation: Putting manipulation back onto the spectrum
 
-What strands of research could help us to disambiguate the actions of ExxonMobil, of the tobacco industry before it? How do we appropriately parse the discourse on pesticide use [@Maguire2009], or on resource extraction in indigenous lands [@Whiteman2016;@Banerjee2008]?
-
+What strands of research could help us to disambiguate the actions of ExxonMobil, or of the tobacco industry before it? How do we appropriately parse the discourse on pesticide use [@Maguire2009], or on resource extraction in indigenous lands [@Whiteman2016;@Banerjee2008]? Let's see how the three literatures from above--decoupling, impression managment, and symbolic management--would parse these discourses.
 
 
 
