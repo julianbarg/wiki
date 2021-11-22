@@ -28,7 +28,6 @@ Article                 |Journal| Status | Depth     | Short title
 @Hengst2020             | AMJ   | :x:    | :clock12: | Toward a Process Theory of Making Sustainability Strategies Legitimate in Action
 @Jacqueminet2020        |Org Sci| :x:    | :clock12: | Practice implementation within a multidivisional firm
 @Jacqueminet2019        | AMJ   | :x:    | :clock12: | Ups and downs
-@Carlos2018             | ASQ   | :x:    | :clock4:  | Strategic Silence
 @Wang2018a              | SMJ   | :x:    | :clock12: | Government's green grip
 @Luo2017                | AMJ   | :x:    | :clock12: | Whose Call to Answer
 @Guillen2016            | ASQ   | :x:    | :clock12: | State Capacity, Minority Shareholder Protections, and Stock Market Development
