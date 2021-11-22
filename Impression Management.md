@@ -2,9 +2,9 @@
 bibliography: bibliography.bib
 ---
 
-Article                 | Sample                        | Concepts
-------------            | ---                           | ---   
-[[Quigley et al 2020]]  | 1,753 option grants to CEOs   | Agency, information releases
+Article                     | Type      | Sample                        | Concepts
+---------                   | ---       | ---------                     | ---------   
+[[Quigley et al 2020]]      |Event study| 1,753 option grants to CEOs   | Agency, information releases
 Table: **Overview**
 
 Article                 | Synopsis
