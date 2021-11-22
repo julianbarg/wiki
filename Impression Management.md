@@ -12,6 +12,7 @@ Article                 |Journal| Status | Depth     | Short title
 ---------               | :-:   | :-:    | :-:       | ---------------
 @Caputo2021             | BSE   | :x:       | :clock12: | Enhancing environmental information transparency through corporate social responsibility reporting regulation
 @Gaim2021               |Org Stu| :x:    | :clock12: | Managing Impressions Rather Than Emissions
+@Haffar2020             | O&E   | :x:    | :clock12: | Legitimizing Potential "Bad News"
 @Cole2019               | ASQ   | :x:    | :clock12: | A Model of Competitive Impression Management
 @Morales-Raya2019       | O&E   | :x:    | :clock12: | To Be or to Seem
 @Shi2018                | SMJ   | :x:    | :clock12: | Is regulatory adoption ceremonial?
