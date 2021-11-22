@@ -2,24 +2,15 @@
 bibliography: bibliography.bib
 ---
 
-<!--Article                             
-------------                        
-[[Jacqueminet 2020]]                
-[[Jacqueminet & Durand 2019]]       
-[[Carlos & Lewis 2018]]             
-[[Heese, Krishnan & Moers 2016]]    
-[[Whiteman & Cooper 2016]]          
-[[Crilly, Hansen & Zollo 2016]]     
-[[Haack & Schoeneborn 2014]]        
-[[Wijen 2014]]                      
-[[Pache & Santos 2013]]             
-[[Bromley & Powell 2012]]           
-[[Crilly, Zollo & Hansen 2012]]     
-[[Sandholtz 2012]]                  
-[[Boiral 2007]]                     
-[[Westphal & Zajac 2001]]           
-[[Weaver, Trevino & Cochran 1999]]  
-Table: **Overview--Decoupling**-->
+Article                     | Type      | Sample                        | Concepts
+------------                | ---       | ---                           | ---   
+[[Haack, Martignoni & Schoenenborn 2021]]|Theory|-                      | Transparency, opacity, ceremonial
+Table: **Overview**
+
+Article                 | Synopsis
+---                     | ---------------
+[[Haack, Martignoni & Schoenenborn 2021]] | We could bring firms into compliance by luring them with easy standards and then upping transparency.
+Table: **Findings**
 
 Article                 |Journal| Status | Depth     | Short title
 ---------               | :-:   | :-:    | :-:       | ---------------
