@@ -10,6 +10,7 @@ Table: **Overview--Impression management**-->
 
 Article                 |Journal| Status | Depth     | Short title
 ---------               | :-:   | :-:    | :-:       | ---------------
+@Caputo2021             | BSE   | :x:       | :clock12: | Enhancing environmental information transparency through corporate social responsibility reporting regulation
 @Gaim2021               |Org Stu| :x:    | :clock12: | Managing Impressions Rather Than Emissions
 @Cole2019               | ASQ   | :x:    | :clock12: | A Model of Competitive Impression Management
 @Morales-Raya2019       | O&E   | :x:    | :clock12: | To Be or to Seem
@@ -18,6 +19,7 @@ Article                 |Journal| Status | Depth     | Short title
 @Busenbark2017          | SMJ   | :x:    | :clock12: | Foreshadowing as Impression Management
 @Hayward2017            | AMJ   | :x:    | :clock12: | Pseudo-Precision?
 @Whittington2016        | SMJ   | :x:    | :clock12: | Cheap talk?
+@Durand2015             | SMJ   | :x:    | :clock12: | Asset Divestment as a Response to Media Attacks in Stigmatized Industries
 @Tata2015               | JBE   | :x:    | :clock12: | CSR Communication
 @Desai2014              | SO    | :x:    | :clock12: | Does disclosure matter?
 @McDonnell2013          | ASQ   | :x:    | :clock12: | Keeping up Appearances
