@@ -30,6 +30,7 @@ Article                 |Journal| Status | Depth     | Short title
 @Jacqueminet2019        | AMJ   | :x:    | :clock12: | Ups and downs
 @Carlos2018             | ASQ   | :x:    | :clock4:  | Strategic Silence
 @Wang2018a              | SMJ   | :x:    | :clock12: | Government's green grip
+@Shi2018                | SMJ   | :x:    | :clock12: | Is regulatory adoption ceremonial?
 @Luo2017                | AMJ   | :x:    | :clock12: | Whose Call to Answer
 @Guillen2016            | ASQ   | :x:    | :clock12: | State Capacity, Minority Shareholder Protections, and Stock Market Development
 @Heese2016              | AMJ   | :x:    | :clock3:  | Selective Regulator Decoupling and Organizations’ Strategic Responses
