@@ -16,6 +16,7 @@ Article                 |Journal| Status | Depth     | Short title
 @Shi2018                | SMJ   | :x:    | :clock12: | Is regulatory adoption ceremonial?
 @Carlos2018             | ASQ   | :x:    | :clock4:  | Strategic Silence
 @Busenbark2017          | SMJ   | :x:    | :clock12: | Foreshadowing as Impression Management
+@Hayward2017            | AMJ   | :x:    | :clock12: | Pseudo-Precision?
 @Whittington2016        | SMJ   | :x:    | :clock12: | Cheap talk?
 @McDonnell2013          | ASQ   | :x:    | :clock12: | Keeping up Appearances
 @Westphal2012           | ASQ   | :x:    | :clock12: | Helping Other CEOs Avoid Bad Press
