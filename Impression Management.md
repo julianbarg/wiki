@@ -14,6 +14,7 @@ Article                 |Journal| Status | Depth     | Short title
 @Shi2018                | SMJ   | :x:    | :clock12: | Is regulatory adoption ceremonial?
 @Carlos2018             | ASQ   | :x:    | :clock4:  | Strategic Silence
 @Westphal2010           | AMJ   | :x:    | :clock12: | A Matter of Appearances
+@Bolino2008             | JOM   | :x:    | :clock12: | A Multi-Level Review of Impression Management Motives and Behaviors
 @Bansal2006             | JBE   | :x:    | :clock12: | Seeing Is (Not) Believing
 @Bansal2004             | AMJ   | :x:    | :clock12: | Talking Trash
 @Arndt2000              | ASQ   | :x:    | :clock12: | Presenting Structural Innovation in an Institutional Environment
