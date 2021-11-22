@@ -2,10 +2,15 @@
 bibliography: bibliography.bib
 ---
 
-<!--Article
-------------
-[[Shi & Connelly 2018]]
-Table: **Overview--Impression management**-->
+Article                 | Sample                        | Concepts
+------------            | ---                           | ---   
+[[Quigley et al 2020]]  | 1,753 option grants to CEOs   | Agency, information releases
+Table: **Overview**
+
+Article                 | Synopsis
+---                     | ---------------
+[[Quigley et al 2020]]  | Some CEOs game compensation systems by releasing bad news before stock option grants
+Table: **Findings**
 
 
 Article                 |Journal| Status | Depth     | Short title
