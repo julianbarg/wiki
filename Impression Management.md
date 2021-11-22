@@ -39,6 +39,7 @@ Article                 |Journal| Status | Depth     | Short title
 @Elsbach1998            |Org Sci| :x:    | :clock6:  | Averting Expected Challenges Through Anticipatory Impression Management
 @Elsbach1996            | ASQ   | :x:    | :clock2:  | Members' Responses to Organizational Identity Threats
 @Elsbach1992            | AMJ   | :x:    | :clock8:  | Acquiring Organizational Legitimacy through Illegitimate Actions
+Table: **Master table**
 
 ---
 
