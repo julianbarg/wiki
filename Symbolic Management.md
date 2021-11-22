@@ -21,8 +21,8 @@ bibliography: bibliography.bib
 Table: **Symbolic Management**-->
 
 
-Article                 |Journal| Status | Depth     | Short title
----------               | :-:   | :-:    | :-:       | ---------------
+Article                 |Journal| Status    | Depth     | Short title
+---------               | :-:   | :-:       | :-:       | ---------------
 @Westphal2021           | SO    | :x:       | :clock12: | Seeking input when the train has left the station
 @Westphal2020           | Book  | :x:       | :clock12: | Symbolic Management
 @Durand2019             | AMR   | :x:       | :clock3:  | Willing *and* able
@@ -40,6 +40,7 @@ Article                 |Journal| Status | Depth     | Short title
 @Stevens2005            | SMJ   | :x:       | :clock12: | Symbolic or substantive document?
 @Westphal1998           | ASQ   | :x:       | :clock12: | The Symbolic Management of Stockholders
 @Elsbach1994            | ASQ   | :x:       | :clock9:  | Managing Organizational Legitimacy in the California Cattle Industry
+Table: **Master table**
 
 ---
 
