@@ -3,7 +3,7 @@ bibliography: bibliography.bib
 ---
 
 Article                     | Type      | Sample                        | Concepts
-------------                | ---       | ---                           | ---   
+---------                   | ---       | ---------                     | ---------   
 [[Haack, Martignoni & Schoenenborn 2021]]|Theory|-                      | Transparency, opacity, ceremonial
 Table: **Overview**
 
