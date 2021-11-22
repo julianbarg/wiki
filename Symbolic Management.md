@@ -29,8 +29,9 @@ Article             |Journal| Status    | Depth     | Short title
 @Schnackenberg2019  | AMA   | :x:       | :clock12: | Capitalizing on Categories of Social Construction
 @Cuypers2016        |Org Stu| :x:       | :clock12: | Sincerity in Corporate Philanthropy, Stakeholder Perceptions and Firm Value
 @Marquis2016        | SMJ   | :x:       | :clock5:  | Scrutiny, Norms, and Selective Disclosure
+@Shi2018            | SMJ   | :x:       | :clock12: | Is regulatory adoption ceremonial?
 @Smith2016          |Org Sci| :x:       | :clock12: | "We do what we must, and call it by the best names"
-@Markoczy2013       |Org Sci| :x:       | :clock12: | "We do what we must, and call it by the best names"
+@Markoczy2013       |Org Sci| :x:       | :clock12: | Social network contingency, symbolic management, and boundary stretching
 @Marquis2014        | SMJ   | :x:       | :clock12: | Corporate Social Responsibility Reporting in China
 @Mantere2012        | AMJ   | :x:       | :clock12: | Social network contingency, symbolic management, and boundary stretching 
 @Forbes2011         |Chapter| :x:       | :clock12: | The New Corporate Environmentalism and the Symbolic Management of Organizational Culture
