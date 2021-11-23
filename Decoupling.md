@@ -19,7 +19,7 @@ Article                 |Journal| Status           | Depth     | Short title
 @Haack2021              | AMR   |:heavy_check_mark:| :clock12: | A Bait-and-Switch Model of Corporate Social Responsibility
 @deBree2020             |Org Stu| :x:              | :clock12: | De- and Recoupling and Public Regulation 
 @Hengst2020             | AMJ   | :x:              | :clock12: | Toward a Process Theory of Making Sustainability Strategies Legitimate in Action
-@Jacqueminet2020        |Org Sci| :x:              | :clock12: | Practice implementation within a multidivisional firm
+@Jacqueminet2020        |Org Sci|:heavy_check_mark:| :clock12: | Practice implementation within a multidivisional firm
 @Jacqueminet2019        | AMJ   | :x:              | :clock12: | Ups and downs
 @Wang2018a              | SMJ   | :x:              | :clock12: | Government's green grip
 @Luo2017                | AMJ   | :x:              | :clock12: | Whose Call to Answer
