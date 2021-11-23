@@ -5,11 +5,13 @@ bibliography: bibliography.bib
 Article                     | Type      | Sample                        | Concepts
 ---------                   | ---       | ---------                     | ---------   
 [[Haack, Martignoni & Schoenenborn 2021]]|Theory|-                      | Transparency, opacity, ceremonial
+[[Jacqueminet 2020]]        | Survey    | 270 employees over two years  | Value consistency, pressure
 Table: **Overview**
 
 Article                 | Synopsis
 ---                     | ---------------
 [[Haack, Martignoni & Schoenenborn 2021]] | We could bring firms into compliance by luring them with easy standards and then upping transparency.
+[[Jacqueminet 2020]]    | Implementation depends on pressure from higher-ups and peers, and consistency with values.
 Table: **Findings**
 
 Article                 |Journal| Status           | Depth     | Short title
