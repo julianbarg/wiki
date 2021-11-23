@@ -9,7 +9,7 @@ Article                     | Type      | Sample                        | Concep
 Table: **Overview**
 
 Article                 | Synopsis
----                     | ---------------
+----                    | ---------------
 [[Haack, Martignoni & Schoenenborn 2021]] | We could bring firms into compliance by luring them with easy standards and then upping transparency.
 [[Jacqueminet 2020]]    | Implementation depends on pressure from higher-ups and peers, and consistency with values.
 Table: **Findings**
