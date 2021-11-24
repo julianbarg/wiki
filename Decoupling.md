@@ -9,9 +9,10 @@ Article                         | Type      | Sample                        | Co
 [[Jacqueminet 2020]]            | Survey    | 270 employees over two years  | Value consistency, pressure
 Table: **Overview**
 
-Article                 | Synopsis
-----                    | ---------------
+Article                         | Synopsis
+----                            | ---------------
 [[Haack, Martignoni & Schoenenborn 2021]] | We could bring firms into compliance by luring them with easy standards and then upping transparency.
+[[de Bree & Stroopendaal 2020]] | Decoupling can happen at different steps of planning and implementation, requiring distinct remedies.
 [[Jacqueminet 2020]]    | Implementation depends on pressure from higher-ups and peers, and consistency with values.
 Table: **Findings**
 
