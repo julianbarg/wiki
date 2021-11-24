@@ -3,7 +3,7 @@ bibliography: bibliography.bib
 ---
 
 Article                         | Type              | Sample                        | Concepts
----------                       | ---               | ---------                     | ---------   
+---------                       | -----             | ---------                     | ---------   
 [[Haack, Martignoni & Schoenenborn 2021]]|Theory    | -                             | Transparency, opacity, ceremonial
 [[de Bree & Stoopendaal 2020]]  |Non-participant obs| 1 national healthcare project | Goal-system, system-practice & practice-outcome dcpl.
 [[Hengst et al 2020]]           |Non-participant obs|Consumer goods company, 4 years| Compromise, reinterprete, split, sacrifice, valorize 
