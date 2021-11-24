@@ -3,7 +3,7 @@ bibliography: bibliography.bib
 ---
 
 Article                         | Type              | Context   | Sample                | Concepts
----------                       | -----             |           | ---------             | ---------   
+---------                       | -----             | ---       | ---------             | ---------   
 [[Haack, Martignoni & Schoenenborn 2021]]|Theory    | -         |-                      | Transparency, opacity, ceremonial
 [[de Bree & Stoopendaal 2020]]  |Non-participant obs| Healthcare| 1 national project    | Goal-system, system-practice & practice-outcome dcpl.
 [[Hengst et al 2020]]           |Non-participant obs|Engineering| 1 company, 4 years    | 
