@@ -3,7 +3,7 @@ bibliography: bibliography.bib
 ---
 
 Article                             |Journal| Type| Sustain.          | Phenomenon      | Concepts
---------------                      | :-:   | :-: | :-:               | ---------       | ---------------------------
+------------------                  | :-:   | :-: | :-:               | ----------      | ---------------------------
 [[Haack, Martignoni & Schoenenborn 2021]]|AMR|Theory|:heavy_check_mark:| CSR            | Transparency, opacity, ceremonial
 [[de Bree & Stoopendaal 2020]]      |Org Stu| Qual|:last_quarter_moon:| Healthcare      | Goal-system, system-practice & practice-outcome dcpl.
 [[Hengst et al 2020]]               | AMJ   | Qual| :heavy_check_mark:| Engineering     | Compromise, reinterprete, split, sacrifice, valorize 
@@ -16,7 +16,7 @@ Article                             |Journal| Type| Sustain.          | Phenomen
 Table: **Overview**
 
 Article                             | Method                | Industry/context          | Sample
-------                              | ---                   | ---                       | ---
+------                              | ----                  | -----                     | ----
 [[Haack, Martignoni & Schoenenborn 2021]]| Theory           | -                         | -
 [[de Bree & Stoopendaal 2020]]      | Participant obs.      | Healthcare governance     | 1 project, 4 years
 [[Hengst et al 2020]]              |Non-participant obs.    | Consumer goods            | 1 company, 4 years
@@ -29,7 +29,7 @@ Article                             | Method                | Industry/context  
 Table: **Methods & Sample**
 
 Article                         | Synopsis
-----                            | ---------------
+----                            | ----------------
 [[Haack, Martignoni & Schoenenborn 2021]] | We could bring firms into compliance by luring them with easy standards and then upping transparency.
 [[de Bree & Stroopendaal 2020]] | Decoupling can happen at different steps of planning and implementation, requiring distinct remedies.
 [[Hengst et al 2020]]           | Employees go through multiple action cycles before eventually integrating sustainability and mainstream strategies.
@@ -42,7 +42,7 @@ Article                         | Synopsis
 Table: **Findings**
 
 Article                 |Journal| Status           | Depth   | Short title
----------               | :-:   | :-:              | :-:     | ---------------
+---------               | :-:   | :-:              | :-:     | ----------------
 @Haack2021              | AMR   |:heavy_check_mark:|:clock12:| A Bait-and-Switch Model of Corporate Social Responsibility
 @deBree2020             |Org Stu|:heavy_check_mark:|:clock12:| De- and Recoupling and Public Regulation 
 @Hengst2020             | AMJ   |:heavy_check_mark:|:clock12:| Toward a Process Theory of Making Sustainability Strategies Legitimate in Action
