@@ -24,9 +24,9 @@ Article                         | Synopsis
 ----                            | ---------------
 [[Haack, Martignoni & Schoenenborn 2021]] | We could bring firms into compliance by luring them with easy standards and then upping transparency.
 [[de Bree & Stroopendaal 2020]] | Decoupling can happen at different steps of planning and implementation, requiring distinct remedies.
-[[Hengst et al 2020]]           |
-[[Jacqueminet 2020]]            | Implementation depends on pressure from higher-ups and peers, and consistency with values
-[[Jacqueminet & Durand 2019]]   | 
+[[Hengst et al 2020]]           | Employees go through multiple action cycles before eventually integrating sustainability and mainstream strategies.
+[[Jacqueminet 2020]]            | Implementation depends on pressure from higher-ups and peers, and consistency with values.
+[[Jacqueminet & Durand 2019]]   | Subunits decouple if they feel that a practice is not strategically important or incompatible with their values.
 Table: **Findings**
 
 Article                 |Journal| Status           | Depth     | Short title
