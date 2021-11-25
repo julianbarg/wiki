@@ -10,6 +10,7 @@ Article                             |Journal| Type| Sustain.          | Phenomen
 [[Jacqueminet 2020]]                |Org Sci|Quant| :heavy_check_mark:|Firm divisions   | Value consistency, pressure
 [[Jacqueminet & Durand 2019]]       | AMJ   |Mixed| :heavy_check_mark:|Firm divisions   | Validity, propriety
 [[Crilly, Zollo & Hansen 2012]]     | AMJ   |Mixed| :heavy_check_mark:| CSR             | Evasive & emergent decoupling
+[[Sandholz 2012]]                   |Org Stu| Qual| :x:               | Engineering     | Standards, directives & norms
 [[Tilcsik 2010]]                    | AMJ   | Qual| :x:              |Post-soviet policy| Legitimacy, interests, ideology, control
 [[Westphal & Zajac 2001]]           | ASQ   |Quant| :x:               |Stock buybacks   | Power, network ties
 Table: **Overview**
