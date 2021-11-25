@@ -11,7 +11,7 @@ Article                             |Journal| Type| Sustain.          | Phenomen
 [[Jacqueminet & Durand 2019]]       | AMJ   |Mixed| :heavy_check_mark:|Firm divisions   | Validity, propriety
 [[Crilly, Zollo & Hansen 2012]]     | AMJ   |Mixed| :heavy_check_mark:| CSR             | Evasive & emergent decoupling
 [[Sandholz 2012]]                   |Org Stu| Qual| :x:               | Engineering     | Standards, directives & norms
-[[Tilcsik 2010]]                    | AMJ   | Qual| :x:              |Post-soviet policy| Legitimacy, interests, ideology, control
+[[Tilcsik 2010]]                    | AMJ   | Qual| :x:               |Post-soviet policy|Legitimacy, interests, ideology, control
 [[Westphal & Zajac 2001]]           | ASQ   |Quant| :x:               |Stock buybacks   | Power, network ties
 Table: **Overview**
 
@@ -23,6 +23,7 @@ Article                             | Method                | Industry/context  
 [[Jacqueminet 2020]]                | Survey                | 1 Gas & power MNE         | 99 subunits, 2 years
 [[Jacqueminet & Durand 2019]]       | Survey, fsQCA         | 1 Gas & power MNE         | 65 subunits, 2 years 
 [[Crilly, Zollo & Hansen 2012]]     | fsQCA                 | 7 sectors                 | 17 corporations
+[[Sandholz 2012]]                   | Archival, observation | Engineering firm          | 2 divisions
 [[Tilcsik 2010]]                    | Archival, observation | State funding allocation  | 1 agency, 10+ years 
 [[Westphal & Zajac 2001]]           | Heckman, OLS          |CEO execution of board policy|2,652 firm-years  
 Table: **Methods & Sample**
@@ -35,6 +36,7 @@ Article                         | Synopsis
 [[Jacqueminet 2020]]            | Implementation depends on pressure from higher-ups and peers, and consistency with values.
 [[Jacqueminet & Durand 2019]]   | Subunits decouple if they feel that a practice is not strategically important or incompatible with their values.
 [[Crilly, Zollo & Hansen 2012]] | Information assymetry is associated with evasive decoupling, competing expectation with emergent decoupling.
+[[Sandholz 2012]]               | Standards act as directives and interact with norms, leading to decoupling or tight coupling.
 [[Tilcsik 2010]]                | Policy adoption can be necessary to gain legitimacy, implementation depends on interests, generational turnover.
 [[Westphal & Zajac 2001]]       | Decoupling is more likely to occur if CEOs are powerful relativ to board, and connected to other decouplers.
 Table: **Findings**
