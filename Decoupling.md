@@ -52,9 +52,10 @@ Article                 |Journal| Status           | Depth     | Short title
 @Crilly2012             | AMJ   | :x:              | :clock3:  | Faking It or Muddling Through?
 @Haack2012              |Org Stu| :x:              | :clock12: | Talking the Talk, Moral Entrapment, Creeping Commitment?
 @Sandholtz2012          |Org Stu| :x:              | :clock12: | Making Standards Stick
+@Tilcsik2010            | AMJ   | :x:              | :clock12: | From Ritual to Reality
 @MacLean2010            | AMJ   | :x:              | :clock12: | The Dangers of Decoupling
 @Boiral2007             |Org Sci| :x:              | :clock2:  | Corporate Greening Through ISO 14001
-@Westphal2001           | ASQ   |:heavy_check_mark:| :clock12: | Decoupling Policy from Practice
+@Westphal2001           | ASQ   |:heavy_check_mark:| :clock5:  | Decoupling Policy from Practice
 @Weaver1999             | AMJ   | :x:              | :clock12: | Integrated and Decoupled Corporate Social Performance
 @Meyer1977              | AJS   | :x:              | :clock9:  | Institutionalized Organizations
 Table: **Master table**
