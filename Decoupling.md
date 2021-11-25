@@ -60,12 +60,12 @@ Article                 |Journal| Status           | Depth   | Short title
 @Bromley2012            | AMA   | :x:              |:clock3: | From Smoke and Mirrors to Walking the Talk
 @Crilly2012             | AMJ   |:heavy_check_mark:|:clock3: | Faking It or Muddling Through?
 @Haack2012              |Org Stu| :x:              |:clock12:| Talking the Talk, Moral Entrapment, Creeping Commitment?
-@Sandholtz2012          |Org Stu| :x:              |:clock12:| Making Standards Stick
+@Sandholtz2012          |Org Stu|:heavy_check_mark:|:clock12:| Making Standards Stick
 @MacLean2010            | AMJ   | :x:              |:clock12:| The Dangers of Decoupling
 @Tilcsik2010            | AMJ   |:heavy_check_mark:|:clock12:| From Ritual to Reality
 @Boiral2007             |Org Sci| :x:              |:clock2: | Corporate Greening Through ISO 14001
 @Westphal2001           | ASQ   |:heavy_check_mark:|:clock5: | Decoupling Policy from Practice
-@Zbaracki1998           | ASQ   | :x:              |:clock11:
+@Zbaracki1998           | ASQ   | :x:              |:clock11:| The Rhetoric and Reality of Total Quality Management
 @Weaver1999             | AMJ   | :x:              |:clock12:| Integrated and Decoupled Corporate Social Performance
 @Meyer1977              | AJS   | :x:              |:clock9: | Institutionalized Organizations
 Table: **Master table**
