@@ -35,7 +35,7 @@ Article                 |Journal| Status           | Depth     | Short title
 @deBree2020             |Org Stu|:heavy_check_mark:| :clock12: | De- and Recoupling and Public Regulation 
 @Hengst2020             | AMJ   |:heavy_check_mark:| :clock12: | Toward a Process Theory of Making Sustainability Strategies Legitimate in Action
 @Jacqueminet2020        |Org Sci|:heavy_check_mark:| :clock12: | Practice implementation within a multidivisional firm
-@Jacqueminet2019        | AMJ   | :x:              | :clock12: | Ups and downs
+@Jacqueminet2019        | AMJ   |:heavy_check_mark:| :clock12: | Ups and downs
 @Wang2018a              | SMJ   | :x:              | :clock12: | Government's green grip
 @Luo2017                | AMJ   | :x:              | :clock12: | Whose Call to Answer
 @Guillen2016            | ASQ   | :x:              | :clock12: | State Capacity, Minority Shareholder Protections, and Stock Market Development
