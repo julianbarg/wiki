@@ -53,6 +53,7 @@ Article                 |Journal| Status           | Depth     | Short title
 @Boiral2007             |Org Sci| :x:              | :clock2:  | Corporate Greening Through ISO 14001
 @Westphal2001           | ASQ   | :x:              | :clock12: | Decoupling Policy from Practice
 @Weaver1999             | AMJ   | :x:              | :clock12: | Integrated and Decoupled Corporate Social Performance
+@Meyer1977              | AJS   | :x:              | :clock9:  | Institutionalized Organizations
 Table: **Master table**
 
 ---
