@@ -1,5 +1,3 @@
-[[Jacqueminet 2020]]                | Survey            | 1 Gas & power MNE         | 
-
 ---
 bibliography: bibliography.bib
 ---
