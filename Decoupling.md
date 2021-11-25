@@ -7,7 +7,8 @@ Article                             |Journal| Type| Sustain.          | Phenomen
 [[Haack, Martignoni & Schoenenborn 2021]]|AMR|Theory|:heavy_check_mark:| CSR        | Transparency, opacity, ceremonial
 [[de Bree & Stoopendaal 2020]]      |Org Stu| Qual|:last_quarter_moon:| Healthcare  | Goal-system, system-practice & practice-outcome dcpl.
 [[Hengst et al 2020]]               | AMJ   | Qual| :heavy_check_mark:| Engineering | Compromise, reinterprete, split, sacrifice, valorize 
-[[Jacqueminet 2020]]                |Org Sci|Quant| :heavy_check_mark:|Multi-division.| Value consistency, pressure
+[[Jacqueminet 2020]]                |Org Sci|Quant| :heavy_check_mark:|Firm divisions| Value consistency, pressure
+[[Jacqueminet & Durand 2019]]       | AMJ   |Mixed| :heavy_check_mark:|Firm divisions|
 Table: **Overview**
 
 Article                             | Method            | Industry/context          | Sample
@@ -15,7 +16,8 @@ Article                             | Method            | Industry/context      
 [[Haack, Martignoni & Schoenenborn 2021]]| Theory       | -                         | -
 [[de Bree & Stoopendaal 2020]]      | Participant obs.  | Healthcare governance     | 1 project, 4 years
 [[Hengst et al 2020]]              |Non-participant obs.| Consumer goods            | 1 company, 4 years
-[[Jacqueminet 2019]]                | Survey            | 1 Gas & power MNE         | 65 subunits, 2 years 
+[[Jacqueminet 2020]]                | Survey            | 1 Gas & power MNE         | 
+[[Jacqueminet & Durand 2019]]       | Survey, fsQCA     | 1 Gas & power MNE         | 65 subunits, 2 years 
 Table: **Methods & Sample**
 
 Article                         | Synopsis
@@ -23,6 +25,7 @@ Article                         | Synopsis
 [[Haack, Martignoni & Schoenenborn 2021]] | We could bring firms into compliance by luring them with easy standards and then upping transparency.
 [[de Bree & Stroopendaal 2020]] | Decoupling can happen at different steps of planning and implementation, requiring distinct remedies.
 [[Jacqueminet 2020]]            | Implementation depends on pressure from higher-ups and peers, and consistency with values
+
 Table: **Findings**
 
 Article                 |Journal| Status           | Depth     | Short title
