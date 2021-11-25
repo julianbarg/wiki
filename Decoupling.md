@@ -38,32 +38,33 @@ Article                         | Synopsis
 [[Westphal & Zajac 2001]]       | Decoupling is more likely to occur if CEOs are powerful relativ to board, and connected to other decouplers.
 Table: **Findings**
 
-Article                 |Journal| Status           | Depth     | Short title
----------               | :-:   | :-:              | :-:       | ---------------
-@Haack2021              | AMR   |:heavy_check_mark:| :clock12: | A Bait-and-Switch Model of Corporate Social Responsibility
-@deBree2020             |Org Stu|:heavy_check_mark:| :clock12: | De- and Recoupling and Public Regulation 
-@Hengst2020             | AMJ   |:heavy_check_mark:| :clock12: | Toward a Process Theory of Making Sustainability Strategies Legitimate in Action
-@Jacqueminet2020        |Org Sci|:heavy_check_mark:| :clock12: | Practice implementation within a multidivisional firm
-@Jacqueminet2019        | AMJ   |:heavy_check_mark:| :clock12: | Ups and downs
-@Wang2018a              | SMJ   | :x:              | :clock12: | Government's green grip
-@Luo2017                | AMJ   | :x:              | :clock12: | Whose Call to Answer
-@Guillen2016            | ASQ   | :x:              | :clock12: | State Capacity, Minority Shareholder Protections, and Stock Market Development
-@Heese2016              | AMJ   | :x:              | :clock3:  | Selective Regulator Decoupling and Organizations’ Strategic Responses
-@Whiteman2016           | AMD   | :x:              | :clock11: | Decoupling Rape
-@Crilly2016             | AMJ   | :x:              | :clock3:  | The Grammar of Decoupling
-@Haack2014              | AMR   | :x:              | :clock3:  | Is Decoupling Becoming Decoupled from Institutional Theory?
-@Wijen2014              | AMR   | :x:              | :clock3:  | Means versus Ends in Opaque Institutional Fields
-@Pache2013              | AMJ   | :x:              | :clock12: | Inside the hybrid organization
-@Bromley2012            | AMA   | :x:              | :clock3:  | From Smoke and Mirrors to Walking the Talk
-@Crilly2012             | AMJ   |:heavy_check_mark:| :clock3:  | Faking It or Muddling Through?
-@Haack2012              |Org Stu| :x:              | :clock12: | Talking the Talk, Moral Entrapment, Creeping Commitment?
-@Sandholtz2012          |Org Stu| :x:              | :clock12: | Making Standards Stick
-@MacLean2010            | AMJ   | :x:              | :clock12: | The Dangers of Decoupling
-@Tilcsik2010            | AMJ   |:heavy_check_mark:| :clock12: | From Ritual to Reality
-@Boiral2007             |Org Sci| :x:              | :clock2:  | Corporate Greening Through ISO 14001
-@Westphal2001           | ASQ   |:heavy_check_mark:| :clock5:  | Decoupling Policy from Practice
-@Weaver1999             | AMJ   | :x:              | :clock12: | Integrated and Decoupled Corporate Social Performance
-@Meyer1977              | AJS   | :x:              | :clock9:  | Institutionalized Organizations
+Article                 |Journal| Status           | Depth   | Short title
+---------               | :-:   | :-:              | :-:     | ---------------
+@Haack2021              | AMR   |:heavy_check_mark:|:clock12:| A Bait-and-Switch Model of Corporate Social Responsibility
+@deBree2020             |Org Stu|:heavy_check_mark:|:clock12:| De- and Recoupling and Public Regulation 
+@Hengst2020             | AMJ   |:heavy_check_mark:|:clock12:| Toward a Process Theory of Making Sustainability Strategies Legitimate in Action
+@Jacqueminet2020        |Org Sci|:heavy_check_mark:|:clock12:| Practice implementation within a multidivisional firm
+@Jacqueminet2019        | AMJ   |:heavy_check_mark:|:clock12:| Ups and downs
+@Wang2018a              | SMJ   | :x:              |:clock12:| Government's green grip
+@Luo2017                | AMJ   | :x:              |:clock12:| Whose Call to Answer
+@Guillen2016            | ASQ   | :x:              |:clock12:| State Capacity, Minority Shareholder Protections, and Stock Market Development
+@Heese2016              | AMJ   | :x:              |:clock3: | Selective Regulator Decoupling and Organizations’ Strategic Responses
+@Whiteman2016           | AMD   | :x:              |:clock11:| Decoupling Rape
+@Crilly2016             | AMJ   | :x:              |:clock3: | The Grammar of Decoupling
+@Haack2014              | AMR   | :x:              |:clock3: | Is Decoupling Becoming Decoupled from Institutional Theory?
+@Wijen2014              | AMR   | :x:              |:clock3: | Means versus Ends in Opaque Institutional Fields
+@Pache2013              | AMJ   | :x:              |:clock12:| Inside the hybrid organization
+@Bromley2012            | AMA   | :x:              |:clock3: | From Smoke and Mirrors to Walking the Talk
+@Crilly2012             | AMJ   |:heavy_check_mark:|:clock3: | Faking It or Muddling Through?
+@Haack2012              |Org Stu| :x:              |:clock12:| Talking the Talk, Moral Entrapment, Creeping Commitment?
+@Sandholtz2012          |Org Stu| :x:              |:clock12:| Making Standards Stick
+@MacLean2010            | AMJ   | :x:              |:clock12:| The Dangers of Decoupling
+@Tilcsik2010            | AMJ   |:heavy_check_mark:|:clock12:| From Ritual to Reality
+@Boiral2007             |Org Sci| :x:              |:clock2: | Corporate Greening Through ISO 14001
+@Westphal2001           | ASQ   |:heavy_check_mark:|:clock5: | Decoupling Policy from Practice
+@Zbaracki1998           | ASQ   | :x:              |:clock11:
+@Weaver1999             | AMJ   | :x:              |:clock12:| Integrated and Decoupled Corporate Social Performance
+@Meyer1977              | AJS   | :x:              |:clock9: | Institutionalized Organizations
 Table: **Master table**
 
 ---
