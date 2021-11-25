@@ -31,7 +31,7 @@ Article                         | Synopsis
 [[Hengst et al 2020]]           | Employees go through multiple action cycles before eventually integrating sustainability and mainstream strategies.
 [[Jacqueminet 2020]]            | Implementation depends on pressure from higher-ups and peers, and consistency with values.
 [[Jacqueminet & Durand 2019]]   | Subunits decouple if they feel that a practice is not strategically important or incompatible with their values.
-[[Tilcsik 2010]]                | Policy adoption can be necessary to gain legitimacy, implementation depends on interests.
+[[Tilcsik 2010]]                | Policy adoption can be necessary to gain legitimacy, implementation depends on interests, generational turnover.
 [[Westphal & Zajac 2001]]       | Decoupling is more likely to occur if CEOs are powerful relativ to board, and connected to other decouplers.
 Table: **Findings**
 
