@@ -19,7 +19,7 @@ Article                             | Method            | Industry/context      
 [[Hengst et al 2020]]              |Non-participant obs.| Consumer goods            | 1 company, 4 years
 [[Jacqueminet 2020]]                | Survey            | 1 Gas & power MNE         | 99 subunits, 2 years
 [[Jacqueminet & Durand 2019]]       | Survey, fsQCA     | 1 Gas & power MNE         | 65 subunits, 2 years 
-[[Westphal & Zajac 2001]]           | Heckman, OLS      |                           | 2,652 firm-years          
+[[Westphal & Zajac 2001]]           | Heckman, OLS      |CEO execution of board policy|2,652 firm-years          
 Table: **Methods & Sample**
 
 Article                         | Synopsis
