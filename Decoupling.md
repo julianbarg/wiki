@@ -9,6 +9,7 @@ Article                             |Journal| Type| Sustain.          | Phenomen
 [[Hengst et al 2020]]               | AMJ   | Qual| :heavy_check_mark:| Engineering | Compromise, reinterprete, split, sacrifice, valorize 
 [[Jacqueminet 2020]]                |Org Sci|Quant| :heavy_check_mark:|Firm divisions| Value consistency, pressure
 [[Jacqueminet & Durand 2019]]       | AMJ   |Mixed| :heavy_check_mark:|Firm divisions| Validity, propriety
+[[Westphal & Zajac 2001]]           | ASQ   |Quant| :x:               |Stock buybacks| Power, network ties
 Table: **Overview**
 
 Article                             | Method            | Industry/context          | Sample
@@ -18,6 +19,7 @@ Article                             | Method            | Industry/context      
 [[Hengst et al 2020]]              |Non-participant obs.| Consumer goods            | 1 company, 4 years
 [[Jacqueminet 2020]]                | Survey            | 1 Gas & power MNE         | 99 subunits, 2 years
 [[Jacqueminet & Durand 2019]]       | Survey, fsQCA     | 1 Gas & power MNE         | 65 subunits, 2 years 
+[[Westphal & Zajac 2001]]           | Heckman, OLS      |                           | 2,652 firm-years          
 Table: **Methods & Sample**
 
 Article                         | Synopsis
@@ -27,6 +29,7 @@ Article                         | Synopsis
 [[Hengst et al 2020]]           | Employees go through multiple action cycles before eventually integrating sustainability and mainstream strategies.
 [[Jacqueminet 2020]]            | Implementation depends on pressure from higher-ups and peers, and consistency with values.
 [[Jacqueminet & Durand 2019]]   | Subunits decouple if they feel that a practice is not strategically important or incompatible with their values.
+[[Westphal & Zajac 2001]]       | Decoupling is more likely to occur if CEOs are powerful relativ to board, and connected to other decouplers.
 Table: **Findings**
 
 Article                 |Journal| Status           | Depth     | Short title
@@ -51,7 +54,7 @@ Article                 |Journal| Status           | Depth     | Short title
 @Sandholtz2012          |Org Stu| :x:              | :clock12: | Making Standards Stick
 @MacLean2010            | AMJ   | :x:              | :clock12: | The Dangers of Decoupling
 @Boiral2007             |Org Sci| :x:              | :clock2:  | Corporate Greening Through ISO 14001
-@Westphal2001           | ASQ   | :x:              | :clock12: | Decoupling Policy from Practice
+@Westphal2001           | ASQ   |:heavy_check_mark:| :clock12: | Decoupling Policy from Practice
 @Weaver1999             | AMJ   | :x:              | :clock12: | Integrated and Decoupled Corporate Social Performance
 @Meyer1977              | AJS   | :x:              | :clock9:  | Institutionalized Organizations
 Table: **Master table**
