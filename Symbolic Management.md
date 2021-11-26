@@ -4,7 +4,7 @@ bibliography: bibliography.bib
 
 Article                             |Journal| Type| Sustain.          | Phenomenon      | Concepts
 ------------------                  | :-:   | :-: | :-:               | ----------      | ---------------------------
-@Westphal2020                       | Book
+@Westphal2020                       | Book  |Review|:x:               | -               | ocial             
 
 Article                 | Status    | Depth     | Short title
 ---------               | :-:       | :-:       | ------------------
