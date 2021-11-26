@@ -2,17 +2,20 @@
 bibliography: bibliography.bib
 ---
 
-Article                             |Journal| Type| Sustain.          | Phenomenon      | Concepts
-------------------                  | :-:   | :-: | :-:               | ----------      | ---------------------------
-[[Westphal & Park 2020]]            | Book  |Review|:x:               | -               | Social distancing, pluralistic ignorance             
+Article                             |Journal| Type | Sustain.          | Phenomenon     | Concepts
+------------------                  | :-:   | :-:  | :-:               | ----------     | ---------------------------
+[[Westphal & Park 2020]]            | Book  |Review|:x:                | -              | Social distancing, pluralistic ignorance
+[[Durand, Hawn & Ioannou 2019]]     | AMR   |Theory| :heavy_check_mark:| CSR            |Symbolic & substantive confority & compliance         
 
 Article                             | Method                | Industry/context          | Sample
 ------                              | ----                  | -----                     | ----
 [[Westphal & Park 2020]]            | Literature review     | -                         | -
+[[Durand, Hawn & Ioannou 2019]]     | Formal models         | -                         | -
 
 Article                         | Synopsis
 ----                            | ----------------
 [[Westphal & Park 2020]]        | Symbolic management is manipulating overseers into believing that you meet expectations, to appear legitimate.
+[[Durand, Hawn & Ioannou 2019]] | Firms (may) decide for symbolic management based on their willingness *and* ability. They consider issue saliance, organizational resources etc.
 
 Article                 | Status           | Depth     | Short title
 ---------               | :-:              | :-:       | ------------------
