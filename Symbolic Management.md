@@ -4,7 +4,15 @@ bibliography: bibliography.bib
 
 Article                             |Journal| Type| Sustain.          | Phenomenon      | Concepts
 ------------------                  | :-:   | :-: | :-:               | ----------      | ---------------------------
-@Westphal2020                       | Book  |Review|:x:               | -               | ocial             
+[[Westphal & Park 2020]]            | Book  |Review|:x:               | -               | Social distancing, pluralistic ignorance             
+
+Article                             | Method                | Industry/context          | Sample
+------                              | ----                  | -----                     | ----
+[[Westphal & Park 2020]]            | Literature review     | -                         | -
+
+Article                         | Synopsis
+----                            | ----------------
+[[Westphal & Park 2020]]        | Symbolic management is manipulating overseers into believing that you meet expectations, to appear legitimate.
 
 Article                 | Status    | Depth     | Short title
 ---------               | :-:       | :-:       | ------------------
