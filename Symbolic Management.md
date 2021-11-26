@@ -16,8 +16,8 @@ Article                         | Synopsis
 
 Article                 | Status           | Depth     | Short title
 ---------               | :-:              | :-:       | ------------------
-@Westphal2021           |:heavy_check_mark:| :clock12: | Seeking input when the train has left the station
-@Westphal2020           | :x:              | :clock12: | Symbolic Management
+@Westphal2021           | :x:              | :clock12: | Seeking input when the train has left the station
+@Westphal2020           |:heavy_check_mark:| :clock2:  | Symbolic Management
 @Durand2019             | :x:              | :clock3:  | Willing *and* able
 @Schnackenberg2019      | :x:              | :clock12: | Capitalizing on Categories of Social Construction
 @Cuypers2016            | :x:              | :clock12: | Sincerity in Corporate Philanthropy, Stakeholder Perceptions and Firm Value
