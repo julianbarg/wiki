@@ -7,7 +7,7 @@ Article                             |Journal| Type | Sustain.          | Phenome
 [[Westphal & Park 2020]]            | Book  |Review|:x:                | -              | Social distancing, pluralistic ignorance
 [[Durand, Hawn & Ioannou 2019]]     | AMR   |Theory| :heavy_check_mark:| CSR            |Symbolic & substantive confority & compliance         
 [[Schnackenberg et al 2019]]        | AMA   |Review| :x:               | -              | Semiotic & symbolic interactionist perspective
-[[Cuypers, Koh & Wang 2016]]        |Org Sci| Quant| :x:               | Philantrophy| Generous & innovative giving
+[[Cuypers, Koh & Wang 2016]]        |Org Sci| Quant|:last_quarter_moon:| Philantrophy| Generous & innovative giving
 
 Article                             | Method                | Industry/context          | Sample
 ------                              | ----                  | -----                     | ----
