@@ -6,24 +6,26 @@ Article                             |Journal| Type | Sustain.          | Phenome
 ------------------                  | :-:   | :-:  | :-:               | ----------     | ---------------------------
 [[Westphal & Park 2020]]            | Book  |Review|:x:                | -              | Social distancing, pluralistic ignorance
 [[Durand, Hawn & Ioannou 2019]]     | AMR   |Theory| :heavy_check_mark:| CSR            |Symbolic & substantive confority & compliance         
-[[]]
+[[Schackenberg et al 2019]]         | AMA   |Review| :x:               | -              | Semiotic & symbolic interactionist perspective
 
 Article                             | Method                | Industry/context          | Sample
 ------                              | ----                  | -----                     | ----
 [[Westphal & Park 2020]]            | Literature review     | -                         | -
 [[Durand, Hawn & Ioannou 2019]]     | Formal models         | -                         | -
+[[Schackenberg et al 2019]]         | Literature review     | -                         | ?
 
 Article                         | Synopsis
 ----                            | ----------------
-[[Westphal & Park 2020]]        | Symbolic management is manipulating overseers into believing that you meet expectations, to appear legitimate.
-[[Durand, Hawn & Ioannou 2019]] | Firms (may) decide for symbolic management based on their willingness *and* ability. They consider issue saliance, organizational resources etc.
+[[Westphal & Park 2020]]        | SM is manipulating overseers into believing that you meet expectations, to appear legitimate.
+[[Durand, Hawn & Ioannou 2019]] | Firms (may) decide for SM based on their willingness *and* ability. They consider issue saliance, organizational resources etc.
+[[Schackenberg et al 2019]]     | SM is the identification and management of symbols by organizations, including creation, elaboration, and association.
 
 Article                 | Status           |Depth    | Short title
 ---------               | :-:              |:-:      | ------------------
 @Westphal2021           | :x:              |:clock12:| Seeking input when the train has left the station
 @Westphal2020           |:heavy_check_mark:|:clock2: | Symbolic Management
 @Durand2019             |:heavy_check_mark:|:clock3: | Willing *and* able
-@Schnackenberg2019      | :x:              |:clock12:| Capitalizing on Categories of Social Construction
+@Schnackenberg2019      |:heavy_check_mark:|:clock12:| Capitalizing on Categories of Social Construction
 @Cuypers2016            | :x:              |:clock12:| Sincerity in Corporate Philanthropy, Stakeholder Perceptions and Firm Value
 @Marquis2016            | :x:              |:clock5: | Scrutiny, Norms, and Selective Disclosure
 @Shi2018                | :x:              |:clock12:| Is regulatory adoption ceremonial?
