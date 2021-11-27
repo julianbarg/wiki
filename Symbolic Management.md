@@ -34,12 +34,12 @@ Article                 | Status           |Depth    | Short title
 @Mantere2012            | :x:              |:clock12:| Reversal of Strategic Change
 @Forbes2011             | :x:              |:clock12:| The New Corporate Environmentalism and the Symbolic Management of Organizational Culture
 @Delmas2010             | :x:              |:clock12:| Voluntary agreements to improve environmental quality
+@Kim2007                | :x:              |:clock12:| Symbolic or behavioral management?
 @Zilber2006             | :x:              |:clock6: | The Work of the Symbolic in Institutional Processes
 @Stevens2005            | :x:              |:clock12:| Symbolic or substantive document?
 @Fiss2004               | :x:              |:clock12:| The Diffusion of Ideas over Contested Terrain
 @Westphal1998           | :x:              |:clock12:| The Symbolic Management of Stockholders
 @Elsbach1994            | :x:              |:clock9: | Managing Organizational Legitimacy in the California Cattle Industry
-@Kim2007                | :x:              |:clock12:| Symbolic or behavioral management?
 @Gioia1994              | :x:              |:clock12:| Symbolism and strategic change in academia
 @Edelman1992            | :x:              |:clock12:| Legal ambiguity and symbolic structures
 @Pfeffer1981            | :x:              |:clock12:| Management as symbolic action
