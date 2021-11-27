@@ -6,6 +6,7 @@ Article                             |Journal| Type | Sustain.          | Phenome
 ------------------                  | :-:   | :-:  | :-:               | ----------     | ---------------------------
 [[Westphal & Park 2020]]            | Book  |Review|:x:                | -              | Social distancing, pluralistic ignorance
 [[Durand, Hawn & Ioannou 2019]]     | AMR   |Theory| :heavy_check_mark:| CSR            |Symbolic & substantive confority & compliance         
+[[]]
 
 Article                             | Method                | Industry/context          | Sample
 ------                              | ----                  | -----                     | ----
