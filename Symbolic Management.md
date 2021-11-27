@@ -28,8 +28,8 @@ Article                 | Status           |Depth    | Short title
 @Westphal2021           | :x:              |:clock12:| Seeking input when the train has left the station
 @Westphal2020           |:heavy_check_mark:|:clock3: | Symbolic Management
 @Durand2019             |:heavy_check_mark:|:clock5: | Willing *and* able
-@Schnackenberg2019      |:heavy_check_mark:|:clock8:| Capitalizing on Categories of Social Construction
-@Cuypers2016            |:heavy_check_mark:|:clock12:| Sincerity in Corporate Philanthropy, Stakeholder Perceptions and Firm Value
+@Schnackenberg2019      |:heavy_check_mark:|:clock8: | Capitalizing on Categories of Social Construction
+@Cuypers2016            |:heavy_check_mark:|:clock4: | Sincerity in Corporate Philanthropy, Stakeholder Perceptions and Firm Value
 @Marquis2016            | :x:              |:clock5: | Scrutiny, Norms, and Selective Disclosure
 @Shi2018                | :x:              |:clock12:| Is regulatory adoption ceremonial?
 @Smith2016              | :x:              |:clock12:| "We do what we must, and call it by the best names"
