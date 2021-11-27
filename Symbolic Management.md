@@ -30,6 +30,7 @@ Article                 | Status           |Depth    | Short title
 @Markoczy2013           | :x:              |:clock12:| Social network contingency, symbolic management, and boundary stretching
 @Marquis2014            | :x:              |:clock12:| Corporate Social Responsibility Reporting in China
 @Westphal2013           | :x:              |:clock12:| A Behavioral Theory of Corporate Governance
+@Lepoutre2012           | :x:              |:clock12:| Fools breaking out
 @Mantere2012            | :x:              |:clock12:| Reversal of Strategic Change
 @Forbes2011             | :x:              |:clock12:| The New Corporate Environmentalism and the Symbolic Management of Organizational Culture
 @Delmas2010             | :x:              |:clock12:| Voluntary agreements to improve environmental quality
