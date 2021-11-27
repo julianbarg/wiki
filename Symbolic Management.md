@@ -7,18 +7,21 @@ Article                             |Journal| Type | Sustain.          | Phenome
 [[Westphal & Park 2020]]            | Book  |Review|:x:                | -              | Social distancing, pluralistic ignorance
 [[Durand, Hawn & Ioannou 2019]]     | AMR   |Theory| :heavy_check_mark:| CSR            |Symbolic & substantive confority & compliance         
 [[Schnackenberg et al 2019]]        | AMA   |Review| :x:               | -              | Semiotic & symbolic interactionist perspective
+[[Cuypers, Koh & Wang 2016]]        |Org Sci| Quant| :x:               | Philantrophy| Generous & innovative giving
 
 Article                             | Method                | Industry/context          | Sample
 ------                              | ----                  | -----                     | ----
 [[Westphal & Park 2020]]            | Literature review     | -                         | -
 [[Durand, Hawn & Ioannou 2019]]     | Formal models         | -                         | -
 [[Schnackenberg et al 2019]]        | Literature review     | -                         | ?
+[[Cuypers, Koh & Wang 2016]]        | OLS regression        | US corporate philantrophy | 20,148 firm-year observations
 
 Article                         | Synopsis
 ----                            | ----------------
 [[Westphal & Park 2020]]        | SM is manipulating overseers into believing that you meet expectations, to appear legitimate.
 [[Durand, Hawn & Ioannou 2019]] | Firms (may) decide for SM based on their willingness *and* ability. They consider issue saliance, organizational resources etc.
 [[Schnackenberg et al 2019]]    | SM is the identification and management of symbols by organizations, including creation, elaboration, and association.
+[[Cuypers, Koh & Wang 2016]]    | Not just the sum of philantrophic giving, the method also matters to the audience.
 
 Article                 | Status           |Depth    | Short title
 ---------               | :-:              |:-:      | ------------------
@@ -26,7 +29,7 @@ Article                 | Status           |Depth    | Short title
 @Westphal2020           |:heavy_check_mark:|:clock3: | Symbolic Management
 @Durand2019             |:heavy_check_mark:|:clock5: | Willing *and* able
 @Schnackenberg2019      |:heavy_check_mark:|:clock8:| Capitalizing on Categories of Social Construction
-@Cuypers2016            | :x:              |:clock12:| Sincerity in Corporate Philanthropy, Stakeholder Perceptions and Firm Value
+@Cuypers2016            |:heavy_check_mark:|:clock12:| Sincerity in Corporate Philanthropy, Stakeholder Perceptions and Firm Value
 @Marquis2016            | :x:              |:clock5: | Scrutiny, Norms, and Selective Disclosure
 @Shi2018                | :x:              |:clock12:| Is regulatory adoption ceremonial?
 @Smith2016              | :x:              |:clock12:| "We do what we must, and call it by the best names"
