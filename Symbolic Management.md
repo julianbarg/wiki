@@ -1,13 +1,16 @@
----
+ ---
 bibliography: bibliography.bib
 ---
 
-Article                             |Journal| Type | Sustain.          | Phenomenon     | Concepts
-------------------                  | :-:   | :-:  | :-:               | ----------     | ---------------------------
-[[Westphal & Park 2020]]            | Book  |Review|:x:                | -              | Social distancing, pluralistic ignorance
-[[Durand, Hawn & Ioannou 2019]]     | AMR   |Theory| :heavy_check_mark:| CSR            |Symbolic & substantive confority & compliance         
-[[Schnackenberg et al 2019]]        | AMA   |Review| :x:               | -              | Semiotic & symbolic interactionist perspective
-[[Cuypers, Koh & Wang 2016]]        |Org Sci| Quant|:last_quarter_moon:| Philantrophy| Generous & innovative giving
+Article                             |Journal| Type | Sustain.          | Phenomenon         | Concepts
+------------------                  | :-:   | :-:  | :-:               | ----------         | ---------------------------
+[[Westphal & Park 2020]]            | Book  |Review|:x:                | -                  | Social distancing, pluralistic ignorance
+[[Durand, Hawn & Ioannou 2019]]     | AMR   |Theory| :heavy_check_mark:| CSR                |Symbolic & substantive confority & compliance         
+[[Schnackenberg et al 2019]]        | AMA   |Review| :x:               | -                  | Semiotic & symbolic interactionist perspective
+[[Cuypers, Koh & Wang 2016]]        |Org Sci| Quant|:last_quarter_moon:| Philantrophy       | Generous & innovative giving
+[[Fiss & Zajac 2004]]               | ASQ   | Quant| :x:               | Shareholder value  | 
+[[Westphal & Zajac 1998]]           | ASQ   | Quant| :x:               | Long-term incentive|
+[[Gioia et al 1994]]                |Org Sci| Qual | :x:               | Academia           |   
 
 Article                             | Method                | Industry/context          | Sample
 ------                              | ----                  | -----                     | ----
@@ -15,6 +18,9 @@ Article                             | Method                | Industry/context  
 [[Durand, Hawn & Ioannou 2019]]     | Formal models         | -                         | -
 [[Schnackenberg et al 2019]]        | Literature review     | -                         | ?
 [[Cuypers, Koh & Wang 2016]]        | OLS regression        | US corporate philantrophy | 20,148 firm-year observations
+[[Fiss & Zajac 2004]]               | Event history analysis| German corporations       | 1,120 firm-year observations
+[[Westphal & Zajac 1998]]           | Event history analysis| LTIP stock market reaction| 2,856 firm-year observations
+[[Gioia et al 1994]]                | Ethnography           | Uni strategic planning    | 1 task force, ? years
 
 Article                         | Synopsis
 ----                            | ----------------
