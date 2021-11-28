@@ -8,7 +8,7 @@ Article                             |Journal| Type | Sustain.          | Phenome
 [[Durand, Hawn & Ioannou 2019]]     | AMR   |Theory| :heavy_check_mark:| CSR                |Symbolic & substantive confority & compliance         
 [[Schnackenberg et al 2019]]        | AMA   |Review| :x:               | -                  | Semiotic & symbolic interactionist perspective
 [[Cuypers, Koh & Wang 2016]]        |Org Sci| Quant|:last_quarter_moon:| Philantrophy       | Generous & innovative giving
-[[Fiss & Zajac 2004]]               | ASQ   | Quant| :x:               | Shareholder value  | Shallow & deep convergence, decoupling
+[[Fiss & Zajac 2004]]               | ASQ   | Quant| :crescent_moon:   | Shareholder value  | Shallow & deep convergence, decoupling
 [[Westphal & Zajac 1998]]           | ASQ   | Quant| :x:               | Long-term incentive| Symbolic language, decoupling
 [[Gioia et al 1994]]                |Org Sci| Qual | :x:               | Academia           | 
 
@@ -51,8 +51,8 @@ Article                 | Status           |Depth    | Short title
 @Kim2007                | :x:              |:clock12:| Symbolic or behavioral management?
 @Zilber2006             | :x:              |:clock6: | The Work of the Symbolic in Institutional Processes
 @Stevens2005            | :x:              |:clock12:| Symbolic or substantive document?
-@Fiss2004               | :x:              |:clock12:| The Diffusion of Ideas over Contested Terrain
-@Westphal1998           | :x:              |:clock12:| The Symbolic Management of Stockholders
+@Fiss2004               |:heavy_check_mark:|:clock3: | The Diffusion of Ideas over Contested Terrain
+@Westphal1998           |:heavy_check_mark:|:clock3: | The Symbolic Management of Stockholders
 @Elsbach1994            | :x:              |:clock9: | Managing Organizational Legitimacy in the California Cattle Industry
 @Gioia1994              | :x:              |:clock12:| Symbolism and strategic change in academia
 @Edelman1992            | :x:              |:clock12:| Legal ambiguity and symbolic structures
