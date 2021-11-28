@@ -2,48 +2,61 @@
 bibliography: bibliography.bib
 ---
 
-Article                     | Type      | Sample                        | Concepts
----------                   | ---       | ---------                     | ---------   
-[[Quigley et al 2020]]      |Event study| 1,753 option grants to CEOs   | Agency, information releases
+Article                             |Journal| Type | Sustain.          | Phenomenon         | Concepts
+------------------                  | :-:   | :-:  | :-:               | ----------         | ---------------------------
+[[Gaim, Clegg & Cunha 2021]]        |Org Stu| Qual | :heavy_check_mark:|VW emissions scandal|
+[[Quigley et al 2020]]              | AMJ   | Quant| :x:               |Executive compensation|Agency, information releases
+[[Cole & Chandler 2019]]            | ASQ   | Qual | :x:               | Thomas Edison      | Competitive impression mngt
+[[Bansal& Clelland 2004]]           | AMJ   | Quant| :heavy_check_mark:| Polluting companies|
 Table: **Overview**
 
-Article                 | Synopsis
----                     | ---------------
-[[Quigley et al 2020]]  | Some CEOs game compensation systems by releasing bad news before stock option grants
+Article                             | Method                | Industry/context          | Sample
+------                              | ----                  | -----                     | ------
+[[Gaim, Clegg & Cunha 2021]]        | 
+[[Quigley et al 2020]]              | Event study           | CEO stock option grants   | 1,753 grants
+[[Cole & Chandler 2019]]            | Archival              | 
+[[Bansal& Clelland 2004]]           |
+Table: **Methods & Sample**
+
+Article                         | Synopsis
+----                            | ----------------
+[[Gaim, Clegg & Cunha 2021]]    |
+[[Quigley et al 2020]]          | Some CEOs game compensation systems by releasing bad news before stock option grants
+[[Cole & Chandler 2019]]        |
+[[Bansal& Clelland 2004]]       |
 Table: **Findings**
 
-
-Article             |Journal| Status           | Depth   | Short title
----------           | :-:   | :-:              | :-:     | ---------------
-@Caputo2021         | BSE   | :x:              |:clock12:| Enhancing environmental information transparency through corporate social responsibility reporting regulation
-@Gaim2021           |Org Stu| :x:              |:clock12:| Managing Impressions Rather Than Emissions
-@Haffar2020         | O&E   | :x:              |:clock12:| Legitimizing Potential "Bad News"
-@Quigley2020        | AMJ   |:heavy_check_mark:|:clock12:| Unintended Consequences
-@Cole2019           | ASQ   | :x:              |:clock12:| A Model of Competitive Impression Management
-@Morales-Raya2019   | O&E   | :x:              |:clock12:| To Be or to Seem
-@Shi2018            | SMJ   | :x:              |:clock12:| Is regulatory adoption ceremonial?
-@Carlos2018         | ASQ   | :x:              |:clock4: | Strategic Silence
-@Busenbark2017      | SMJ   | :x:              |:clock12:| Foreshadowing as Impression Management
-@Hayward2017        | AMJ   | :x:              |:clock12:| Pseudo-Precision?
-@Whittington2016    | SMJ   | :x:              |:clock12:| Cheap talk?
-@Durand2015         | SMJ   | :x:              |:clock12:| Asset Divestment as a Response to Media Attacks in Stigmatized Industries
-@Tata2015           | JBE   | :x:              |:clock12:| CSR Communication
-@Desai2014          | SO    | :x:              |:clock12:| Does disclosure matter?
-@McDonnell2013      | ASQ   | :x:              |:clock12:| Keeping up Appearances
-@Mishina2012        | SMJ   | :x:              |:clock12:| The Decision to Blow the Whistle
-@Westphal2012       | ASQ   | :x:              |:clock12:| Helping Other CEOs Avoid Bad Press
-@Westphal2012a      | Other | :x:              |:clock12:| Unintended agency
-@Graffin2011        | SMJ   | :x:              |:clock12:| What's all that (strategic) noise?
-@Westphal2010       | AMJ   | :x:              |:clock12:| A Matter of Appearances
-@Bolino2008         | JOM   | :x:              |:clock12:| A Multi-Level Review of Impression Management Motives and Behaviors
-@Bansal2006         | JBE   | :x:              |:clock12:| Seeing Is (Not) Believing
-@Bansal2004         | AMJ   | :x:              |:clock12:| Talking Trash
-@Gundlach2003       | AMR   | :x:              |:clock12:| The Decision to Blow the Whistle
-@Arndt2000          | ASQ   | :x:              |:clock12:| Presenting Structural Innovation in an Institutional Environment
-@Bolino1999         | AMR   | :x:              |:clock12:| Citizenship and Impression Management
-@Elsbach1998        |Org Sci| :x:              |:clock6: | Averting Expected Challenges Through Anticipatory Impression Management
-@Elsbach1996        | ASQ   | :x:              |:clock2: | Members' Responses to Organizational Identity Threats
-@Elsbach1992        | AMJ   | :x:              |:clock8: | Acquiring Organizational Legitimacy through Illegitimate Actions
+Article             | Status           | Depth   | Short title
+---------           | :-:              | :-:     | ---------------
+@Caputo2021         | :x:              |:clock12:| Enhancing environmental information transparency through corporate social responsibility reporting regulation
+@Gaim2021           | :x:              |:clock12:| Managing Impressions Rather Than Emissions
+@Haffar2020         | :x:              |:clock12:| Legitimizing Potential "Bad News"
+@Quigley2020        |:heavy_check_mark:|:clock12:| Unintended Consequences
+@Cole2019           | :x:              |:clock12:| A Model of Competitive Impression Management
+@Morales-Raya2019   | :x:              |:clock12:| To Be or to Seem
+@Shi2018            | :x:              |:clock12:| Is regulatory adoption ceremonial?
+@Carlos2018         | :x:              |:clock4: | Strategic Silence
+@Busenbark2017      | :x:              |:clock12:| Foreshadowing as Impression Management
+@Hayward2017        | :x:              |:clock12:| Pseudo-Precision?
+@Whittington2016    | :x:              |:clock12:| Cheap talk?
+@Durand2015         | :x:              |:clock12:| Asset Divestment as a Response to Media Attacks in Stigmatized Industries
+@Tata2015           | :x:              |:clock12:| CSR Communication
+@Desai2014          | :x:              |:clock12:| Does disclosure matter?
+@McDonnell2013      | :x:              |:clock12:| Keeping up Appearances
+@Mishina2012        | :x:              |:clock12:| The Decision to Blow the Whistle
+@Westphal2012       | :x:              |:clock12:| Helping Other CEOs Avoid Bad Press
+@Westphal2012a      | :x:              |:clock12:| Unintended agency
+@Graffin2011        | :x:              |:clock12:| What's all that (strategic) noise?
+@Westphal2010       | :x:              |:clock12:| A Matter of Appearances
+@Bolino2008         | :x:              |:clock12:| A Multi-Level Review of Impression Management Motives and Behaviors
+@Bansal2006         | :x:              |:clock12:| Seeing Is (Not) Believing
+@Bansal2004         | :x:              |:clock12:| Talking Trash
+@Gundlach2003       | :x:              |:clock12:| The Decision to Blow the Whistle
+@Arndt2000          | :x:              |:clock12:| Presenting Structural Innovation in an Institutional Environment
+@Bolino1999         | :x:              |:clock12:| Citizenship and Impression Management
+@Elsbach1998        | :x:              |:clock6: | Averting Expected Challenges Through Anticipatory Impression Management
+@Elsbach1996        | :x:              |:clock2: | Members' Responses to Organizational Identity Threats
+@Elsbach1992        | :x:              |:clock8: | Acquiring Organizational Legitimacy through Illegitimate Actions
 Table: **Master table**
 
 ---
