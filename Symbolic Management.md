@@ -11,6 +11,7 @@ Article                             |Journal| Type | Sustain.          | Phenome
 [[Fiss & Zajac 2004]]               | ASQ   | Quant| :crescent_moon:   | Shareholder value  | Shallow & deep convergence, decoupling
 [[Westphal & Zajac 1998]]           | ASQ   | Quant| :x:               | Long-term incentive| Symbolic language, decoupling
 [[Gioia et al 1994]]                |Org Sci| Qual | :x:               | Academia           | Inluence, sensemaking
+Table: **Overview**
 
 Article                             | Method                | Industry/context          | Sample
 ------                              | ----                  | -----                     | ------
@@ -21,6 +22,7 @@ Article                             | Method                | Industry/context  
 [[Fiss & Zajac 2004]]               | Event history analysis| German corporations       | 1,120 firm-year observations
 [[Westphal & Zajac 1998]]           | Event history analysis| LTIP stock market reaction| 2,856 firm-year observations
 [[Gioia et al 1994]]                | Ethnography           | Uni strategic planning    | 1 task force, ? years
+Table: **Methods & Sample**
 
 Article                         | Synopsis
 ----                            | ----------------
@@ -31,6 +33,7 @@ Article                         | Synopsis
 [[Fiss & Zajac 2004]]           | German firms adopt shareholder orientation based on interestst of their stakeholders, e.g., banks, governments, families.
 [[Westphal & Zajac 1998]]       | The stock market reacts positively to LTIP language, regardless of whether it is implemented.
 [[Gioia et al 1994]]            | Managers encounter everything as a symbol first, and then need to work to make sense of it, make it substantive.
+Table: **Findings**
 
 Article                 | Status           |Depth    | Short title
 ---------               | :-:              |:-:      | ------------------
