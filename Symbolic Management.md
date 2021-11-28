@@ -55,7 +55,7 @@ Article                 | Status           |Depth    | Short title
 @Fiss2004               |:heavy_check_mark:|:clock3: | The Diffusion of Ideas over Contested Terrain
 @Westphal1998           |:heavy_check_mark:|:clock3: | The Symbolic Management of Stockholders
 @Elsbach1994            | :x:              |:clock9: | Managing Organizational Legitimacy in the California Cattle Industry
-@Gioia1994              | :x:              |:clock12:| Symbolism and strategic change in academia
+@Gioia1994              |:heavy_check_mark:|:clock12:| Symbolism and strategic change in academia
 @Edelman1992            | :x:              |:clock12:| Legal ambiguity and symbolic structures
 @Pfeffer1981            | :x:              |:clock12:| Management as symbolic action
 Table: **Master table**
