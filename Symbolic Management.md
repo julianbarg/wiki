@@ -1,4 +1,4 @@
- ---
+---
 bibliography: bibliography.bib
 ---
 
@@ -13,7 +13,7 @@ Article                             |Journal| Type | Sustain.          | Phenome
 [[Gioia et al 1994]]                |Org Sci| Qual | :x:               | Academia           |   
 
 Article                             | Method                | Industry/context          | Sample
-------                              | ----                  | -----                     | ----
+------                              | ----                  | -----                     | ------
 [[Westphal & Park 2020]]            | Literature review     | -                         | -
 [[Durand, Hawn & Ioannou 2019]]     | Formal models         | -                         | -
 [[Schnackenberg et al 2019]]        | Literature review     | -                         | ?
