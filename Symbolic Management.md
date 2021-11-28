@@ -10,7 +10,7 @@ Article                             |Journal| Type | Sustain.          | Phenome
 [[Cuypers, Koh & Wang 2016]]        |Org Sci| Quant|:last_quarter_moon:| Philantrophy       | Generous & innovative giving
 [[Fiss & Zajac 2004]]               | ASQ   | Quant| :crescent_moon:   | Shareholder value  | Shallow & deep convergence, decoupling
 [[Westphal & Zajac 1998]]           | ASQ   | Quant| :x:               | Long-term incentive| Symbolic language, decoupling
-[[Gioia et al 1994]]                |Org Sci| Qual | :x:               | Academia           | 
+[[Gioia et al 1994]]                |Org Sci| Qual | :x:               | Academia           | Inluence, sensemaking
 
 Article                             | Method                | Industry/context          | Sample
 ------                              | ----                  | -----                     | ------
@@ -30,6 +30,7 @@ Article                         | Synopsis
 [[Cuypers, Koh & Wang 2016]]    | Not just the sum of philantrophic giving, the method also matters to the audience.
 [[Fiss & Zajac 2004]]           | German firms adopt shareholder orientation based on interestst of their stakeholders, e.g., banks, governments, families.
 [[Westphal & Zajac 1998]]       | The stock market reacts positively to LTIP language, regardless of whether it is implemented.
+[[Gioia et al 1994]]            | Managers encounter everything as a symbol first, and then need to work to make sense of it, make it substantive.
 
 Article                 | Status           |Depth    | Short title
 ---------               | :-:              |:-:      | ------------------
