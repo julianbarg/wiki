@@ -8,9 +8,9 @@ Article                             |Journal| Type | Sustain.          | Phenome
 [[Durand, Hawn & Ioannou 2019]]     | AMR   |Theory| :heavy_check_mark:| CSR                |Symbolic & substantive confority & compliance         
 [[Schnackenberg et al 2019]]        | AMA   |Review| :x:               | -                  | Semiotic & symbolic interactionist perspective
 [[Cuypers, Koh & Wang 2016]]        |Org Sci| Quant|:last_quarter_moon:| Philantrophy       | Generous & innovative giving
-[[Fiss & Zajac 2004]]               | ASQ   | Quant| :x:               | Shareholder value  | 
-[[Westphal & Zajac 1998]]           | ASQ   | Quant| :x:               | Long-term incentive|
-[[Gioia et al 1994]]                |Org Sci| Qual | :x:               | Academia           |   
+[[Fiss & Zajac 2004]]               | ASQ   | Quant| :x:               | Shareholder value  | Shallow & deep convergence, decoupling
+[[Westphal & Zajac 1998]]           | ASQ   | Quant| :x:               | Long-term incentive| Symbolic language, decoupling
+[[Gioia et al 1994]]                |Org Sci| Qual | :x:               | Academia           | 
 
 Article                             | Method                | Industry/context          | Sample
 ------                              | ----                  | -----                     | ------
@@ -28,6 +28,8 @@ Article                         | Synopsis
 [[Durand, Hawn & Ioannou 2019]] | Firms (may) decide for SM based on their willingness *and* ability. They consider issue saliance, organizational resources etc.
 [[Schnackenberg et al 2019]]    | SM is the identification and management of symbols by organizations, including creation, elaboration, and association.
 [[Cuypers, Koh & Wang 2016]]    | Not just the sum of philantrophic giving, the method also matters to the audience.
+[[Fiss & Zajac 2004]]           | German firms adopt shareholder orientation based on interestst of their stakeholders, e.g., banks, governments, families.
+[[Westphal & Zajac 1998]]       | The stock market reacts positively to LTIP language, regardless of whether it is implemented.
 
 Article                 | Status           |Depth    | Short title
 ---------               | :-:              |:-:      | ------------------
