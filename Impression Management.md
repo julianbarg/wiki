@@ -7,6 +7,7 @@ Article                             |Journal| Type | Sustain.          | Phenome
 [[Gaim, Clegg & Cunha 2021]]        |Org Stu| Qual | :heavy_check_mark:|VW Emissions scandal| Paradox
 [[Quigley et al 2020]]              | AMJ   | Quant| :x:               | CEO compensation   | Agency, information releases
 [[Cole & Chandler 2019]]            | ASQ   | Qual | :x:               | Thomas Edison      | Competitive impression mngt
+[[Carlos & Lewis 2018]]             | ASQ   | Quant| :heavy_check_mark:|Sustainability cert.| Strategic silence, hipocrisy
 [[Busenbark & Fitza 2017]]          | SMJ   | Quant| :x:               |Acquisition announc.| Foreshadowing
 [[Hayward & Fitza 2017]]            | AMJ   | Quant| :x:               | Forecast precision | Judgement precision, managerial confidence
 [[Whittington, Yakis-Douglas & Ahn 2016]]|SMJ|Quant| :x:               | CEO presentations  | -
@@ -19,6 +20,7 @@ Article                             | Method                | Industry/context  
 [[Gaim, Clegg & Cunha 2021]]        | Archival              | VW emissions scandal      | 2,656 news articles, 2015-17
 [[Quigley et al 2020]]              | Event study           | CEO stock option grants   | 1,753 grants
 [[Cole & Chandler 2019]]            | Archival              | "War of currents"         | Archival documents, ~1886-1893
+[[Carlos & Lewis 2018]]             | Two-step Heckman      |DSJI certification disclosure| 1,486 firm-year observations
 [[Busenbark & Fitza 2017]]          |Zero-inflated neg binom| SEOs before acquisition   | 4,848 acquisition announcements
 [[Hayward & Fitza 2017]]            | Two-step Heckman      | Earnings forecasts        | 7,092 firm-years observations
 [[Whittington, Yakis-Douglas & Ahn 2016]]| Event study      | CEO public presentations  | 384 new CEO strategy presentations
@@ -31,6 +33,7 @@ Article                             | Synopsis
 [[Gaim, Clegg & Cunha 2021]]        | VW achieved the impossible through cheating, surfacing the dark side of paradox.
 [[Quigley et al 2020]]              | Some CEOs game compensation systems by releasing bad news before stock option grants.
 [[Cole & Chandler 2019]]            | Shows the competitive IM by Edison and a competitor, where public institutions are the judge.
+[[Carlos & Lewis 2018]]             | When reports mention e.g., protests or boycot threats a firm is less likely to disclose a positive environmental signal--DJSI certification.
 [[Busenbark & Fitza 2017]]          | Firms that foreshadow acquisition announcements in a seasoned equity offering face less negative reactions.
 [[Hayward & Fitza 2017]]            | Firms use precision--a narrow spread in earning call forecasts--to signal confidence.
 [[Whittington, Yakis-Douglas & Ahn 2016]]| CEO public presentations constitute effective IM which elicit positive reactions.
