@@ -3,7 +3,7 @@ bibliography: bibliography.bib
 ---
 
 Article                             |Journal| Type | Sustain.          | Phenomenon         | Concepts
-------------------                  | :-:   | :-:  | :-:               | ----------         | ---------------------------
+------------------                  | :-:   | :-:  | :-:               | ------------       | ---------------------------
 [[Gaim, Clegg & Cunha 2021]]        |Org Stu| Qual | :heavy_check_mark:|VW Emissions scandal| Paradox
 [[Quigley et al 2020]]              | AMJ   | Quant| :x:               | CEO compensation   | Agency, information releases
 [[Cole & Chandler 2019]]            | ASQ   | Qual | :x:               | Thomas Edison      | Competitive impression mngt
@@ -19,7 +19,7 @@ Article                             | Method                | Industry/context  
 Table: **Methods & Sample**
 
 Article                         | Synopsis
-----                            | ----------------
+-----                           | ----------------
 [[Gaim, Clegg & Cunha 2021]]    | VW achieved the impossible through cheating, surfasing the dark side of paradox.
 [[Quigley et al 2020]]          | Some CEOs game compensation systems by releasing bad news before stock option grants.
 [[Cole & Chandler 2019]]        | Shows the competitive IM by Edison and a competitor, where public institutions are the judge.
