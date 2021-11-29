@@ -7,23 +7,35 @@ Article                             |Journal| Type | Sustain.          | Phenome
 [[Gaim, Clegg & Cunha 2021]]        |Org Stu| Qual | :heavy_check_mark:|VW Emissions scandal| Paradox
 [[Quigley et al 2020]]              | AMJ   | Quant| :x:               | CEO compensation   | Agency, information releases
 [[Cole & Chandler 2019]]            | ASQ   | Qual | :x:               | Thomas Edison      | Competitive impression mngt
-[[Bansal& Clelland 2004]]           | AMJ   | Quant| :heavy_check_mark:| Unsystmatic risk   | Environmental legitimacy
+[[Busenbark & Fitza 2017]]          | SMJ   | Quant| :x:               |Acquisition announc.| Foreshadowing
+[[Hayward & Fitza 2017]]            | AMJ   | Quant| :x:               | Forecast precision | Judgement precision, managerial confidence
+[[Whittington, Yakis-Douglas & Ahn 2016]]|SMJ|Quant| :x:               | CEO presentations  | -
+[[McDonnel & King 2013]]            | ASQ   | Quant| :heavy_check_mark:| Boycotts           | Strategic interactions
+[[Bansal & Clelland 2004]]          | AMJ   | Quant| :heavy_check_mark:| Unsystmatic risk   | Environmental legitimacy
 Table: **Overview**
 
 Article                             | Method                | Industry/context          | Sample
 ------                              | ----                  | -----                     | ------
 [[Gaim, Clegg & Cunha 2021]]        | Archival              | VW emissions scandal      | 2,656 news articles, 2015-17
 [[Quigley et al 2020]]              | Event study           | CEO stock option grants   | 1,753 grants
-[[Cole & Chandler 2019]]            | Archival              | "Wap of currents"         | Archival documents, 1886-
+[[Cole & Chandler 2019]]            | Archival              | "War of currents"         | Archival documents, ~1886-1893
+[[Busenbark & Fitza 2017]]          |Zero-inflated neg binom| SEOs before acquisition   | 4,848 acquisition announcements
+[[Hayward & Fitza 2017]]            | Two-step Heckman      | Earnings forecasts        | 7,092 firm-years observations
+[[Whittington, Yakis-Douglas & Ahn 2016]]|
+[[McDonnel & King 2013]]            |Propensity score matching|Boycotted firms          | 221-boycott-target observations
 [[Bansal& Clelland 2004]]           | Two-way ANOVA         | Polluting industry        | 100 firms
 Table: **Methods & Sample**
 
-Article                         | Synopsis
------                           | ----------------
-[[Gaim, Clegg & Cunha 2021]]    | VW achieved the impossible through cheating, surfasing the dark side of paradox.
-[[Quigley et al 2020]]          | Some CEOs game compensation systems by releasing bad news before stock option grants.
-[[Cole & Chandler 2019]]        | Shows the competitive IM by Edison and a competitor, where public institutions are the judge.
-[[Bansal& Clelland 2004]]       | Higher legitimacy lowers unsystematic risks, release of negative information increases it. 
+Article                             | Synopsis
+-----                               | ----------------
+[[Gaim, Clegg & Cunha 2021]]        | VW achieved the impossible through cheating, surfacing the dark side of paradox.
+[[Quigley et al 2020]]              | Some CEOs game compensation systems by releasing bad news before stock option grants.
+[[Cole & Chandler 2019]]            | Shows the competitive IM by Edison and a competitor, where public institutions are the judge.
+[[Busenbark & Fitza 2017]]          | Firms that foreshadow acquisition announcements in a seasoned equity offering face less negative reactions.
+[[Hayward & Fitza 2017]]            | Firms use precision--a narrow spread in earning call forecasts--to signal confidence.
+[[Whittington, Yakis-Douglas & Ahn 2016]]| CEO public presentations constitute effective IM which elicit positive reactions.
+[[McDonnel & King 2013]]            | Firms respond to negative claims by social movements with their own positive claims.
+[[Bansal& Clelland 2004]]           | Higher legitimacy lowers unsystematic risks, release of negative information increases it. 
 Table: **Findings**
 
 Article             | Status           | Depth   | Short title
@@ -34,7 +46,6 @@ Article             | Status           | Depth   | Short title
 @Quigley2020        |:heavy_check_mark:|:clock12:| Unintended Consequences
 @Cole2019           |:heavy_check_mark:|:clock12:| A Model of Competitive Impression Management
 @Morales-Raya2019   | :x:              |:clock12:| To Be or to Seem
-@Shi2018            | :x:              |:clock12:| Is regulatory adoption ceremonial?
 @Carlos2018         | :x:              |:clock4: | Strategic Silence
 @Busenbark2017      | :x:              |:clock12:| Foreshadowing as Impression Management
 @Hayward2017        | :x:              |:clock12:| Pseudo-Precision?
