@@ -1,3 +1,7 @@
+---
+bibliography: bibliography.bib
+---
+
 # 2021
 
 ## November
@@ -79,3 +83,6 @@ Why did people enjoy that @Bansal2004? Was it a cynical love? Did people love th
 
 Ironically, science cannot deal with real uncertainty, because it makes for measures we cannot operationalize.
  
+---
+
+# References
