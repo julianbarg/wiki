@@ -29,10 +29,10 @@ Table: **Findings**
 Article             | Status           | Depth   | Short title
 ---------           | :-:              | :-:     | ---------------
 @Caputo2021         | :x:              |:clock12:| Enhancing environmental information transparency through corporate social responsibility reporting regulation
-@Gaim2021           | :x:              |:clock12:| Managing Impressions Rather Than Emissions
+@Gaim2021           |:heavy_check_mark:|:clock12:| Managing Impressions Rather Than Emissions
 @Haffar2020         | :x:              |:clock12:| Legitimizing Potential "Bad News"
 @Quigley2020        |:heavy_check_mark:|:clock12:| Unintended Consequences
-@Cole2019           | :x:              |:clock12:| A Model of Competitive Impression Management
+@Cole2019           |:heavy_check_mark:|:clock12:| A Model of Competitive Impression Management
 @Morales-Raya2019   | :x:              |:clock12:| To Be or to Seem
 @Shi2018            | :x:              |:clock12:| Is regulatory adoption ceremonial?
 @Carlos2018         | :x:              |:clock4: | Strategic Silence
