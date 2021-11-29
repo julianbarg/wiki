@@ -44,10 +44,9 @@ Article                 | Status           |Depth    | Short title
 @Westphal2020           |:heavy_check_mark:|:clock3: | Symbolic Management
 @Durand2019             |:heavy_check_mark:|:clock5: | Willing *and* able
 @Schnackenberg2019      |:heavy_check_mark:|:clock8: | Capitalizing on Categories of Social Construction
-@Shi2018                | :x:              |:clock12:| Is regulatory adoption ceremonial?
+@Shi2018                |:heavy_check_mark:|:clock3: | Is regulatory adoption ceremonial?
 @Cuypers2016            |:heavy_check_mark:|:clock4: | Sincerity in Corporate Philanthropy, Stakeholder Perceptions and Firm Value
 @Marquis2016            | :x:              |:clock5: | Scrutiny, Norms, and Selective Disclosure
-@Shi2018                |:heavy_check_mark:|:clock3: | Is regulatory adoption ceremonial?
 @Smith2016              | :x:              |:clock12:| "We do what we must, and call it by the best names"
 @Markoczy2013           | :x:              |:clock12:| Social network contingency, symbolic management, and boundary stretching
 @Marquis2014            | :x:              |:clock12:| Corporate Social Responsibility Reporting in China
