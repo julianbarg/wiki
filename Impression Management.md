@@ -3,7 +3,7 @@ bibliography: bibliography.bib
 ---
 
 Article                             |Journal| Type | Sustain.          | Phenomenon         | Concepts
-------------------                  | :-:   | :-:  | :-:               | ------------       | ---------------------------
+------------------                  | :-:   | :-:  | :-:               | -------------      | ---------------------------
 [[Gaim, Clegg & Cunha 2021]]        |Org Stu| Qual | :heavy_check_mark:|VW Emissions scandal| Paradox
 [[Quigley et al 2020]]              | AMJ   | Quant| :x:               | CEO compensation   | Agency, information releases
 [[Cole & Chandler 2019]]            | ASQ   | Qual | :x:               | Thomas Edison      | Competitive impression mngt
