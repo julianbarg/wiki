@@ -4,25 +4,25 @@ bibliography: bibliography.bib
 
 Article                             |Journal| Type | Sustain.          | Phenomenon         | Concepts
 ------------------                  | :-:   | :-:  | :-:               | ----------         | ---------------------------
-[[Gaim, Clegg & Cunha 2021]]        |Org Stu| Qual | :heavy_check_mark:|VW emissions scandal|
-[[Quigley et al 2020]]              | AMJ   | Quant| :x:               |Executive compensation|Agency, information releases
+[[Gaim, Clegg & Cunha 2021]]        |Org Stu| Qual | :heavy_check_mark:|VW Emissions scandal| Paradox
+[[Quigley et al 2020]]              | AMJ   | Quant| :x:               | CEO compensation   | Agency, information releases
 [[Cole & Chandler 2019]]            | ASQ   | Qual | :x:               | Thomas Edison      | Competitive impression mngt
-[[Bansal& Clelland 2004]]           | AMJ   | Quant| :heavy_check_mark:| Polluting companies|
+[[Bansal& Clelland 2004]]           | AMJ   | Quant| :heavy_check_mark:| Polluting companies| Paradox
 Table: **Overview**
 
 Article                             | Method                | Industry/context          | Sample
 ------                              | ----                  | -----                     | ------
-[[Gaim, Clegg & Cunha 2021]]        | 
+[[Gaim, Clegg & Cunha 2021]]        | Archival              | VW emissions scandal      | 2,656 news articles, 2015-17
 [[Quigley et al 2020]]              | Event study           | CEO stock option grants   | 1,753 grants
-[[Cole & Chandler 2019]]            | Archival              | 
+[[Cole & Chandler 2019]]            | Archival              | "Wap of currents"         | Archival documents, 1886-
 [[Bansal& Clelland 2004]]           |
 Table: **Methods & Sample**
 
 Article                         | Synopsis
 ----                            | ----------------
-[[Gaim, Clegg & Cunha 2021]]    |
-[[Quigley et al 2020]]          | Some CEOs game compensation systems by releasing bad news before stock option grants
-[[Cole & Chandler 2019]]        |
+[[Gaim, Clegg & Cunha 2021]]    | VW achieved the impossible through cheating, surfasing the dark side of paradox.
+[[Quigley et al 2020]]          | Some CEOs game compensation systems by releasing bad news before stock option grants.
+[[Cole & Chandler 2019]]        | Shows the competitive IM by Edison and a competitor, where public institutions are the judge.
 [[Bansal& Clelland 2004]]       |
 Table: **Findings**
 
