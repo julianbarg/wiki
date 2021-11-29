@@ -7,8 +7,9 @@ Article                             |Journal| Type| Sustain.          | Phenomen
 [[Haack, Martignoni & Schoenenborn 2021]]|AMR|Theory|:heavy_check_mark:| CSR            | Transparency, opacity, ceremonial
 [[de Bree & Stoopendaal 2020]]      |Org Stu| Qual|:last_quarter_moon:| Healthcare      | Goal-system, system-practice & practice-outcome dcpl.
 [[Hengst et al 2020]]               | AMJ   | Qual| :heavy_check_mark:| Engineering     | Compromise, reinterprete, split, sacrifice, valorize 
-[[Jacqueminet 2020]]                |Org Sci|Quant| :heavy_check_mark:|Firm divisions   | Value consistency, pressure
-[[Jacqueminet & Durand 2019]]       | AMJ   |Mixed| :heavy_check_mark:|Firm divisions   | Validity, propriety
+[[Jacqueminet 2020]]                |Org Sci|Quant| :heavy_check_mark:| Firm divisions  | Value consistency, pressure
+[[Jacqueminet & Durand 2019]]       | AMJ   |Mixed| :heavy_check_mark:| Firm divisions  | Validity, propriety
+[[Crilly, Hansen & Zollo 2016]]     | AMJ   |Mixed| :heavy_check_mark:|Firm communication|Implementors, decouplers 
 [[Crilly, Zollo & Hansen 2012]]     | AMJ   |Mixed| :heavy_check_mark:| CSR             | Evasive & emergent decoupling
 [[Sandholz 2012]]                   |Org Stu| Qual| :x:               | Engineering     | Standards, directives & norms
 [[Tilcsik 2010]]                    | AMJ   | Qual| :x:               |Post-soviet policy|Legitimacy, interests, ideology, control
@@ -22,6 +23,7 @@ Article                             | Method                | Industry/context  
 [[Hengst et al 2020]]              |Non-participant obs.    | Consumer goods            | 1 company, 4 years
 [[Jacqueminet 2020]]                | Survey                | 1 Gas & power MNE         | 99 subunits, 2 years
 [[Jacqueminet & Durand 2019]]       | Survey, fsQCA         | 1 Gas & power MNE         | 65 subunits, 2 years 
+[[Crilly, Hansen & Zollo 2016]]     |Natural language processing|MNEs and stakeholders  | 6 matched pairs
 [[Crilly, Zollo & Hansen 2012]]     | fsQCA                 | 7 sectors                 | 17 corporations
 [[Sandholz 2012]]                   | Archival, observation | Engineering firm          | 2 divisions
 [[Tilcsik 2010]]                    | Archival, observation | State funding allocation  | 1 agency, 10+ years 
@@ -35,6 +37,7 @@ Article                         | Synopsis
 [[Hengst et al 2020]]           | Employees go through multiple action cycles before eventually integrating sustainability and mainstream strategies.
 [[Jacqueminet 2020]]            | Implementation depends on pressure from higher-ups and peers, and consistency with values.
 [[Jacqueminet & Durand 2019]]   | Subunits decouple if they feel that a practice is not strategically important or incompatible with their values.
+[[Crilly, Hansen & Zollo 2016]] | Implementors use more precise exclusive language ("versus", "but", "only"), decouplers make grand claims using inclusive language ("and", "all", "also").
 [[Crilly, Zollo & Hansen 2012]] | Information assymetry is associated with evasive decoupling, competing expectation with emergent decoupling.
 [[Sandholz 2012]]               | Standards act as directives and interact with norms, leading to decoupling or tight coupling.
 [[Tilcsik 2010]]                | Policy adoption can be necessary to gain legitimacy, implementation depends on interests, generational turnover.
