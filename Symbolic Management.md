@@ -3,7 +3,7 @@ bibliography: bibliography.bib
 ---
 
 Article                             |Journal| Type | Sustain.          | Phenomenon         | Concepts
-------------------                  | :-:   | :-:  | :-:               | ----------         | ---------------------------
+------------------                  | :-:   | :-:  | :-:               | -----------        | ---------------------------
 [[Westphal & Park 2020]]            | Book  |Review|:x:                | -                  | Social distancing, pluralistic ignorance
 [[Durand, Hawn & Ioannou 2019]]     | AMR   |Theory| :heavy_check_mark:| CSR                |Symbolic & substantive confority & compliance         
 [[Schnackenberg et al 2019]]        | AMA   |Review| :x:               | -                  | Semiotic & symbolic interactionist perspective
