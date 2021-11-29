@@ -49,7 +49,7 @@ Article             | Status           | Depth   | Short title
 @Quigley2020        |:heavy_check_mark:|:clock12:| Unintended Consequences
 @Cole2019           |:heavy_check_mark:|:clock12:| A Model of Competitive Impression Management
 @Morales-Raya2019   | :x:              |:clock12:| To Be or to Seem
-@Carlos2018         | :x:              |:clock4: | Strategic Silence
+@Carlos2018         |:heavy_check_mark:|:clock4: | Strategic Silence
 @Busenbark2017      |:heavy_check_mark:|:clock4: | Foreshadowing as Impression Management
 @Hayward2017        |:heavy_check_mark:|:clock4: | Pseudo-Precision?
 @Whittington2016    |:heavy_check_mark:|:clock7: | Cheap talk?
