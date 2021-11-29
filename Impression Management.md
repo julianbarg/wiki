@@ -21,7 +21,7 @@ Article                             | Method                | Industry/context  
 [[Cole & Chandler 2019]]            | Archival              | "War of currents"         | Archival documents, ~1886-1893
 [[Busenbark & Fitza 2017]]          |Zero-inflated neg binom| SEOs before acquisition   | 4,848 acquisition announcements
 [[Hayward & Fitza 2017]]            | Two-step Heckman      | Earnings forecasts        | 7,092 firm-years observations
-[[Whittington, Yakis-Douglas & Ahn 2016]]|
+[[Whittington, Yakis-Douglas & Ahn 2016]]| Event study      | CEO public presentations  | 384 new CEO strategy presentations
 [[McDonnel & King 2013]]            |Propensity score matching|Boycotted firms          | 221-boycott-target observations
 [[Bansal& Clelland 2004]]           | Two-way ANOVA         | Polluting industry        | 100 firms
 Table: **Methods & Sample**
