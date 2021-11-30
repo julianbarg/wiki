@@ -11,6 +11,7 @@ Article                             |Journal| Type | Sustain.          | Phenome
 [[Cuypers, Koh & Wang 2016]]        |Org Sci| Quant|:last_quarter_moon:| Philantrophy       | Generous & innovative giving
 [[Fiss & Zajac 2004]]               | ASQ   | Quant| :crescent_moon:   | Shareholder value  | Shallow & deep convergence, decoupling
 [[Westphal & Zajac 1998]]           | ASQ   | Quant| :x:               | Long-term incentive| Symbolic language, decoupling
+[[Elsbach 1994]]                    | ASQ   | Mixed|:last_quarter_moon:| Cattle industry    | Acknowledgement, denial
 [[Gioia et al 1994]]                |Org Sci| Qual | :x:               | Academia           | Inluence, sensemaking
 Table: **Overview**
 
@@ -23,6 +24,7 @@ Article                             | Method                | Industry/context  
 [[Cuypers, Koh & Wang 2016]]        | OLS regression        | US corporate philantrophy | 20,148 firm-year observations
 [[Fiss & Zajac 2004]]               | Event history analysis| German corporations       | 1,120 firm-year observations
 [[Westphal & Zajac 1998]]           | Event history analysis| LTIP stock market reaction| 2,856 firm-year observations
+[[Elsbach 1994]]                    |Grounded theory, experiment|California cattle industry| 8 controversial events
 [[Gioia et al 1994]]                | Ethnography           | Uni strategic planning    | 1 task force, ? years
 Table: **Methods & Sample**
 
