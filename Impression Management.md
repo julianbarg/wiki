@@ -47,7 +47,7 @@ Article                             | Synopsis
 [[Bansal& Clelland 2004]]           | Higher legitimacy lowers unsystematic risks, release of negative information increases it. 
 [[Elsbach, Sutton & Principe 1998]] | Firms use routine communications for anticipatory impression management.
 [[Elsbach & Sutton 1996]]           | Confronted with an identity threat, business schools conduct impression management by focusing on favorable identity dimensions.
-[[Elsbach & Sutton 1992]]           |
+[[Elsbach & Sutton 1992]]           | Social movement organizations decouple illegitimate actions from legitimate structures for effective impression management. 
 Table: **Findings**
 
 Article             | Status           | Depth   | Short title
