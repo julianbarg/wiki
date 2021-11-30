@@ -2,6 +2,8 @@
 bibliography: bibliography.bib
 ---
 
+# Decoupling
+
 Article                             |Journal| Type| Sustain.          | Phenomenon      | Concepts
 ------------------                  | :-:   | :-: | :-:               | ----------      | ---------------------------
 [[Haack, Martignoni & Schoenenborn 2021]]|AMR|Theory|:heavy_check_mark:| CSR            | Transparency, opacity, ceremonial
