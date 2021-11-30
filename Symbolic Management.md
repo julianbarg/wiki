@@ -2,30 +2,30 @@
 bibliography: bibliography.bib
 ---
 
-Article                             |Journal| Type | Sustain.          | Phenomenon         | Concepts
-------------------                  | :-:   | :-:  | :-:               | ------------       | ---------------------------
-[[Westphal & Park 2020]]            | Book  |Review|:x:                | -                  | Social distancing, pluralistic ignorance
-[[Durand, Hawn & Ioannou 2019]]     | AMR   |Theory| :heavy_check_mark:| CSR                |Symbolic & substantive confority & compliance         
-[[Schnackenberg et al 2019]]        | AMA   |Review| :x:               | -                  | Semiotic & symbolic interactionist perspective
-[[Shi & Connelly 2018]]             | SMJ   | Quant| :x:               |Corporate governance| Coercive pressure, symbolic response
-[[Cuypers, Koh & Wang 2016]]        |Org Sci| Quant|:last_quarter_moon:| Philantrophy       | Generous & innovative giving
-[[Fiss & Zajac 2004]]               | ASQ   | Quant| :crescent_moon:   | Shareholder value  | Shallow & deep convergence, decoupling
-[[Westphal & Zajac 1998]]           | ASQ   | Quant| :x:               | Long-term incentive| Symbolic language, decoupling
-[[Elsbach 1994]]                    | ASQ   | Mixed|:last_quarter_moon:| Cattle industry    | Acknowledgement, denial
-[[Gioia et al 1994]]                |Org Sci| Qual | :x:               | Academia           | Inluence, sensemaking
+Article                         |Journal| Type | Sustain.          | Phenomenon         | Concepts
+------------------              | :-:   | :-:  | :-:               | ------------       | ---------------------------
+[[Westphal & Park 2020]]        | Book  |Review|:x:                | -                  | Social distancing, pluralistic ignorance
+[[Durand, Hawn & Ioannou 2019]] | AMR   |Theory| :heavy_check_mark:| CSR                |Symbolic & substantive confority & compliance         
+[[Schnackenberg et al 2019]]    | AMA   |Review| :x:               | -                  | Semiotic & symbolic interactionist perspective
+[[Shi & Connelly 2018]]         | SMJ   | Quant| :x:               |Corporate governance| Coercive pressure, symbolic response
+[[Cuypers, Koh & Wang 2016]]    |Org Sci| Quant|:last_quarter_moon:| Philantrophy       | Generous & innovative giving
+[[Fiss & Zajac 2004]]           | ASQ   | Quant| :crescent_moon:   | Shareholder value  | Shallow & deep convergence, decoupling
+[[Westphal & Zajac 1998]]       | ASQ   | Quant| :x:               | Long-term incentive| Symbolic language, decoupling
+[[Elsbach 1994]]                | ASQ   | Mixed|:last_quarter_moon:| Cattle industry    | Acknowledgement, denial
+[[Gioia et al 1994]]            |Org Sci| Qual | :x:               | Academia           | Inluence, sensemaking
 Table: **Overview**
 
-Article                             | Method                | Industry/context          | Sample
-------                              | ----                  | -----                     | ------
-[[Westphal & Park 2020]]            | Literature review     | -                         | -
-[[Durand, Hawn & Ioannou 2019]]     | Formal models         | -                         | -
-[[Schnackenberg et al 2019]]        | Literature review     | -                         | ?
-[[Shi & Connelly 2018]]             | FE regression         | NYSE & NASDAQ firms       | 1,255 lead director adoptions
-[[Cuypers, Koh & Wang 2016]]        | OLS regression        | US corporate philantrophy | 20,148 firm-year observations
-[[Fiss & Zajac 2004]]               | Event history analysis| German corporations       | 1,120 firm-year observations
-[[Westphal & Zajac 1998]]           | Event history analysis| LTIP stock market reaction| 2,856 firm-year observations
-[[Elsbach 1994]]                    |Grounded theory, experiment|California cattle industry| 8 controversial events
-[[Gioia et al 1994]]                | Ethnography           | Uni strategic planning    | 1 task force, ? years
+Article                         | Method                | Industry/context          | Sample
+------                          | ----                  | -----                     | ------
+[[Westphal & Park 2020]]        | Literature review     | -                         | -
+[[Durand, Hawn & Ioannou 2019]] | Formal models         | -                         | -
+[[Schnackenberg et al 2019]]    | Literature review     | -                         | ?
+[[Shi & Connelly 2018]]         | FE regression         | NYSE & NASDAQ firms       | 1,255 lead director adoptions
+[[Cuypers, Koh & Wang 2016]]    | OLS regression        | US corporate philantrophy | 20,148 firm-year observations
+[[Fiss & Zajac 2004]]           | Event history analysis| German corporations       | 1,120 firm-year observations
+[[Westphal & Zajac 1998]]       | Event history analysis| LTIP stock market reaction| 2,856 firm-year observations
+[[Elsbach 1994]]                |Grounded theory, experiment|California cattle industry| 8 controversial events
+[[Gioia et al 1994]]            | Ethnography           | Uni strategic planning    | 1 task force, ? years
 Table: **Methods & Sample**
 
 Article                         | Synopsis
@@ -37,6 +37,7 @@ Article                         | Synopsis
 [[Cuypers, Koh & Wang 2016]]    | Not just the sum of philantrophic giving, the method also matters to the audience.
 [[Fiss & Zajac 2004]]           | German firms adopt shareholder orientation based on interestst of their stakeholders, e.g., banks, governments, families.
 [[Westphal & Zajac 1998]]       | The stock market reacts positively to LTIP language, regardless of whether it is implemented.
+[[Elsbach 1994]]                | Acknowledgement and institutional accounts are more effective strategies than denial and technical accounts
 [[Gioia et al 1994]]            | Managers encounter everything as a symbol first, and then need to work to make sense of it, make it substantive.
 Table: **Findings**
 
@@ -62,7 +63,7 @@ Article                 | Status           |Depth    | Short title
 @Stevens2005            | :x:              |:clock12:| Symbolic or substantive document?
 @Fiss2004               |:heavy_check_mark:|:clock3: | The Diffusion of Ideas over Contested Terrain
 @Westphal1998           |:heavy_check_mark:|:clock3: | The Symbolic Management of Stockholders
-@Elsbach1994            | :x:              |:clock9: | Managing Organizational Legitimacy in the California Cattle Industry
+@Elsbach1994            |:heavy_check_mark:|:clock9: | Managing Organizational Legitimacy in the California Cattle Industry
 @Gioia1994              |:heavy_check_mark:|:clock12:| Symbolism and strategic change in academia
 @Edelman1992            | :x:              |:clock12:| Legal ambiguity and symbolic structures
 @Pfeffer1981            | :x:              |:clock12:| Management as symbolic action
