@@ -2,6 +2,8 @@
 bibliography: bibliography.bib
 ---
 
+# Impression Management
+
 Article                             |Journal| Type | Sustain.          | Phenomenon         | Concepts
 ------------------                  | :-:   | :-:  | :-:               | ----------------   | ---------------------------
 [[Gaim, Clegg & Cunha 2021]]        |Org Stu| Qual | :heavy_check_mark:|VW Emissions scandal| Paradox
