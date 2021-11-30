@@ -45,6 +45,9 @@ Article                             | Synopsis
 [[Whittington, Yakis-Douglas & Ahn 2016]]| CEO public presentations constitute effective IM which elicit positive reactions.
 [[McDonnel & King 2013]]            | Firms respond to negative claims by social movements with their own positive claims.
 [[Bansal& Clelland 2004]]           | Higher legitimacy lowers unsystematic risks, release of negative information increases it. 
+[[Elsbach, Sutton & Principe 1998]] | Firms use routine communications for anticipatory impression management.
+[[Elsbach & Sutton 1996]]           | 
+[[Elsbach & Sutton 1992]]           |
 Table: **Findings**
 
 Article             | Status           | Depth   | Short title
