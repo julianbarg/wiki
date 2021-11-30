@@ -13,6 +13,9 @@ Article                             |Journal| Type | Sustain.          | Phenome
 [[Whittington, Yakis-Douglas & Ahn 2016]]|SMJ|Quant| :x:               | CEO presentations  | -
 [[McDonnel & King 2013]]            | ASQ   | Quant| :heavy_check_mark:| Boycotts           | Strategic interactions
 [[Bansal & Clelland 2004]]          | AMJ   | Quant| :heavy_check_mark:| Unsystmatic risk   | Environmental legitimacy
+[[Elsbach, Sutton & Principe 1998]] |Org Sci| Qual | :crescent_moon:   | Hospital billing   | Accomodate, legitimate, intimidate, bureaucratic
+[[Elsbach & Sutton 1996]]           | ASQ   | Qual | :x:               | B-school ranking   | Identity management
+[[Elsbach & Sutton 1992]]           | AMJ   | Qual | :heavy_check_mark:|Social movement orgs| Decoupling, justification, enhancement
 Table: **Overview**
 
 Article                             | Method                | Industry/context          | Sample
@@ -26,6 +29,9 @@ Article                             | Method                | Industry/context  
 [[Whittington, Yakis-Douglas & Ahn 2016]]| Event study      | CEO public presentations  | 384 new CEO strategy presentations
 [[McDonnel & King 2013]]            |Propensity score matching|Boycotted firms          | 221-boycott-target observations
 [[Bansal& Clelland 2004]]           | Two-way ANOVA         | Polluting industry        | 100 firms
+[[Elsbach, Sutton & Principe 1998]] |Non-participant observation| Hospital billing      | 3 hospitals
+[[Elsbach & Sutton 1996]]           | Grounded theory       | Business school           | 8 rankings changes
+[[Elsbach & Sutton 1992]]           | Grounded theory       | Radical social movements  | 2 organizations, 8 events
 Table: **Methods & Sample**
 
 Article                             | Synopsis
