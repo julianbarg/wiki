@@ -77,9 +77,9 @@ Article             | Status           | Depth   | Short title
 @Gundlach2003       | :x:              |:clock12:| The Decision to Blow the Whistle
 @Arndt2000          | :x:              |:clock12:| Presenting Structural Innovation in an Institutional Environment
 @Bolino1999         | :x:              |:clock12:| Citizenship and Impression Management
-@Elsbach1998        | :x:              |:clock6: | Averting Expected Challenges Through Anticipatory Impression Management
-@Elsbach1996        | :x:              |:clock2: | Members' Responses to Organizational Identity Threats
-@Elsbach1992        | :x:              |:clock8: | Acquiring Organizational Legitimacy through Illegitimate Actions
+@Elsbach1998        |:heavy_check_mark:|:clock7: | Averting Expected Challenges Through Anticipatory Impression Management
+@Elsbach1996        |:heavy_check_mark:|:clock5: | Members' Responses to Organizational Identity Threats
+@Elsbach1992        |:heavy_check_mark:|:clock8: | Acquiring Organizational Legitimacy through Illegitimate Actions
 Table: **Master table**
 
 ---
