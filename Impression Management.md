@@ -46,7 +46,7 @@ Article                             | Synopsis
 [[McDonnel & King 2013]]            | Firms respond to negative claims by social movements with their own positive claims.
 [[Bansal& Clelland 2004]]           | Higher legitimacy lowers unsystematic risks, release of negative information increases it. 
 [[Elsbach, Sutton & Principe 1998]] | Firms use routine communications for anticipatory impression management.
-[[Elsbach & Sutton 1996]]           | 
+[[Elsbach & Sutton 1996]]           | Confronted with an identity threat, business schools conduct impression management by focusing on favorable identity dimensions.
 [[Elsbach & Sutton 1992]]           |
 Table: **Findings**
 
