@@ -2,6 +2,8 @@
 bibliography: bibliography.bib
 ---
 
+# Symbolic Management
+
 Article                         |Journal| Type | Sustain.          | Phenomenon         | Concepts
 ------------------              | :-:   | :-:  | :-:               | ------------       | ---------------------------
 [[Westphal & Park 2020]]        | Book  |Review|:x:                | -                  | Social distancing, pluralistic ignorance
