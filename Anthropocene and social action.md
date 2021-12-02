@@ -6,11 +6,11 @@ bibliography: bibliography.bib
 
 [[_TOC_]]
 
-## Introduction
-
 > People of Earth, your attention please [...]. As you will no doubt be aware, the plans for development of the outlying regions of the Galaxy require the building of a hyperspatial express route through your star system, and regrettably your planet is one of those scheduled for demolition. [...] There's no point in acting all surprised about it. All the planning charts and demolition orders have been on display in your local planning department on Alpha Centauri for fifty of your Earth years, so you've had plenty of time to lodge any formal complaint and it's far too late to start making a fuss about it now. [...] What do you mean you've never been to Alpha Centauri? For heaven's sake mankind, it's only four light years away you know. I'm sorry, but if you can't be bothered to take an interest in local affairs that's your own lookout.
 >
 >  -- Prostetnic Vogon Jeltz of the Galactic Hyperspace Planning Council [@Adams1979]
+
+## Introduction
 
 * We have entered the anthropocene.
 * Stilized story based on @Lewis2015, @Reyers2018, @Davies2016, @Ergene2020, @Sterner2019, @Heikkurinen2019, @Wright2018, @Palsson2013.
