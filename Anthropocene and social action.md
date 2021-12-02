@@ -35,8 +35,8 @@ bibliography: bibliography.bib
     * The quality of the knowledge generation is measured by its our ability to predict outcomes, such as how much an object heats up when it lies in the sun for an hour, or the change of climate after carbon concentration in the atmosphere reaches 350 parts per million.
     * Briefly refer to the mangle of practice and material agency [@Pickering1995].
     * Our knowledge of the atmospheric system of the earth is pretty good.
-        * Go into history of climate science [@Forster2017; Edwards2011].
-        * Go into Exxon knowledge on climate change in the 1980s, partially as an example with good sources, partially as foreshadowing [@Supran2017; Barron2020].
+        * Go into history of climate science [@Forster2017; @Edwards2011].
+        * Go into Exxon knowledge on climate change in the 1980s, partially as an example with good sources, partially as foreshadowing [@Supran2017; @Barron2020].
     * We need to emphasize that this is an idealized image of technical knowledge. Modeling our atmospheric system is a relatively trivial problem. 
         * But we already have much less knowledge available when we move e.g., to biotoxicity in general [cf. @Hardy2020]. 
         * Then we go to oil spills, to be topical again. There are some great illustrative examples available in the literature, this will be another table [@Barron2020; @Bruederle2019; @Beyer2016].
