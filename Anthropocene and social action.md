@@ -11,6 +11,7 @@ bibliography: bibliography.bib
 * We have entered the anthropocene.
 * Stilized story based on @Lewis2015, @Reyers2018, @Davies2016, @Ergene2020, @Sterner2019, @Heikkurinen2019, @Wright2018, @Palsson2013.
     * This literature will be the first Eisenhardt table after proposal (see ToDo below).
+* Note that the Anthropocene is sometimes associated with climate change, but involves much more than that: global pollution (e.g., microplastics), global ecosystems changes such as the sixth mass extinction event [@Barnosky2011], and other geophysical events of global scale such as the industrial revolution in general and nuclear weapons testing [@Lewis2015].
 * Technical and social dimensions are being collapsed into one.
 * Previously, human decisions could be either superseeded by environmental processes, or consequences--on a supraregional scale--could be sidestepped. Social and ecological systems were intertwined, but an invalid understanding of social-ecological systems could be quickly "patched up" or "glossed over" with another invalid understanding.
     * This is a framing of the literature that will later help us get to our model (validity), foreshadows our approach.
@@ -21,10 +22,11 @@ bibliography: bibliography.bib
         * Might want to have one example reladed to climate change, where the physics/mechanisms are relatively clear, and one related to an underresearched topic. Ocean pollution might be a good one, oil spills would keep it topical.
     * On the other hand, many communities can still very much manage to ignore even severe local climate impacts [@Boudet2020]. Mentioning this might be good forshadowing?
 * Is there something with coupling already going on here? Previously, environmental issues were easy to decouple, now it is getting more difficult.
+    * "World scientists' warning to humanity" [@Cavicchioli2019; Ripple2017].
     * There is the trend of climate scientists turning activist, see James Hansen.
 * We should/could also note that the technical core of the Anthropocene simply denotes a geological epoch that is dominated by humans [@Lewis2015]. E.g., 1945 nuclear weapon detonations are one proposed start date.
 
-## Anthropocene: technical dimension (lower right quadrant)
+## Technical dimension of the Anthropocene (lower right quadrant)
 
 * The anthropocene as a technical problem.
     * Draw on IPCC reports.
@@ -50,6 +52,8 @@ bibliography: bibliography.bib
         * Briefly lay out the scientific continuation to the story--we have certainty, but emissions, operation of already drilled wells, exploration of oil fields continues, and so we can model future emissions relatively well [@Welsby2021].
         * This is just a side note, but there is something about control here. In theory we can control the climate and pollution issues relatively well--we just don't have control of the variables we need to take the control, because they are social in nature. Something about the language of validity--prediction and control--and reliability also being a necessary condition, as we have talked about before.
         * This is a transition to the next section on the top-right, where we attempt to improve the reliability of our knowledge by engaging the global community.
+
+
 
 ## ToDo--after proposal
 
