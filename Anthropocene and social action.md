@@ -22,7 +22,7 @@ bibliography: bibliography.bib
         * Might want to have one example reladed to climate change, where the physics/mechanisms are relatively clear, and one related to an underresearched topic. Ocean pollution might be a good one, oil spills would keep it topical.
     * On the other hand, many communities can still very much manage to ignore even severe local climate impacts [@Boudet2020]. Mentioning this might be good forshadowing?
 * Is there something with coupling already going on here? Previously, environmental issues were easy to decouple, now it is getting more difficult.
-    * "World scientists' warning to humanity" [@Cavicchioli2019; Ripple2017].
+    * "World scientists' warning to humanity" [@Cavicchioli2019; @Ripple2017].
     * There is the trend of climate scientists turning activist, see James Hansen.
 * We should/could also note that the technical core of the Anthropocene simply denotes a geological epoch that is dominated by humans [@Lewis2015]. E.g., 1945 nuclear weapon detonations are one proposed start date.
 
