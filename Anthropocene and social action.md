@@ -42,7 +42,7 @@ bibliography: bibliography.bib
             * "In order to protect the environment, the precautionary approach shall be widely applied by States according to their capabilities. Where there are threats of serious or irreversible damage, lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures to prevent environmental degradation" (Rio Declaration, 1992).
             * We can use this first as an illustration of our general lack of knowledge--the unwillingness of the scientific advisory council to say that we have enough certainty in the food/ecologic safety system to keep operating as we do.
             * Also, more specifically as an example of _policy-practice decoupling_ in the next section, because the principle is effectively not in effect, except for a select few substances. 
-                * @Hary2020 demonstrates this well--invoking the cautionary principle still requires political efforts (of course, we would say).
+                * @Hardy2020 demonstrates this well--invoking the cautionary principle still requires political efforts (of course, we would say).
     * Now to the problem/transition to the next section. we have an idealized example. Our knowledge of the atmospheric system of the earth is pretty good. Now what do we do with that knowledge?
         * Briefly lay out the scientific continuation to the story--we have certainty, but emissions, operation of already drilled wells, exploration of oil fields continues, and so we can model future emissions relatively well [@Welsby2021].
         * This is a transition to the next section on the top-right, where we attempt to improve the reliability of our knowledge by engaging the global community.
