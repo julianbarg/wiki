@@ -14,12 +14,14 @@ bibliography: bibliography.bib
 * Technical and social dimensions are being collapsed into one.
 * Previously, human decisions could be either superseeded by environmental processes, or consequences--on a supraregional scale--could be sidestepped. Social and ecological systems were intertwined, but an invalid understanding of social-ecological systems could be quickly "patched up" or "glossed over" with another invalid understanding.
     * This is a framing of the literature that will later help us get to our model (validity), foreshadows our approach.
+    * I don't really have any literature of this, this is more generally my application of OT decision making literature to this context. I am sure you could help with this.
 * Now--that is the core argument of the anthropocene literature--consequences are becoming too severe to ignore [@Sterner2019].
     * Might grab some eyebrow raising examples like wild fires in NA and Europe, droughts in Africa, California [@AghaKouchak2015] and South Asia. Or maybe mass extinction events such as the Great Barrier Reef bleaching event [@Conroy2019], dwindling insect bio mass [@Hallmann2017], or reduction in biodiversity.
         * This might be another (short) literature table to make.
         * Might want to have one example reladed to climate change, where the physics/mechanisms are relatively clear, and one related to an underresearched topic. Ocean pollution might be a good one, oil spills would keep it topical.
     * On the other hand, many communities can still very much manage to ignore even severe local climate impacts [@Boudet2020]. Mentioning this might be good forshadowing?
 * Is there something with coupling already going on here? Previously, environmental issues were easy to decouple, now it is getting more difficult.
+    * There is the trend of climate scientists turning activist, see James Hansen.
 * We should/could also note that the technical core of the Anthropocene simply denotes a geological epoch that is dominated by humans [@Lewis2015]. E.g., 1945 nuclear weapon detonations are one proposed start date.
 
 ## Anthropocene: technical dimension (lower right quadrant)
@@ -43,8 +45,10 @@ bibliography: bibliography.bib
             * We can use this first as an illustration of our general lack of knowledge--the unwillingness of the scientific advisory council to say that we have enough certainty in the food/ecologic safety system to keep operating as we do.
             * Also, more specifically as an example of _policy-practice decoupling_ in the next section, because the principle is effectively not in effect, except for a select few substances. 
                 * @Hardy2020 demonstrates this well--invoking the cautionary principle still requires political efforts (of course, we would say).
+    * In my previous draft version, there was also a note here about gaps between "established" available valid knowledge, and "common sense" reliable knowledge. For the flow of this, I am not sure it is still necessary, but it could still be brought in and could be made topical [e.g., @Attari2010; @Camilleri2019].
     * Now to the problem/transition to the next section. we have an idealized example. Our knowledge of the atmospheric system of the earth is pretty good. Now what do we do with that knowledge?
         * Briefly lay out the scientific continuation to the story--we have certainty, but emissions, operation of already drilled wells, exploration of oil fields continues, and so we can model future emissions relatively well [@Welsby2021].
+        * This is just a side note, but there is something about control here. In theory we can control the climate and pollution issues relatively well--we just don't have control of the variables we need to take the control, because they are social in nature. Something about the language of validity--prediction and control--and reliability also being a necessary condition, as we have talked about before.
         * This is a transition to the next section on the top-right, where we attempt to improve the reliability of our knowledge by engaging the global community.
 
 ## ToDo--after proposal
