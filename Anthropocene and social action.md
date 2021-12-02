@@ -56,7 +56,7 @@ bibliography: bibliography.bib
 * Table Anthropocene intros/overviews/reviews.
 * Table on empirical demonstrations of what the Anthropocene is.
 * Table on IPCC/related technical literature over time.
-* Understanding of climate change over time [@Forster2017; Edwards2011; @Supran2017; Barron2020].
+* Understanding of climate change over time [@Forster2017; @Edwards2011; @Supran2017; @Barron2020].
 * Brief table on oil spills.
 
 ---
