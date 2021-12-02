@@ -52,12 +52,14 @@ bibliography: bibliography.bib
             * Also, more specifically as an example of _policy-practice decoupling_ in the next section, because the principle is effectively not in effect, except for a select few substances. 
                 * @Hardy2020 demonstrates this well--invoking the cautionary principle still requires political efforts (of course, we would say).
     * In my previous draft version, there was also a note here about gaps between "established" available valid knowledge, and "common sense" reliable knowledge. For the flow of this, I am not sure it is still necessary, but it could still be brought in and could be made topical [e.g., @Attari2010; @Camilleri2019].
-    * Now to the problem/transition to the next section. we have an idealized example. Our knowledge of the atmospheric system of the earth is pretty good. Now what do we do with that knowledge?
-        * Briefly lay out the scientific continuation to the story--we have certainty, but emissions, operation of already drilled wells, exploration of oil fields continues, and so we can model future emissions relatively well [@Welsby2021].
-        * This is just a side note, but there is something about control here. In theory we can control the climate and pollution issues relatively well--we just don't have control of the variables we need to take the control, because they are social in nature. Something about the language of validity--prediction and control--and reliability also being a necessary condition, as we have talked about before.
-        * This is a transition to the next section on the top-right, where we attempt to improve the reliability of our knowledge by engaging the global community.
+* Now to the problem which entails the transition to the next section. We have an idealized example. Our knowledge of the atmospheric system of the earth is pretty good. Now what do we do with that knowledge?
+    * Briefly lay out the scientific continuation to the story--we have certainty, but emissions, operation of already drilled wells, exploration of oil fields continues, and so we can model future emissions relatively well [@Welsby2021].
+    * This is just a side note, but there is something about control here. In theory we can control the climate and pollution issues relatively well--we just don't have control of the variables we need to take the control, because they are social in nature. Something about the language of validity--prediction and control--and reliability also being a necessary condition, as we have talked about before.
+    * This is a transition to the next section on the top-right, where we attempt to improve the reliability of our knowledge by engaging the global community.
 
+## Attempting a political solution
 
+* 
 
 ## ToDo--after proposal
 
