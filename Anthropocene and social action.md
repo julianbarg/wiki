@@ -23,10 +23,14 @@ bibliography: bibliography.bib
 
 ## Anthropocene: technical dimension
 
-* The anthropocene as a technical problem
-    * Draw on IPCC reports
-        * Note that the IPCC also goes deeper and deeper into the social dimension as time passes
-        * This might be another opportunity to create a table to get a good grasp of the literature, on IPCC over time and what they draw on
+* The anthropocene as a technical problem.
+    * Draw on IPCC reports.
+        * Note that the IPCC also goes deeper and deeper into the social dimension as time passes.
+        * This might be another opportunity to create a table to get a good grasp of the literature, on IPCC over time and what they draw on.
+* Generalize to: the generation of knowledge as an issue of validity.
+    * The quality of the knowledge generation is measured by its our ability to predict outcomes, such as the creation of a plasma in a fusion reactor, or the change of climate in response after carbon concentration in the atmosphere reaches 350 parts per million.
+    * Refer to the mangle of practice.
+    * Now the problem: our knowledge of the geophysical system of the earth is pretty good, yet we were not able to set much in motion in response to that new, valid knowledge.
 
 ## ToDo--after proposal
 
