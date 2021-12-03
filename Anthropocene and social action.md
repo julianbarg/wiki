@@ -70,8 +70,11 @@ bibliography: bibliography.bib
     * There are "incredibly tight constraints for present international climate targets, even if no new emitting infrastructure is ever built" [...]. [W]e would have a reasonable chance of achieving the 1.5 °C target with, first, a global prohibition of all new CO2-emitting devices (including many or most of the already-proposed fossil-fuel-burning power plants); and second, substantial reductions in the historical lifetimes and/or utilization rates of existing industry and electricity infrastructure" [@Tong2019a].
     * "By 2050, we find that nearly 60 per cent of oil and fossil methane gas, and 90 per cent of coal must remain unextracted to keep within a 1.5 °C carbon budget" [@Welsby2021].
     * The necessary emission reductions imply some tough questions that would need to be posed about countries shutting down power plants.
-    * Compare that to the character of the Paris agreement.
-        * The idea of a binding climate agreement has failed. 
+    * Compare that to the character of the Paris agreement. "[The pre-Paris] negotiations had eloquently demonstrated the futility of technical negotiations, without political consensus on the core elements and features of the new agreement" [@Savaresi2016: 16].
+        * The idea of a binding climate agreement with mandatory emissions reductions failed in 2009 when delegates merely "took note" of the Copenhagen accord [cf. @Schussler2014]. It was further undermined when Canada withdrew from the Kyoto Protocol in 2011. This withdrawal added to the dissappointment with the Kyoto Protocol. The protocol had taken effect in 2005. But the US never ratified it, and Australia only ratified it in 2007.
+        * The Paris agreement is designed to mitigate the problems associated with a top-down agreement [@Savaresi2016] that prescribes emission cuts based on an avaiable so-called carbon budget. Such an agreement would require the continued, univocal support of all member states, which has proven impossible to accomplish in negotiation [@Schussler2014].
+        * To achieve an agreement in Paris, the parties would have to "[resolve] or set aside all contentious issues" [@Savaresi2016: 18]. Instead of the prior top-down approach, the Paris Agreement constitutes a bottom-up approach, also called a 'pledge and review' approach. The countries submit their emission goals to work toward the agreed upon 2ºC goal, and the United Nations Framework Convention on Climate Change (UNFCCC) act as a notary. The pledges and progress are reviewed in recurring meetings.
+        * This allows the UN to claim to have adopted a goal and mechanism.
 
 ## ToDo--after proposal
 
@@ -80,6 +83,7 @@ bibliography: bibliography.bib
 * Table on IPCC/related technical literature over time.
 * Understanding of climate change over time [@Forster2017; @Edwards2011; @Supran2017; @Barron2020].
 * Brief table on oil spills.
+* Table on Paris agreement and other Conference of the Parties (COP) negotiations [@Schussler2014; @Savaresi2016; ].
 
 ---
 
