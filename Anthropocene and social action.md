@@ -10,6 +10,10 @@ bibliography: bibliography.bib
 >
 >  -- Prostetnic Vogon Jeltz of the Galactic Hyperspace Planning Council [@Adams1979]
 
+> The fault lies not with the mob, who demands nonsense, but with those who do not know how to produce anything else.
+>
+> Don Quixote
+
 ## Introduction
 
 * We have entered the anthropocene.
@@ -53,16 +57,21 @@ bibliography: bibliography.bib
                 * @Hardy2020 demonstrates this well--invoking the cautionary principle still requires political efforts (of course, we would say).
     * In my previous draft version, there was also a note here about gaps between "established" available valid knowledge, and "common sense" reliable knowledge. For the flow of this, I am not sure it is still necessary, but it could still be brought in and could be made topical [e.g., @Attari2010; @Camilleri2019].
 * Now to the problem which entails the transition to the next section. We have an idealized example. Our knowledge of the atmospheric system of the earth is pretty good. Now what do we do with that knowledge?
-    * Briefly lay out the scientific continuation to the story--we have certainty, but emissions, operation of already drilled wells, exploration of oil fields continues, and so we can model future emissions relatively well [@Tong2019a; @Welsby2021].
+    * Briefly lay out the scientific continuation to the story. We have certainty about the geophysical mechanisms. Existing infrastructure, operation of already drilled wells, exploration of oil fields continues, and so we can model future emissions relatively well [@McGlade2015; @Tong2019a; @Welsby2021].
     * This is just a side note, but there is something about control here. In theory we can control the climate and pollution issues relatively well--we just don't have control of the variables we need to take the control, because they are social in nature. Something about the language of validity--prediction and control--and reliability also being a necessary condition, as we have talked about before.
     * This is a transition to the next section on the top-right, where we attempt to improve the reliability of our knowledge by engaging the global community.
 
 ## Attempting a political solution: regulatory learning
 
-* Our stylized understanding: the powerful of the world come together to agree on a solution for a predefined problem.
+* The idealized understanding of how our world operates: the powerful of the world come together to agree on a solution for a predefined problem.
     * "Predefined" referring to the IPCC reports that are prepared in advance for the UN Climate Change Conferences.
     * The planet is "saved" as the UN "decides" to limit global warning to 1.5ºC (sorry Lee, I know you don't like unnecessary quotation marks, but I couldn't help myself).
-* Well, that actually conflicts with what we have just learned about global warming being relatively easy to model.
+* Well, that commitment has very tangible implications, given what we have just heard about climate change being relatively easy to model.
+    * There are "incredibly tight constraints for present international climate targets, even if no new emitting infrastructure is ever built" [...]. [W]e would have a reasonable chance of achieving the 1.5 °C target with, first, a global prohibition of all new CO2-emitting devices (including many or most of the already-proposed fossil-fuel-burning power plants); and second, substantial reductions in the historical lifetimes and/or utilization rates of existing industry and electricity infrastructure" [@Tong2019a].
+    * "By 2050, we find that nearly 60 per cent of oil and fossil methane gas, and 90 per cent of coal must remain unextracted to keep within a 1.5 °C carbon budget" [@Welsby2021].
+    * The necessary emission reductions imply some tough questions that would need to be posed about countries shutting down power plants.
+    * Compare that to the character of the Paris agreement.
+        * The idea of a binding climate agreement has failed. 
 
 ## ToDo--after proposal
 
