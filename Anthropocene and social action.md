@@ -74,7 +74,8 @@ bibliography: bibliography.bib
         * The idea of a binding climate agreement with mandatory emissions reductions failed in 2009 when delegates merely "took note" of the Copenhagen accord [cf. @Schussler2014]. It was further undermined when Canada withdrew from the Kyoto Protocol in 2011. This withdrawal added to the dissappointment with the Kyoto Protocol. The protocol had taken effect in 2005. But the US never ratified it, and Australia only ratified it in 2007.
         * The Paris agreement is designed to mitigate the problems associated with a top-down agreement [@Savaresi2016] that prescribes emission cuts based on an avaiable so-called carbon budget. Such an agreement would require the continued, univocal support of all member states, which has proven impossible to accomplish in negotiation [@Schussler2014].
         * To achieve an agreement in Paris, the parties would have to "[resolve] or set aside all contentious issues" [@Savaresi2016: 18]. Instead of the prior top-down approach, the Paris Agreement constitutes a bottom-up approach, also called a 'pledge and review' approach. The countries submit their emission goals to work toward the agreed upon 2ºC goal, and the United Nations Framework Convention on Climate Change (UNFCCC) act as a notary. The pledges and progress are reviewed in recurring meetings.
-        * This allows the UN to claim to have adopted a goal and mechanism.
+        * Current pledges are not in line with ambitions [@Rogelj2016; @Schleussner2016]. After the COVID emissions drop and bounceback [@Tollefson2021], "even [the] most optimistic scenario is insufficient to meet the Paris Agreement goal of limiting global warming to 'well below' 2 °C." [@Sognnaes2021].
+        * The bottom-up approach of the Paris Accord in conjunction with periodic reviews ettectively allows the UN to claim to have adopted a goal and mechanism, while effectively postponing action for five years or more.
 
 ## ToDo--after proposal
 
