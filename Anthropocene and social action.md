@@ -20,6 +20,7 @@ bibliography: bibliography.bib
 * Stilized story based on @Lewis2015, @Reyers2018, @Davies2016, @Ergene2020, @Sterner2019, @Heikkurinen2019, @Wright2018, @Palsson2013.
     * This literature will be the first Eisenhardt table after proposal (see ToDo below).
 * Note that the Anthropocene is sometimes associated with climate change, but involves much more than that: global pollution (e.g., microplastics), global ecosystems changes such as the sixth mass extinction event [@Barnosky2011], and other geophysical events of global scale such as the industrial revolution in general and nuclear weapons testing [@Lewis2015].
+    * This point matters because some audiences may come back and say "this is not about the Anthropocene, this is just about climate change". Two points: we are interested in the literature that covers the interrelations between the social and nature. And we need to be sure that not all examples come from climate/climate research/climate action to improve the chances that the audience goes with us to where we want them.
 * Technical and social dimensions are being collapsed into one.
 * Previously, human decisions could be either superseeded by environmental processes, or consequences--on a supraregional scale--could be sidestepped. Social and ecological systems were intertwined, but an invalid understanding of social-ecological systems could be quickly "patched up" or "glossed over" with another invalid understanding.
     * This is a framing of the literature that will later help us get to our model (validity), foreshadows our approach.
@@ -33,6 +34,8 @@ bibliography: bibliography.bib
     * "World scientists' warning to humanity" [@Cavicchioli2019; @Ripple2017].
     * There is the trend of climate scientists turning activist, see James Hansen.
 * We should/could also note that the technical core of the Anthropocene simply denotes a geological epoch that is dominated by humans [@Lewis2015]. E.g., 1945 nuclear weapon detonations are one proposed start date.
+    * The challenge 
+* Purpose
 
 ## Technical dimension of the Anthropocene (lower right quadrant)
 
@@ -61,7 +64,9 @@ bibliography: bibliography.bib
     * This is just a side note, but there is something about control here. In theory we can control the climate and pollution issues relatively well--we just don't have control of the variables we need to take the control, because they are social in nature. Something about the language of validity--prediction and control--and reliability also being a necessary condition, as we have talked about before.
     * This is a transition to the next section on the top-right, where we attempt to improve the reliability of our knowledge by engaging the global community.
 
-## Attempting a political solution: regulatory learning
+## Moving toward more widely accepted technical knowledge through a regulatory process: politics
+
+Attempting a political solution: regulatory learning
 
 * The idealized understanding of how our world operates: the powerful of the world come together to agree on a solution for a predefined problem.
     * "Predefined" referring to the IPCC reports that are prepared in advance for the UN Climate Change Conferences.
@@ -79,6 +84,24 @@ bibliography: bibliography.bib
         * Current pledges are not in line with ambitions [@Rogelj2016; @Schleussner2016]. After the COVID emissions drop and bounce back [@Tollefson2021], as of 2021 "even [the] most optimistic scenario is insufficient to meet the Paris Agreement goal of limiting global warming to 'well below' 2 °C." [@Sognnaes2021].
         * The bottom-up approach of the Paris Accord in conjunction with periodic reviews in practice allows the UN to claim to have adopted a goal and mechanism, while effectively postponing action for five years or more.
     * A political approach the problem of insufficiently accepted technical knowledge that equals to policy-practice decoupling [@Bromley2012].
+
+## Disseminating and implementing technical knowledge: social movements and business sustainability
+
+* The Anthropocene stands out as being tackled on multiple places simultanously
+* Often with references to science
+    * Science-based targets
+    * Extinction rebellion
+
+## Conclusion
+
+* Our contribution is then in bringing toghether mutliple literatures in a novel and meaningful as well as condensed and comprehensible way:
+    * Literature on disinformation, which is contextualized.
+    * Literature on business sustainability that explores how businesses implement ideas around the Anthropocene.
+    * Conceptual literature on the Anthropocene such as Social-Ecological Systems.
+    * Empirical literature on the Anthropocene, including works on climate change and pollution.
+    * Literature on the politics of climate change.
+    * Literature on social movements.
+    * Literature on epistemologies, knowledge and learning.
 
 ## ToDo--after proposal
 
