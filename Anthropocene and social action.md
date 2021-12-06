@@ -16,6 +16,8 @@ bibliography: bibliography.bib
 
 ## Introduction
 
+<!--* Variety actors that we bring alive.-->
+
 * We have entered the anthropocene.
 * Stilized story based on @Lewis2015, @Reyers2018, @Davies2016, @Ergene2020, @Sterner2019, @Heikkurinen2019, @Wright2018, @Palsson2013.
     * This literature will be the first Eisenhardt table after proposal (see ToDo below).
@@ -83,14 +85,16 @@ Attempting a political solution: regulatory learning
         * To achieve an agreement in Paris, the parties would have to "[resolve] or set aside all contentious issues" [@Savaresi2016: 18]. Instead of the prior top-down approach, the Paris Agreement constitutes a bottom-up approach, also called a 'pledge and review' approach. The countries submit their emission goals to work toward the agreed upon 2ºC goal, and the United Nations Framework Convention on Climate Change (UNFCCC) act as a notary. The pledges and progress are reviewed in recurring meetings.
         * Current pledges are not in line with ambitions [@Rogelj2016; @Schleussner2016]. After the COVID emissions drop and bounce back [@Tollefson2021], as of 2021 "even [the] most optimistic scenario is insufficient to meet the Paris Agreement goal of limiting global warming to 'well below' 2 °C." [@Sognnaes2021].
         * The bottom-up approach of the Paris Accord in conjunction with periodic reviews in practice allows the UN to claim to have adopted a goal and mechanism, while effectively postponing action for five years or more.
+        * In addition, means-ends decoupling: in some cases, national goals are "not unambiguously translatable in absolute emissions reductions" [@Rogeji2016: 633].
     * A political approach the problem of insufficiently accepted technical knowledge that equals to policy-practice decoupling [@Bromley2012].
 
 ## Disseminating and implementing technical knowledge: social movements and business sustainability
 
-* The Anthropocene stands out as being tackled on multiple places simultanously
-* Often with references to science
-    * Science-based targets
-    * Extinction rebellion
+* Wide variety of actors relevant in the cross-scale social-environmental interactions that characterize the Anthropocene [@Reyers2018]. Sciences as well governmental and multilateral actors are the obvious ones that we have introduced above.
+    * Beyond that there are enviromental NGOs (ENGOs), corporations, and social movements such as Extinction Rebellion (ER) [@Hoffman2018: 6].
+    * Science-based targets (https://sciencebasedtargets.org/).
+* Business sustainability has gone mainstream [@Ergene2020].
+    * Businesses pick up environmental concerns and adopt them into organizational practices in accordance with the everyday realities
 
 ## Conclusion
 
