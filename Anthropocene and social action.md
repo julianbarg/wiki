@@ -100,7 +100,8 @@ Attempting a political solution: regulatory learning
     * Global compact and science-based targets (https://sciencebasedtargets.org/) as programs for corporations.
         * Use these later as examples of means-end decoupling.
 * Business sustainability has gone mainstream [@Ergene2020].
-    * Businesses pick up environmental concerns and adopt them into organizational practices in accordance with the everyday realities
+    * As managers pick up environmental concerns and adopt them into organizational practices, they have to reconcile them with everyday realities inside the organization [@Zbaracki1998].
+        * To pick up an example on the Anthropocene: @Wright2017 found that when organizations engage with climate change, the concept is necessarily reconciled with the dominant discourse of profit maximization and shareholder value. The rusult is a less threatening and more limited conceptualization of climate action, and business as usual.
 
 ## Conclusion
 
