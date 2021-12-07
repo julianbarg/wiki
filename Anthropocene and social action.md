@@ -85,7 +85,7 @@ Attempting a political solution: regulatory learning
         * To achieve an agreement in Paris, the parties would have to "[resolve] or set aside all contentious issues" [@Savaresi2016: 18]. Instead of the prior top-down approach, the Paris Agreement constitutes a bottom-up approach, also called a 'pledge and review' approach. The countries submit their emission goals to work toward the agreed upon 2ºC goal, and the United Nations Framework Convention on Climate Change (UNFCCC) act as a notary. The pledges and progress are reviewed in recurring meetings.
         * Current pledges are not in line with ambitions [@Rogelj2016; @Schleussner2016]. After the COVID emissions drop and bounce back [@Tollefson2021], as of 2021 "even [the] most optimistic scenario is insufficient to meet the Paris Agreement goal of limiting global warming to 'well below' 2 °C." [@Sognnaes2021].
         * The bottom-up approach of the Paris Accord in conjunction with periodic reviews in practice allows the UN to claim to have adopted a goal and mechanism, while effectively postponing action for five years or more.
-        * In addition, means-ends decoupling: in some cases, national goals are "not unambiguously translatable in absolute emissions reductions" [@Rogeji2016: 633].
+        * In addition, means-ends decoupling: in some cases, national goals are "not unambiguously translatable in absolute emissions reductions" [@Rogelj2016: 633].
     * A political approach the problem of insufficiently accepted technical knowledge that equals to policy-practice decoupling [@Bromley2012].
 
 ## Disseminating and implementing technical knowledge: social movements and business sustainability
