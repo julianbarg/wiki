@@ -40,8 +40,8 @@ bibliography: bibliography.bib
 * We should/could also note that the technical core of the Anthropocene simply denotes a geological epoch that is dominated by humans [@Lewis2015]. E.g., 1945 nuclear weapon detonations are one proposed start date.
 * Two goals:
     * Build a model of the Anthropocene that starts from empirical work on actors.
-        * Rather than the other way around: Work that starts with theory and references specific organizations as representatives of constructs.
-        * The Anthropocene affects organizations. We map out the relevant organizational actors for the construction of a social representation of our natural environment. The social representation in turn affects how we act on nature, completing the circle.
+        * Rather than the other way around: Work that starts with theory and then references specific organizations as representatives of constructs [e.g., @Hoffman2018].
+        * The Anthropocene affects organizations. We map out the relevant organizational actors, and some of the processes in the construction of a social representation of our natural environment. The social representation in turn affects how we act on nature, completing the circle.
     * Introduce reliability and validity to social-ecological system models.
 
 ## Technical dimension of the Anthropocene (lower right quadrant)
