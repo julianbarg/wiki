@@ -120,11 +120,21 @@ Attempting a political solution: regulatory learning
     * Other environmental movements target e.g., the coal industry--coal mining and coal power plants have both been targeted.
     * And then there is also Fridays for the Future, with notable member Greta Thunberg.
     * At first sight, there is only a very vague connection between blocking traffic in London, and radically slashing the economies carbon emissions before the year 2030. Means-ends decoupling.
+* Finally, there is climate denial. A social movement mostly by the merits of being commonplace in the political right. Especially US Republicans, Tea Party, Trump movement.
+    * Definitely powerful--though in a different way than a its "adversaries", because climate denial is not at the core of this movement.
+    * I am less familiar with this one, and have less to say about it. Is it fair to summarize their technical core as "it's still cold in winter sometimes"?
 
 ## Undermining existing technical knowledge
 
+* There is the obvious one to go to: climate denial. 
+    * Climate denial is also a social movement, but the amount to which it can point at valid evidence to support its claims is limited. It mostly boils down to "it's still cold in the winter sometimes".
+    * If we were to discuss the climate denial movement as it is present in right-wing movements we would land go into the top-right quadrant though.
+    * We land in the bottom-left if we go back to the 2000s, when climate was a less polarized topic and the typical left-right divide on climate change did not exist to the same extend that it does now.
+        * In the 2000s on climate change we land on the Cato Institute, Heartland Institute, and the American Petroleum Institute.
+
 ## Conclusion
 
+* Written before writing the rest--I need to revisited it.
 * Our contribution is then in bringing toghether mutliple literatures in a novel and meaningful as well as condensed and comprehensible way:
     * Literature on disinformation, which is contextualized.
     * Literature on business sustainability that explores how businesses implement ideas around the Anthropocene.
@@ -144,6 +154,8 @@ Attempting a political solution: regulatory learning
 * Table on Paris agreement [@Schussler2014; @Savaresi2016; @Tong2019a; @Welsby2021; @Rogelj2016; @Schleussner2016; @Tollefson2021; @Sognnaes2021].
 * Table to review SBTi [@Giesekam2021; @Walenta2020; @Haffar2018; @Bjorn2021].
 * Table on Global Compact.
+* Table on ecocentrism/deep ecology/New Ecological Paradigm/critical epistemologies vs environmental management/business or corporat sustainability/eco-modernism/managerial epistemologies [@Purser1995; @Shrivastava1995; @Banerjee2003; @Springett2003; @Milne2006; @Banerjee2011; @Hoffman2015; @Heikkurinen2019; @Ergene2020].
+* Table on social movements in the Anthropocene.
 
 ---
 
