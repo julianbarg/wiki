@@ -118,6 +118,7 @@ Attempting a political solution: regulatory learning
     * ER has identified as the critical issue the lack of attention to Anthropocene environmental damage. Their primary strategy is to generate public attention e.g., by disruping public events, most notably in London, UK.
     * Other environmental movements target e.g., the coal industry--coal mining and coal power plants have both been targeted.
     * And then there is also Fridays for the Future, with notable member Greta Thunberg.
+    * At first sight, there is only a very vague connection between blocking traffic in London, and radically slashing the economies carbon emissions before the year 2030. Means-ends decoupling.
 
 ## Conclusion
 
