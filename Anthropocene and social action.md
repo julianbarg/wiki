@@ -77,7 +77,7 @@ Attempting a political solution: regulatory learning
 
 * The idealized understanding of how our world operates: the powerful of the world come together to agree on a solution for a predefined problem.
     * "Predefined" referring to the IPCC reports that are prepared in advance for the UN Climate Change Conferences.
-    * The planet is "saved" as the UN "decides" to limit global warning to 1.5ºC (sorry Lee, I know you don't like unnecessary quotation marks, but I couldn't help myself).
+    * The planet is "saved" as the UN "decides" to limit global warning to 1.5 ºC (sorry Lee, I know you don't like unnecessary quotation marks, but I couldn't help myself).
 * Well, that commitment has very tangible implications, given what we have just heard about climate change being relatively easy to model.
     * There are "incredibly tight constraints for present international climate targets, even if no new emitting infrastructure is ever built" [...]. [W]e would have a reasonable chance of achieving the 1.5 °C target with, first, a global prohibition of all new CO2-emitting devices (including many or most of the already-proposed fossil-fuel-burning power plants); and second, substantial reductions in the historical lifetimes and/or utilization rates of existing industry and electricity infrastructure" [@Tong2019a].
     * "By 2050, we find that nearly 60 per cent of oil and fossil methane gas, and 90 per cent of coal must remain unextracted to keep within a 1.5 °C carbon budget" [@Welsby2021].
