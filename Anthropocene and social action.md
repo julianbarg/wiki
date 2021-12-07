@@ -19,6 +19,8 @@ bibliography: bibliography.bib
 <!--* Variety actors that we bring alive.-->
 
 * We have entered the anthropocene.
+    * Traditionally in modernism, we think of science and technology as a pacer or bottleneck of progress. Now, it would be more appropriate to think of the social sphere as pacing--or blocking--progress.
+        * Nothing could have visualized that better than a two-year long global pandemic that could have been defeated by everyone wearing masks.
 * Stilized story based on @Lewis2015, @Reyers2018, @Davies2016, @Ergene2020, @Sterner2019, @Heikkurinen2019, @Wright2018, @Palsson2013.
     * This literature will be the first Eisenhardt table after proposal (see ToDo below).
 * Note that the Anthropocene is sometimes associated with climate change, but involves much more than that: global pollution (e.g., microplastics), global ecosystems changes such as the sixth mass extinction event [@Barnosky2011], and other geophysical events of global scale such as the industrial revolution in general and nuclear weapons testing [@Lewis2015].
@@ -36,8 +38,11 @@ bibliography: bibliography.bib
     * "World scientists' warning to humanity" [@Cavicchioli2019; @Ripple2017].
     * There is the trend of climate scientists turning activist, see James Hansen.
 * We should/could also note that the technical core of the Anthropocene simply denotes a geological epoch that is dominated by humans [@Lewis2015]. E.g., 1945 nuclear weapon detonations are one proposed start date.
-    * The challenge 
-* Purpose
+* Two goals:
+    * Build a model of the Anthropocene that starts from empirical work on actors.
+        * Rather than the other way around: Work that starts with theory and references specific organizations as representatives of constructs.
+        * The Anthropocene affects organizations. We map out the relevant organizational actors for the construction of a social representation of our natural environment. The social representation in turn affects how we act on nature, completing the circle.
+    * Introduce reliability and validity to social-ecological system models.
 
 ## Technical dimension of the Anthropocene (lower right quadrant)
 
@@ -92,7 +97,8 @@ Attempting a political solution: regulatory learning
 
 * Wide variety of actors relevant in the cross-scale social-environmental interactions that characterize the Anthropocene [@Reyers2018]. Sciences as well governmental and multilateral actors are the obvious ones that we have introduced above.
     * Beyond that there are enviromental NGOs (ENGOs), corporations, and social movements such as Extinction Rebellion (ER) [@Hoffman2018: 6].
-    * Science-based targets (https://sciencebasedtargets.org/).
+    * Global compact and science-based targets (https://sciencebasedtargets.org/) as programs for corporations.
+        * Use these later as examples of means-end decoupling.
 * Business sustainability has gone mainstream [@Ergene2020].
     * Businesses pick up environmental concerns and adopt them into organizational practices in accordance with the everyday realities
 
