@@ -110,6 +110,8 @@ Attempting a political solution: regulatory learning
         * Launched in response to a problen associated with the Carbon Disclosure Project (CDP). CDP has succussfully solicited a lot of great carbon emission data from corporations--but the anticipated emission improvements never materialized. SBTi represents an attempt to recouple corporate sustainability efforts and the scientific context [@Haffar2018; Giesekam2021].
             * There is still plenty of room for decoupling though in the new project. Carbon emissions in most industries is a function of the number of units produced. Companies in carbon intensive industries are unlikely to cut total emissions even when they introduce more efficient technologies if they also grow at the same time. In other words, corporations can "outgrow" their efficiecy improvements.
         * Create table to review SBTi [@Giesekam2021; @Walenta2020; @Haffar2018; @Bjorn2021].
+    * Create table to review Global Compact (GC).
+        * GC has more egregious but less salient examples: GC led to the introduction of the term "bluewashing" for firms that use GC certification for symbolic management.
 
 ## Conclusion
 
@@ -131,6 +133,7 @@ Attempting a political solution: regulatory learning
 * Brief table on oil spills.
 * Table on Paris agreement [@Schussler2014; @Savaresi2016; @Tong2019a; @Welsby2021; @Rogelj2016; @Schleussner2016; @Tollefson2021; @Sognnaes2021].
 * Table to review SBTi [@Giesekam2021; @Walenta2020; @Haffar2018; @Bjorn2021].
+* Table on Global Compact.
 
 ---
 
