@@ -91,17 +91,19 @@ Attempting a political solution: regulatory learning
         * Current pledges are not in line with ambitions [@Rogelj2016; @Schleussner2016]. After the COVID emissions drop and bounce back [@Tollefson2021], as of 2021 "even [the] most optimistic scenario is insufficient to meet the Paris Agreement goal of limiting global warming to 'well below' 2 °C." [@Sognnaes2021].
         * The bottom-up approach of the Paris Accord in conjunction with periodic reviews in practice allows the UN to claim to have adopted a goal and mechanism, while effectively postponing action for five years or more.
         * In addition, means-ends decoupling: in some cases, national goals are "not unambiguously translatable in absolute emissions reductions" [@Rogelj2016: 633].
-    * A political approach the problem of insufficiently accepted technical knowledge that equals to policy-practice decoupling [@Bromley2012].
+    * A political approach to the problem of insufficiently accepted technical knowledge that equals to policy-practice decoupling [@Bromley2012].
+    * We have successfully achieved a wider acceptance of technical knowledge, but in the process we have reduced the scope or coverage of it.
 
 ## Disseminating and implementing technical knowledge: social movements and business sustainability
 
+* Why not cut out the middle man?
 * Wide variety of actors relevant in the cross-scale social-environmental interactions that characterize the Anthropocene [@Reyers2018]. Sciences as well governmental and multilateral actors are the obvious ones that we have introduced above.
     * Beyond that there are enviromental NGOs (ENGOs), corporations, and social movements such as Extinction Rebellion (ER) [@Hoffman2018: 6].
     * Global compact and science-based targets (https://sciencebasedtargets.org/) as programs for corporations.
         * Use these later as examples of means-end decoupling.
 * Business sustainability has gone mainstream [@Ergene2020].
     * As managers pick up environmental concerns and adopt them into organizational practices, they have to reconcile them with everyday realities inside the organization [@Zbaracki1998].
-        * To pick up an example on the Anthropocene: @Wright2017 found that when organizations engage with climate change, the concept is necessarily reconciled with the dominant discourse of profit maximization and shareholder value. The rusult is a less threatening and more limited conceptualization of climate action, and business as usual.
+        * To pick up an example on the Anthropocene: @Wright2017 found that when organizations engage with climate change, the concept is necessarily reconciled with the dominant discourse of profit maximization and shareholder value. The outcome is a less threatening and more limited conceptualization of climate action, resulting in business as usual.
 
 ## Conclusion
 
