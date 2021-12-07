@@ -132,7 +132,7 @@ Attempting a political solution: regulatory learning
     * If we were to discuss the climate denial movement as it is present in right-wing movements we would land go into the top-right quadrant though.
     * We land in the bottom-left if we go back to the 2000s, when climate was a less polarized topic and the typical left-right divide on climate change did not exist to the same extend that it does now.
         * In the 2000s on climate change we land on the Cato Institute, Heartland Institute, and the American Petroleum Institute.
-        * Claims include associating climate action with socialism.
+        * Claims include associating climate action with socialism. Is that entirely wrong if capitalism is identified as the problem that causes climate change.
 
 ## Conclusion
 
