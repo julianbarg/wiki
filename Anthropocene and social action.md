@@ -104,6 +104,8 @@ Attempting a political solution: regulatory learning
 * Business sustainability has gone mainstream [@Ergene2020].
     * As managers pick up environmental concerns and adopt them into organizational practices, they have to reconcile them with everyday realities inside the organization [@Zbaracki1998].
         * To pick up an example on the Anthropocene: @Wright2017 found that when organizations engage with climate change, the concept is necessarily reconciled with the dominant discourse of profit maximization and shareholder value. The outcome is a less threatening and more limited conceptualization of climate action, resulting in business as usual.
+    * Table on literature on ecocentrism/deep ecology/New Ecological Paradigm/critical epistemologies vs environmental management/business or corporat sustainability/eco-modernism/managerial epistemologies [@Purser1995; @Shrivastava1995; @Banerjee2003; @Springett2003; @Milne2006; @Banerjee2011; @Hoffman2015; @Heikkurinen2019; @Ergene2020]. Also, managerial fads [@Abrahamson1991].
+
 
 ## Conclusion
 
