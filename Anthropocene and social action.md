@@ -122,7 +122,8 @@ Attempting a political solution: regulatory learning
     * At first sight, there is only a very vague connection between blocking traffic in London, and radically slashing the economies carbon emissions before the year 2030. Means-ends decoupling.
 * Finally, there is climate denial. A social movement mostly by the merits of being commonplace in the political right. Especially US Republicans, Tea Party, Trump movement.
     * Definitely powerful--though in a different way than a its "adversaries", because climate denial is not at the core of this movement.
-    * I am less familiar with this one, and have less to say about it. Is it fair to summarize their technical core as "it's still cold in winter sometimes"?
+    * Is it fair to summarize their technical core as "it's still cold in winter sometimes"?
+    * The climate denial movement matters as it is serves as a transition into the bottom left. The bottom left picks up some of the actors that planted the seeds for the current climate denial movement.
 
 ## Undermining existing technical knowledge
 
@@ -131,6 +132,7 @@ Attempting a political solution: regulatory learning
     * If we were to discuss the climate denial movement as it is present in right-wing movements we would land go into the top-right quadrant though.
     * We land in the bottom-left if we go back to the 2000s, when climate was a less polarized topic and the typical left-right divide on climate change did not exist to the same extend that it does now.
         * In the 2000s on climate change we land on the Cato Institute, Heartland Institute, and the American Petroleum Institute.
+        * Claims include associating climate action with socialism.
 
 ## Conclusion
 
