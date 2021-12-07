@@ -104,8 +104,12 @@ Attempting a political solution: regulatory learning
 * Business sustainability has gone mainstream [@Ergene2020].
     * As managers pick up environmental concerns and adopt them into organizational practices, they have to reconcile them with everyday realities inside the organization [@Zbaracki1998].
         * To pick up an example on the Anthropocene: @Wright2017 found that when organizations engage with climate change, the concept is necessarily reconciled with the dominant discourse of profit maximization and shareholder value. The outcome is a less threatening and more limited conceptualization of climate action, resulting in business as usual.
-    * Table on literature on ecocentrism/deep ecology/New Ecological Paradigm/critical epistemologies vs environmental management/business or corporat sustainability/eco-modernism/managerial epistemologies [@Purser1995; @Shrivastava1995; @Banerjee2003; @Springett2003; @Milne2006; @Banerjee2011; @Hoffman2015; @Heikkurinen2019; @Ergene2020]. Also, managerial fads [@Abrahamson1991].
-
+    * Could go into ecocentrism/deep ecology/New Ecological Paradigm/critical epistemologies vs environmental management/business or corporat sustainability/eco-modernism/managerial epistemologies [@Purser1995; @Shrivastava1995; @Banerjee2003; @Springett2003; @Milne2006; @Banerjee2011; @Hoffman2015; @Heikkurinen2019; @Ergene2020]. Also, managerial fads [@Abrahamson1991]?
+    * What we want to exemplarize is captured well by the science-based targets initiative (SBTi).
+        * Launched in 2015--literature is still sparse [@SBTi2015].
+        * Launched in response to a problen associated with the Carbon Disclosure Project (CDP). CDP has succussfully solicited a lot of great carbon emission data from corporations--but the anticipated emission improvements never materialized. SBTi represents an attempt to recouple corporate sustainability efforts and the scientific context [@Haffar2018; Giesekam2021].
+            * There is still plenty of room for decoupling though in the new project. Carbon emissions in most industries is a function of the number of units produced. Companies in carbon intensive industries are unlikely to cut total emissions even when they introduce more efficient technologies if they also grow at the same time. In other words, corporations can "outgrow" their efficiecy improvements.
+        * Create table to review SBTi [@Giesekam2021; @Walenta2020; @Haffar2018; @Bjorn2021].
 
 ## Conclusion
 
@@ -126,6 +130,7 @@ Attempting a political solution: regulatory learning
 * Understanding of climate change over time [@Forster2017; @Edwards2011; @Supran2017; @Barron2020].
 * Brief table on oil spills.
 * Table on Paris agreement [@Schussler2014; @Savaresi2016; @Tong2019a; @Welsby2021; @Rogelj2016; @Schleussner2016; @Tollefson2021; @Sognnaes2021].
+* Table to review SBTi [@Giesekam2021; @Walenta2020; @Haffar2018; @Bjorn2021].
 
 ---
 
