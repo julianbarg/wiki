@@ -21,6 +21,7 @@ bibliography: bibliography.bib
 * We have entered the anthropocene.
     * Traditionally in modernism, we think of science and technology as a pacer or bottleneck of progress. Now, it would be more appropriate to think of the social sphere as pacing--or blocking--progress.
         * Nothing could have visualized that better than a two-year long global pandemic that could have been defeated by everyone wearing masks.
+    * How do different parties access/engage technical knowledge?
 * Stilized story based on @Lewis2015, @Reyers2018, @Davies2016, @Ergene2020, @Sterner2019, @Heikkurinen2019, @Wright2018, @Palsson2013.
     * This literature will be the first Eisenhardt table after proposal (see ToDo below).
 * Note that the Anthropocene is sometimes associated with climate change, but involves much more than that: global pollution (e.g., microplastics), global ecosystems changes such as the sixth mass extinction event [@Barnosky2011], and other geophysical events of global scale such as the industrial revolution in general and nuclear weapons testing [@Lewis2015].
@@ -100,7 +101,7 @@ Attempting a political solution: regulatory learning
 * Wide variety of actors relevant in the cross-scale social-environmental interactions that characterize the Anthropocene [@Reyers2018]. Sciences as well governmental and multilateral actors are the obvious ones that we have introduced above.
     * Beyond that there are enviromental NGOs (ENGOs), corporations, and social movements such as Extinction Rebellion (ER) [@Hoffman2018: 6].
     * Global compact and science-based targets (https://sciencebasedtargets.org/) as programs for corporations.
-        * Use these later as examples of means-end decoupling.
+        * Use these later as examples of means-ends decoupling.
 * Business sustainability has gone mainstream [@Ergene2020].
     * As managers pick up environmental concerns and adopt them into organizational practices, they have to reconcile them with everyday realities inside the organization [@Zbaracki1998].
         * To pick up an example on the Anthropocene: @Wright2017 found that when organizations engage with climate change, the concept is necessarily reconciled with the dominant discourse of profit maximization and shareholder value. The outcome is a less threatening and more limited conceptualization of climate action, resulting in business as usual.
@@ -119,6 +120,8 @@ Attempting a political solution: regulatory learning
     * Other environmental movements target e.g., the coal industry--coal mining and coal power plants have both been targeted.
     * And then there is also Fridays for the Future, with notable member Greta Thunberg.
     * At first sight, there is only a very vague connection between blocking traffic in London, and radically slashing the economies carbon emissions before the year 2030. Means-ends decoupling.
+
+## Undermining existing technical knowledge
 
 ## Conclusion
 
