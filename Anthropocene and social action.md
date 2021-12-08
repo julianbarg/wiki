@@ -72,7 +72,7 @@ bibliography: bibliography.bib
     * This is just a side note, but there is something about control here. In theory we can control the climate and pollution issues relatively well--we just don't have control of the variables we need to take the control, because they are social in nature. Something about the language of validity--prediction and control--and reliability also being a necessary condition, as we have talked about before.
     * This is a transition to the next section on the top-right, where we attempt to improve the reliability of our knowledge by engaging the global community.
 
-## Moving toward more widely accepted technical knowledge through a regulatory process: politics
+## Moving toward more widely accepted technical knowledge through a regulatory process: politics (toward top right quadrant)
 
 Attempting a political solution: regulatory learning
 
@@ -95,7 +95,7 @@ Attempting a political solution: regulatory learning
     * A political approach to the problem of insufficiently accepted technical knowledge that equals to policy-practice decoupling [@Bromley2012].
     * We have successfully achieved a wider acceptance of technical knowledge, but in the process we have reduced the scope or coverage of it.
 
-## Disseminating and implementing technical knowledge: social movements and business sustainability
+## Disseminating and implementing technical knowledge: social movements and business sustainability (toward top left quadrant)
 
 * Why not cut out the middle man?
 * Wide variety of actors relevant in the cross-scale social-environmental interactions that characterize the Anthropocene [@Reyers2018]. Sciences as well governmental and multilateral actors are the obvious ones that we have introduced above.
@@ -106,6 +106,7 @@ Attempting a political solution: regulatory learning
     * As managers pick up environmental concerns and adopt them into organizational practices, they have to reconcile them with everyday realities inside the organization [@Zbaracki1998].
         * To pick up an example on the Anthropocene: @Wright2017 found that when organizations engage with climate change, the concept is necessarily reconciled with the dominant discourse of profit maximization and shareholder value. The outcome is a less threatening and more limited conceptualization of climate action, resulting in business as usual.
     * Could go into ecocentrism/deep ecology/New Ecological Paradigm/critical epistemologies vs environmental management/business or corporat sustainability/eco-modernism/managerial epistemologies [@Purser1995; @Shrivastava1995; @Banerjee2003; @Springett2003; @Milne2006; @Banerjee2011; @Hoffman2015; @Heikkurinen2019; @Ergene2020]. Also, managerial fads [@Abrahamson1991]?
+        * Ecocentrism etc. would go into bottom left.
     * What we want to exemplarize is captured well by the science-based targets initiative (SBTi).
         * Launched in 2015--literature is still sparse [@SBTi2015].
         * Launched in response to a problen associated with the Carbon Disclosure Project (CDP). CDP has succussfully solicited a lot of great carbon emission data from corporations--but the anticipated emission improvements never materialized. SBTi represents an attempt to recouple corporate sustainability efforts and the scientific context [@Haffar2018; @Giesekam2021].
@@ -123,16 +124,24 @@ Attempting a political solution: regulatory learning
 * Finally, there is climate denial. A social movement mostly by the merits of being commonplace in the political right. Especially US Republicans, Tea Party, Trump movement.
     * Definitely powerful--though in a different way than a its "adversaries", because climate denial is not at the core of this movement.
     * Is it fair to summarize their technical core as "it's still cold in winter sometimes"?
-    * The climate denial movement matters as it is serves as a transition into the bottom left. The bottom left picks up some of the actors that planted the seeds for the current climate denial movement.
+    * The climate denial movement matters as it is serves as a transition into the bottom left. The bottom left picks up includes the actors that in the 2000s planted the seeds for the current climate denial movement.
 
-## Undermining existing technical knowledge
+## Undermining existing technical knowledge (toward lower left quadrant)
 
-* There is the obvious one to go to: climate denial. 
-    * Climate denial is also a social movement, but the amount to which it can point at valid evidence to support its claims is limited. It mostly boils down to "it's still cold in the winter sometimes".
-    * If we were to discuss the climate denial movement as it is present in right-wing movements we would land go into the top-right quadrant though.
-    * We land in the bottom-left if we go back to the 2000s, when climate was a less polarized topic and the typical left-right divide on climate change did not exist to the same extend that it does now.
-        * In the 2000s on climate change we land on the Cato Institute, Heartland Institute, and the American Petroleum Institute.
-        * Claims include associating climate action with socialism. Is that entirely wrong if capitalism is identified as the problem that causes climate change.
+* Organanizations associated with climate denial.
+    * If we were to discuss the climate denial movement as it is present in right-wing movements with wide popular support we would land go into the top-right quadrant though. But we land in the bottom-left if we go back to the 2000s, when climate was a less polarized topic and the typical left-right divide on climate change did not exist to the same extend that it does now.
+        * Claims also include associating climate action with socialism. Is that entirely wrong if there is a consensus in the literature: the literature identifies unchecked capitalism as the root cause.
+        * Of course then it would be necessary to go one step further and ask--so what is the climate deniers motivation for protecting libertarianism? How or with what motivation did the literature arrive at its finding on unchecked capitalism?
+    * Academic literature on these networks is quite limited [@Farrell2016].
+    * Fossil fuel companies.
+        * @Banerjee2015; @Supran2017; @Supran2020; @Bonneuil2021
+    * Climate denial think tanks.
+        * Cato Institute, Heartland Institute, American Legislative Exchange Council (ALEC).
+    * Industry associations etc.
+        * American Petroleum Institute (API), Consumer Energy Alliance (CEA), Association of Oil Pipe Lines (AOPL)
+* We could similarly pick up the emergence of concern for environmental issues in the social sciences, specifically sociology, geography, then in the late 80s and early 90s in business schools. Before corporate sustainability became a big thing. The counterpart to business sustainability as we covered it in the top left, without the popular support.
+    * This literature's observations about the consequences of pollution etc. are not wrong, albeit very general and unspecific. It's view on organizing and how change comes about is what makes it invalid.
+        * Would need to pick that up to provide specific examples.
 
 ## Conclusion
 
